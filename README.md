@@ -14,41 +14,49 @@ the act's Latin rubric and incipit**, and the image's title, place and country.
 
 ## What is in it
 
-**422 records**, drawn from **117,555 pages** across **399 AAS PDF files** (volumes 1–118, 1909–2026),
-covering **40 countries**.
+**379 records** covering **321 distinct localities** in **40 countries**,
+drawn from **117,555 pages** across **399 AAS PDF files** (volumes 1–118, 1909–2026).
 
 By evidence type:
 
 | Type | Records |
 |---|---|
-| `retrospective_attestation` | 228 |
-| `papal_coronation_act` | 123 |
-| `papal_personal_coronation` | 50 |
-| `papal_legate_deputation` | 20 |
+| `retrospective_attestation` | 222 |
+| `papal_coronation_act` | 99 |
+| `papal_personal_coronation` | 41 |
+| `papal_legate_deputation` | 16 |
 | `norms` | 1 |
 
-By pope: Ioannes Paulus PP. II (158), Pius PP. XII (96), Pius PP. XI (49), Paulus PP. VI (42), Ioannes PP. XXIII (32), Benedictus PP. XV (26), Pius PP. X (15), Franciscus PP. (2), Benedictus PP. XVI (1).
+By pope: Ioannes Paulus PP. II (125), Pius PP. XII (91), Pius PP. XI (47), Paulus PP. VI (40), Ioannes PP. XXIII (32), Benedictus PP. XV (26), Pius PP. X (14), Franciscus PP. (2), Benedictus PP. XVI (1).
 
 Most-represented countries:
 
 | Country | Records |
 |---|---|
-| Italy | 119 |
-| Poland | 94 |
-| Mexico | 30 |
-| Spain | 27 |
+| Italy | 113 |
+| Poland | 67 |
+| Mexico | 29 |
+| Spain | 25 |
 | France | 19 |
-| Colombia | 14 |
+| Colombia | 12 |
 | Argentina | 10 |
 | Belgium | 9 |
-| Venezuela | 9 |
-| Brazil | 9 |
+| Venezuela | 8 |
+| Brazil | 8 |
 | Portugal | 8 |
 | Philippines | 7 |
 
-Confidence: 253 high, 163 medium, 6 low.
-Records at `medium` are usually those where the country was inferred from the Latin name of the
-diocese rather than stated outright; every such case says so in `notes`.
+Confidence: 231 high, 142 medium, 6 low.
+`medium` usually means the country was inferred from the Latin name of the diocese rather than
+stated outright; every such case says so in `notes`.
+
+### Recall check
+
+An independent audit swept the corpus for the unambiguous act-granting formulas
+(*redimiri sinitur*, *coronam apponendam*, *facultas conceditur … coronandi*, *coronasse imaginem*,
+*redimiendi serto*, and others) and collected every page on which one occurs. Excluding
+back-of-volume index pages, **47 of 48** such act pages are represented in the dataset; the one
+exception is an index entry whose underlying act (Our Lady of Fátima, AAS 38, 376) *is* included.
 
 ## What "crowned under papal authority" means here
 

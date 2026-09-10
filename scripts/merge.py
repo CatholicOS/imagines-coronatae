@@ -33,9 +33,52 @@ for f in sorted(glob.glob('out/*.json')):
         if r.get('evidence_type') not in EVID: prob.append((b,'bad evidence_type %r'%r.get('evidence_type')))
         recs.append(r)
 
-# dedupe: keep the richest record per key
+# dedupe: cluster by (volume,page), then merge compatible records within a page
+import unicodedata as _u
+def _n(s):
+    if not s: return ''
+    s=_u.normalize('NFKD',str(s)).encode('ascii','ignore').decode().lower()
+    return re.sub(r'[^a-z0-9]+','',s)
+_SPECIAL=str.maketrans({'\u0142':'l','\u0141':'l','\u00f8':'o','\u00d8':'o','\u0111':'d','\u0110':'d',
+                       '\u00e6':'ae','\u00c6':'ae','\u0153':'oe','\u0152':'oe','\u00df':'ss','\u00fe':'th'})
+def _toks(s):
+    if not s: return set()
+    s=str(s).translate(_SPECIAL)
+    s=_u.normalize('NFKD',s).encode('ascii','ignore').decode().lower()
+    return {t for t in re.split(r'[^a-z0-9]+',s) if len(t)>2}
+def _near(A,B,n=5):
+    """token sets match if they intersect or any pair shares an n-char prefix
+    (absorbs OCR and Latin/vernacular spelling drift: Sevilla/Seville)"""
+    if A & B: return True
+    pa={t[:n] for t in A if len(t)>=n}; pb={t[:n] for t in B if len(t)>=n}
+    return bool(pa & pb)
+def compatible(a,b):
+    """Same (volume,page) already guaranteed. Two records describe the SAME image when
+    their localities overlap; titles are unreliable because one agent may give the Latin
+    of the rubric and another the vernacular."""
+    aa,ab=a.get('act_number'),b.get('act_number')
+    if aa and ab and aa!=ab: return False
+    la,lb=_toks(a.get('locality')),_toks(b.get('locality'))
+    if la and lb: return _near(la,lb)
+    # no locality on one side: fall back to title / sanctuary overlap
+    ta=_toks(a.get('image_title_vernacular'))|_toks(a.get('image_title_latin'))|_toks(a.get('church_or_sanctuary'))
+    tb=_toks(b.get('image_title_vernacular'))|_toks(b.get('image_title_latin'))|_toks(b.get('church_or_sanctuary'))
+    if not ta or not tb: return True
+    generic={'imago','beatae','mariae','virginis','sanctae','simulacrum','matka','boza','nuestra','senora','madonna','domina','nostra','dominae','sacra','beata','virgo','maria'}
+    return _near(ta-generic,tb-generic)
+
+bypage=collections.OrderedDict()
+for r in recs: bypage.setdefault((r.get('aas_volume'),r.get('aas_page')),[]).append(r)
 groups=collections.OrderedDict()
-for r in recs: groups.setdefault(key(r),[]).append(r)
+gi=0
+for pk,rs in bypage.items():
+    clusters=[]
+    for r in rs:
+        for c in clusters:
+            if compatible(c[0],r): c.append(r); break
+        else: clusters.append([r])
+    for c in clusters:
+        groups[(pk,gi)]=c; gi+=1
 def richness(r): return sum(1 for k in FIELDS if r.get(k) not in (None,'',[]))
 final=[]
 for k,g in groups.items():
