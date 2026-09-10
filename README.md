@@ -88,6 +88,35 @@ carries an `evidence_type` so you can filter to exactly the sense you need:
    page before being treated as authoritative.
 6. Several ASS volumes span two calendar years; `year` is the first year of the volume.
 
+## A note on borderline cases: San Giovanni Rotondo
+
+The inclusion bar for this catalogue is that an image was crowned **under papal authority** — by a
+papal act, by a Legate deputed for it, by the Pope in person, or by decree of the Vatican Chapter
+acting on a papal indult. One case sits just outside that line and is worth recording explicitly,
+because it shows both what the bar excludes and what the gazettes incidentally preserve.
+
+**ASS 36 (1903–04), 226–231** — *Sypontina, Iurium*, a case decided by the Sacred Congregation of
+the Council on 18 July 1903. It is a property dispute at **San Giovanni Rotondo**, in the
+archdiocese of Siponto (Manfredonia), between Canon Michele Limongelli and the Confraternity of
+the Blessed Sacrament at the church of St Catherine, over who owned certain sacred furnishings —
+a silver monstrance, a **silver crown**, a chalice veil, a manuscript ledger, and a statue of
+St Agnes.
+
+The crowning surfaces only as evidence about the crown's ownership. At p. 230 the confraternity
+argues that the canon had himself acknowledged the crown was bought with the faithful's offerings,
+saying so *"dum functionem peragebat solemnem apponendi coronam fronti sacrae imagini"* — while he
+was performing the solemn function of placing the crown on the forehead of the sacred image — and
+that he had called himself the faithful's mandatary *"in apponenda hac corona in fronte B. M.
+Virginis"*.
+
+So a solemn crowning of a Marian image at San Giovanni Rotondo is genuinely attested. But the
+record names **no papal authority and no Chapter decree**, gives **no date** for the crowning, and
+does **not name or title the image**; the coronation is incidental to a lawsuit about a piece of
+silver. It is therefore **not** in the dataset. It is noted here so that the omission is a recorded
+judgement rather than a silent gap — and because it is a reminder that the Congregational
+jurisprudence in ASS and AAS carries evidence of local crownings that a search for coronation
+decrees will never surface.
+
 ## Record shape
 
 ```json
