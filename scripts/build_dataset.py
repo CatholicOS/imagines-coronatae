@@ -1,6 +1,6 @@
 import json,os,re,datetime,collections
 import pathlib
-REPO=str(pathlib.Path(__file__).resolve().parent.parent)  # repo root, relative to this script
+REPO=str(pathlib.Path(__file__).resolve().parent.parent)
 FIELDS=['series','volume','year','page','act_number','act_type','pope','citation','source_pdf_url',
  'evidence_type','rubric_latin','incipit_latin','image_title_latin','image_title_vernacular',
  'image_subject','church_or_sanctuary','locality','diocese_latin','diocese_modern','country',
@@ -39,6 +39,7 @@ doc={'metadata':{
                       'AAS':'https://www.vatican.va/archive/aas/index_sp.htm'},
  'generated':datetime.date.today().isoformat(),
  'record_count':len(recs),
+ 'layer':'attestations — one record per ACT that attests a crowning; see imagines-coronatae.json for one record per IMAGE',
  'coverage':{'series':[
     {'series':'ASS','volumes':41,'files':41,'years':'1865-1908','pages_searched':30021},
     {'series':'AAS','volumes':101,'files':399,'years':'1909-2026','pages_searched':117555}],
@@ -69,10 +70,10 @@ doc={'metadata':{
  'license':'Underlying ASS and AAS texts are © Libreria Editrice Vaticana. This compilation is provided for research use.'},
  'records':recs}
 os.makedirs(os.path.join(REPO,'data'),exist_ok=True)
-out=os.path.join(REPO,'data','imagines-coronatae.json')
+out=os.path.join(REPO,'data','attestations.json')
 json.dump(doc,open(out,'w',encoding='utf-8'),ensure_ascii=False,indent=2)
 import csv
-with open(os.path.join(REPO,'data','imagines-coronatae.csv'),'w',newline='',encoding='utf-8') as fh:
+with open(os.path.join(REPO,'data','attestations.csv'),'w',newline='',encoding='utf-8') as fh:
     w=csv.DictWriter(fh,fieldnames=FIELDS,extrasaction='ignore'); w.writeheader()
     for r in recs: w.writerow(r)
 print('wrote',out,len(recs),'records')

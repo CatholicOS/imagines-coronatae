@@ -1,243 +1,86 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://catholicos.org/schema/imagines-coronatae.schema.json",
-  "title": "Imagines Coronatae — crowned sacred images attested in Acta Sanctae Sedis and Acta Apostolicae Sedis",
+  "title": "Imagines Coronatae — crowned sacred images attested in the official acts of the Holy See",
+  "description": "One record per crowned IMAGE. Every act that attests it is kept in that image's `sources` array, so an image cited across several volumes is one record with several sources.",
   "type": "object",
-  "required": [
-    "metadata",
-    "records"
-  ],
+  "required": ["metadata", "images"],
   "properties": {
     "metadata": {
       "type": "object",
-      "required": [
-        "source",
-        "generated",
-        "record_count",
-        "coverage"
-      ],
+      "required": ["source", "generated", "record_count"],
       "properties": {
-        "source": {
-          "type": "string"
+        "source": { "type": "string" },
+        "generated": { "type": "string", "format": "date" },
+        "record_count": { "type": "integer", "minimum": 0 },
+        "structure": { "type": "string" },
+        "method": { "type": "string" },
+        "caveats": { "type": "array", "items": { "type": "string" } },
+        "statistics": { "type": "object" }
+      }
+    },
+    "images": { "type": "array", "items": { "$ref": "#/$defs/image" } }
+  },
+  "$defs": {
+    "image": {
+      "type": "object",
+      "required": ["id", "country", "sources", "source_count", "confidence"],
+      "properties": {
+        "id": { "type": "string", "description": "Stable slug: title plus locality" },
+        "image_title_vernacular": { "type": ["string", "null"] },
+        "image_title_latin": { "type": ["string", "null"] },
+        "image_subject": { "type": ["string", "null"], "description": "Blessed Virgin Mary, Sacred Heart of Jesus, Infant Jesus, St Joseph, Holy Family, other" },
+        "church_or_sanctuary": { "type": ["string", "null"] },
+        "locality": { "type": ["string", "null"] },
+        "diocese_latin": { "type": ["string", "null"] },
+        "diocese_modern": { "type": ["string", "null"] },
+        "country": { "type": ["string", "null"] },
+
+        "coronation_dates": {
+          "type": "array", "items": { "type": "string" },
+          "description": "Every distinct crowning date the sources give. More than one entry means the image was crowned more than once (e.g. a Vatican Chapter crowning later renewed by a Pope), NOT that there are duplicate records."
         },
-        "source_index_url": {
-          "type": "string",
-          "format": "uri"
+        "first_coronation": { "type": ["string", "null"] },
+
+        "strongest_evidence": {
+          "type": ["string", "null"],
+          "enum": ["papal_coronation_act", "papal_legate_deputation", "papal_personal_coronation", "retrospective_attestation", "norms", null],
+          "description": "Best evidence across all sources, ranked: granting act > legate deputation / crowned by the Pope in person > retrospective mention."
         },
-        "generated": {
-          "type": "string",
-          "format": "date"
-        },
-        "record_count": {
-          "type": "integer",
-          "minimum": 0
-        },
-        "coverage": {
-          "type": "object",
-          "properties": {
-            "series": {
-              "type": "array",
-              "items": {
-                "type": "object"
-              }
-            },
-            "pages_searched": {
-              "type": "integer"
-            }
-          }
-        },
-        "caveats": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
+        "evidence_types": { "type": "array", "items": { "type": "string" } },
+        "popes": { "type": "array", "items": { "type": "string" } },
+        "legates": { "type": "array", "items": { "type": "string" } },
+        "confidence": { "type": "string", "enum": ["high", "medium", "low"], "description": "Best confidence among the sources" },
+
+        "source_count": { "type": "integer", "minimum": 1 },
+        "sources": {
+          "type": "array", "minItems": 1,
+          "items": { "$ref": "#/$defs/source" },
+          "description": "Every ASS/AAS act attesting this image. Nothing is discarded when records are consolidated."
         }
       }
     },
-    "records": {
-      "type": "array",
-      "items": {
-        "$ref": "#/$defs/record"
-      }
-    }
-  },
-  "$defs": {
-    "record": {
+    "source": {
       "type": "object",
-      "required": [
-        "series",
-        "volume",
-        "year",
-        "page",
-        "evidence_type",
-        "confidence"
-      ],
+      "required": ["series", "volume", "year", "page", "evidence_type"],
       "properties": {
-        "series": {
-          "type": "string",
-          "enum": [
-            "ASS",
-            "AAS"
-          ],
-          "description": "ASS = Acta Sanctae Sedis (1865-1908); AAS = Acta Apostolicae Sedis (1909- )"
-        },
-        "volume": {
-          "type": "integer",
-          "description": "Volume number within the series"
-        },
-        "year": {
-          "type": "integer",
-          "description": "Year of the volume (first year, for volumes spanning two)"
-        },
-        "page": {
-          "type": "integer",
-          "description": "Printed page on which the act begins"
-        },
-        "citation": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Human-readable citation, e.g. 'AAS 91 (1999), p. 345'"
-        },
-        "act_number": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Roman numeral of the act within its section"
-        },
-        "act_type": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Litterae Apostolicae, Epistula, Nuntius radiophonicus, etc."
-        },
-        "pope": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "source_pdf_url": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "format": "uri"
-        },
-        "evidence_type": {
-          "type": "string",
-          "enum": [
-            "papal_coronation_act",
-            "papal_legate_deputation",
-            "papal_personal_coronation",
-            "retrospective_attestation",
-            "norms"
-          ],
-          "description": "How this AAS act attests the coronation"
-        },
-        "rubric_latin": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Verbatim Latin rubric/heading of the act"
-        },
-        "incipit_latin": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Verbatim opening words of the act body"
-        },
-        "image_title_latin": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "image_title_vernacular": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "image_subject": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Blessed Virgin Mary, Sacred Heart of Jesus, Infant Jesus, St Joseph, Holy Family, other"
-        },
-        "church_or_sanctuary": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "locality": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "diocese_latin": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "diocese_modern": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "country": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Modern country name"
-        },
-        "act_date": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Date of the act (YYYY-MM-DD)"
-        },
-        "coronation_date": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Date the crowning occurred or is recorded (YYYY-MM-DD or YYYY)"
-        },
-        "legate": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Cardinal or bishop deputed to crown in the Pope's name"
-        },
-        "confidence": {
-          "type": "string",
-          "enum": [
-            "high",
-            "medium",
-            "low"
-          ]
-        },
-        "notes": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "OCR damage, ambiguity, or anything a checker should verify"
-        }
+        "series": { "type": "string", "enum": ["ASS", "AAS"] },
+        "volume": { "type": "integer" },
+        "year": { "type": "integer" },
+        "page": { "type": "integer", "description": "Printed page on which the act begins" },
+        "citation": { "type": ["string", "null"] },
+        "source_pdf_url": { "type": ["string", "null"], "format": "uri" },
+        "act_number": { "type": ["string", "null"] },
+        "act_type": { "type": ["string", "null"] },
+        "pope": { "type": ["string", "null"] },
+        "evidence_type": { "type": "string", "enum": ["papal_coronation_act", "papal_legate_deputation", "papal_personal_coronation", "retrospective_attestation", "norms"] },
+        "act_date": { "type": ["string", "null"] },
+        "coronation_date": { "type": ["string", "null"] },
+        "legate": { "type": ["string", "null"] },
+        "rubric_latin": { "type": ["string", "null"] },
+        "incipit_latin": { "type": ["string", "null"] },
+        "confidence": { "type": ["string", "null"], "enum": ["high", "medium", "low", null] },
+        "notes": { "type": ["string", "null"] }
       }
     }
   }

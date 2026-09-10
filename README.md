@@ -8,50 +8,73 @@ complete sweep of the official gazettes of the Holy See published on vatican.va:
 |---|---|
 | [`registry/by-country.md`](registry/by-country.md) | Browsable registry, grouped by country |
 | [`registry/chronological.md`](registry/chronological.md) | Browsable registry, ordered by date of crowning |
-| [`data/imagines-coronatae.json`](data/imagines-coronatae.json) | Full dataset (validated against `schema/`) |
-| [`data/imagines-coronatae.csv`](data/imagines-coronatae.csv) | Same records, flat |
+| [`data/imagines-coronatae.json`](data/imagines-coronatae.json) | **The catalogue** — one record per image, each carrying all its sources |
+| [`data/imagines-coronatae.csv`](data/imagines-coronatae.csv) | One row per image, flat |
+| [`data/attestations.json`](data/attestations.json) | The evidence layer — one record per *act* |
+| [`data/sources.csv`](data/sources.csv) | One row per (image, source) pair |
 
 ## What is in it
 
-**400 records** covering **333 distinct localities** in **42 countries**,
+**339 crowned images** in **42 countries**, documented by **400 source citations**
 drawn from **147,576 pages** across **440 volume PDFs**
 (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026).
 
-Crownings recorded run from **1645 to 2001** — far earlier than the gazettes
-themselves, because a later act often recites when an image was first crowned.
+38 images are attested by more than one act — the most-cited is Our Lady of Fátima, with seven.
+Crownings run from **1645 to 2001**, far earlier than the gazettes themselves,
+because a later act often recites when an image was first crowned.
 
-By evidence type:
+By strongest evidence available for each image:
 
-| Type | Records |
+| Type | Images |
 |---|---|
-| `retrospective_attestation` | 233 |
-| `papal_coronation_act` | 102 |
-| `papal_personal_coronation` | 47 |
+| `retrospective_attestation` | 190 |
+| `papal_coronation_act` | 101 |
+| `papal_personal_coronation` | 30 |
 | `papal_legate_deputation` | 16 |
 | `norms` | 2 |
 
-By series: ASS 14, AAS 386.
-
 Most-represented countries:
 
-| Country | Records |
+| Country | Images |
 |---|---|
-| Italy | 120 |
-| Poland | 67 |
-| Mexico | 32 |
-| Spain | 25 |
-| France | 23 |
-| Colombia | 12 |
-| Belgium | 10 |
-| Argentina | 10 |
-| Venezuela | 8 |
-| Brazil | 8 |
-| Portugal | 8 |
+| Italy | 99 |
+| Poland | 64 |
+| Spain | 24 |
+| Mexico | 23 |
+| France | 21 |
+| Colombia | 11 |
+| Belgium | 9 |
+| Argentina | 7 |
 | Philippines | 7 |
+| Brazil | 6 |
+| Ecuador | 5 |
+| Peru | 5 |
 
-Confidence: 242 high, 152 medium, 6 low.
+Confidence: 215 high, 119 medium, 5 low.
 `medium` usually means the country was inferred from the Latin name of the diocese rather than
-stated outright; every such case says so in `notes`.
+stated outright; every such case says so in the source's `notes`.
+
+## One record per image, not per act
+
+An image crowned once may be mentioned in a dozen later acts. **Nossa Senhora da Conceição
+Aparecida** is recited in AAS 23 (1931), AAS 46 (1954) and AAS 59 (1967) — that is one image with
+three sources, not three crowned images. So each record here is an **image**, and every act
+attesting it is kept in that record's `sources` array. Nothing is discarded by consolidation:
+400 source citations sit inside 339 image records, and `data/attestations.json` still holds
+the flat act-level layer if you want it.
+
+Where `coronation_dates` holds more than one date, the image really was crowned more than once —
+typically a Vatican Chapter crowning later renewed by a Pope.
+
+**How images are identified.** By **place first**, then title. Marian titles repeat all over the
+world — there are seven distinct *Nuestra Señora de Guadalupe* here, in Mexico, Spain, Venezuela and
+El Salvador — so a shared title is never on its own evidence of a shared image. Two records are the
+same image when they name the same locality *and* carry compatible titles. An earlier build also
+merged on a "distinctive" shared title across different localities; it was removed after it fused
+Notre-Dame des Miracles at Rennes with Mauriac, the Carmine *la Bruna* at Naples with Matera, and
+the four separate images John Paul II crowned together at Jasna Góra. **A false merge destroys a
+distinct image; a false split merely leaves a duplicate — so the matching errs toward splitting.**
+Residual duplicates are possible where a source names no locality at all.
 
 ## What "crowned under papal authority" means here
 
@@ -128,23 +151,29 @@ decrees will never surface.
 
 ```json
 {
-  "series": "AAS",
-  "volume": 91,
-  "year": 1999,
-  "page": 345,
-  "act_number": "V",
-  "act_type": "Litterae Apostolicae",
-  "pope": "Ioannes Paulus PP. II",
-  "citation": "AAS 91 (1999), p. 345",
-  "evidence_type": "papal_coronation_act",
-  "rubric_latin": "Imago beatae Mariae Virginis titulo «Nostra Seynora de Canòlich» invocatae ... pretioso diademate redimiri sinitur «nomine et auctoritate Summi Pontificis».",
-  "incipit_latin": "In antiquo oppido Andorrae Principatus «Sant Julia de Loria» ...",
-  "image_title_vernacular": "Nostra Senyora de Canòlich",
-  "locality": "Sant Julià de Lòria",
-  "diocese_latin": "Urgellensis",
-  "country": "Andorra",
-  "act_date": "1998-12-07",
-  "confidence": "high"
+  "id": "nossa-senhora-da-conceicao-aparecida-aparecida",
+  "image_title_vernacular": "Nossa Senhora da Conceição Aparecida",
+  "image_subject": "Blessed Virgin Mary",
+  "locality": "Aparecida",
+  "country": "Brazil",
+  "coronation_dates": ["1904"],
+  "first_coronation": "1904",
+  "strongest_evidence": "retrospective_attestation",
+  "confidence": "high",
+  "source_count": 3,
+  "sources": [
+    {
+      "series": "AAS", "volume": 23, "year": 1931, "page": 7,
+      "citation": "AAS 23 (1931), p. 7",
+      "evidence_type": "retrospective_attestation",
+      "pope": "Pius PP. XI",
+      "act_date": "1930-07-16",
+      "coronation_date": "1904",
+      "rubric_latin": "...", "incipit_latin": "...",
+      "confidence": "medium",
+      "notes": "Patron-declaration act; states the simulacrum was crowned 'decreto Capituli sacrosanctae Patriarchalis Vaticanae Basilicae'..."
+    }
+  ]
 }
 ```
 
@@ -183,8 +212,9 @@ this work.
 | `scripts/find_passages.py` | De-hyphenates and sweeps for coronation vocabulary; emits candidate passages. |
 | `scripts/find_passages_vernacular.py` | Second sweep for Italian, Spanish, French, Polish and German coronation terms. |
 | `scripts/merge.py` | Merges and de-duplicates the per-batch extraction output by locality. |
-| `scripts/build_dataset.py` | Assembles the dataset with metadata and statistics. |
-| `scripts/build_registry.py` | Renders the two registry tables from the dataset. |
+| `scripts/build_dataset.py` | Assembles the act-level evidence layer, `data/attestations.json`. |
+| `scripts/build_images.py` | Consolidates acts into one record per image, with `sources`. |
+| `scripts/build_registry.py` | Renders the two registry tables from the catalogue. |
 
 The reading-and-structuring step between the sweep and the merge was performed by parallel LLM
 agents against the specifications in `docs/EXTRACTION_SPEC.md` and `docs/EXTRACTION_SPEC_ASS.md`.
