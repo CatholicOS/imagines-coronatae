@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://catholicos.org/schema/imagines-coronatae.schema.json",
+  "title": "Imagines Coronatae — crowned sacred images attested in Acta Apostolicae Sedis",
+  "type": "object",
+  "required": ["metadata", "records"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["source", "generated", "record_count", "coverage"],
+      "properties": {
+        "source": { "type": "string" },
+        "source_index_url": { "type": "string", "format": "uri" },
+        "generated": { "type": "string", "format": "date" },
+        "record_count": { "type": "integer", "minimum": 0 },
+        "coverage": {
+          "type": "object",
+          "properties": {
+            "volumes": { "type": "integer" },
+            "years": { "type": "string" },
+            "pages_searched": { "type": "integer" }
+          }
+        },
+        "caveats": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "records": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/record" }
+    }
+  },
+  "$defs": {
+    "record": {
+      "type": "object",
+      "required": ["aas_volume", "aas_year", "aas_page", "evidence_type", "confidence"],
+      "properties": {
+        "aas_volume":  { "type": "integer", "description": "AAS volume number" },
+        "aas_year":    { "type": "integer", "description": "Year of the AAS volume" },
+        "aas_page":    { "type": "integer", "description": "Printed AAS page on which the act begins" },
+        "act_number":  { "type": ["string", "null"], "description": "Roman numeral of the act within its section" },
+        "act_type":    { "type": ["string", "null"], "description": "Litterae Apostolicae, Epistula, Nuntius radiophonicus, etc." },
+        "pope":        { "type": ["string", "null"] },
+        "aas_citation":{ "type": ["string", "null"], "description": "Human-readable citation, e.g. 'AAS 91 (1999), p. 345'" },
+        "source_pdf_url": { "type": ["string", "null"], "format": "uri" },
+
+        "evidence_type": {
+          "type": "string",
+          "enum": [
+            "papal_coronation_act",
+            "papal_legate_deputation",
+            "papal_personal_coronation",
+            "retrospective_attestation",
+            "norms"
+          ],
+          "description": "How this AAS act attests the coronation"
+        },
+
+        "rubric_latin":  { "type": ["string", "null"], "description": "Verbatim Latin rubric/heading of the act" },
+        "incipit_latin": { "type": ["string", "null"], "description": "Verbatim opening words of the act body" },
+
+        "image_title_latin":      { "type": ["string", "null"] },
+        "image_title_vernacular": { "type": ["string", "null"] },
+        "image_subject":          { "type": ["string", "null"], "description": "Blessed Virgin Mary, Sacred Heart of Jesus, Infant Jesus, St Joseph, Holy Family, other" },
+
+        "church_or_sanctuary": { "type": ["string", "null"] },
+        "locality":            { "type": ["string", "null"] },
+        "diocese_latin":       { "type": ["string", "null"] },
+        "diocese_modern":      { "type": ["string", "null"] },
+        "country":             { "type": ["string", "null"], "description": "Modern country name" },
+
+        "act_date":        { "type": ["string", "null"], "description": "Date of the act (YYYY-MM-DD)" },
+        "coronation_date": { "type": ["string", "null"], "description": "Date the crowning occurred or is recorded (YYYY-MM-DD or YYYY)" },
+        "legate":          { "type": ["string", "null"], "description": "Cardinal or bishop deputed to crown in the Pope's name" },
+
+        "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+        "notes":      { "type": ["string", "null"], "description": "OCR damage, ambiguity, or anything a checker should verify" }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+# Working corpus — regenerate with scripts/fetch_aas.sh (about 1 GB of PDFs)
+pdf/
+txt/
+*.pdf
+aas_index.html
+urls.tsv
