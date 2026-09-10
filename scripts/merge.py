@@ -26,7 +26,7 @@ def norm(r,series):
     return o
 
 recs=[];prob=[]
-for d,ser in (('out','AAS'),('out_ass','ASS')):
+for d,ser in (('out','AAS'),('out_ass','ASS'),('out_gap',None)):
     for f in sorted(glob.glob(f'{d}/*.json')):
         b=os.path.basename(f)[:-5]
         try: data=json.load(open(f,encoding='utf-8'))
@@ -34,7 +34,7 @@ for d,ser in (('out','AAS'),('out_ass','ASS')):
         if not isinstance(data,list): prob.append((b,'not a list')); continue
         for r in data:
             if not isinstance(r,dict): continue
-            o=norm(r,ser); o['_batch']=b
+            o=norm(r,ser or ('ASS' if str(r.get('series','')).upper()=='ASS' else 'AAS')); o['_batch']=b
             if o['evidence_type'] not in EVID: prob.append((b,f"bad evidence_type {o.get('evidence_type')!r}"))
             recs.append(o)
 

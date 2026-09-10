@@ -3,7 +3,7 @@
 
 # Registry of crowned images — by country
 
-392 records · 41 countries · generated 2026-09-10
+400 records · 42 countries · generated 2026-09-10
 
 Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 *Acta Apostolicae Sedis* (AAS, 1909– ), linked to the source PDF on vatican.va.
@@ -15,7 +15,7 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 **Conf.** — ●●● explicit · ●●○ some inference (usually country from the Latin diocese) ·
 ●○○ fragmentary, verify against the printed page.
 
-**Contents:** [Algeria](#algeria) · [Andorra](#andorra) · [Argentina](#argentina) · [Austria](#austria) · [Belarus](#belarus) · [Belgium](#belgium) · [Bolivia](#bolivia) · [Brazil](#brazil) · [Canada](#canada) · [Chile](#chile) · [Colombia](#colombia) · [Costa Rica](#costa-rica) · [Croatia](#croatia) · [Cuba](#cuba) · [Czech Republic](#czech-republic) · [Ecuador](#ecuador) · [El Salvador](#el-salvador) · [France](#france) · [Germany](#germany) · [Guatemala](#guatemala) · [India](#india) · [Italy](#italy) · [Lithuania](#lithuania) · [Malta](#malta) · [Mexico](#mexico) · [Netherlands](#netherlands) · [Nicaragua](#nicaragua) · [Peru](#peru) · [Philippines](#philippines) · [Poland](#poland) · [Portugal](#portugal) · [Puerto Rico](#puerto-rico) · [Slovakia](#slovakia) · [Slovenia](#slovenia) · [Spain](#spain) · [Switzerland](#switzerland) · [Uganda](#uganda) · [Ukraine](#ukraine) · [Uruguay](#uruguay) · [Vatican City](#vatican-city) · [Venezuela](#venezuela) · [— unstated —](#unstated)
+**Contents:** [Algeria](#algeria) · [Andorra](#andorra) · [Argentina](#argentina) · [Austria](#austria) · [Belarus](#belarus) · [Belgium](#belgium) · [Bolivia](#bolivia) · [Brazil](#brazil) · [Canada](#canada) · [Chile](#chile) · [Colombia](#colombia) · [Costa Rica](#costa-rica) · [Croatia](#croatia) · [Cuba](#cuba) · [Czech Republic](#czech-republic) · [Dominican Republic](#dominican-republic) · [Ecuador](#ecuador) · [El Salvador](#el-salvador) · [France](#france) · [Germany](#germany) · [Guatemala](#guatemala) · [India](#india) · [Italy](#italy) · [Lithuania](#lithuania) · [Malta](#malta) · [Mexico](#mexico) · [Netherlands](#netherlands) · [Nicaragua](#nicaragua) · [Peru](#peru) · [Philippines](#philippines) · [Poland](#poland) · [Portugal](#portugal) · [Puerto Rico](#puerto-rico) · [Slovakia](#slovakia) · [Slovenia](#slovenia) · [Spain](#spain) · [Switzerland](#switzerland) · [Uganda](#uganda) · [Ukraine](#ukraine) · [Uruguay](#uruguay) · [Vatican City](#vatican-city) · [Venezuela](#venezuela) · [— unstated —](#unstated)
 
 ---
 
@@ -41,7 +41,7 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 
 | Image | Place | Crowned / act date | Evidence | Source | Conf. |
 |---|---|---|---|---|---|
-| Nuestra Señora del Valle | Catamarca | 1916-03-13 | retro | [AAS 8 (1916), p. 144](https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf) | ●●○ |
+| Nuestra Señora del Valle | Catamarca | 1891 | retro | [AAS 8 (1916), p. 144](https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf) | ●●○ |
 | Beata Maria Virgo a Valle | Catamarca | 1891 | retro | [AAS 33 (1941), p. 447](https://www.vatican.va/archive/aas/documents/AAS-33-1941-ocr.pdf) | ●●● |
 | Nuestra Señora del Valle | Catamarca | 2010-06-29 | retro | [AAS 102 (2010), p. 454](https://www.vatican.va/archive/aas/documents/2010/agosto%202010.pdf) | ●●○ |
 | Nuestra Señora del Milagro | Córdoba | 1892 | retro | [AAS 3 (1911), p. 177](https://www.vatican.va/archive/aas/documents/AAS-03-1911-ocr.pdf) | ●●● |
@@ -126,10 +126,11 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 
 ## Chile
 
-*3 records*
+*4 records*
 
 | Image | Place | Crowned / act date | Evidence | Source | Conf. |
 |---|---|---|---|---|---|
+| Virgen del Carmen de Maipú | Maipú | 1974-11-28 | by pope | [AAS 66 (1974), p. 727](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) | ●●○ |
 | Imago Beatissimae Virginis de Monte Carmelo | Santiago | 1926 | retro | [AAS 30 (1938), p. 218](https://www.vatican.va/archive/aas/documents/AAS-30-1938-ocr.pdf) | ●●● |
 | Nuestra Señora de la Merced | Santiago de Chile | 1922-07-23 | retro | [AAS 14 (1922), p. 495](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) | ●●● |
 | Nuestra Señora del Carmen | Santiago de Chile | 1926-11-29 | legate | [AAS 19 (1927), p. 132](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) | ●●● |
@@ -171,10 +172,11 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 
 ## Cuba
 
-*1 record*
+*2 records*
 
 | Image | Place | Crowned / act date | Evidence | Source | Conf. |
 |---|---|---|---|---|---|
+| Virgen de la Caridad del Cobre |  | 1998 | by pope | [AAS 91 (1999), p. 105](https://www.vatican.va/archive/aas/documents/AAS-91-1999-ocr.pdf) | ●●● |
 | Virgen de la Caridad del Cobre | El Cobre, Santiago de Cuba | 1998 | by pope | [AAS 93 (2001), p. 770](https://www.vatican.va/archive/aas/documents/AAS-93-2001-ocr.pdf) | ●●○ |
 
 ## Czech Republic
@@ -186,6 +188,14 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 | Panna Maria Svatokopecká | Svatý Kopeček (Olomouc) | 1995-05-21 | by pope | [AAS 88 (1996), p. 631](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) | ●●○ |
 | Panna Maria Žarošická | Žarošice, Brno | 1995-03-28 | act | [AAS 87 (1995), p. 682](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) | ●●○ |
 | Panna Maria Žarošická | Žarošice, Brno | 1995-05-21 | by pope | [AAS 88 (1996), p. 146](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) | ●●● |
+
+## Dominican Republic
+
+*1 record*
+
+| Image | Place | Crowned / act date | Evidence | Source | Conf. |
+|---|---|---|---|---|---|
+| Nuestra Señora de la Altagracia | Santo Domingo | 1979-01-25 | by pope | [AAS 71 (1979), p. 158](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) | ●●● |
 
 ## Ecuador
 
@@ -211,14 +221,15 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 
 ## France
 
-*22 records*
+*23 records*
 
 | Image | Place | Crowned / act date | Evidence | Source | Conf. |
 |---|---|---|---|---|---|
 | Notre-Dame d'Arcachon | Arcachon, Bordeaux | 1870 | retro | [AAS 45 (1953), p. 714](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) | ●●● |
 | Sainte-Anne d'Auray | Auray (Sainte-Anne-d'Auray), Vannes | 1924-06-14 | retro | [AAS 16 (1924), p. 284](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) | ●●● |
 | Notre-Dame d'Esperance | Briconium (Saint-Brieuc), Brittany | 1865 | retro | [ASS 36 (1903), p. 400](https://www.vatican.va/archive/ass/documents/ASS-36-1903-4-ocr.pdf) | ●●○ |
-| Notre-Dame du Beau Rameau | Bétharram, Bayonne | 1912-06-14 | act | [AAS 4 (1912), p. 490](https://www.vatican.va/archive/aas/documents/AAS-04-1912-ocr.pdf) | ●●○ |
+| Notre-Dame du Beau Rameau | Bétharram, Bayonne | 1912 | act | [AAS 4 (1912), p. 490](https://www.vatican.va/archive/aas/documents/AAS-04-1912-ocr.pdf) | ●●● |
+| Notre-Dame des Dunes | Dunkerque (Dunkirk), Cambrai | 1903 | retro | [ASS 36 (1903), p. 10](https://www.vatican.va/archive/ass/documents/ASS-36-1903-4-ocr.pdf) | ●●● |
 | Notre-Dame de Gray | Gray, Besançon | 1909 | retro | [AAS 42 (1950), p. 544](https://www.vatican.va/archive/aas/documents/AAS-42-1950-ocr.pdf) | ●●● |
 | Notre Dame du Sacré Cœur | Issoudun, Bourges | 1879-04-26 | retro | [ASS 11 (1878), p. 618](https://www.vatican.va/archive/ass/documents/ASS-11-1878-ocr.pdf) | ●●● |
 | Notre-Dame du Sacre-Coeur | Issoudun, Bourges | 1869 | retro | [AAS 11 (1919), p. 344](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) | ●●○ |
@@ -274,7 +285,7 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 | Madonna del Pontelungo | Albenga | 1949-07-08 | retro | [AAS 42 (1950), p. 591](https://www.vatican.va/archive/aas/documents/AAS-42-1950-ocr.pdf) | ●○○ |
 | Madonna di Valverde | Alghero | 1948 | retro | [AAS 42 (1950), p. 174](https://www.vatican.va/archive/aas/documents/AAS-42-1950-ocr.pdf) | ●●○ |
 | Imago Deiparae sub titulo Reginae omnium Sanctorum | Ancona | 1904-09-14 | by pope | [ASS 37 (1904), p. 195](https://www.vatican.va/archive/ass/documents/ASS-37-1904-5-ocr.pdf) | ●●● |
-| Imago thaumaturga titulo Reginae Sanctorum omnium | Ancona |  | retro | [AAS 19 (1927), p. 13](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) | ●●● |
+| Regina Sanctorum omnium | Ancona | 1926-07-14 | retro | [AAS 19 (1927), p. 13](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) | ●●○ |
 | Sacra Infantis Pragensis effigies | Arenzano, Genoa | 1924-02-24 | retro | [AAS 20 (1928), p. 320](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) | ●●● |
 | Madonna delle Grazie | Asculum in Piceno (Ascoli Piceno) | 1960 | retro | [AAS 53 (1961), p. 674](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) | ●●○ |
 | Madonna della Quercia | Bettola, Piacenza | 1920 | retro | [AAS 55 (1963), p. 29](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) | ●●○ |
@@ -412,7 +423,7 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 
 ## Mexico
 
-*29 records*
+*32 records*
 
 | Image | Place | Crowned / act date | Evidence | Source | Conf. |
 |---|---|---|---|---|---|
@@ -429,8 +440,10 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 | Beata Maria Virgo Lauretana | Loreto, Tijuana | 1967-03-04 | retro | [AAS 59 (1967), p. 610](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) | ●●○ |
 | Nuestra Señora de Guadalupe | Manzanillo, Colima | 1994-09-15 | act | [AAS 86 (1994), p. 942](https://www.vatican.va/archive/aas/documents/AAS-86-1994-ocr.pdf) | ●●● |
 | Nuestra Señora de Guadalupe | Mexico City | 1895 | retro | [AAS 37 (1945), p. 254](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) | ●●○ |
+| Nuestra Señora de Guadalupe | Mexico City | 1979-01-27 | by pope | [AAS 71 (1979), p. 177](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) | ●●○ |
 | Domina Nostra a Sacro Corde Iesu | Mexico City | 1948-09-26 | retro | [AAS 85 (1993), p. 405](https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf) | ●●● |
-| Nuestra Señora de Guadalupe (la Virgen de Guadalupe) | Mexico City (Mexicopolis) | 1895-10-12 | retro | [AAS 37 (1945), p. 264](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) | ●●● |
+| Virgen de Guadalupe | Mexicopolis (Mexico City) | 1895-10-12 | retro | [AAS 37 (1945), p. 264](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) | ●●● |
+| Virgen de Guadalupe | Mexicopolis (Mexico City) | 1945-10-12 | by pope | [AAS 37 (1945), p. 267](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) | ●●○ |
 | Virgen Chiquita | Monterrey | 1990-05-10 | by pope | [AAS 82 (1990), p. 1512](https://www.vatican.va/archive/aas/documents/AAS-82-1990-ocr.pdf) | ●●● |
 | Nuestra Señora de Monterrey | Monterrey | 1996-06-11 | act | [AAS 88 (1996), p. 840](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) | ●●● |
 | Nuestra Señora de los Remedios | Naucalpan, Tlalnepantla | 1974-03-06 | act | [AAS 66 (1974), p. 327](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) | ●●● |
@@ -442,6 +455,7 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 | Nuestra Señora de San Juan de los Lagos | San Juan de los Lagos, Guadalajara | 1957-07-05 | retro | [AAS 50 (1958), p. 302](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) | ●●● |
 | Nuestra Señora de Guanajuato | Santa Fe de Guanajuato, León | 1957-03-29 | retro | [AAS 49 (1957), p. 1002](https://www.vatican.va/archive/aas/documents/AAS-49-1957-ocr.pdf) | ●●● |
 | Nuestra Señora del Rosario de Talpa | Talpa (Talpa de Allende), Tepic | 1923 | retro | [AAS 40 (1948), p. 363](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) | ●●● |
+| Beatissima Virgo Maria a Sacratissimo Rosario | Talpa, Tepic | 1923 | retro | [AAS 40 (1948), p. 362](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) | ●●● |
 | Virgen de la Candelaria | Tecomán, Colima | 1988-12-29 | act | [AAS 81 (1989), p. 825](https://www.vatican.va/archive/aas/documents/AAS-81-1989-ocr.pdf) | ●●○ |
 | Nuestra Señora de Guadalupe | Tepeyac, Mexico City | 1966-03-20 | retro | [AAS 58 (1966), p. 475](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) | ●●● |
 | Nuestra Señora de los Remedios | Tlalnepantla | 1974 | retro | [AAS 90 (1998), p. 955](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) | ●●● |
@@ -466,10 +480,11 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 
 ## Peru
 
-*4 records*
+*5 records*
 
 | Image | Place | Crowned / act date | Evidence | Source | Conf. |
 |---|---|---|---|---|---|
+| Virgen de la Puerta |  | 1943 | retro | [AAS 35 (1943), p. 359](https://www.vatican.va/archive/aas/documents/AAS-35-1943-ocr.pdf) | ●●○ |
 | La Virgen de la Candelaria de Chapi | Chapi, Arequipa | 1985-02-02 | by pope | [AAS 77 (1985), p. 465](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) | ●●● |
 | Nuestra Señora de la Merced | Lima | 1721-09-24 | retro | [AAS 17 (1925), p. 9](https://www.vatican.va/archive/aas/documents/AAS-17-1925-ocr.pdf) | ●●● |
 | Nuestra Señora de la Evangelización | Lima | 1990-10-06 | by pope | [AAS 83 (1991), p. 19](https://www.vatican.va/archive/aas/documents/AAS-83-1991-ocr.pdf) | ●●● |
@@ -690,9 +705,9 @@ Each row cites the act in *Acta Sanctae Sedis* (ASS, 1865–1908) or
 | Nuestra Señora de la Soledad | Caracas | 1987-11-05 | act | [AAS 79 (1987), p. 1446](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) | ●●○ |
 | Nuestra Señora de Coromoto | Caracas (coronation site); Guanare (shrine) | 1985-01-27 | by pope | [AAS 77 (1985), p. 828](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) | ●●● |
 | Nuestra Señora de Guadalupe de El Carrizal | El Carrizal, Coro | 1992-10-08 | act | [AAS 85 (1993), p. 22](https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf) | ●●● |
-| Nuestra Señora de Coromoto | Guanare | 1952-09-12 | retro | [AAS 44 (1952), p. 739](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) | ●●● |
 | Nuestra Señora de Coromoto | Guanare | 1985-01-27 | by pope | [AAS 77 (1985), p. 466](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) | ●●● |
 | Nuestra Señora de Coromoto | Guanare, Barquisimeto | 1952 | legate | [AAS 44 (1952), p. 722](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) | ●●● |
+| Nuestra Señora de Coromoto | Guanare, Barquisimeto | 1952-09-12 | retro | [AAS 44 (1952), p. 739](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) | ●●● |
 | Nuestra Senora de Chiquinquira | Maracaibo | 1920-05-18 | retro | [AAS 13 (1921), p. 5](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) | ●●● |
 | Nuestra Señora del Socorro | Valentia (Valencia) | 1910 | retro | [AAS 52 (1960), p. 885](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) | ●●● |
 

@@ -13,7 +13,7 @@ complete sweep of the official gazettes of the Holy See published on vatican.va:
 
 ## What is in it
 
-**392 records** covering **329 distinct localities** in **41 countries**,
+**400 records** covering **333 distinct localities** in **42 countries**,
 drawn from **147,576 pages** across **440 volume PDFs**
 (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026).
 
@@ -24,13 +24,13 @@ By evidence type:
 
 | Type | Records |
 |---|---|
-| `retrospective_attestation` | 230 |
+| `retrospective_attestation` | 233 |
 | `papal_coronation_act` | 102 |
-| `papal_personal_coronation` | 42 |
+| `papal_personal_coronation` | 47 |
 | `papal_legate_deputation` | 16 |
 | `norms` | 2 |
 
-By series: ASS 13, AAS 379.
+By series: ASS 14, AAS 386.
 
 Most-represented countries:
 
@@ -38,9 +38,9 @@ Most-represented countries:
 |---|---|
 | Italy | 120 |
 | Poland | 67 |
-| Mexico | 29 |
+| Mexico | 32 |
 | Spain | 25 |
-| France | 22 |
+| France | 23 |
 | Colombia | 12 |
 | Belgium | 10 |
 | Argentina | 10 |
@@ -49,7 +49,7 @@ Most-represented countries:
 | Portugal | 8 |
 | Philippines | 7 |
 
-Confidence: 238 high, 148 medium, 6 low.
+Confidence: 242 high, 152 medium, 6 low.
 `medium` usually means the country was inferred from the Latin name of the diocese rather than
 stated outright; every such case says so in `notes`.
 
@@ -76,6 +76,13 @@ carries an `evidence_type` so you can filter to exactly the sense you need:
    published online; vatican.va's archive section carries only the Bible, Catechism, Codes of Canon
    Law, Councils and the official acts. Those archives remain the principal unexamined source, both
    for coronations before 1909 and for many after it.
+
+   *A concrete case.* **Our Lady of Altagracia** (Higüey, Dominican Republic), patroness of the
+   country, is generally said to have been crowned on 15 August 1922 under Pius XI. **AAS volumes
+   14 (1922), 15 (1923) and 16 (1924) do not mention Altagracia, Higüey or the Dominican Republic
+   at all** — nor does the 1959 Apostolic Constitution erecting the diocese of Higüey
+   (AAS 51, 688) recite any crowning. That coronation is simply not in the gazette; its record lies
+   in the Chapter's archives. What AAS *does* preserve is a later papal act: see below.
 3. **1973 is a watershed.** The *Normae circa patronos constituendos et imagines B. M. Virginis
    coronandas* of 25 March 1973 (AAS 65, 276) reshaped the practice; from 1974 the acts appear as
    *Litterae Apostolicae* granting the faculty to crown, and they are numerous.
@@ -149,10 +156,22 @@ An independent audit swept the corpus for the unambiguous act-granting formulas
 back-of-volume index pages, **47 of 48** such act pages are represented; the one exception is an
 index entry whose underlying act (Our Lady of Fátima, AAS 38, 376) *is* included.
 
-Two systematic traps were found and fixed during the build, and are worth knowing if you extend
-this work: the act rubric switches from ALL-CAPS to lowercase italic around 1970, and the OCR
-hyphenates words across line breaks (`pretioso dia-\ndemate redimiat`), which hides the key terms
-from a naive search. De-hyphenating the corpus recovered 96 passages that the first pass missed.
+Three systematic traps were found and fixed during the build, and are worth knowing if you extend
+this work.
+
+1. The act rubric switches from ALL-CAPS to lowercase italic around 1970, so a caps-based parser
+   goes blind on everything after it.
+2. The OCR hyphenates words across line breaks (`pretioso dia-\ndemate redimiat`), hiding the key
+   terms from a naive search. De-hyphenating the corpus recovered 96 passages.
+3. **Requiring a word for "image" near the coronation word.** This looks like a safe precision
+   filter and is not: a papal act often names the devotion by its **title** alone. It dropped
+   **AAS 71 (1979), 158**, where John Paul II, preaching at Santo Domingo on 25 January 1979, says
+   of *Nuestra Señora de la Altagracia* that *"el Papa quiere dejar como homenaje de devoción una
+   diadema"* — no word for image anywhere near it. Re-triaging the 348 passages that filter had
+   rejected recovered that record and several more, among them the diadem presented at Guadalupe
+   two days later (AAS 71, 177), the Virgen del Carmen de Maipú (AAS 66, 727), and the Virgen de la
+   Caridad del Cobre, of which the Pope later recalled *"el momento en que le ceñí la corona que sus
+   hijos le ofrecieron"* (AAS 91, 105).
 
 ## Reproducing
 
