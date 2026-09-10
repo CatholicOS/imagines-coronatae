@@ -1,66 +1,61 @@
 # Imagines Coronatae
 
 A machine-readable catalogue of **sacred images crowned under papal authority**, compiled from a
-complete sweep of *Acta Apostolicae Sedis* (AAS) as published on vatican.va.
+complete sweep of the official gazettes of the Holy See published on vatican.va:
+*Acta Sanctae Sedis* (ASS, 1865–1908) and *Acta Apostolicae Sedis* (AAS, 1909– ).
 
-The dataset is `data/imagines-coronatae.json`, validated against `schema/imagines-coronatae.schema.json`.
-
-## What this is
-
-Every AAS volume from **1909 to 2026** was downloaded, its text layer extracted, and the whole
-corpus searched for the Latin and vernacular vocabulary of image-coronation. Each candidate passage
-was then read and turned into a structured record citing **volume, year, printed page, act number,
-the act's Latin rubric and incipit**, and the image's title, place and country.
+| Where | What |
+|---|---|
+| [`registry/by-country.md`](registry/by-country.md) | Browsable registry, grouped by country |
+| [`registry/chronological.md`](registry/chronological.md) | Browsable registry, ordered by date of crowning |
+| [`data/imagines-coronatae.json`](data/imagines-coronatae.json) | Full dataset (validated against `schema/`) |
+| [`data/imagines-coronatae.csv`](data/imagines-coronatae.csv) | Same records, flat |
 
 ## What is in it
 
-**379 records** covering **321 distinct localities** in **40 countries**,
-drawn from **117,555 pages** across **399 AAS PDF files** (volumes 1–118, 1909–2026).
+**392 records** covering **329 distinct localities** in **41 countries**,
+drawn from **147,576 pages** across **440 volume PDFs**
+(ASS 1–41, 1865–1908; AAS 1–118, 1909–2026).
+
+Crownings recorded run from **1645 to 2001** — far earlier than the gazettes
+themselves, because a later act often recites when an image was first crowned.
 
 By evidence type:
 
 | Type | Records |
 |---|---|
-| `retrospective_attestation` | 222 |
-| `papal_coronation_act` | 99 |
-| `papal_personal_coronation` | 41 |
+| `retrospective_attestation` | 230 |
+| `papal_coronation_act` | 102 |
+| `papal_personal_coronation` | 42 |
 | `papal_legate_deputation` | 16 |
-| `norms` | 1 |
+| `norms` | 2 |
 
-By pope: Ioannes Paulus PP. II (125), Pius PP. XII (91), Pius PP. XI (47), Paulus PP. VI (40), Ioannes PP. XXIII (32), Benedictus PP. XV (26), Pius PP. X (14), Franciscus PP. (2), Benedictus PP. XVI (1).
+By series: ASS 13, AAS 379.
 
 Most-represented countries:
 
 | Country | Records |
 |---|---|
-| Italy | 113 |
+| Italy | 120 |
 | Poland | 67 |
 | Mexico | 29 |
 | Spain | 25 |
-| France | 19 |
+| France | 22 |
 | Colombia | 12 |
+| Belgium | 10 |
 | Argentina | 10 |
-| Belgium | 9 |
 | Venezuela | 8 |
 | Brazil | 8 |
 | Portugal | 8 |
 | Philippines | 7 |
 
-Confidence: 231 high, 142 medium, 6 low.
+Confidence: 238 high, 148 medium, 6 low.
 `medium` usually means the country was inferred from the Latin name of the diocese rather than
 stated outright; every such case says so in `notes`.
 
-### Recall check
-
-An independent audit swept the corpus for the unambiguous act-granting formulas
-(*redimiri sinitur*, *coronam apponendam*, *facultas conceditur … coronandi*, *coronasse imaginem*,
-*redimiendi serto*, and others) and collected every page on which one occurs. Excluding
-back-of-volume index pages, **47 of 48** such act pages are represented in the dataset; the one
-exception is an index entry whose underlying act (Our Lady of Fátima, AAS 38, 376) *is* included.
-
 ## What "crowned under papal authority" means here
 
-Coronation of an image is a papal act, but it reaches AAS in several different shapes. Each record
+Coronation of an image is a papal act, but it reaches the gazettes in several shapes. Each record
 carries an `evidence_type` so you can filter to exactly the sense you need:
 
 | `evidence_type` | Meaning |
@@ -73,32 +68,38 @@ carries an `evidence_type` so you can filter to exactly the sense you need:
 
 ## Important limits — please read before citing
 
-1. **AAS is not the whole story.** For most of its history the crowning of an image was decreed by
-   the **Chapter of St Peter's Basilica**, and those decrees were *not* published in AAS. What this
-   dataset documents is what AAS attests — a well-defined and citable subset, not a global census
-   of crowned images.
-2. **AAS begins in 1909.** Earlier coronations (Leo XIII and before) appear here only where a later
-   act mentions them. Their primary record is *Acta Sanctae Sedis* (1865–1908) and the Vatican
-   Chapter's own archives.
+1. **This is not a global census.** For most of the period covered, the crowning of an image was
+   decreed by the **Chapter of St Peter's Basilica** (*Capitulum Vaticanum*) and never published in
+   either gazette. What this dataset documents is what ASS and AAS attest — a well-defined and
+   citable subset.
+2. **The Chapter's own archives were not consulted.** The Archivio del Capitolo di San Pietro is not
+   published online; vatican.va's archive section carries only the Bible, Catechism, Codes of Canon
+   Law, Councils and the official acts. Those archives remain the principal unexamined source, both
+   for coronations before 1909 and for many after it.
 3. **1973 is a watershed.** The *Normae circa patronos constituendos et imagines B. M. Virginis
    coronandas* of 25 March 1973 (AAS 65, 276) reshaped the practice; from 1974 the acts appear as
    *Litterae Apostolicae* granting the faculty to crown, and they are numerous.
-4. **The sources are OCR scans.** Place names are frequently mangled. Every record therefore keeps
-   the **verbatim Latin rubric and incipit** and carries a `confidence` value. Anything marked
-   `low`, or carrying a `notes` field, should be checked against the printed page before being
-   treated as authoritative.
+4. **A rule worth knowing.** ASS 41 (1908), 621 records Pius X's ruling that images of the **Sacred
+   Heart** are not to be crowned — a crown may only be laid at the statue's feet. That explains the
+   near-absence of Sacred Heart coronations in the record.
+5. **The sources are OCR scans**, and ASS is markedly rougher than AAS. Place names are frequently
+   mangled. Every record keeps the **verbatim Latin rubric and incipit** and carries a `confidence`
+   value. Anything marked `low`, or carrying a `notes` field, should be checked against the printed
+   page before being treated as authoritative.
+6. Several ASS volumes span two calendar years; `year` is the first year of the volume.
 
 ## Record shape
 
 ```json
 {
-  "aas_volume": 91,
-  "aas_year": 1999,
-  "aas_page": 345,
+  "series": "AAS",
+  "volume": 91,
+  "year": 1999,
+  "page": 345,
   "act_number": "V",
   "act_type": "Litterae Apostolicae",
   "pope": "Ioannes Paulus PP. II",
-  "aas_citation": "AAS 91 (1999), p. 345",
+  "citation": "AAS 91 (1999), p. 345",
   "evidence_type": "papal_coronation_act",
   "rubric_latin": "Imago beatae Mariae Virginis titulo «Nostra Seynora de Canòlich» invocatae ... pretioso diademate redimiri sinitur «nomine et auctoritate Summi Pontificis».",
   "incipit_latin": "In antiquo oppido Andorrae Principatus «Sant Julia de Loria» ...",
@@ -111,22 +112,36 @@ carries an `evidence_type` so you can filter to exactly the sense you need:
 }
 ```
 
-## Reproducing
+## Recall check
 
-Scripts are in `scripts/`, in pipeline order:
+An independent audit swept the corpus for the unambiguous act-granting formulas
+(*redimiri sinitur*, *coronam apponendam*, *facultas conceditur … coronandi*, *coronasse imaginem*,
+*redimiendi serto*, and others) and collected every page on which one occurs. Excluding
+back-of-volume index pages, **47 of 48** such act pages are represented; the one exception is an
+index entry whose underlying act (Our Lady of Fátima, AAS 38, 376) *is* included.
+
+Two systematic traps were found and fixed during the build, and are worth knowing if you extend
+this work: the act rubric switches from ALL-CAPS to lowercase italic around 1970, and the OCR
+hyphenates words across line breaks (`pretioso dia-\ndemate redimiat`), which hides the key terms
+from a naive search. De-hyphenating the corpus recovered 96 passages that the first pass missed.
+
+## Reproducing
 
 | Script | Does |
 |---|---|
-| `fetch_aas.sh` | Downloads all AAS PDFs from vatican.va and verifies each against its `Content-Length`. |
-| `extract_text.py` | Extracts the text layer of every PDF, with page markers. |
-| `find_passages.py` | Sweeps the corpus for coronation vocabulary and emits candidate passages. |
-| `merge.py` | Merges and de-duplicates the per-batch extraction output. |
-| `build_dataset.py` | Assembles the final dataset with metadata and statistics. |
+| `scripts/fetch_aas.sh` | Downloads all AAS PDFs and verifies each against its `Content-Length`. |
+| `scripts/fetch_ass.sh` | The same for the 41 ASS volumes. |
+| `scripts/extract_text.py` | Extracts the text layer of every PDF, with page markers. |
+| `scripts/find_passages.py` | De-hyphenates and sweeps for coronation vocabulary; emits candidate passages. |
+| `scripts/find_passages_vernacular.py` | Second sweep for Italian, Spanish, French, Polish and German coronation terms. |
+| `scripts/merge.py` | Merges and de-duplicates the per-batch extraction output by locality. |
+| `scripts/build_dataset.py` | Assembles the dataset with metadata and statistics. |
+| `scripts/build_registry.py` | Renders the two registry tables from the dataset. |
 
-The reading-and-structuring step between `find_passages.py` and `merge.py` was performed by
-parallel LLM agents against the specification in `docs/EXTRACTION_SPEC.md`.
+The reading-and-structuring step between the sweep and the merge was performed by parallel LLM
+agents against the specifications in `docs/EXTRACTION_SPEC.md` and `docs/EXTRACTION_SPEC_ASS.md`.
 
 ## Licence
 
-The underlying AAS texts are © Libreria Editrice Vaticana. This compilation is offered for
+The underlying ASS and AAS texts are © Libreria Editrice Vaticana. This compilation is offered for
 research use.
