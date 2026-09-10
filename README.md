@@ -123,10 +123,15 @@ carries an `evidence_type` so you can filter to exactly the sense you need:
    decreed by the **Chapter of St Peter's Basilica** (*Capitulum Vaticanum*) and never published in
    either gazette. What this dataset documents is what ASS and AAS attest — a well-defined and
    citable subset.
-2. **The Chapter's own archives were not consulted.** The Archivio del Capitolo di San Pietro is not
-   published online; vatican.va's archive section carries only the Bible, Catechism, Codes of Canon
-   Law, Councils and the official acts. Those archives remain the principal unexamined source, both
-   for coronations before 1909 and for many after it.
+2. **The Chapter's own archives are a separate source, only fractionally online.** For three
+   centuries the crowning of an image was granted by decree of the **Chapter of St Peter's
+   Basilica**, under the 1636 Sforza Pallavicino legacy, and those decrees were never gazetted. The
+   dedicated series is **`Madonne coronate`**, cited as *BAV, ACSP, Madonne coronate, tomo I, foglio
+   N (mecc. N)*. Exactly **one volume of it is digitized** —
+   [`Arch.Cap.S.Pietro.Madonne.coron.4`](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4),
+   726 images, not OCR'd. Everything else must be consulted at the Vatican Library or at the
+   Archivio Capitolare. See [`docs/CHAPTER-ARCHIVES.md`](docs/CHAPTER-ARCHIVES.md) for the series
+   layout, the citation form, the petition procedure and what each coronation deposited.
 
    *A concrete case.* **Our Lady of Altagracia** (Higüey, Dominican Republic), patroness of the
    country, is generally said to have been crowned on 15 August 1922 under Pius XI. **AAS volumes
