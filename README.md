@@ -15,11 +15,11 @@ complete sweep of the official gazettes of the Holy See published on vatican.va:
 
 ## What is in it
 
-**339 crowned images** in **42 countries**, documented by **400 source citations**
+**338 crowned images** in **42 countries**, documented by **400 source citations**
 drawn from **147,576 pages** across **440 volume PDFs**
 (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026).
 
-38 images are attested by more than one act — the most-cited is Our Lady of Fátima, with seven.
+39 images are attested by more than one act — the most-cited is Our Lady of Fátima, with seven.
 Crownings run from **1645 to 2001**, far earlier than the gazettes themselves,
 because a later act often recites when an image was first crowned.
 
@@ -27,7 +27,7 @@ By strongest evidence available for each image:
 
 | Type | Images |
 |---|---|
-| `retrospective_attestation` | 190 |
+| `retrospective_attestation` | 189 |
 | `papal_coronation_act` | 101 |
 | `papal_personal_coronation` | 30 |
 | `papal_legate_deputation` | 16 |
@@ -63,8 +63,22 @@ attesting it is kept in that record's `sources` array. Nothing is discarded by c
 400 source citations sit inside 339 image records, and `data/attestations.json` still holds
 the flat act-level layer if you want it.
 
-Where `coronation_dates` holds more than one date, the image really was crowned more than once —
-typically a Vatican Chapter crowning later renewed by a Pope.
+**Images crowned more than once.** `coronation_dates` is an array, and where it holds more than
+one date the image really was crowned again — typically a Vatican Chapter crowning later renewed by
+a Pope. 6 images in the catalogue were crowned more than once:
+
+| Image | Crowned |
+|---|---|
+| Madonna del Rosario di Fontanellato — Fontanellato, Italy | 1660, 1925 |
+| Nostra Signora di Bonaria — Cagliari (Calaris), Italy | 1870-04-24, 1926 |
+| Onze-Lieve-Vrouw van Scherpenheuvel (Notre-Dame de Montaigu) — Scherpenheuvel (Aspricollis), near Leuven, Belgium | 1872, 1927 |
+| Nuestra Señora de Guadalupe — Mexicopolis (Mexico City), Mexico | 1895-10-12, 1945-10-12, 1979-01-27 |
+| Notre-Dame du Cap — Cap-de-la-Madeleine, Canada | 1904, 1954 |
+| Nuestra Señora de Coromoto — Guanare, Venezuela | 1952-09-12, 1985-01-27 |
+
+Dates are collapsed by precision first: one source giving `1954` and another `1954-08-29` is a
+single crowning recorded at two levels of detail, not two, so only the fuller form is kept. Distinct
+years stay distinct — which is what makes a multi-entry list mean something.
 
 **How images are identified.** By **place first**, then title. Marian titles repeat all over the
 world — there are seven distinct *Nuestra Señora de Guadalupe* here, in Mexico, Spain, Venezuela and
@@ -74,6 +88,14 @@ merged on a "distinctive" shared title across different localities; it was remov
 Notre-Dame des Miracles at Rennes with Mauriac, the Carmine *la Bruna* at Naples with Matera, and
 the four separate images John Paul II crowned together at Jasna Góra. **A false merge destroys a
 distinct image; a false split merely leaves a duplicate — so the matching errs toward splitting.**
+Titles are also stripped of *descriptive* words before comparison. Latin acts praise an image as
+much as they name it, and adjectives like *perinsigne*, *thaumaturga* or *veneranda* are not
+identity. Leaving them in kept Notre-Dame du Cap as two records — one act called it
+*Simulacrum B. M. V. a Rosario*, another *perinsigne Virginis simulacrum* — for a single shrine
+crowned in 1904 and again in 1954. Where an act's title reduces to nothing but praise, the shared
+locality and subject carry the identification, and a record is merged only if exactly one cluster at
+that place fits. Subjects never cross: a St Joseph is never merged into a Marian image.
+
 Residual duplicates are possible where a source names no locality at all.
 
 ## What "crowned under papal authority" means here

@@ -11,7 +11,16 @@ statua statue icon iconem sacra sacrae sacro sacrum santa sancta sanctae santo s
 nostra nostrae della delle del dei los las sub titulo vulgo appellata appellatae invocatae dicta dictae
 deipara deiparae genetricis the and que pie colitur servatur templo ecclesia templi loco urbe oppido dioecesis
 archidioecesis fines intra quae cum divino puero iesu christi mater matris madre nuncupata nuncupatae
-antiqua antiquum vetus vetusta miraculis clara insignis titulus'''.split())
+antiqua antiquum vetus vetusta miraculis clara insignis titulus
+# Latin/vernacular DESCRIPTIVE adjectives. These praise an image, they do not identify it, and if
+# left in they block real merges: Notre-Dame du Cap reduced to {rosario} in one act and
+# {perinsigne} in another, so two records for one shrine survived side by side.
+perinsigne perinsignis insigne insignem praeclara praeclarum praeclarus veneranda venerandum
+venerabilis veneratio venerata miraculosa miraculoso thaumaturga thaumaturgum prodigiosa prodigioso
+antiquissima antiquissimum celeberrima celeberrimum celebris augustum augusta augustae pretiosa
+pretiosum sacratissima sacratissimum sanctissima sanctissimum mirabilis admirabilis egregia egregium
+nobilis nobilisque pulcherrima devotissima piissima beatissima beatissimae grande grandis magna
+magnum maior maxima antica antico bella bello santissima santissimo'''.split())
 def norm(s): return U.normalize('NFKD',str(s or '').translate(SPECIAL)).encode('ascii','ignore').decode().lower()
 def toks(*ss):
     out=set()
@@ -75,17 +84,42 @@ for i,r in enumerate(R): r['_i']=i
 clusters=[];bycountry=collections.defaultdict(list);noloc=[]
 for r in R:
     (bycountry[r.get('country')] if loc_toks(r) else noloc).append(r)
+def subj(x):
+    s=norm(x.get('image_subject'))
+    if not s: return None
+    if 'virgin' in s or 'mary' in s or 'maria' in s: return 'bvm'
+    for k in ('joseph','sacred heart','cord','infant','nino','family','famili','crucifi','christ','anne','nichol'):
+        if k in s: return k
+    return s[:12]
+def subj_ok(g,r):
+    """Never merge across different subjects (a St Joseph is not a Marian image)."""
+    a={subj(x) for x in g if subj(x)}; b=subj(r)
+    return (not a) or (b is None) or (b in a)
 def tcompat(g,r):
+    """Titles agree, OR one side carries no identifying word at all once descriptive praise is
+    stripped — in which case the shared locality plus subject is what establishes identity."""
+    if not subj_ok(g,r): return False
     tg=set().union(*[title(x) for x in g]); tr=title(r)
     return (not tg) or (not tr) or bool(tg&tr) or bool({t[:5] for t in tg}&{t[:5] for t in tr})
 for c,rs in bycountry.items():
     groups=[]
     for r in rs:
         lr=loc_toks(r)
-        for g in groups:
-            lg=set().union(*[loc_toks(x) for x in g])
-            if place_match(lg,lr) and tcompat(g,r): g.append(r); break
-        else: groups.append([r])
+        cands=[g for g in groups if place_match(set().union(*[loc_toks(x) for x in g]),lr) and tcompat(g,r)]
+        if len(cands)==1:
+            cands[0].append(r)
+        elif len(cands)>1:
+            # ambiguous: prefer a cluster that shares a title token, else one sharing a coronation
+            # date, else refuse to guess and keep the record separate
+            tr=title(r)
+            strong=[g for g in cands if tr and (tr & set().union(*[title(x) for x in g]))]
+            if len(strong)!=1 and r.get('coronation_date'):
+                y=str(r['coronation_date'])[:4]
+                strong=[g for g in cands if any(str(x.get('coronation_date') or '')[:4]==y for x in g)]
+            if len(strong)==1: strong[0].append(r)
+            else: groups.append([r])
+        else:
+            groups.append([r])
     clusters.extend(groups)
 for r in noloc:
     tr=title(r); dr=distinctive(tr); tgt=None
@@ -108,6 +142,20 @@ for r in noloc:
 # is the identity. A false merge destroys a distinct image, a false split is merely a duplicate —
 # so this errs toward splitting.
 
+def collapse_dates(dates):
+    """One crowning reported at two precisions is ONE crowning. '1954' and '1954-08-29' are the
+    same event, so keep only the most precise form for each year; distinct years remain distinct,
+    which is what makes a multi-entry list mean the image really was crowned more than once."""
+    best={}
+    for d in dates:
+        d=str(d).strip()
+        m=re.match(r'(\d{4})',d)
+        if not m:
+            best.setdefault(d,d); continue
+        y=m.group(1)
+        if y not in best or len(d)>len(best[y]): best[y]=d
+    return sorted(best.values())
+
 SRC=['series','volume','year','page','citation','source_pdf_url','act_number','act_type','pope',
      'evidence_type','act_date','coronation_date','legate','rubric_latin','incipit_latin','confidence','notes']
 RANK={'papal_coronation_act':4,'papal_legate_deputation':3,'papal_personal_coronation':3,
@@ -125,7 +173,7 @@ def slug(s,n=48):
 images=[];seen=collections.Counter()
 for g in clusters:
     g=sorted(g,key=lambda r:(r.get('year') or 0,r.get('page') or 0))
-    cds=sorted({x['coronation_date'] for x in g if x.get('coronation_date')})
+    cds=collapse_dates([x['coronation_date'] for x in g if x.get('coronation_date')])
     ev=sorted({x['evidence_type'] for x in g},key=lambda e:-RANK.get(e,0))
     base=slug((best(g,'image_title_vernacular') or best(g,'image_title_latin') or 'image')+'-'+(best(g,'locality') or best(g,'country') or ''))
     seen[base]+=1; iid=base if seen[base]==1 else f'{base}-{seen[base]}'

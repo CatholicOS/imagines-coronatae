@@ -7,7 +7,7 @@
       "AAS": "https://www.vatican.va/archive/aas/index_sp.htm"
     },
     "generated": "2026-09-10",
-    "record_count": 339,
+    "record_count": 338,
     "layer": "attestations — one record per ACT that attests a crowning; see imagines-coronatae.json for one record per IMAGE",
     "coverage": {
       "series": [
@@ -44,7 +44,7 @@
       "Several ASS volumes span two calendar years; `year` is the first year of the volume."
     ],
     "statistics": {
-      "images": 339,
+      "images": 338,
       "source_records": 400,
       "by_country": {
         "Italy": 99,
@@ -63,10 +63,10 @@
         "Venezuela": 5,
         "Malta": 4,
         "Belarus": 3,
-        "Canada": 3,
         "Chile": 3,
         "Ukraine": 3,
         "Austria": 2,
+        "Canada": 2,
         "Czech Republic": 2,
         "El Salvador": 2,
         "Germany": 2,
@@ -91,18 +91,18 @@
         "Vatican City": 1
       },
       "by_strongest_evidence": {
-        "retrospective_attestation": 190,
+        "retrospective_attestation": 189,
         "papal_coronation_act": 101,
         "papal_legate_deputation": 16,
         "papal_personal_coronation": 30,
         "norms": 2
       },
       "by_confidence": {
-        "high": 215,
+        "high": 214,
         "medium": 119,
         "low": 5
       },
-      "multi_source_images": 38
+      "multi_source_images": 39
     },
     "license": "Underlying ASS and AAS texts are © Libreria Editrice Vaticana. This compilation is provided for research use.",
     "structure": "One record per CROWNED IMAGE. Every ASS/AAS act that attests it is kept in that image’s `sources` array, so an image cited in several volumes is ONE record with several sources, not several records. Images are identified by locality first, since Marian titles repeat worldwide; a distinctive title can also unite an image crowned away from its shrine."
@@ -1657,9 +1657,9 @@
       ]
     },
     {
-      "id": "notre-dame-du-cap-cap-de-la-madeleine-2",
-      "image_title_vernacular": "Notre-Dame-du-Cap",
-      "image_title_latin": "Simulacrum Beatae Mariae Virginis a Rosario",
+      "id": "notre-dame-du-cap-cap-de-la-madeleine",
+      "image_title_vernacular": "Notre-Dame du Cap",
+      "image_title_latin": "perinsigne Virginis simulacrum, Nostrae Dominae de Cap",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Sanctuarium/ecclesia « Notre-Dame-du-Cap » apud oppidum « Cap-de-la-Madeleine »",
       "locality": "Cap-de-la-Madeleine",
@@ -1667,69 +1667,25 @@
       "diocese_modern": "Trois-Rivières",
       "country": "Canada",
       "coronation_dates": [
-        "1904"
+        "1904",
+        "1954"
       ],
       "first_coronation": "1904",
-      "strongest_evidence": "retrospective_attestation",
+      "strongest_evidence": "papal_legate_deputation",
       "evidence_types": [
+        "papal_legate_deputation",
         "retrospective_attestation"
       ],
       "popes": [
-        "Paulus PP. VI"
-      ],
-      "legates": [
-        "Valerius S. R. E. Presbyter Cardinalis Valeri (Valerio Valeri) — for the 1954 coronation only"
-      ],
-      "confidence": "high",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "AAS",
-          "volume": 58,
-          "year": 1966,
-          "page": 42,
-          "citation": "AAS 58 (1966), p. 42",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf",
-          "act_number": "II",
-          "act_type": "Litterae Apostolicae",
-          "pope": "Paulus PP. VI",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1964-08-15",
-          "coronation_date": "1904",
-          "legate": "Valerius S. R. E. Presbyter Cardinalis Valeri (Valerio Valeri) — for the 1954 coronation only",
-          "rubric_latin": "Titulus ac privilegia Basilicae Minoris tribuuntur ecclesiae Beatae Mariae Virginis a Rosario (v. « Notre-Dame-du-Cap »), in Trifluvianensi dioecesi in Canadia.",
-          "incipit_latin": "Evangelicum illud effatum « Oportet semper orare » (Lc. 18, 1) a Sancto Dominico etiam Mariali Rosario aptatum esse videtur",
-          "confidence": "high",
-          "notes": "Basilica Minor act attesting TWO coronations of the same image: 'Duabus insuper praedicti Simulacri coronationibus, anno MCMIV, quinquagesimo ab edicto dogmate, nec non, per manus desideratissimi Dilecti Filii Nostri Valerii S. R. E. Presbyteri Cardinalis Valeri, anno MCMLIV, centesimo eiusdem promulgati mysterii, rite peractis' — 1904 (50th anniversary of the definition of the Immaculate Conception) and 1954 (centenary), the latter performed by Cardinal Valerio Valeri. coronation_date holds the first (1904); the second (1954) is recorded here in the notes and in the legate field. Church entrusted to the Missionary Oblates of Mary Immaculate. Country explicit ('in dicione Canadensi')."
-        }
-      ]
-    },
-    {
-      "id": "notre-dame-du-cap-cap-de-la-madeleine",
-      "image_title_vernacular": "Notre-Dame du Cap",
-      "image_title_latin": "perinsigne Virginis simulacrum, Nostrae Dominae de Cap",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Sanctuarium Nostrae Dominae de Cap, « Cap-de-la-Madeleine »",
-      "locality": "Cap-de-la-Madeleine",
-      "diocese_latin": "Trifluvianensis",
-      "diocese_modern": "Trois-Rivières",
-      "country": "Canada",
-      "coronation_dates": [
-        "1954"
-      ],
-      "first_coronation": "1954",
-      "strongest_evidence": "papal_legate_deputation",
-      "evidence_types": [
-        "papal_legate_deputation"
-      ],
-      "popes": [
+        "Paulus PP. VI",
         "Pius PP. XII"
       ],
       "legates": [
-        "Valerius Cardinalis Valeri, Praefectus S. Congregationis de Religiosis"
+        "Valerius Cardinalis Valeri, Praefectus S. Congregationis de Religiosis",
+        "Valerius S. R. E. Presbyter Cardinalis Valeri (Valerio Valeri) — for the 1954 coronation only"
       ],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "AAS",
@@ -1749,6 +1705,25 @@
           "incipit_latin": "Permagnus profecto exstat amor in catholica Canadensium natione studiumque vehemens divinae religionis, quam maiores eorum primum et maxime ex Gallia, tum ex Hibernia, mox denique aliunde auspicato advecti sunt",
           "confidence": "high",
           "notes": "Explicit mandate: 'ut in sanctuario Nostrae Dominae de Cap, in Trifluvianensi dioecesi de Canada sito, perinsigne Virginis simulacrum nomine Nostro Nostraque auctoritate aurea corona exornes'. The crowning was to take place at the Canadian national Marian Congress in August 1954 ('proximo mense Augusto ... et simulacrum Mariae Virginis, quod in eo religiosissime colitur, sollemni ritu coronabitur' — OCR 'coronantur'). Vernacular form 'Notre-Dame du Cap' rendered from the Latin 'Nostrae Dominae de Cap'. This same letter also appears at the end of passage AAS-46-1954-ocr#479."
+        },
+        {
+          "series": "AAS",
+          "volume": 58,
+          "year": 1966,
+          "page": 42,
+          "citation": "AAS 58 (1966), p. 42",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf",
+          "act_number": "II",
+          "act_type": "Litterae Apostolicae",
+          "pope": "Paulus PP. VI",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1964-08-15",
+          "coronation_date": "1904",
+          "legate": "Valerius S. R. E. Presbyter Cardinalis Valeri (Valerio Valeri) — for the 1954 coronation only",
+          "rubric_latin": "Titulus ac privilegia Basilicae Minoris tribuuntur ecclesiae Beatae Mariae Virginis a Rosario (v. « Notre-Dame-du-Cap »), in Trifluvianensi dioecesi in Canadia.",
+          "incipit_latin": "Evangelicum illud effatum « Oportet semper orare » (Lc. 18, 1) a Sancto Dominico etiam Mariali Rosario aptatum esse videtur",
+          "confidence": "high",
+          "notes": "Basilica Minor act attesting TWO coronations of the same image: 'Duabus insuper praedicti Simulacri coronationibus, anno MCMIV, quinquagesimo ab edicto dogmate, nec non, per manus desideratissimi Dilecti Filii Nostri Valerii S. R. E. Presbyteri Cardinalis Valeri, anno MCMLIV, centesimo eiusdem promulgati mysterii, rite peractis' — 1904 (50th anniversary of the definition of the Immaculate Conception) and 1954 (centenary), the latter performed by Cardinal Valerio Valeri. coronation_date holds the first (1904); the second (1954) is recorded here in the notes and in the legate field. Church entrusted to the Missionary Oblates of Mary Immaculate. Country explicit ('in dicione Canadensi')."
         }
       ]
     },
@@ -5083,11 +5058,10 @@
       "diocese_modern": "Cagliari",
       "country": "Italy",
       "coronation_dates": [
-        "1870",
         "1870-04-24",
         "1926"
       ],
-      "first_coronation": "1870",
+      "first_coronation": "1870-04-24",
       "strongest_evidence": "papal_legate_deputation",
       "evidence_types": [
         "papal_legate_deputation",
@@ -6071,10 +6045,9 @@
       "diocese_modern": "Milan",
       "country": "Italy",
       "coronation_dates": [
-        "1954",
         "1954-08-29"
       ],
-      "first_coronation": "1954",
+      "first_coronation": "1954-08-29",
       "strongest_evidence": "papal_personal_coronation",
       "evidence_types": [
         "papal_personal_coronation",
@@ -6835,10 +6808,9 @@
       "diocese_modern": "Naples",
       "country": "Italy",
       "coronation_dates": [
-        "1826",
         "1826-12-30"
       ],
-      "first_coronation": "1826",
+      "first_coronation": "1826-12-30",
       "strongest_evidence": "retrospective_attestation",
       "evidence_types": [
         "retrospective_attestation"
@@ -7243,10 +7215,9 @@
       "diocese_modern": "Padua",
       "country": "Italy",
       "coronation_dates": [
-        "1909",
         "1909-05-23"
       ],
-      "first_coronation": "1909",
+      "first_coronation": "1909-05-23",
       "strongest_evidence": "papal_legate_deputation",
       "evidence_types": [
         "papal_legate_deputation",
@@ -7741,10 +7712,9 @@
       "diocese_modern": "Rome",
       "country": "Italy",
       "coronation_dates": [
-        "1954",
         "1954-11-01"
       ],
-      "first_coronation": "1954",
+      "first_coronation": "1954-11-01",
       "strongest_evidence": "papal_personal_coronation",
       "evidence_types": [
         "papal_personal_coronation"
@@ -7899,10 +7869,9 @@
       "diocese_modern": "Brindisi-Ostuni",
       "country": "Italy",
       "coronation_dates": [
-        "1996",
         "1996-10-26"
       ],
-      "first_coronation": "1996",
+      "first_coronation": "1996-10-26",
       "strongest_evidence": "papal_personal_coronation",
       "evidence_types": [
         "papal_personal_coronation",
@@ -8152,10 +8121,9 @@
       "diocese_modern": "Savona-Noli",
       "country": "Italy",
       "coronation_dates": [
-        "1815",
         "1815-05-10"
       ],
-      "first_coronation": "1815",
+      "first_coronation": "1815-05-10",
       "strongest_evidence": "papal_personal_coronation",
       "evidence_types": [
         "papal_personal_coronation",
@@ -8935,10 +8903,9 @@
       "diocese_modern": "Turin",
       "country": "Italy",
       "coronation_dates": [
-        "1903",
         "1903-05-27"
       ],
-      "first_coronation": "1903",
+      "first_coronation": "1903-05-27",
       "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
         "papal_coronation_act",
@@ -10108,12 +10075,11 @@
       "diocese_modern": "Mexico City",
       "country": "Mexico",
       "coronation_dates": [
-        "1895",
         "1895-10-12",
         "1945-10-12",
         "1979-01-27"
       ],
-      "first_coronation": "1895",
+      "first_coronation": "1895-10-12",
       "strongest_evidence": "papal_personal_coronation",
       "evidence_types": [
         "papal_personal_coronation",
@@ -14438,10 +14404,9 @@
       "diocese_modern": "Leiria",
       "country": "Portugal",
       "coronation_dates": [
-        "1946",
         "1946-05-13"
       ],
-      "first_coronation": "1946",
+      "first_coronation": "1946-05-13",
       "strongest_evidence": "papal_legate_deputation",
       "evidence_types": [
         "papal_legate_deputation",
@@ -16443,11 +16408,10 @@
       "diocese_modern": "Barquisimeto",
       "country": "Venezuela",
       "coronation_dates": [
-        "1952",
         "1952-09-12",
         "1985-01-27"
       ],
-      "first_coronation": "1952",
+      "first_coronation": "1952-09-12",
       "strongest_evidence": "papal_legate_deputation",
       "evidence_types": [
         "papal_legate_deputation",
