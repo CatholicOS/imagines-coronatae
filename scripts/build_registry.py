@@ -1,5 +1,6 @@
 import json,collections,datetime,os,re
-REPO='/home/johnrdorazio/development/CatholicOS_org/imagines-coronatae'
+import pathlib
+REPO=str(pathlib.Path(__file__).resolve().parent.parent)  # repo root, relative to this script
 R=json.load(open(os.path.join(REPO,'data','imagines-coronatae.json')))['records']
 
 EV={'papal_coronation_act':'act','papal_legate_deputation':'legate',

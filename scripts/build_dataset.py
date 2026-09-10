@@ -1,5 +1,6 @@
 import json,os,re,datetime,collections
-REPO='/home/johnrdorazio/development/CatholicOS_org/imagines-coronatae'
+import pathlib
+REPO=str(pathlib.Path(__file__).resolve().parent.parent)  # repo root, relative to this script
 FIELDS=['series','volume','year','page','act_number','act_type','pope','citation','source_pdf_url',
  'evidence_type','rubric_latin','incipit_latin','image_title_latin','image_title_vernacular',
  'image_subject','church_or_sanctuary','locality','diocese_latin','diocese_modern','country',

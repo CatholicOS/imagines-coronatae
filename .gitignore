@@ -4,3 +4,6 @@ txt/
 *.pdf
 aas_index.html
 urls.tsv
+
+# Local agent/editor config
+.serena/
