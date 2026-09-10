@@ -96,7 +96,13 @@ crowned in 1904 and again in 1954. Where an act's title reduces to nothing but p
 locality and subject carry the identification, and a record is merged only if exactly one cluster at
 that place fits. Subjects never cross: a St Joseph is never merged into a Marian image.
 
-Residual duplicates are possible where a source names no locality at all.
+Residual duplicates are possible where a source names no locality at all, or where two acts
+describe one image in words too different to match. One such pair is left open deliberately:
+**Piekary Śląskie** ([issue #1](https://github.com/CatholicOS/imagines-coronatae/issues/1)), where
+AAS 55 (1963), 225 records a crowning *Pii Pp. XI permissu* and AAS 111 (2019), 1343 records August
+Hlond crowning the Piekary image as Apostolic Administrator — almost certainly the same event, but
+neither act gives a date or names the other, so the merge would be inference rather than evidence.
+It waits on the Chapter archives.
 
 ## What "crowned under papal authority" means here
 
