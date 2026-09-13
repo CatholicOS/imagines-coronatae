@@ -1,8 +1,11 @@
 import json,re,collections,unicodedata as U,datetime,os,csv,pathlib
 import pathlib
 REPO=str(pathlib.Path(__file__).resolve().parent.parent)
-src=json.load(open(REPO+'/data/attestations.json'))
+src=json.load(open(REPO+'/data/attestations.json',encoding='utf-8'))
 R=src['records'] if isinstance(src,dict) else src
+_acsp=pathlib.Path(REPO)/'data'/'attestations-acsp.json'
+if _acsp.exists():
+    R=R+json.load(open(_acsp,encoding='utf-8'))['records']   # Chapter-archive layer, same record shape
 META=src.get('metadata',{}) if isinstance(src,dict) else {}
 SPECIAL=str.maketrans({'ł':'l','Ł':'l','ø':'o','đ':'d','æ':'ae','œ':'oe','ß':'ss','þ':'th'})
 STOP=set('''nuestra senora nossa senhora notre dame madonna matka boza bozej panna beata beatae maria mariae
@@ -12,6 +15,9 @@ nostra nostrae della delle del dei los las sub titulo vulgo appellata appellatae
 deipara deiparae genetricis the and que pie colitur servatur templo ecclesia templi loco urbe oppido dioecesis
 archidioecesis fines intra quae cum divino puero iesu christi mater matris madre nuncupata nuncupatae
 antiqua antiquum vetus vetusta miraculis clara insignis titulus
+bambino gesu puero pueri iesu child figlio divin vergine santissima ssma sma miracolosa effigie vera suo sua detta
+scuole schole pie padri frati monaci teatini cappuccini agostiniani domenicani francescani gesuiti serviti
+chiesa nella nelle receipt imagines jesu roma rome esistente chiesa ordine congregazione convento
 # Latin/vernacular DESCRIPTIVE adjectives. These praise an image, they do not identify it, and if
 # left in they block real merges: Notre-Dame du Cap reduced to {rosario} in one act and
 # {perinsigne} in another, so two records for one shrine survived side by side.
@@ -38,6 +44,7 @@ GEO_STOP={'near','prope','the','del','de','di','da','of','city','urbe','urbs','u
  'apulia','umbria','marche','lazio','abruzzo','basilicata','molise','silesia','slask','mazovia','malopolska',
  'wielkopolska','pomerania','galicia','catalonia','cataluna','andalusia','andalucia','castile','castilla',
  'extremadura','aragon','navarra','bavaria','bayern','tyrol','flanders','wallonia','brabant','parish','near',
+ 'monte','mons','montis','eremo','territory','territorio','loci','tolfa','avellino','dalmatia','valtellina','salento','japigia',
  'diocese','archdiocese','province','state','departamento','department','county','district','shrine','sanctuary'}
 ECCL_STOP={'ecclesia','ecclesiae','paroecialis','paroeciali','templum','templo','templi','basilica',
  'basilicae','minoris','sanctuario','santuario','sanctuary','shrine','aedes','aede','cathedral','cathedralis',
@@ -156,9 +163,10 @@ def collapse_dates(dates):
         if y not in best or len(d)>len(best[y]): best[y]=d
     return sorted(best.values())
 
-SRC=['series','volume','year','page','citation','source_pdf_url','act_number','act_type','pope',
-     'evidence_type','act_date','coronation_date','legate','rubric_latin','incipit_latin','confidence','notes']
-RANK={'papal_coronation_act':4,'papal_legate_deputation':3,'papal_personal_coronation':3,
+SRC=['series','volume','year','page','folio','folio_to','citation','source_pdf_url','act_number','act_type','pope',
+     'evidence_type','act_date','concession_date','coronation_date','legate','deputy','register_refs','documents',
+     'rubric_latin','incipit_latin','confidence','notes']
+RANK={'papal_coronation_act':4,'chapter_decree':4,'papal_legate_deputation':3,'papal_personal_coronation':3,
       'retrospective_attestation':1,'norms':0}
 CONF={'high':3,'medium':2,'low':1}
 def best(g,f):
@@ -172,7 +180,7 @@ def slug(s,n=48):
 
 images=[];seen=collections.Counter()
 for g in clusters:
-    g=sorted(g,key=lambda r:(r.get('year') or 0,r.get('page') or 0))
+    g=sorted(g,key=lambda r:(r.get('year') or 9999,{'ACSP':0,'ASS':1,'AAS':2}.get(r.get('series'),3),r.get('page') or 0))
     cds=collapse_dates([x['coronation_date'] for x in g if x.get('coronation_date')])
     ev=sorted({x['evidence_type'] for x in g},key=lambda e:-RANK.get(e,0))
     base=slug((best(g,'image_title_vernacular') or best(g,'image_title_latin') or 'image')+'-'+(best(g,'locality') or best(g,'country') or ''))

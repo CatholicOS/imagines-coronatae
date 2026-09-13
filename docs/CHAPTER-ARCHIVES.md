@@ -93,6 +93,17 @@ A full **TEI transcription** of ff. 1r–302v (713 pages) was produced with Vulg
 2026; the alignment of its `<pb>` elements to the BAV folio labels is pb *n* = image index − 2, and a
 `pb-to-folio.csv` sidecar records it. Folios 303r–v were not transcribed.
 
+The transcription was swept in September 2026 (`docs/EXTRACTION_SPEC_ACSP.md`): **34 crowned images**
+documented across the volume, 22 with the date of the ceremony and 23 with the date of the Chapter's
+decree of concession, each cited by folio range and linked to the BAV viewer. The archivist's marginal
+notes proved to be the finding-aid — they name the image and church, give the concession date
+(*"20. Junii 1689 conced."*) and cross-reference the notarial instrument in the *Capsulae* and the
+decree registers (*"Caps. 39 fasc. 329"*, *"Lib. XXI f. 318"*). Only **three** of the 34 are mentioned
+anywhere in ASS or AAS (Tirano, Trsat, Capocroce at Frascati); for the other 31 the Chapter's dossier
+is the sole official record. Where the gazette and the dossier meet they agree: AAS 19 (1927), 337
+recalls Tirano crowned on 29 September 1690, and the dossier has the decree of 10 April 1690 and the
+canon, Camillo Mugiasca, who performed it.
+
 ### Limits
 
 - **Not OCR'd.** These are page images only; there is no text layer, so the volume cannot be swept

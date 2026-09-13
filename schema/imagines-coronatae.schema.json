@@ -4,83 +4,359 @@
   "title": "Imagines Coronatae — crowned sacred images attested in the official acts of the Holy See",
   "description": "One record per crowned IMAGE. Every act that attests it is kept in that image's `sources` array, so an image cited across several volumes is one record with several sources.",
   "type": "object",
-  "required": ["metadata", "images"],
+  "required": [
+    "metadata",
+    "images"
+  ],
   "properties": {
     "metadata": {
       "type": "object",
-      "required": ["source", "generated", "record_count"],
+      "required": [
+        "source",
+        "generated",
+        "record_count"
+      ],
       "properties": {
-        "source": { "type": "string" },
-        "generated": { "type": "string", "format": "date" },
-        "record_count": { "type": "integer", "minimum": 0 },
-        "structure": { "type": "string" },
-        "method": { "type": "string" },
-        "caveats": { "type": "array", "items": { "type": "string" } },
-        "statistics": { "type": "object" }
+        "source": {
+          "type": "string"
+        },
+        "generated": {
+          "type": "string",
+          "format": "date"
+        },
+        "record_count": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "structure": {
+          "type": "string"
+        },
+        "method": {
+          "type": "string"
+        },
+        "caveats": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "statistics": {
+          "type": "object"
+        }
       }
     },
-    "images": { "type": "array", "items": { "$ref": "#/$defs/image" } }
+    "images": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/image"
+      }
+    }
   },
   "$defs": {
     "image": {
       "type": "object",
-      "required": ["id", "country", "sources", "source_count", "confidence"],
+      "required": [
+        "id",
+        "country",
+        "sources",
+        "source_count",
+        "confidence"
+      ],
       "properties": {
-        "id": { "type": "string", "description": "Stable slug: title plus locality" },
-        "image_title_vernacular": { "type": ["string", "null"] },
-        "image_title_latin": { "type": ["string", "null"] },
-        "image_subject": { "type": ["string", "null"], "description": "Blessed Virgin Mary, Sacred Heart of Jesus, Infant Jesus, St Joseph, Holy Family, other" },
-        "church_or_sanctuary": { "type": ["string", "null"] },
-        "locality": { "type": ["string", "null"] },
-        "diocese_latin": { "type": ["string", "null"] },
-        "diocese_modern": { "type": ["string", "null"] },
-        "country": { "type": ["string", "null"] },
-
+        "id": {
+          "type": "string",
+          "description": "Stable slug: title plus locality"
+        },
+        "image_title_vernacular": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "image_title_latin": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "image_subject": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Blessed Virgin Mary, Sacred Heart of Jesus, Infant Jesus, St Joseph, Holy Family, other"
+        },
+        "church_or_sanctuary": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "locality": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "diocese_latin": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "diocese_modern": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "country": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
         "coronation_dates": {
-          "type": "array", "items": { "type": "string" },
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
           "description": "Every distinct crowning date the sources give. More than one entry means the image was crowned more than once (e.g. a Vatican Chapter crowning later renewed by a Pope), NOT that there are duplicate records."
         },
-        "first_coronation": { "type": ["string", "null"] },
-
+        "first_coronation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
         "strongest_evidence": {
-          "type": ["string", "null"],
-          "enum": ["papal_coronation_act", "papal_legate_deputation", "papal_personal_coronation", "retrospective_attestation", "norms", null],
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "papal_coronation_act",
+            "papal_legate_deputation",
+            "papal_personal_coronation",
+            "retrospective_attestation",
+            "norms",
+            "chapter_decree",
+            null
+          ],
           "description": "Best evidence across all sources, ranked: granting act > legate deputation / crowned by the Pope in person > retrospective mention."
         },
-        "evidence_types": { "type": "array", "items": { "type": "string" } },
-        "popes": { "type": "array", "items": { "type": "string" } },
-        "legates": { "type": "array", "items": { "type": "string" } },
-        "confidence": { "type": "string", "enum": ["high", "medium", "low"], "description": "Best confidence among the sources" },
-
-        "source_count": { "type": "integer", "minimum": 1 },
+        "evidence_types": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "popes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "legates": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "confidence": {
+          "type": "string",
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ],
+          "description": "Best confidence among the sources"
+        },
+        "source_count": {
+          "type": "integer",
+          "minimum": 1
+        },
         "sources": {
-          "type": "array", "minItems": 1,
-          "items": { "$ref": "#/$defs/source" },
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/source"
+          },
           "description": "Every ASS/AAS act attesting this image. Nothing is discarded when records are consolidated."
         }
       }
     },
     "source": {
       "type": "object",
-      "required": ["series", "volume", "year", "page", "evidence_type"],
+      "required": [
+        "series",
+        "volume",
+        "page",
+        "evidence_type"
+      ],
       "properties": {
-        "series": { "type": "string", "enum": ["ASS", "AAS"] },
-        "volume": { "type": "integer" },
-        "year": { "type": "integer" },
-        "page": { "type": "integer", "description": "Printed page on which the act begins" },
-        "citation": { "type": ["string", "null"] },
-        "source_pdf_url": { "type": ["string", "null"], "format": "uri" },
-        "act_number": { "type": ["string", "null"] },
-        "act_type": { "type": ["string", "null"] },
-        "pope": { "type": ["string", "null"] },
-        "evidence_type": { "type": "string", "enum": ["papal_coronation_act", "papal_legate_deputation", "papal_personal_coronation", "retrospective_attestation", "norms"] },
-        "act_date": { "type": ["string", "null"] },
-        "coronation_date": { "type": ["string", "null"] },
-        "legate": { "type": ["string", "null"] },
-        "rubric_latin": { "type": ["string", "null"] },
-        "incipit_latin": { "type": ["string", "null"] },
-        "confidence": { "type": ["string", "null"], "enum": ["high", "medium", "low", null] },
-        "notes": { "type": ["string", "null"] }
+        "series": {
+          "type": "string",
+          "enum": [
+            "ASS",
+            "AAS",
+            "ACSP"
+          ],
+          "description": "ASS = Acta Sanctae Sedis (1865-1908); AAS = Acta Apostolicae Sedis (1909- ); ACSP = Archivio del Capitolo di San Pietro (BAV), series Madonne coronate"
+        },
+        "volume": {
+          "type": "integer"
+        },
+        "year": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Year of the volume (ASS/AAS) or of the concession/coronation (ACSP); null if the dossier is undated"
+        },
+        "page": {
+          "type": "integer",
+          "description": "Printed page on which the act begins (ASS/AAS), or the transcription page number pb (ACSP)"
+        },
+        "citation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_pdf_url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        },
+        "act_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "act_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "pope": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "evidence_type": {
+          "type": "string",
+          "enum": [
+            "papal_coronation_act",
+            "papal_legate_deputation",
+            "papal_personal_coronation",
+            "retrospective_attestation",
+            "norms",
+            "chapter_decree"
+          ],
+          "description": "chapter_decree = concession of the crown by the Chapter of St Peter’s under the Sforza Pallavicino legacy, documented in the Chapter’s own dossier (petition, decree, instrument of donation, relazione)"
+        },
+        "act_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "coronation_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "legate": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "rubric_latin": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "incipit_latin": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "confidence": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "high",
+            "medium",
+            "low",
+            null
+          ]
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "folio": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "ACSP only: folio at which the dossier begins, e.g. 3r"
+        },
+        "folio_to": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "ACSP only: folio at which the dossier ends"
+        },
+        "concession_date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "ACSP only: date the Chapter decreed the concession"
+        },
+        "register_refs": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "string"
+          },
+          "description": "ACSP only: cross-references to the Chapter’s registers and Capsulae"
+        },
+        "deputy": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "ACSP only: canon or prelate deputed to crown"
+        },
+        "documents": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "string"
+          },
+          "description": "ACSP only: document types in the dossier"
+        }
       }
     }
   }

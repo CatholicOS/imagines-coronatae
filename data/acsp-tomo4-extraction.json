@@ -1,0 +1,1176 @@
+[
+ {
+  "image_title_vernacular": "Madonna del Lago",
+  "image_title_latin": "Imago B. M. V. nuncupata de Lacu / Beatissima Virgo a Lacu",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa di S. Maria del Lago (fuori di Bertinoro), in the custody of the Camaldolese monks of the Abbey of S. Maria d'Urano",
+  "locality": "Bertinoro",
+  "diocese": "Bertinoro",
+  "country": "Italy",
+  "concession_date": "1689-06-20",
+  "coronation_date": "1705-08-09",
+  "crowns": "two (Virgin and Child) — 'duas Coronas aureas ponderis Scutor. Quadraginta unius cum dimidio auri'",
+  "deputy": "Giovanni Battista Missiroli, Bishop of Bertinoro ('Jo. Baptista ... Epus Brittinorij', 'Monsignor Missiroli, Vescovo di Bertinoro')",
+  "petitioner": "Abbate Francesco Giacinto Ascensini, Provost of the cathedral of Bertinoro (original instances to the Chapter); execution then solicited by Bishop Missiroli in May 1705 and by Abbot Vitale Ascevolini of S. Maria d'Urano",
+  "register_refs": [
+   "Caps. 29. f. 379",
+   "Caps: 39. fasc: 309",
+   "Raffaelli Sinodo Lib. II. MS. nell' Arch. Vat.no Capitolare pag. 45. §. XXXI"
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "instrumentum donationis",
+   "lettera",
+   "other",
+   "relazione",
+   "stampa"
+  ],
+  "pb_from": 3,
+  "pb_to": 56,
+  "folio_from": "2r",
+  "folio_to": "23v.[02.mn.0000]",
+  "key_quote": "Dell' Immagine di Maria detta la Madonna del Lago, che si venera nella Chiesa situata fuori di Bertinoro",
+  "confidence": "high",
+  "notes": "Place-name OCR forms: 'Brecinoca' (f.2r silversmith account), 'Brictinorii', 'Brittinorij', 'Britonorij', 'Ber-gamoro'; abbey 'de Urano' also OCR'd as 'de Trano', 'de Prano'. Concession date 1689-06-20 comes from the margin note '20. Junii 1689 conced.' on the near-empty title leaf f.5v ('Conc[essione] dell'Ill'mo e R'mo Capitolo di S. Pietro delle Corone d'oro', signed 'Gio: Giardini Agt.o'); the crowns' inscription and the 1789 engraving say the crown was donated 'Anno 1704', and the Chapter's delegation letter is dated Rome 13 June 1705. Coronation on the theatre in the piazza of Bertinoro on 9 Aug 1705 (instrument 'die nona mensis Augusti' 1705; printed relazione: feasts 8-11 Aug 1705, crowning on Sunday). Documents in order: f.2r silversmith's account (two crowns, 41.5 scudi); f.3r-4r extract from Raffaelli's MS synod with instrument summary ('other'); f.5v concession title leaf ('decretum'); f.6r-16r printed 'Vera, e distinta relazione' (Cesena, Demetrio Degni, 1705) with an inserted 1789 engraving by Cavallucci/Bombelli; f.17r inserted printed odes for the 1805 centenary (one copy OCR'd as '1826'/'1851', likely misread); f.19r-22r notarial instrument of donation and receipt by Petrus Dominicus Toninus, incorporating the Chapter's letter of 13 June 1705 and the monks' mandate of 8 Aug 1705; f.22v bishop's attestation of the notary, 27 Aug 1705, with archivist margin note 'Inś Declarationis ... Die 9. Augś 1705' and 'Caps: 39. fasc: 309'; f.23r-v bishop's letter of thanks to the Chapter, Bertinoro 27 Aug 1705, in two copies (second copy dateline OCR'd 'Ostiglia', signature 'Cristoforo Vin.co Di Berrini' garbled). The two register refs 'Caps. 29. f. 379' and 'Caps: 39. fasc: 309' probably refer to the same instrument with an OCR discrepancy.",
+  "n_batches": 1,
+  "batches": [
+   "T01"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna di Tirano",
+  "image_title_latin": "Sacrae Imagines Beatissimae Virginis Mariae ac Pueri Domini Nostri Jesu Christi existentes in Ven. Ecclesia Beatae Virginis Mariae Tirani (also 'Virgo Tiranensis' / 'Beata Maria Virgo de Tirano' in the prints and the 1629 visitation)",
+  "image_subject": "Blessed Virgin Mary",
+  "church_or_sanctuary": "Ven. Ecclesia Beatae Virginis Mariae, Divo Michaeli Archangelo dicata, sita extra et prope oppidum Tirani (Chiesa / Santuario della Madonna di Tirano)",
+  "locality": "Tirano (Valtellina)",
+  "diocese": "Como",
+  "country": "Italy",
+  "concession_date": "1690-04-10",
+  "coronation_date": "1690-09-29",
+  "crowns": "two (Virgin and Child) — 'duas Coronas Auri', 18 ounces, value 200 scudi auri de Camera (instrument); 'doi Corone di Oro ... de la Madonna e del suo Bambino' (silversmith's account)",
+  "deputy": "Camillo Mugiasca (Mugiacea), canon of the Vatican Basilica, 'ad haec specialiter deputatus'",
+  "petitioner": "Deputati della Madonna SS.ma di Tirano (Deputati et Rectores of the sanctuary: Antonio Meriti, Orazio Francesco Lucino, Domenico Mattio, Giacomo Liazzi), through a supplica to Pope Alexander VIII; the commemorative inscription says the honour was procured by Francesco Saverio Guicciardi, Bishop of Narni",
+  "register_refs": [],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "instrumentum donationis",
+   "other",
+   "relazione",
+   "stampa",
+   "supplica"
+  ],
+  "pb_from": 57,
+  "pb_to": 160,
+  "folio_from": "24r",
+  "folio_to": "69v",
+  "key_quote": "I Deputati della Madonna ss.ma di Tirano in Valtellina Dioc. di Como ... / margin f.26v: '10 Apr. 1690 Decreta fuit'",
+  "confidence": "high",
+  "notes": "Only the undated petition to the Pope (f.24r-v) and an inserted printed sheet with Latin captions listing the Virgin's miracles ('Præsentissima Virginis Tiranensis ope', 'Vbi steterunt pedes Mariæ', 'cum privil.') fall within this range; no decree, instrument or coronation date is visible here. The dossier runs to the end of the batch (f.25v blank) and is shared with the next batch, so any concession/coronation documents would lie past this range. Image subject not specified in these pages (whether with Child unknown). 'Levmaria' in the OCR is unclear (perhaps 'Lombardia'/'Germania'). | Whole range is one dossier. Contents: supplica of the Deputati to Alexander VIII (ff.24r-24v, docket f.26v with margin note '10 Apr. 1690 Decreta fuit' = concession date); printed devotional sheets inserted at f.25r ('Praesentissima Virginis Tiranensis ope', 'Ubi steterunt pedes Mariae') and ff.36r-37v ('Raptus Angelorum', 'Virgo Tiranensis'; one sheet marked 'Rinouato dal Bianchi 1780', a later insertion); silversmith's account f.27r (two gold crowns for Madonna and Bambino, total 239.20 scudi after tare; silversmith named in margin f.32v as 'Gio: Giardini Arg.o'; ff.31r-32v otherwise only page numerals); notarial instrument ff.28r-30r drawn by Paolo Francesco Bononi, notary of Como, dated Friday 29 Sept 1690 (weekday verified), crowns placed on the heads of the images of the Virgin and Child in the church, hymn Ave Maris Stella sung; vicar-general's attestation dated Como 7 Oct 1690; authenticated copy (f.33r) of the inscription on a large commemorative 'Quadro' hung in the sanctuary, signed by canon G. B. Robustelli; Mugiasca's relazione ff.34r-35r (left Como 1 Sept 1690, crowning on the feast of St Michael with ~20,000 people, Mass sung by the archpriest, Capuchin panegyric); f.35v is a stray unrelated fragment of Chapter business; ff.38r-48v a printed book 'Breve Istoria della miracolosissima Madonna di Tirano' by Gio. Antonio Cornacchi (1621; reprint Parma/Milano 1747), which runs on past f.48v. The place is called 'Tivano' in parts of the instrument (OCR/scribal variant of Tirano). The relazione (f.34v) has the panegyric 'in Lode della Beata Vergine del Lago' — likely OCR garbling, since every other document names Tirano. The instrument locates Tirano in the 'Statuum Ill.mor D.norum Rhetorum' (under the Grisons in 1690); country given as Italy on the basis of the place itself (the supplica calls it 'uno dei più famosi Santuarii d'Italia'). The crowned object is described as 'la Statua in mezzo la Chiesa' in the relazione, while the book describes the altar ancona with the effigy of Our Lady standing; the instrument speaks of two 'Sacrae Imagines' (Virgin and Child). No 'Lib.'/'Caps.' register cross-references occur in this range; the marginal numerals (30-46) are foliation/page counts only. Supplica begins with its heading at f.24r, so the dossier appears to start here, but folios before 24r were not visible. | Only a printed booklet (chapters IV to the end, with 'Addizioni', twelve Latin 'Elogia' on the Venerable Mario Omodei, and a closing protestation signed 'Homodaeus Anonymus') is in range; it begins mid-way (printed p. 45 at f. 46r), so chapters I-III and any supplica/decree/instrument for this image lie before pb 113. No coronation document, concession date or deputy is visible in the range. Diocese taken from the booklet itself ('Archivio del Vescovato di Como', 'Vescovo di Como'). Which image was crowned (the 'Ancona ... con l'effigie di Nostra Signora Santissima in piedi' over the privileged altar, or the facade statue with the Child) is not stated. OCR damage: many pages have marginal columns of broken word-fragments (pb 115, 117, 124-125, 129, 131, 133, 135, 137, 141, 143, 145, 147, 149, 151, 153).",
+  "n_batches": 3,
+  "batches": [
+   "T01",
+   "T02",
+   "T03"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna SS.ma di Cibona (Monte Urbano)",
+  "image_title_latin": "Beata Virgo Maria [de Cibona], nunc vero Montis Urbani (OCR: 'Beatæ Virgini Mariali Citori, nunc vero montis Urbani')",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa del Sacro Eremo di Cibona, dei PP. Eremiti di Monte Senario",
+  "locality": "Cibona / Monte Urbano (Eremo di Cibona, territory of Tolfa)",
+  "diocese": "Sutri",
+  "country": "Italy",
+  "concession_date": "1690",
+  "coronation_date": "1704-06-01",
+  "crowns": "two (Virgin and Infant Jesus) — 'duas Coronas aureas ... coronandi vera Simulacra ... Beat.mæ Virginis ejusq. SS.mi Infantis Jesu'",
+  "deputy": "R.mus D. Melchior [surname garbled], canon of the Vatican Basilica, ex Cubicularius honoris of Clement XI, 'specialiter deputatus'",
+  "petitioner": "The Hermits of Monte Senario at the Eremo di Cibona ('Istanza ... 1690'), with an attestation letter of 'Fran.co Vesc.o di Subi.o Neri' (probably Francesco, bishop of Sutri e Nepi) dated 8 May 1690",
+  "register_refs": [
+   "Caps. 39. fasc. 329."
+  ],
+  "documents": [
+   "instrumentum donationis",
+   "lettera",
+   "supplica"
+  ],
+  "pb_from": 161,
+  "pb_to": 168,
+  "folio_from": "70r",
+  "folio_to": "73v",
+  "key_quote": "Immagine della Madonna S.ma di Cibona, ò M.te Vrbano, Diocese di Sutri venerata nella Chiesa de PP. Eremiti del M.te Senario che habitano nel Sac. Eremo denominato di Cibona",
+  "confidence": "high",
+  "notes": "The bishop's letter (f. 70r-71r, dated 'Stegi 8. Maggio 1690' — 'Stegi' is probably OCR for Nepi; signature 'Vesc.o di Subi.o Neri' read as 'Vescovo di Sutri e Nepi') attests the three conditions: painted c. 1462 at the expense of Agostino Chigi, alum-works contractor, for the alum-mine workers; miracles registered to no. 1223 (or 3000); given in custody to the hermits by Urban VIII in 1633; never crowned. f. 71v docket: 'Istanza Per la Coronazione della Sac. Immagine della Bma. Verg. Maria del M. Urbano Diocesi di Sut[ri] 1690' with annotations 'Suis loc. et tempore corona[bitur]' and 'Scribat S[ecreta]rio' — so the 1690 date is that of the request/deferred concession, not an explicit 'conceditur'. The instrument (f. 72r-73r) is dated 1 June 1704, Clement XI year 4, drawn up 'in mansione Cap.li eiusd. Erem.i'; it records the crowns weighed at 'centum du[o] et unius denarij aurei' and that the simulacra were carried to the church and crowned before a great multitude; accepted by 'R. P. f. Amadeus ... Rector ejusd. Eremij'; notary 'Horatius ... Suentius' (garbled). The archivist's margin note at f. 73v reads 'Instrum. Donationis Duarum Coronarum aurearum factae ... simulacro miraculoso B. M. V. ... in Ven. Eccl. Sacri Eremi RR. PP. Eremitarum ... in Terr[itorio] [T]olphae; die 18 Junij 1[7]84' — OCR gives '1784', impossible for this volume, and '18 Junij' conflicts with the instrument's 'prima Junii'; the instrument date is preferred. Country inferred from Sutri/Tolfa.",
+  "n_batches": 1,
+  "batches": [
+   "T03"
+  ]
+ },
+ {
+  "image_title_vernacular": "Beatissima Vergine detta di S. Luca",
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary",
+  "church_or_sanctuary": null,
+  "locality": null,
+  "diocese": null,
+  "country": null,
+  "concession_date": null,
+  "coronation_date": null,
+  "crowns": "one ('il dono della Corona d'oro')",
+  "deputy": null,
+  "petitioner": "the 'Soprastanti di cotesta venerata Immagine' (via a request to the Chapter); the Chapter in turn asks an unnamed prelate ('V.S. Ill.ma') for a relazione",
+  "register_refs": [],
+  "documents": [
+   "lettera"
+  ],
+  "pb_from": 169,
+  "pb_to": 170,
+  "folio_from": "74r",
+  "folio_to": "74v",
+  "key_quote": "l'istanza dai Soprastanti di cotesta venerata Immagine della Beatiss.ma Vergine detta di S. Luca, di fare alla med.ma il dono della Corona d'oro",
+  "confidence": "medium",
+  "notes": "A single (draft) letter from the Chapter asking a prelate to report whether the image ('la tela predetta', a painting on canvas) is ancient and miraculous and has not already received a gold crown; no place, diocese, date or addressee is named. The 'S. Luca' title could suggest a well-known image (e.g. Bologna) but the text does not say so. A margin note at the head of f. 74r ('Instra Donationis Dna Coronat. amiea, fac' foras similiae miraculosi d.', i.e. 'Instrumentum Donationis duarum Coronarum aurearum factae simulacro miraculoso ...') is garbled; it may be the tail of the Cibona note on f. 73v or a heading belonging to this item — no instrument for the S. Luca image is actually present in the range. | Draft/copy of the Chapter's letter to an unnamed prelate asking for a relazione on antiquity and miracles of a painting ('la tela predetta') and whether it has already received a gold crown. No town, church or diocese is given; the famous Madonna di San Luca of Bologna is NOT named in the text and is not asserted here. A garbled margin endorsement at the top of f.74r ('Instra Donationis Dna Coronat. amiea, fac' foras similiae miraculosi d.' = Instrum. Donationis duarum Coronarum aurearum fact. simulacro miraculoso...) may belong to a preceding dossier not visible in this range; hence starts_before_range set true. No concession recorded in these pages.",
+  "n_batches": 2,
+  "batches": [
+   "T03",
+   "T04"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna SS.ma delle Grazie (Żabbar, Malta)",
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary",
+  "church_or_sanctuary": "Chiesa Parrocchiale della Terra di Zabar (Żabbar)",
+  "locality": "Żabbar (OCR 'Zabar'), Malta",
+  "diocese": null,
+  "country": "Malta",
+  "concession_date": null,
+  "coronation_date": null,
+  "crowns": "one requested ('concedere La Corona')",
+  "deputy": null,
+  "petitioner": "Francesco Pace, Maltese priest ('Fran.co Pace Sacerdote Maltese'), recommended by the Auditor Acquaviva ('raccommandato dall'Aud.re Acquaviva')",
+  "register_refs": [],
+  "documents": [
+   "other",
+   "supplica"
+  ],
+  "pb_from": 171,
+  "pb_to": 174,
+  "folio_from": "75r",
+  "folio_to": "76v",
+  "key_quote": "concedere La Corona alla Madonna S.ma delle Gratie in Malta esistente nello Chiesa Parochiale della Terra Zabar",
+  "confidence": "high",
+  "notes": "Undated supplica; it cites as witnesses to the image's veneration the former Inquisitors and Apostolic Ministers of Malta: Cardinals Marescotti, Acquaviva, Ruffo, Pallavicino, and Mons. Passionei, Spinola, Caracciolo. ff. 75v-76r are blank; f. 76v is the docket ('Per Il Sacerdote Fran.co Pace Maltese p.r l'incoronatione di Una Madonna Miracolosa'). The range ends here, so any decree, instrument or relazione for Żabbar would lie beyond f. 76v and is not visible. | Petition only. Archivist's docket on f.76v: 'Per Il Sacerdote Fran.co Pace Maltese p.r l'incoronatione di Una Madonna Miracolosa — Non si trova concessa' (no concession found). Supplica cites Cardinals Marescotti, Acquaviva, Russo, Pallavicino and Mons. Passionei, Spinola, Caracciolo as former Inquisitors who venerated the image. 'other' = the archivist's docket note.",
+  "n_batches": 2,
+  "batches": [
+   "T03",
+   "T04"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna di Belvedere",
+  "image_title_latin": "Beatissima Virgo Maria Collis Capsani [Caprani] nuncupati di Belvedere huius Civitatis Castelli Diœcesis",
+  "image_subject": "Blessed Virgin Mary with Child (terracotta statue, seated, Child on her knees)",
+  "church_or_sanctuary": "Tempio/Chiesa della Madonna di Belvedere on the hill of Caprano (Belvedere) outside Porta S. Egidio; crowning performed in the Cathedral of SS. Florido e Amanzio, Città di Castello",
+  "locality": "Città di Castello",
+  "diocese": "Città di Castello (Civitatis Castelli Diœcesis)",
+  "country": "Italy",
+  "concession_date": null,
+  "coronation_date": "1703-11-11",
+  "crowns": "two (Virgin and Child)",
+  "deputy": "Alexander (Bernardo) Casale (Casalius Coccianus Romanus), Canon of St Peter's, Referendary of both Signatures",
+  "petitioner": null,
+  "register_refs": [
+   "Caps. 29. Fasc. 3.º 19.",
+   "N.º 36. 2.º"
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "instrumentum donationis",
+   "relazione"
+  ],
+  "pb_from": 175,
+  "pb_to": 184,
+  "folio_from": "77r",
+  "folio_to": "81v",
+  "key_quote": "Decretum S. Belvedere fuori delle mura della Città di Caprarola coronata li XI. Novembre 1703",
+  "confidence": "high",
+  "notes": "Margin note reads 'Città di Caprarola' (OCR/archivist slip) but every document says Città di Castello; the hill is 'Villa di Caprano' / 'Collis Capsani'. Margin '(perusina)' on f.78v. Instrument dated 11 Nov 1703 (Clement XI a. III), notary Angelo Balubas Tiphernas; crowns received by Abbate Giuseppe Grasselli, perpetual curate/rector of the church; crowns weighed 54 scudi d'oro in oro. Relazione says the crowning took place under Bishop Eustachi. Endorsement on f.81v gives '1.ª 7br. 1703' (1 Sept 1703), possibly the concession/decree date, but its function is unclear so concession_date left null. Conto on f.79r (dated '15 9bre') signed 'Bernardo Casale Can.co Red.re dep.to' — the instrument names the deputy 'Alexander Casalius'; both readings kept.",
+  "n_batches": 1,
+  "batches": [
+   "T04"
+  ]
+ },
+ {
+  "image_title_vernacular": "Simulacro miracoloso della SS.ma Vergine della Cattedrale d'Otranto (eletta Padrona sotto il titolo della Natività)",
+  "image_title_latin": "Simulacrum Sanctissimae Virginis Mariae ... existens in Ecclesia Metropolitana Hydrunti (antiquissima ac miraculosissima Deipara Virgo sedens, Christum in sinu habens)",
+  "image_subject": "Blessed Virgin Mary with Child (gilded wooden statue, seated, with the Child Jesus in her lap)",
+  "church_or_sanctuary": "Cattedrale / Ecclesia Metropolitana Hydruntina (Otranto), altare maggiore",
+  "locality": "Otranto",
+  "diocese": "Otranto (Archiepiscopus Hydruntinus, Primas Salentinorum)",
+  "country": "Italy",
+  "concession_date": "1691-05-14",
+  "coronation_date": "1705-03-07",
+  "crowns": "two (Virgin and Child), value 78 1/2 scudi d'oro in oro",
+  "deputy": "Francesco Maria de Aste, Archbishop of Otranto, elected by the Chapter's letter of 10 Jan 1705 in place of one of its canons",
+  "petitioner": "Clero e Città d'Otranto; concession originally granted at the prayers of Card. de Aste (then a member of the Chapter)",
+  "register_refs": [
+   "Caps. 39. fasc: 3.n.9",
+   "Caps: 39. fasc: 319"
+  ],
+  "documents": [
+   "conto argentiere",
+   "instrumentum donationis",
+   "lettera",
+   "relazione"
+  ],
+  "pb_from": 185,
+  "pb_to": 208,
+  "folio_from": "82r",
+  "folio_to": "89v",
+  "key_quote": "Instrum. Donationis Duar.m Coronar.m aurear.m fact simulacro miraculoso SS.mæ ... in Ecclesia Metropolitana Hydrunti Die 7 Maij 1705",
+  "confidence": "high",
+  "notes": "Concession date taken from the endorsement on f.82r ('Instrum Donationis duar Coronar aurear / concessio 14 Maii 1691', with silversmith Gio. Giardini's signature on f.82v); its attribution to Otranto is inferred (medium) from the 1705 letter stating the crown had been 'destinata' earlier at Card. de Aste's request and from the archbishop's information letter of 6/20 June 1691 (two copies, ff.83r-84r, endorsed 'Lettera di Mons. Arcivescovo d'Otranto in ordine alla Corona d'oro'). Instrument (two copies, ff.87r-88r) is dated 'Die vero Septima Martij' 1705, notary Angelo Stephanoch of Otranto; the archivist's endorsement reads '7 Maij 1705' but the archbishop's covering letter of 22 March 1705 (f.89r) confirms March. Conto on f.85r (Dom.co Vannini) for two crowns, 154:50 in all, sits inside this dossier and is presumed to belong to it. The 1691 letter records the statue's return from Valona (Vlorë) after the Turkish sack of 1480 and a jubilee granted by Pius V in 1564. Loose margin words 'Oronzo', '14', '85' on ff.85v-86v.",
+  "n_batches": 1,
+  "batches": [
+   "T04"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna delle Grazie della Terra di S. Giovanni (Valdarno)",
+  "image_title_latin": "Beata Virgo Gratiarum (OCR: 'Beatae Virgini Nuncupatae Pratiani') Oppidi Sancti Joannis Vallis Arni Superioris Fesulanae Diœcesis, in Venerabili et Insigni Oratorio eiusdem",
+  "image_subject": "Blessed Virgin Mary with Child (painted image originally on the Porta di S. Lorenzo)",
+  "church_or_sanctuary": "Oratorio built for the image painted on the tower of the Porta di S. Lorenzo (as described in the printed relazione)",
+  "locality": "San Giovanni (Valdarno)",
+  "diocese": "Fiesole (Fesulana Diœcesis)",
+  "country": "Italy",
+  "concession_date": "1704-05-15",
+  "coronation_date": "1704-09-08",
+  "crowns": "two (Virgin and Child), weight 59 scudi d'oro meno 9 grani per conto",
+  "deputy": "Scipione de' Ricci, Patrizio Fiorentino, Referendary of both Signatures, Canon of St Peter's",
+  "petitioner": "Operai of the Oratory (Giovanni Michele Santini, Alessandro de' Bessi, Vittorio de' Rossi, Antonio Camillo de' Giovini, Andrea del Bello) / Deputati sopra la Solennità",
+  "register_refs": [
+   "Caps. 39. Fasc: 3.tio Toscana",
+   "Caps. 39. fasc. 38g",
+   "Proch. 2. N.º 61.",
+   "Proch: N. 63."
+  ],
+  "documents": [
+   "conto argentiere",
+   "instrumentum donationis",
+   "relazione",
+   "stampa"
+  ],
+  "pb_from": 209,
+  "pb_to": 228,
+  "folio_from": "90r",
+  "folio_to": "97v",
+  "key_quote": "RELAZIONE DEL PRINCIPIO, E CAUSE DELLA VENERAZIONE DELL'IMMAGINE DELLA SANTISSIMA VERGINE DETTA DELLE GRAZIE DELLA TERRA DI S. GIOVANNI Da Coronarsi solennemente il dì 8. di Settembre 1704",
+  "confidence": "high",
+  "notes": "Instrument (two copies, ff.91r-92r) actum 8 Sept 1704 at S. Giovanni under Cosimo III, notary Ottaviano de' Pasquini(?) da Lastra/Camerina; crowning performed in the Oratory at pontifical Mass of Orazio 'de Lanciarichis' (Panciatichi), Bishop of Fiesole. Concession date from endorsement f.92v.01 'Romæ sub die 15 maii 1704' (reading as the decree date is an inference, medium). Second endorsement f.92v.02 is badly garbled ('B. M. V. de Rupe, sive nuncupatæ Tra:tarn ... Actum die 27 Aug. 1707') — likely OCR damage on the same instrument, not a separate event. Register ref 'Caps. 39. fasc. 38g' probably = 'Caps. 39. fasc. 3'. Conto on f.90r names the image as 'esistente nella cità di Fiesole in Toschana' (i.e. diocese). f.93v: a mostly unread conto by 'Gio. Giustini/Giardini Argentiere' with margin 'conceditur die 6 Octobr' (no year) and '5 Octobr' on f.94r — placement suggests it belongs to this dossier but it could concern another image. Printed Relazione (Firenze, Michele Nestenus, 1704) ff.94r-97v narrates the 1479 miracle of Mona Tancia and the 1596 fire. | Tail end of a printed historical relazione (long-s typography) that begins in the previous batch; the page opens mid-text ('E Fabio Segni col seguente'). The image's title is not given in this range: it is described as the miraculous painted image of the Virgin and Child at the Porta di S. Lorenzo of the Terra of S. Giovanni in Tuscany / Valdarno ('Beatus Aegidius in Valle Arnensi in Tuscia'; Florentine dominion), with the 1479 Mona Tancia milk miracle, the 1596 fire, privileges of Sixtus IV and Innocent VIII. The relazione closes 'si porta da Noi Deputati sopra la mentovata Incoronazione', so a coronation had been performed, but no date, deputy or concession appears here. The modern designation (Madonna delle Grazie, San Giovanni Valdarno) is an inference, not in the text. Country inferred from Tuscany/Firenze.",
+  "n_batches": 2,
+  "batches": [
+   "T04",
+   "T05"
+  ]
+ },
+ {
+  "image_title_vernacular": "SS.ma Madonna e suo Bambino di S. Pantaleo in Roma",
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "S. Pantaleo, Roma",
+  "locality": "Roma",
+  "diocese": null,
+  "country": "Italy",
+  "concession_date": null,
+  "coronation_date": null,
+  "crowns": "two (Virgin and Child)",
+  "deputy": null,
+  "petitioner": null,
+  "register_refs": [],
+  "documents": [
+   "conto argentiere"
+  ],
+  "pb_from": 229,
+  "pb_to": 230,
+  "folio_from": "98r",
+  "folio_to": "98v",
+  "key_quote": "Che le Sud.te Corone Servano p la SS.ma Madonna e Suo Bambino di S. Pantaleo in Roma",
+  "confidence": "low",
+  "notes": "Silversmith's account only (total 266:95, 200 received on account via the Baldeschi, balance 66:95; 'A 19 Xmbre 1693' payment of 100 scudi on account). Dated 1693 by the payment entry. Last leaf of the range; the dossier presumably continues on f.99r.",
+  "n_batches": 1,
+  "batches": [
+   "T04"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna SS.ma di S. Pantaleo (Scuole Pie)",
+  "image_title_latin": "Imagines B. M. V. et Pueri Jesu (receipt f. 99r)",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa di S. Pantaleone de' Rev. Padri delle Scuole Pie (altare maggiore)",
+  "locality": "Rome",
+  "diocese": null,
+  "country": "Italy",
+  "concession_date": "1693-11-28",
+  "coronation_date": "1694-03-25",
+  "crowns": "two (Virgin and Child)",
+  "deputy": "Michele Angelo Mattei and Camillo Mugiara, canons of the Basilica, delivered the crowns (f. 99r); account approved by 'Palmieri d'Annunzia Can. Decano Deputato' (f. 98v, name garbled)",
+  "petitioner": null,
+  "register_refs": [
+   "Lib. XIX. f.º 387"
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "other (Latin receipt/quietanza of the Piarist Praepositus Generalis, 25 March 1694)",
+   "relazione"
+  ],
+  "pb_from": 229,
+  "pb_to": 236,
+  "folio_from": "98r",
+  "folio_to": "101v",
+  "key_quote": "Per la Madonna in S. Pantaleo de PP. delle Scuole Pie",
+  "confidence": "high",
+  "notes": "Margin f. 100v: 'conceditur 28 9bris 1693' and 'consignatio ... Lib. XIX. f.º 387'. Giardini's account (f. 98r-98v) for two crowns for 'la SS.ma Madonna e Suo Bambino di S. Pantaleo in Roma', total 166:95, 100 scudi on account 19 Dec 1693. The coronation_date is the date of the Latin receipt (f. 99r, 'Die 25. Martij 1694') in which the Piarist Praepositus Generalis Jo. Franciscus a S. Petro acknowledges the two crowns (value 121:55) 'quae fuerunt collocatae per D. Joannem Giardinum aurificem super capitibus' - the ceremony itself is not otherwise described. The 'Breve relazione dell'origine' (f. 101r-101v) gives the image's history (painted by an anonymous Perugian painter, given by Aurora Berti to the Piarists); 'Insignificanz.a' in the margin is OCR.",
+  "n_batches": 1,
+  "batches": [
+   "T05"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna delli Sette Dolori",
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary",
+  "church_or_sanctuary": "Chiesa delli RR. PP. Serviti di S. Marcello",
+  "locality": "Rome",
+  "diocese": null,
+  "country": "Italy",
+  "concession_date": "1694-08-16",
+  "coronation_date": null,
+  "crowns": "one (large crown for the Virgin)",
+  "deputy": null,
+  "petitioner": null,
+  "register_refs": [
+   "Lib. XIX f. 540"
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum"
+  ],
+  "pb_from": 237,
+  "pb_to": 240,
+  "folio_from": "102r",
+  "folio_to": "103v",
+  "key_quote": "Serve la d.ta Corona per la S.ma Madonna Delli Sette Dolori Esistente Nella Chiesa delli R. R. P.P. Serviti di S. Marcello",
+  "confidence": "high",
+  "notes": "Only Giardini's account survives here: a single large gold crown with foliage, cherub heads, arms and engraved letters, 74:2 scudi of gold, total 144:25, 60 scudi received 11 Jan 1695; appraised by Orsino Reposati. Cover f. 103v margin: 'Decreta 16 aug. 1694 consignatio ... Lib. XIX f. 540'; the margin 'n. 1694 . 540.' at the head of f. 104r probably repeats this reference. No relazione or instrument in range.",
+  "n_batches": 1,
+  "batches": [
+   "T05"
+  ]
+ },
+ {
+  "image_title_vernacular": "B. V. delle Grazie (S. Maria novissima delle Grazie)",
+  "image_title_latin": "Ss.ma Virgo Maria Gratiarum et Puer Jesus (instr. f. 107r); margin f. 110v 'S.mæ Virginis M. R. Tratian [= Gratiarum], et Filij Pueri'",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa Cattedrale (già Priorale Parrocchiale) di S. Cristoforo, altar of S. Maria novissima delle Grazie; letter f. 108r: 'Chiesa Paroch.le de Belliagostini [delli Agostiniani]'",
+  "locality": "Penna (Penna e Billi / Pennabilli)",
+  "diocese": "Montefeltro",
+  "country": "Italy",
+  "concession_date": null,
+  "coronation_date": "1708-08-15",
+  "crowns": "two (Virgin and Child), 65 scudi 1 denaro 21 grani of gold",
+  "deputy": "Mons. Pietro Valerio Martorelli, patrician of Osimo, Bishop of Montefeltro and first beneficiary of the Vatican Basilica (OCR 'Maphaeus', 'Martorer')",
+  "petitioner": null,
+  "register_refs": [
+   "Caps: 39. fasc: 3 n. 9"
+  ],
+  "documents": [
+   "conto argentiere",
+   "instrumentum donationis",
+   "lettera",
+   "other (copy of the confraternity's congregation minutes 25 Aug 1708; notarial and episcopal attestations)",
+   "relazione"
+  ],
+  "pb_from": 241,
+  "pb_to": 255,
+  "folio_from": "104r",
+  "folio_to": "111r",
+  "key_quote": "Relazione intorno all'Imagine della B. V. delle Grazie che si venera nella Chiesa Catted.le di S. Cristoforo della Città della Penna Residenza de' Vescovi di Montefeltro",
+  "confidence": "high",
+  "notes": "Relazione (f. 104r-105v): image painted on the wall with the Child, altar consecrated 1215, lacrimation 20 March 1489, confraternity c. 1490 aggregated to the Gonfalone; 'coronata l'anno 1708 adì 15 Agosto' by Bishop Martorelli. Conto (f. 106r) dated 17 May 1705 for the two crowns, total 143:8 1/2, signed 'Tom.o Lannini Can.o Deput.o'; margin heading 'Relaz.e della B. V. nella Città di Penna, e Rieti' (Rieti unexplained). Latin instrument (f. 107r-107v) cites the Chapter's faculty 'Sub dat. Romæ 7 9mbris 1704' while the Chapter's Italian letter (f. 108r) is dated 'Roma 4. 9mbre 1707' (addressed 'Monsignor Corelli Vescovo di M.feltro', OCR for Martorelli) - year uncertain. The instrument's church reading 'Eccl.ia S.ti Arch.li Mich.is' conflicts with S. Christophori elsewhere and is probably OCR. Margin label f. 110v gives 'die 15. Aug.ti 1709' and the bishop's attestation 'Die 21 Augusti 1705' - both likely OCR/slips for 1708. The confraternity (Società della B. V. delle Grazie; deputies Gio. Carboni, Polidoro Valentini, Giuseppe Fabri) received the crowns and undertook the obligation. The cover f. 111v ('Decernitur Visitatio 10 Maii 1694 conceditur 11 Oct 1694') immediately follows this dossier but appears to belong to the unidentified 'Conto 2' at f. 112r; it may nevertheless be this image's concession.",
+  "n_batches": 1,
+  "batches": [
+   "T05"
+  ]
+ },
+ {
+  "image_title_vernacular": null,
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "'Chiesa ~ Sant:o~ daetto di Piera' (garbled)",
+  "locality": null,
+  "diocese": null,
+  "country": null,
+  "concession_date": "1694-10-11",
+  "coronation_date": null,
+  "crowns": "two (a very large one for the Virgin and a medium one for the Child), 109 scudi less 12 grani of gold",
+  "deputy": null,
+  "petitioner": null,
+  "register_refs": [],
+  "documents": [
+   "conto argentiere",
+   "decretum"
+  ],
+  "pb_from": 256,
+  "pb_to": 259,
+  "folio_from": "111v",
+  "folio_to": "113r",
+  "key_quote": "una grande assai che serve per la S:ma Madonna e l'altra mezana che serve p.il S:to Bambino Esistente nel la Chiesa ~ Sant:o~ daetto di Piera",
+  "confidence": "low",
+  "notes": "Giardini's 'Conto 2' (cover f. 111v, text f. 112r), total 227:22, including 'Figura per il med.o di d'argento no. 2'. The place is unreadable in the OCR ('Chiesa Sant:o daetto di Piera'); it might conceivably be a garbling of 'detta di Penna' but the gold weight (109 scudi) does not match the Penna crowns (65 scudi, 1705 conto). Cover margin: 'Decernitur Visitatio 10 Maii 1694 conceditur 11. Oct: 1694' - assigned to this conto by position, but could refer to the preceding Penna dossier. Emitted per rule 5 as a silversmith's account naming an image not otherwise present.",
+  "n_batches": 1,
+  "batches": [
+   "T05"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna del Presepio (detta d'Ogni Santi)",
+  "image_title_latin": "Simulacrum miraculosum B. M. V. de Praesepio et Pueri Jesu (OCR 'd'Pre-sepio'; margin label garbled 'B. M. V. de Bisegliis')",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa del Monastero d'Ogni Santi delle Monache Benedettine, Siena",
+  "locality": "Siena",
+  "diocese": "Siena (Archbishop Leonardo Marsili)",
+  "country": "Italy",
+  "concession_date": "1695-07-29",
+  "coronation_date": "1704-06-07",
+  "crowns": "two (Virgin and Child), weight 'centum sexaginta'",
+  "deputy": "Abbate Gio. Andrea Ricci, canon of the Vatican Basilica",
+  "petitioner": null,
+  "register_refs": [
+   "Cap. 39. fol. 329"
+  ],
+  "documents": [
+   "decretum",
+   "instrumentum donationis",
+   "lettera",
+   "other (attestation of the Vicar General Orazio Piccolomini Aragona, 9 June 1704)",
+   "relazione",
+   "stampa"
+  ],
+  "pb_from": 260,
+  "pb_to": 280,
+  "folio_from": "113v",
+  "folio_to": "121v",
+  "key_quote": "Relatione del seguito nella uenuta dell'Illmo e Rmo Monsig.r Ricci à Siena à coronare la Bma Vergine del Presepio nella Chiesa delle Monache d'ogni Santi",
+  "confidence": "high",
+  "notes": "Cover f. 113v: 'Visitatio Decernitur 11 Julii 1695', 'Decreverunt 29 Julii 1695' ('Gio: Gianlorenzi Ajo' unexplained). Printed pastoral letter of Archbishop Leonardo Marsili, Siena 31 May 1704 (f. 114r inserts; the 114v insert also carries an OCR-transcribed printed letter dated 1611 that seems unrelated). Letter of the archbishop to his brother Ab. Cervini on the image's history (statues delivered by an unknown youth in 1446, declared miraculous 1653 and 1667; f. 115r). Latin instrument of 7 June 1704, notary Simon Sciarelli, with the nuns' names (f. 116r-117r); margin label f. 117v with 'Cap. 39. fol. 329'. Ricci's letter to the Chapter, Siena 8 June 1704 (f. 118r) and relazione (f. 119r-120v): crowning on Saturday 7 June 1704 after Vespers. Discrepancies: heading f. 115v says 'coronata li 5 Giugno 1707' and the relazione once says 'Sabbato 2 Giugno' - both OCR/slips; 7 June 1704 is consistent throughout. The margin at f. 122r ('... Ab.te d'Orvieto: Andrea Ricci al R.mo Cap.lo') continues the label of Ricci's letter.",
+  "n_batches": 1,
+  "batches": [
+   "T05"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna Liberatrice (S. Maria Liberatrice)",
+  "image_title_latin": "Imago miraculosa B. Mariae Virginis Liberatricis Viterbien. / Deiparae Virginis Mariae Liberatricis Imago",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa della Santissima Trinità de' PP. Agostiniani (Eremitani di S. Agostino, Congregazione Genovese), Viterbo",
+  "locality": "Viterbo",
+  "diocese": "Viterbo (Andrea Card. Santacroce named as bishop in the inscription)",
+  "country": "Italy",
+  "concession_date": "1696-05-28",
+  "coronation_date": "1715-11-12",
+  "crowns": "two (Virgin and Child) — 'due Corone d'oro, una grande, et una piccola', made by Giovanni Giardini, argentiere, Rome, total 169.76½ scudi",
+  "deputy": "Canonico Pietro Francesco Bussi, canon of St Peter's, 'Viterbiensis Patritius'",
+  "petitioner": "Città / Magistrato di Viterbo (Comunità di Viterbo; letter of Bernardino Baroni, 25 May 1712)",
+  "register_refs": [
+   "Caps: 139. Fasci: 319",
+   "Caps: 39. Fasc: 319",
+   "Non vi è origine"
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "lettera",
+   "other",
+   "other (Latin lapidary inscriptions in SS. Trinità, copied 3 Oct 1856 by Alessandro D'Achille)",
+   "other (instrumentum coronationis — notarial act of the crowning of 12 Nov 1715 with consignment of the crowns to the Prior, authenticated by Card. Conti 20 Nov 1715)",
+   "other (order of payment of 100 scudi to Giovanni Giardini, 27 Sept 1715)",
+   "relazione",
+   "stampa"
+  ],
+  "pb_from": 281,
+  "pb_to": 339,
+  "folio_from": "122r",
+  "folio_to": "141r",
+  "key_quote": "Unicae Et Vetustissimae Viterbiensium Spei Ac Liberatrici Deiparae Mariae Virgini In Hac Vera Archetypi Sui Vultus Imagine Non Sine Prodigio Depictae",
+  "confidence": "high",
+  "notes": "Letter of Bernardino Baroni (margin: 'Belardino Peroni', secretary of the Comunità di Viterbo), Viterbo 25 May 1712, about the city's failed plans to fund a solemn coronation and leaving it to the friars. Margin f. 123v labels it as concerning 'la Madonna S.ma della Quercia' - contradicting the letter's 'della Trinità' and f. 124r's 'Chiesa de Padri Agostiniani della Città di Viterbo'; probably an archivist's slip or OCR. Margin f. 123v: 'Decrevere 28 Maii 1696'. f. 124r: payment order of 27 Sept 1715 signed 'Moreno Vaiani Econ.o Dep.to'. No relazione or instrument in range and f. 124v is the last page, so the dossier likely continues. | The letter on f.122r (Bernardino Baroni, Viterbo 25 May 1712) opens mid-text with no salutation, so the dossier probably begins on the preceding leaf (outside this range). Concession date taken from the margin note 'Decrevere 28 Maii 1696' on f.123v; the same note reads the image as 'Madonna S.ma della Quercia' (OCR) whereas the letter itself and all other documents say 'della Trinità' / 'Liberatrice' — treat 'Quercia' as an OCR or archivist slip. The Latin instrument on f.128r reads 'die duodecima Mensis Iulii' (OCR), but the Breve Notizia, the pastoral letter, the inscriptions ('Idibus Novembris') and the archivist's note all give 12 November 1715. The pastoral letter (Card. Michelangelo Conti, bishop of Viterbo e Toscanella, Rome 1 Nov 1715, printed Viterbo 1715) and the Breve Notizia both survive in two copies (ff.127r, 130r–136r). Margin note on f.122r 'Sacra mad.na dal R.m... Ab.te d'Orvieto: Andrea Ricci al R.mo Cap.lo di S. Pietro' is obscure and may belong to another letter. f.136v.02 (pb 328) carries a stray list of Genoese-looking names (Martinengo, Giustiniani, Manganaro) with a marginal '181', unrelated to the coronation. The silversmith's account is dated 28 Sept / 9 Nov 1715; the first payment order is dated 27 Sept 1715 (Moreno Vaiani, Economo Deputato). | Only the last leaf of a dossier: a transcription of a votive inscription set up by S.P.Q.V. (Viterbo) on the Nones of May 1703 (Clement XI) thanking the Virgin for preserving the city from the earthquakes of that year; placed 'a parte Epistolae Maioris Altaris' (church not named). Copied 3 Oct 1856 by Alessandro D'Achille. f.140v-141r blank. No coronation data visible in this range; the dossier proper must precede f.140r.",
+  "n_batches": 3,
+  "batches": [
+   "T05",
+   "T06",
+   "T07"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna di San Brizio",
+  "image_title_latin": "Beatissima Virgo nuncupata S.ti Brijj [S. Britii] (raw OCR: 'Be- atissimæ Virgini nuncupat. S.ti Brijj')",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Cattedrale di Orvieto (Cappella della Madonna di San Brizio, 'Cappella nuova')",
+  "locality": "Orvieto",
+  "diocese": "Orvieto (Urbevetana)",
+  "country": "Italy",
+  "concession_date": null,
+  "coronation_date": "1704-06-08",
+  "crowns": "two (Virgin and Child) — 'Duas Coronas Aureas', weight 7½ oz and 2 denari of gold, 276 scudi 8 [baiocchi?] Roman money excluding the goldsmith's fee",
+  "deputy": "Alexander 'Cia- Siy Coccianus' Romanus (OCR-garbled surname), Referendary of both Signatures, canon of St Peter's, specially deputed by the Chapter",
+  "petitioner": "City of Orvieto (Confaloniere e Conservatori / publico Consiglio) through Bishop Vincenzo de' Conti degli Atti; crowns received in the instrument by Giovanni Battista Gualterio, camerlengo of the Fabbrica of the Cathedral",
+  "register_refs": [],
+  "documents": [
+   "instrumentum donationis",
+   "other",
+   "relazione",
+   "stampa"
+  ],
+  "pb_from": 341,
+  "pb_to": 376,
+  "folio_from": "142r",
+  "folio_to": "159v",
+  "key_quote": "dat, donat, et concedit Be- atissimæ Virgini nuncupat. S.ti Brijj huius Ill.mo Civitatis Urbevetanae ... Duas Coronas Aureas ... in antiquiss. et Insigni Ecclesia Cathedrali",
+  "confidence": "high",
+  "notes": "Only the first two pages of the Latin donation instrument fall within this range (f.142r–v); it breaks off at 'coronata' and continues past the range. Coronation date is the date of the instrument (8 June 1704, Clement XI anno IV), which states the crowns were brought 'ad effectum coronandi' and that the images were 'postea coram eisdem ... coronata' — read as same-day crowning, not explicitly confirmed. Diocese inferred from 'Civitatis Urbevetanae' and the mention of its bishop. The deputy's surname is OCR-garbled ('Cia- Siy Coccianus'); the bishop is named only as 'R.mo D. Fabritio Ep.'. No concession decree or margin note is visible in this range. The image is apparently the Madonna venerated in the Cappella di S. Brizio of Orvieto Cathedral (the text says 'nuncupat. S.ti Brijj'); the Child is named ('illiusque D.ni Filij'). The margin note on f.122r mentioning an 'Ab.te d'Orvieto: Andrea Ricci' may relate to this dossier. | Instrument of donation dated 8 June 1704 (notary Carlo Fontana of Orvieto), witnesses Leone Albergio and Monaldo Aurelio; the printed Racconto (by canon Lattanzio Silvestrucci, Orvieto: Livio Tosini) confirms the crowning on 8 June 1704 during solemn Mass, with feasts 8-10 June; a sonnet to D. Annibale Albani at f.159v. Margin note at f.143v reads 'conceditur 16 Jul. 1896' — year clearly garbled by OCR (1696 or 1703 possible), so concession_date left null; the same note reads 'Instrum. donationis duarum Coronarum aurearum factae Imaginis miraculosae B. M. V. in Ecclesia ... Civitatis Urbevet. ... die 27. May 1704' (partly garbled). The image was formerly called 'Santa Maria prisca' and 'S. Maria della Stella'. The bishop's name is garbled as 'Fabritio Ep.' in the Latin instrument but given as Vincenzo de' Conti degli Atti in the Racconto.",
+  "n_batches": 2,
+  "batches": [
+   "T06",
+   "T07"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna e suo Bambino nella Chiesa di S. Lorenzo nelle Scuole Pie di Borgo",
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa di S. Lorenzo nelle Scuole Pie di Borgo",
+  "locality": "Rome (Borgo)",
+  "diocese": null,
+  "country": "Italy",
+  "concession_date": "1696",
+  "coronation_date": null,
+  "crowns": "two (Virgin and Child)",
+  "deputy": null,
+  "petitioner": null,
+  "register_refs": [
+   "Consignatio coronar. Lib. XIX ab inchoat. f."
+  ],
+  "documents": [
+   "conto argentiere"
+  ],
+  "pb_from": 377,
+  "pb_to": 380,
+  "folio_from": "160r",
+  "folio_to": "161v",
+  "key_quote": "doi Corone di Oro fatte per la Mad.na e suo Bambino Esistente nella Chiesa di S. Lorenzo Nelle Schole Pie di Borgo",
+  "confidence": "low",
+  "notes": "Only a goldsmith's account (dated 'a di 24 Febrajo 1696', total 176.20 scudi, 61.20 remaining) with the payment order signed by 'M. Patriarca d'Antiochia Can.co Deputato' and the outer docket (f.161v) 'Conto ... delle Corone di Oro' signed Giardini (Gio. Giardini orefice). The docket margin 'Decreta 3 9bris 1696' (3 Nov 1696) is taken as the concession year, but it post-dates the account's own date, so the association is uncertain (OCR of one of the dates may be wrong). No other document for this image in the range.",
+  "n_batches": 1,
+  "batches": [
+   "T07"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna della Febbre",
+  "image_title_latin": "S. Imago B.mae Virginis De febri",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Sagrestia della Basilica di S. Pietro (Cappella del Sacrario / Cappella Beneficiatale della Sagrestia Vaticana)",
+  "locality": "Rome (Vatican)",
+  "diocese": null,
+  "country": "Italy",
+  "concession_date": "1696-12-17",
+  "coronation_date": "1697-08-15",
+  "crowns": "one new gold crown for the Child ('una Corona d'oro lavorata con fiori e cartelle per il Bambino'); the existing crowns of the Virgin and Child recoloured and burnished",
+  "deputy": null,
+  "petitioner": "Capitolo e Canonici della Basilica di S. Pietro (the Chapter itself)",
+  "register_refs": [
+   "Caps. 1. fasc. 2.",
+   "To. XVIII p. 13",
+   "ex decr. caplanibus To. XVIII p. 13",
+   "ex libr. XVIII. Decr. Cap. p. 6"
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "lettera",
+   "other",
+   "supplica"
+  ],
+  "pb_from": 381,
+  "pb_to": 395,
+  "folio_from": "162r",
+  "folio_to": "169r",
+  "key_quote": "Decreta fuit 17. Xbris 1696 corona redimita in die Assumptionis 1697 ex decr. caplanibus To. XVIII p. 13.",
+  "confidence": "high",
+  "notes": "Contents: decree 2 March 1697 deputing the Sacrista Maggiore and Fabretti to oversee restoration of the sacristy chapel where the image stands (100 scudi from the Fabbrica); account of 25 June 1697 for the Child's crown (39.45 scudi, signed Tomaso Vannini camerlengo), docket 'Gio: Giardini Orefice'; supplica to the Pope for a plenary indulgence for the crowning 'alli 14 del corrente mese d'Agosto', granted 7 Aug 1697 by Card. Albani 'pro unica vice'; a note (f.168r, dated 3 Jan 1695 by 'Parruccini Vic.o') that Innocent XII conceded the indulgence for the crowning after the Vespers of the Assumption, with f.168v recording an indulgence brief of 11 Aug 1695 (Caps. 1 fasc. 2), suggesting the crowning was first planned for 1695 and carried out in 1697; f.169r gives the inscription on the Child's crown 'Cap.lum S. Petri de urbe hanc cor. au. ex legato Ill.mi Com. Alex. Sfortiae An. 1697'. Coronation date: docket says 'in die Assumptionis 1697', supplica says 14 August (eve/after Vespers) — 15 Aug 1697 adopted, 14 Aug possible. f.167r is a later letter to Mons. Guerrieri asking that the image, 'la prima ad esser decorata della corona d'oro' in Sforza's lifetime, be crowned anew. OCR gives 'Madonna della Pieve' at f.168r for 'della Febre'. | f.168r (OCR) calls the image 'Madonna s:ma della Pieve ... nella Sagrestia della Basilica di S. Pietro' - almost certainly 'della Febre' as f.169r reads. f.168r: letter of the Vicar (Parruccini Vic.o) on the plenary indulgence granted by Innocent XII for the day of the coronation, 'Dati li 3. Gen. 1695'; f.168v: note on the Brief 'Dat. 11. Aug. 1695 = Caps. 1. fasc. 2.' and 'Decreta fuit 17. Xbris 1696 corona redimita in die Assumptionis 1697 ex decr. caplanibus To. XVIII p. 13'; f.169r: text of the inscription on the crown ('Cap.lum S. Petri de urbe hanc cor. au. ex legato Ill.mi Com. Alex. Sfortiae An. 1697'). Years 1695 vs 1696/97 may be OCR noise. This is the first leaf of the range; earlier documents of this dossier may lie in the preceding batch (not visible).",
+  "n_batches": 2,
+  "batches": [
+   "T07",
+   "T08"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna di S. Fiorenzo",
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa di S. Fiorenzo, Perugia (image originally painted on the wall of a house next to the convent, translated into the church in 1646)",
+  "locality": "Perugia",
+  "diocese": "Perugia",
+  "country": "Italy",
+  "concession_date": null,
+  "coronation_date": "1726-11-04",
+  "crowns": "two (Virgin and Child)",
+  "deputy": "Mons. Ansidei ('Ansildi' in OCR), Assessor of the Holy Office, Archbishop of Damietta and Bishop of Perugia",
+  "petitioner": "the Fathers (Religiosi) of the church of S. Fiorenzo, Perugia ('R. P. D. di cotesta Chiesa di S. Fiorenzo'); margin f.176r 'Servit...' suggests Servites",
+  "register_refs": [],
+  "documents": [
+   "conto argentiere",
+   "lettera",
+   "relazione"
+  ],
+  "pb_from": 397,
+  "pb_to": 410,
+  "folio_from": "170r",
+  "folio_to": "176v",
+  "key_quote": "Desiderano i R. P. D. di cotesta Chiesa di S. Fiorenzo, che dal nostro Capitolo si adorni con la Corona d'oro la S. Imagine della SS.ma Vergine esistente nella loro Chiesa",
+  "confidence": "medium",
+  "notes": "Letter of the Chapter (Rome, 31 July 1697, signed Aurelio Vittorio canon secretary) to a bishop ('Mons. Patritio Vescovo di ...', address on verso 'Colligio Sapienza / Perugia') asking for information on the antiquity, fame of miracles and prior crowning of the image before deciding. Locality Perugia inferred from the address on f.170v. No concession in this range; the dossier ends at the last page of the range so may continue past it. | f.170r-v: letter of the Vatican Chapter, Rome 31 July 1697, to the Bishop of Perugia asking for information on antiquity, miracles and whether the image was already crowned. f.171r-171v and f.172r-v: two historical accounts (miracle of the mason's apprentice Camillo Serafini who tried to cover the image with lime, 1617; episcopal process 'Madonne S. Florentij'; translation into the church 1646); the second ends 'Fu coronata questa l'anno 1720 ... Monsig. Ansildi ... Vescovo di Perugia ... il di 4 Novembre'. f.173r: silversmith's account dated 5 Ottobre 1726 for two gold crowns for the images in S. Fiorenzo, Perugia (265:30 scudi, mandate 162 scudi signed Gio. A. Ricci Segr.); f.174v wrapper 'Conto delle Corone d'Oro con Giacomo Ant. Giardini Argent.'. The OCR year '1720' conflicts with the 1726 account; 1726-11-04 adopted as the coronation date (crowns made Oct 1726), so the date is inferred - medium confidence. f.176v margin notes: 'Madonna indos[?]', 'Diocesi di Perugia', 'Dalla Cancellaria Vescovile', 'possa N. 93', 'Armario N. 63', 'Peruggia'. No concession decree or date seen in range.",
+  "n_batches": 2,
+  "batches": [
+   "T07",
+   "T08"
+  ]
+ },
+ {
+  "image_title_vernacular": "S. Maria Liberatrice",
+  "image_title_latin": "Sancta Maria Liberatrix ('sub Invocatione Sanctę Marię Liberatricis')",
+  "image_subject": "Blessed Virgin Mary",
+  "church_or_sanctuary": "chapel (sacellum) of the Metropolitan church of Genoa (Ecclesię Metropolitanę Januensi)",
+  "locality": "Genoa",
+  "diocese": "Genoa (Metropolitan)",
+  "country": "Italy",
+  "concession_date": "1742-09-09",
+  "coronation_date": null,
+  "crowns": "one ('Auream Coronam eidem concessa fuit')",
+  "deputy": null,
+  "petitioner": "Archbishop, Senate and Chapter of the Metropolitan church of Genoa (Archiepiscopo, Senatui et Capitulo Ecclesię Metropolitanę Januensi)",
+  "register_refs": [],
+  "documents": [
+   "decretum",
+   "other"
+  ],
+  "pb_from": 411,
+  "pb_to": 412,
+  "folio_from": "177r",
+  "folio_to": "177v",
+  "key_quote": "Capitulo Ecclesię Metropolitanę Januensi ... Sanctę Imaginis Beatiss.mę Virginis asservatę in Sacello eiusdem Metropolitanę, quę colitur sub Invocatione Sanctę Marię Liberatricis Auream Coronam eidem concessa fuit",
+  "confidence": "low",
+  "notes": "Single leaf: certificate of the Chapter secretary (Alexander Chiavelli[?] Can. & Secret.), dated 22 Nov 1742, attesting that in the extraordinary capitular congregation of 9 Sept 1742 the gold crown was conceded, 'habendam tamen suis loco et tempore et pro nunc faciendam sumptibus praesentium' (crown to be made for now at the petitioners' expense). Margin note reads '113 175' and '~ S. Maria in Vico ~', which does not match the text; f.177v margin 'R. 118'. 'Januensi' (Genoa) is the OCR reading; note that the following dossier concerns the Palermo Cathedral statue 'S. Maria Libera Inferni', whose printed history glosses the name as 'Liberatrice dal Purgatorio' - it is possible this certificate actually concerns Palermo (Metropolitan church, Senate, chapel, immemorial cult) and 'Januensi' is an OCR error; cannot be verified. The label leaf f.178v ('351', 'Decretum 23 Febr. 1699') sits between this record and the Palermo dossier; its attribution is uncertain.",
+  "n_batches": 1,
+  "batches": [
+   "T08"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna di Libera Inferni (S. Maria Libera Inferni, formerly S. Maria Maggiore / della Presentazione)",
+  "image_title_latin": "Sancta Maria Libera Inferni (letter of 1728: 'sotto l'invocazione Sancti- Marie libera Inferni')",
+  "image_subject": "Blessed Virgin Mary with Child (marble statue by Francesco Laurana, 1469)",
+  "church_or_sanctuary": "Cappella di Maria Vergine (di Libera Inferni), Chiesa Cattedrale e Metropolitana di Palermo",
+  "locality": "Palermo",
+  "diocese": "Palermo (Archdiocese; 'Diocesi Palermitana')",
+  "country": "Italy",
+  "concession_date": null,
+  "coronation_date": null,
+  "crowns": "one mentioned ('la Corona d'Oro ... p. una di d.te Imagini'; 'una di quelle Corone d'oro'); number not otherwise specified",
+  "deputy": null,
+  "petitioner": null,
+  "register_refs": [],
+  "documents": [
+   "decretum",
+   "lettera",
+   "stampa"
+  ],
+  "pb_from": 414,
+  "pb_to": 428,
+  "folio_from": "178v",
+  "folio_to": "185v",
+  "key_quote": "RELAZIONE DELLA MIRACOLOSA STATUA DELLA SS. MA VERGINE DI LIBERA INFERNO Che si adora nella Chiesa Metropolitana di Palermo",
+  "confidence": "high",
+  "notes": "f.178v: label 'Decretum 23 Febr. 1699' (margin '351') - placed here on position only; it may instead belong to the preceding leaf (Genoa/S. Maria Liberatrice certificate of 1742), so no concession_date is asserted. f.179r: order of 5 Dec 1728 by M. Maffei, Dean of the Chapter, to the computista Clemente Polidori to pay 71 scudi from the Sforza deposit at the Banco di S. Spirito to the silversmith Bartolomeo Borioni on account of the gold crown he is making for the image in the Metropolitan of Palermo 'Sancti- Marie libera Inferni'. f.180r-185v: printed booklet 'Relazione della miracolosa statua della SS.ma Vergine di Libera Inferno che si adora nella Chiesa Metropolitana di Palermo, cavata dal libro Palermo divoto di Maria del fu Canonico D. Antonino Mongitore', Palermo, Angelo Felicella, 1750, reprinted by the Chapter of the Metropolitan on the occasion of the coronation with the Vatican Chapter's Sforza crown; it promises a later printed account of the ceremony (not in range). The ceremony date is not given. Margin numbers 179-183 are the booklet's pagination; f.185v margin '31-90 33-70 40 65' are sums.",
+  "n_batches": 1,
+  "batches": [
+   "T08"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna del Nome di Maria",
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa di S. Bernardo alla Colonna Traiana",
+  "locality": "Rome",
+  "diocese": null,
+  "country": "Italy",
+  "concession_date": "1703-08-19",
+  "coronation_date": null,
+  "crowns": "two (Virgin and Child)",
+  "deputy": null,
+  "petitioner": null,
+  "register_refs": [
+   "L. XXI. f.º 318"
+  ],
+  "documents": [
+   "conto argentiere",
+   "other"
+  ],
+  "pb_from": 429,
+  "pb_to": 432,
+  "folio_from": "186r",
+  "folio_to": "187v",
+  "key_quote": "doi corone d'oro una p la S.mma Madon.a e l'altra p il suo S.mo Bambino detta la Madona del Nome di Maria assistente nella Chiesa di S. Bernardo alla Colonna Traiana",
+  "confidence": "medium",
+  "notes": "Only a silversmith's account (undated, total 177.99 scudi; margin 'B 9') on f.186r, with its wrapper label on f.187v 'Dell R.mo Capitolo di S. Pietro della Corona d'oro - Con Gio Giardini Arfe.º' carrying the margin note 'Decr. 19 aug. 1703 Donat. coronat. abina u. L. XXI. f.º 318.' The concession date and register reference are taken from that wrapper note on the assumption that ff.186-187 form one bifolium; the same note could conceivably belong to the following Montepulciano dossier (crowned 1707). 'abina u.' is garbled (perhaps 'ibidem').",
+  "n_batches": 1,
+  "batches": [
+   "T08"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna di San Martino (B.ma Vergine detta di S. Martino)",
+  "image_title_latin": "Sanctissimae Virginis Mariae nuncupatae S. Martini; Mariae Virginis de S. Martino nuncupatae; Imagines Beatae Mariae Virginis et Pueri Domini nostri Jesu Christi existentes in Ecclesia Cathedrali Politiana",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa Cattedrale di Montepulciano (cappella / altare della Madonna di S. Martino; image translated there from the church of S. Maria di S. Martino extra moenia on 6 Jan 1612)",
+  "locality": "Montepulciano",
+  "diocese": "Montepulciano (Politiana)",
+  "country": "Italy",
+  "concession_date": "1704-06-30",
+  "coronation_date": "1707-11-06",
+  "crowns": "two (Virgin and Child) — 'duas coronas aureas valoris et aestimationis scut. centum monetae Romanae'",
+  "deputy": "Abbate Gio. Andrea Ricci (Abbas Joannes Andreas Riccius, Politianus, canon of St Peter's), delegate of the Vatican Chapter",
+  "petitioner": null,
+  "register_refs": [
+   "Caps: 39. Fasc: 309",
+   "N. 103"
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "instrumentum donationis",
+   "lettera",
+   "other",
+   "relazione"
+  ],
+  "pb_from": 433,
+  "pb_to": 476,
+  "folio_from": "188r",
+  "folio_to": "204v.[02.mn.0000]",
+  "key_quote": "Relazione del seguito nella Venuta dell'Illmo e Rmo Sig.r Can.co Gio. Andrea Ricci in Montepulciano per coronare la Bma Vergine detta di S. Martino esistente nella Chiesa Cattedrale",
+  "confidence": "high",
+  "notes": "f.188r: letter of Gio. Andrea Ricci from Montepulciano, 31 Oct 1707, announcing his arrival and reception by the Bishop, Chapter, Magistrato and the Operai della Madonna di S. Martino. f.189r: silversmith's account ('Adi 30 Sett. 1700' - probably 1707) for two gold crowns, large and small, 153.85 scudi, 'Servirono p le Sacre Immagini della Sma Vergine e Suo Bambino Gesu nella Città di Monte Pulciano'; sums repeated on f.188v; wrapper f.194v 'Conto 2 ... Gio: Giardini Oref.'. ff.190r-192r, 196r-197v and 198r-v: three copies of the 'Relatione del seguito nella venuta ... Can.co Gio. Andrea Ricci in Montepulciano per coronare la Bma Vergine detta di S. Martino esistente nella Chiesa Cattedrale' (arrival dates garbled by OCR: '16 Ott.e 1701', '26 7bre 1760' with margin 'd'an: 1760', '5 Ott.e 1707'; the coronation day 6 November is consistent in all copies and the title leaf f.193v gives 1707). Coronation at the Mass after Communion; an instrument of consignment of the two crowns was rogated by the chancellor of the episcopal curia (not present; f.193v margin '(non vi è l'origine)'). f.195v margin: 'lettera delle M. S. ... Andrea Ricci ...'. The third copy of the relazione breaks off at f.198v, the last page of the range. | Two copies of the relazione (ff. 196r–198v), 'Memorie dello Scoprimento e Culto' drawn from episcopal visitations of 1610/1612 (ff. 200r–200v, two copies; ends 'De Anno 1707 ... ipsa Sacra Imago una cum Imagine Infantis Jesu in ejus sinu sedentis corona aurea fuit solemni pompa coronata'), Ricci's covering letter of the day after the crowning (f. 201r, OCR date 'Montepulciano 7 9.bre 1701' / 'Montegranaro 9 8br 1701', i.e. 7 Nov 1707), a 'Decretum 30 Junii 1704' of which only the heading was transcribed (f. 201v) — taken here as the concession date, medium certainty — and two copies of the notarial instrument of consignment (ff. 202r–203v; notary Oliverius Antonius Vannutius, chancellor Vincentius Pallini/Lattini; authenticated by the vicar general 15/18 Nov 1707; margin: 'Instrum. Donationis ... Politiana die 5. [or 8.] 9bris 1707'). Coronation date: relazione says Ricci arrived 26 Sept (OCR '1760') / 5 Oct 1707 and the ceremony was 'il dì 6. Nov.'; letter 'Coronatione di ieri mattina' confirms 6 Nov 1707; the instrument's OCR 'die sexta Mens. Sept./Feb.' is presumably 'Novembris'. f. 204v margin: 'Altra lettera del d.º S.r Ab.e Ricci ... relat.e ... alla coronaz.ne' (text not transcribed). Isolated margin words 'Antonelli' (f. 199r) and 'loco detto Sevratto' (f. 204v) unexplained — the latter probably belongs to the following Tersatto dossier. f. 196r opens with the head of the relazione; whether earlier Montepulciano documents precede f. 196r cannot be seen from this range. The instrument also alludes to the Chapter having earlier crowned images 'in celeberrimo D. Blasii Templo' (S. Biagio, Montepulciano) — not documented in this range.",
+  "n_batches": 2,
+  "batches": [
+   "T08",
+   "T09"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna di Tersatto (Vera Effigie della Madre di Dio dipinta da S. Luca)",
+  "image_title_latin": "Sacrae Imagines Jesu et Beatae Mariae Virginis existentes in Ecclesia FF. Reformatorum S. Francisci Loci Tarsacti in Dalmatia; Sacra Icon Beatissimae Virginis Mariae",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa dei PP. Francescani Riformati (Ordinis S. Francisci Reformatorum, Provinciae Croatiae et Carnioliae) sul Monte di Tersatto",
+  "locality": "Tersatto (Trsat), near Fiume (Rijeka) — 'Loci Tarsacti in Dalmatia'",
+  "diocese": "Segna e Modrussa (Episcopus Segnensis et Modrusiensis, 'in cujus Dioecesi praefata Ecclesia ... de Tersacto sita reperitur')",
+  "country": "Croatia",
+  "concession_date": "1713-06-17",
+  "coronation_date": "1715-09-08",
+  "crowns": "two (Virgin and Child) — 'duas nempe Coronas aureas imponens, unam Iconi Beatissimae Virginis MARIAE, alteram JESU'",
+  "deputy": "Gio. Francesco Barbarigo, bishop of Verona (later of Brescia), deputed 17 June 1713; unable to go (plague suspicion) he subdelegated (Venice 14 Sept 1714; Brescia 24 July 1715) the bishop of Segna and Modruš, who being ill was replaced by Georgius Franciscus Xaverius de Marotti, bishop of Dardania, coadjutor of Pedena (Petina), who performed the crowning",
+  "petitioner": "Fr. Petrus Francetich (Francievich) à Flumine, Guardian, and the whole Reformed Franciscan convent of Tersatto ('ad instantiam R.di Patris Petri Francetich Guardiani et totius Conventus') — the original petition to the Chapter is not in this range",
+  "register_refs": [
+   "N. 512"
+  ],
+  "documents": [
+   "conto argentiere",
+   "instrumentum donationis",
+   "lettera",
+   "other",
+   "stampa"
+  ],
+  "pb_from": 477,
+  "pb_to": 506,
+  "folio_from": "205r",
+  "folio_to": "214r",
+  "key_quote": "Concessa Facultas Coronandi Sacras Imagines Jesù, et Beatæ Mariæ Virginis Existentes in Ecclesia F. F. C. C. Reformatorum S. Francisci Loci Tarsacti in Dalmatia",
+  "confidence": "high",
+  "notes": "Contents: silversmith's account of 18 June 1713 ('Iomaso Vanni e Comp.') for two gold crowns 'per la Madonna SS.ma e Suo Bambino nella Chiesa in una Città di Dalmatia', f. 205r (margin 'Nº 230', 'loco detto [Tersatto]'); letter of the bishop of Verona, Verona 3 Aug 1713, acknowledging receipt of the crowns via the bishop of Traù and the faculty to substitute another bishop (ff. 206r–v; OCR 'Teramo' = Tersatto); notarial instrument, Tersatto 14 Sept 1715 (second copy reads 24 Sept), notary Franciscus Laurentius Fracassa, embedding the Chapter's letter of Rome 17 June 1713 (secretary Giacinto Sacripante; second copy OCR '1717'), the Chapter's rite instructions, the subdelegation of Venice 14 Sept 1714 (notary Laurentius Rosetti/Bosetti, nuncio Alexander Aldobrandini) and of Brescia 24 July 1715, and the convent's obligation to keep the crowns (ff. 207r–209v), authenticated by the judges of Fiume 4 Oct 1715 (f. 210r); wrapper f. 211v ('Mons.r Vesc.o di Verona circa la coronazione della B. V. Bambino Giesù esistente nella chiesa de PP. Riformati di S. Fra. in Farsado 1713', margin 'N. 512'); printed 'Vera Effigie della Madre di Dio dipinta da S. Luca e mandata da Urbano V l'anno 1362 a Tersatto' (f. 212r — mentions indulgences of Pius VII and Leo XII, so a 19th-c. print inserted later); letter of the crowning bishop ('Il Ves.co De Menti' = de Marotti), Fiume 14/19 Sept 1715, stating he crowned 'a 8. del corrente' the miraculous image painted by St Luke (ff. 213r–214r). Also at f. 212v a heading 'Conto dell'Ill.mo e Rev.mo Capitolo di S. Pietro delle Corone d'oro — Pro informat.e 1706 7 Octobris — Gio. Giardini Argentiere', a general silversmith account naming no image (not emitted). Country: documents say 'in Dalmatia' and 'Provincie Austriache'; Tersatto/Fiume is modern Trsat/Rijeka, Croatia (inference from the unambiguous place). The wrapper f. 211v also names Leuca — see separate low-confidence record.",
+  "n_batches": 1,
+  "batches": [
+   "T09"
+  ]
+ },
+ {
+  "image_title_vernacular": "B. V. di Leuca (Santa Maria di Leuca, 'de Finibus Terrae')",
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary",
+  "church_or_sanctuary": "santuario della B. V. di Leuca",
+  "locality": "Leuca (Japigia / Salento)",
+  "diocese": null,
+  "country": "Italy",
+  "concession_date": null,
+  "coronation_date": null,
+  "crowns": null,
+  "deputy": null,
+  "petitioner": null,
+  "register_refs": [
+   "Descrit.a a fo: 54"
+  ],
+  "documents": [
+   "other"
+  ],
+  "pb_from": 498,
+  "pb_to": 498,
+  "folio_from": "211v",
+  "folio_to": "211v",
+  "key_quote": "Breue relat.ne dell'antichità di Leuca nella Japigia e del celibre santuario della B. V. det- ta prisco/ Terre",
+  "confidence": "low",
+  "notes": "Named only in an archivist's wrapper heading at f. 211v: 'Breve relatione dell'antichità di Leuca nella Japigia e del celebre santuario della B. V. detta [de Finibus] Terrae [OCR 'prisco/ Terre'], con una lettera di Mons.r Vesc.o di Verona, scusando non poter andar à Coronar d.a B. a causa de sospetti di peste', with margin 'Descrit.a a fo: 54'. No Leuca document is present in this range; the letter of the bishop of Verona belongs to the Tersatto dossier, and the Leuca relation is apparently filed at fol. 54. Title reading 'de Finibus Terrae' is an inference from the OCR fragment; emitted only so the cross-reference is not lost.",
+  "n_batches": 1,
+  "batches": [
+   "T09"
+  ]
+ },
+ {
+  "image_title_vernacular": null,
+  "image_title_latin": null,
+  "image_subject": null,
+  "church_or_sanctuary": null,
+  "locality": null,
+  "diocese": null,
+  "country": null,
+  "concession_date": null,
+  "coronation_date": null,
+  "crowns": null,
+  "deputy": null,
+  "petitioner": null,
+  "register_refs": [],
+  "documents": [
+   "lettera"
+  ],
+  "pb_from": 505,
+  "pb_to": 506,
+  "folio_from": "213v.[02.mn.0000]",
+  "folio_to": "214r",
+  "key_quote": "Fiume @ 14. 7bre 1715 — Dev.mo Oblig.mo Serv.e Il Ves.co De Menti",
+  "confidence": "low",
+  "notes": "Only the closing lines and the address leaf of a letter to the Vatican Chapter, dated Fiume 14 September 1715 and signed by a bishop whose name the OCR renders 'De Menti'. The image and place it concerns are not visible in this range; the dossier begins in the preceding batch. Emitted only as a range-boundary marker. f.214v (pb 507) carries a bare header 'Corone d'oro' with margin '514' (probably a wrapper sheet), and f.215v.03 (pb 513) carries a stray italic label 'Ancona' with margin '212' — neither yields a record.",
+  "n_batches": 1,
+  "batches": [
+   "T10"
+  ]
+ },
+ {
+  "image_title_vernacular": "Santa Maria di Montevergine (Madonna di Monte Vergine, anticamente detta di Costantinopoli)",
+  "image_title_latin": "Sacratissima Imago Beatissimae Virginis Mariae quae in Ecclesia ... Ord. S. Benedicti [Congregationis Montis Virginis] Beneventanae Dioecesis colitur",
+  "image_subject": "Blessed Virgin Mary with Child ('relicto reliquo corpore cum Infante Jesu pariter depicto')",
+  "church_or_sanctuary": "church of the Order of St Benedict, Congregation of Montevergine, in the diocese of Benevento (OCR variants: 'Ecclesia Insignis Abbatiae Ord. S. Benedicti'; 'Ecclesia S. Angeli Acepont: Ord:s Benedicti'; 'Ecclesia Aedisq. Monialium Asceterii Ord. S. Benedicti Congregationis Montis Virginis')",
+  "locality": "Montevergine (Monte Vergine, near Avellino) — reading uncertain",
+  "diocese": "nullius dioecesis, Provincia Beneventana (attestation: 'Beneventanae Dioecesis'); Regno di Napoli, Principato Ultra",
+  "country": "Italy",
+  "concession_date": null,
+  "coronation_date": "1712-05-14",
+  "crowns": "two (Virgin and Child)",
+  "deputy": "Canon Abbot Riccardo Howard of the Dukes of Norfolk (OCR variants: 'Niccardo Sforciade ex Ducibus Novaepholiae', 'Oricordi', 'Ricciardi Abb.', 'Suardo', 'Guardi', 'San-Guardj')",
+  "petitioner": null,
+  "register_refs": [
+   "12 Julii 1711 Lib. Decr. XX. fol. 8. t.º",
+   "12. Conv: fol. 93.",
+   "Arch. Mss. Tom. 12. Canon. fol. 93.",
+   "Cap. 39. fasc. 329.-",
+   "V.g. f.315",
+   "cap. 63. pag: 435."
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "instrumentum donationis",
+   "lettera",
+   "other",
+   "relazione",
+   "stampa"
+  ],
+  "pb_from": 508,
+  "pb_to": 554,
+  "folio_from": "215r.[01.mn.0000]",
+  "folio_to": "234r",
+  "key_quote": "Instrumentum Donationis Duarum Coronæ aureæ, factæ Imagini B. M. V. miraculosæ ... in Sacro, et Reali Monasterio Montis Virginis maioris de Alvito, factæ in Actis Regiis Die 17. Maij 1712",
+  "confidence": "high",
+  "notes": "Three heavily garbled OCR passes of one Latin attestation by the archbishop of Benevento ('Athanasius Ursinus, S. Beneventanae Ecclesiae Archiepiscopus'; signature OCR 'J. d. B. Card. Spinus Archiepiscopus' — i.e. Cardinal Orsini, archbishop of Benevento 1686–1724, inferred), dated Benevento 9 Jan 1708, testifying to the antiquity and miracles of an image of the Virgin painted by St Luke: brought by Baldwin, Emperor of Constantinople; 'Catharina Balduini'; Frederick's army 'anno 1239 juxta Beneventanam'; 'Brundusium'; 'Civitate Abellina' (Avellino); 'Monte praefato adscendere'; 'Guilelmo Abbati'; 'Congregationis Montis Virginis' — legend elements pointing to the Madonna di Montevergine, but one pass places the image 'in Ecclesia S. Angeli ...' (S. Angelo a Cupolo?) and another 'Monialium Asceterii', so the church is not securely read. Margin 'Car. ly / januarij Co:nat.' (Coronat.?) and '2/3'. Attestation only: no decree, crowns, deputy or coronation date in this range; dossier presumably continues past f. 215r. Wrapper f. 214v 'Corone d'oro' (margin '514') may belong to this dossier. | Dossier contents: (a) attestations on the origin of the image by the Archbishop of Benevento (OCR 'Athanasius Ursinus' / 'Card. Spinus Archiepiscopus', i.e. Card. Orsini), dated 9 January 1708, margin 'Attestati circa l'origine della Madonna di Monte Vergine nella Diocesi di Benevento, o sia Provincia del 1708' and 'Monte Vergine a del 1708' (heavily garbled Latin, ff. 215r–218v); (b) conto of the silversmith Gio. Giardini for two crowns 'per mandare alla Chiesa detta di Monte uergine di Napoli', settled 23 May 1711, 295 scudi (ff. 216r–217v); (c) decree 12 July 1711 (Lib. Decr. XX f. 8v) suspending the coronation because the image already had a gold crown, remitting the question to the Nuncio (f. 219r); (d) notarial copy of the donation instrument by D. Thomas Cervanetta of Mercogliano, dated in the text 'Die Decimoquarto mensis Maij' 1712 (margin says 17 May 1712), incorporating the Chapter's commission letter of Rome 24 [April] 1712, the 'Ordo servandi in Tradendis Coronis Aureis', and the brief of Clement XI of 29 April 1712 granting a plenary indulgence (ff. 220r–223v); (e) relazione of Canon Howard's journey (25 April–21 May 1712), coronation performed after first Vespers of Pentecost, i.e. Saturday 14 May 1712 (heading 'alli 14. di Maggio 1712'), ff. 224r–229v, with a printed 'avviso' from Naples quoted; (f) letter of the Abbot General D. Vito Antonio Pastorale, Montevergine 15 May 1712, and minuta of the Chapter's reply 5 June (or Aug.) 1712 (ff. 230v–233v). No explicit concession date appears; the Chapter's letter says only 'havendo Noi già da molto tempo Decretata la Corona d'oro'. Margin at f. 223v reads 'Montis Virginis maioris de Alvito' (OCR; expected 'de Monte'). 'cap. 63. pag: 435.' (f. 229r) and 'Lib. III. de S. M. V. a pag. 25' (f. 230r) may be bibliographic rather than register references.",
+  "n_batches": 2,
+  "batches": [
+   "T09",
+   "T10"
+  ]
+ },
+ {
+  "image_title_vernacular": "Beata Vergine della Giara (Madonna di Loreto) dei PP. Teatini, Verona",
+  "image_title_latin": "Imago miraculosa B. M. Virginis Lauretanae Ven. Ecclesiae S. Nicolai a Clara RR. PP. Clericorum Regularium Congregationis Teatinorum Veronae",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Santa Casa / Santuario della B. Vergine di Loreto contiguous to the Chiesa della Giara of the Chierici Regolari (Teatini); coronation performed in the Chiesa di S. Nicolò dei Teatini",
+  "locality": "Verona",
+  "diocese": "Verona",
+  "country": "Italy",
+  "concession_date": "1708",
+  "coronation_date": "1709-11-10",
+  "crowns": "two (Virgin and Child)",
+  "deputy": "Gio. Francesco Barbarigo, Bishop of Verona (margin note: '30 9bris 1708 R. D. Barbarigo ad imponend. coronam deputatus')",
+  "petitioner": "PP. Chierici Regolari Teatini of the Giara, Verona ('porgere umile istanza all'istesso Reverendissimo Capitolo di S. Pietro')",
+  "register_refs": [],
+  "documents": [
+   "conto argentiere",
+   "instrumentum donationis",
+   "other",
+   "relazione",
+   "stampa"
+  ],
+  "pb_from": 556,
+  "pb_to": 578,
+  "folio_from": "235r",
+  "folio_to": "241v",
+  "key_quote": "Breue notizia dell' Incoronazione della B. Vergine della Giara, da farſi nella Chieſa di S. Nicolò d[e' Chierici Regolari] ... Verona li 3. Nou. 1709",
+  "confidence": "high",
+  "notes": "Contents: (a) conto of the silversmith (f. 235r; signed 'Gio: Giardini Arg.ro' on the wrapper f. 238v) for two crowns 'all'Imperiale' of 15 December [1708] 'p.a La Madonna di Loreto e Bambino da PP. Teatini della Ghiara di Verona', 166 sc. 97½, final payment ordered 17 May 1709; (b) notarial act by Bernardo Ronchi, episcopal vice-chancellor, of the coronation performed in S. Nicolò by Bishop Barbarigo as delegate of the Chapter 'ex Epistola sub Dat. Romae die prima 8bris 1708', with chancery authentication (two copies, ff. 236r–237v; one copy's authentication reads 11 Aug. 1709, the other 11 9bris 1709); (c) printed 'Breve notizia' of the coronation, Verona 3 Nov. 1709 (ff. 239r, two OCR passes, text cut off at end of range). Coronation date: the OCR reads 'Die vero Dominica 19.a M[ensis] 8bris' 1709, but 19 Oct. 1709 was a Saturday, the stampa of 3 Nov. 1709 still calls the coronation 'da farsi', and the authentication is dated 11 Nov.; Sunday 10 Nov. 1709 fits all of these, so 1709-11-10 is a reconstruction (hence confidence medium; year 1709 is certain). Concession year 1708 inferred from the delegation letter of 1 Oct. 1708 and the margin note '30 9bris 1708 R. D. Barbarigo ad imponend. coronam deputatus' (f. 238v); no decree text is present. Crowns weighed 'Unciarum septem, unius quarti, et denariorum septem cum dimidio'. The Theatine provost was P. Pietro Paolo Masperoni. | Range opens mid-document: the closing formulae of the notarial act (notary Bernardo Ronchi, 'Veronae in Templo S. Nicolai Congregationis RR. PP. Teatinorum'), with episcopal authentication dated 11 Aug/11 Nov 1709 (OCR variants). Documents in range: notarial act close (237v inserts), Giardini's 'Conto 2 ... delle Corone d'Oro' cover with deputation note 30 Nov 1708 (238v), printed 'Breue notizia' (Verona, Fratelli Merli 1709; several copies, 239r-239v inserts), archivist label 'Relazione del origin. e promozione ... nella Chiesa de RR Teatini di Verona 1709' (239v.05), and printed programme 'Il Trionfo di Maria' fireworks for the coronation of the 'Madonna della Chiesa della Giara delli Chierici Regolari in Verona' dedicated to Bishop Barbarigo (240r-241v). The image is a statue of the Madonna of Loreto with Child made in Loreto and installed 25 Mar 1648. The programme says the bishop was deputed 'fin da principio' to avoid sending a Roman prelate; one garbled OCR copy (pb 567) mentions 'Monsignor Marchese Casali Canonico' as deputed, but this passage does not appear in the other copies and looks like OCR confabulation. Concession date not given in range (only the deputation date 30 Nov 1708).",
+  "n_batches": 2,
+  "batches": [
+   "T10",
+   "T11"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna di Caravaggio",
+  "image_title_latin": "B. M. V. Fontis Miraculorum Caravaggii / Alma Virgo Maria S.cta Miraculorum",
+  "image_subject": "Blessed Virgin Mary",
+  "church_or_sanctuary": "Ecclesia Parochialis B. M. Virginis Fontis Miraculorum, Caravaggio",
+  "locality": "Caravaggio",
+  "diocese": "Cremona ('Caravaggii Cremonen. diœcesis')",
+  "country": "Italy",
+  "concession_date": "1709-04-15",
+  "coronation_date": "1710-09-29",
+  "crowns": "one ('una Corona d'Oro Grande Tonda all'imperiale ... per la Ill.ma Madonna di Caravaggio')",
+  "deputy": "the diocesan bishop, who imposed the crown in pontificals (name OCR-garbled: 'Ill.mus D. Card.lis Octavianus Acciaioli ... Ep.o Vercellensis')",
+  "petitioner": null,
+  "register_refs": [],
+  "documents": [
+   "conto argentiere",
+   "instrumentum donationis",
+   "other"
+  ],
+  "pb_from": 579,
+  "pb_to": 587,
+  "folio_from": "242r",
+  "folio_to": "245v",
+  "key_quote": "in Ecclesia Parochiali B. M. Virginis Mariæ Fontis Miraculorum Caravaggii Cremonen. diœcesis",
+  "confidence": "medium",
+  "notes": "Conto (242r): one crown weighing 128 scudi 2 den. 12 gr. of gold, total 257:55, 100 scudi paid on account by 12 July, signed off by Amato Vannini 'Can.co Deput.o'. Instrument (243r-244r): 'Die Lunæ vigesima nona Mensis Septembris' 1710, Clement XI year 10 (weekday checks); crown placed 'Super Caput Statuæ ejusdem Almæ Virginis Mariæ S.ctæ Miraculorum' by the bishop; the Latin is heavily garbled (Cremonese canons named: Maynoldi, Sforza, Cambiago, Tesauro; cardinal-legate and 'Regio Magistratu' present); followed by the 'Ordo Servandus in Coronandis Coronis aureis' and Cremona chancery authentications (244v, dated 19 Apr 1709 in one OCR copy and 26 Jul 1690 in the other). The concession date 1709-04-15 comes from the margin note 'Conceditur ac mandatur confici auream coronam Die 15 Aprilis 1709' on the conto cover at 245v (Giardini signature), assigned to Caravaggio because it sits between this dossier and the Frascati one and speaks of a single crown; medium confidence. Margin 'N. C. 26.' at 243v may be a register reference. 242v is an illegible Latin page.",
+  "n_batches": 1,
+  "batches": [
+   "T11"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna di Capocroce (B. V. detta di Capo croce)",
+  "image_title_latin": "S. Maria Capitis Crucis / Imagines Beatissimae Virginis et Pueri D. N. Iesu Christi existentes in Ecclesia nuncupata di S. M. di Capo croce",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa di S. Maria di Capocroce dei PP. Teatini (S. Gaetano), fuori delle mura di Frascati",
+  "locality": "Frascati",
+  "diocese": "Frascati (Tusculana)",
+  "country": "Italy",
+  "concession_date": "1709-11-11",
+  "coronation_date": "1713-10-28",
+  "crowns": "two (Virgin and Child)",
+  "deputy": "Faustino Crispolti, Canon of the Vatican Basilica, Referendary and Auditor of Card. Spinola (deputed by Chapter 22 Oct 1713)",
+  "petitioner": null,
+  "register_refs": [
+   "Caps. 39. fasc. 329"
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "instrumentum donationis",
+   "other",
+   "relazione",
+   "stampa"
+  ],
+  "pb_from": 588,
+  "pb_to": 617,
+  "folio_from": "246r",
+  "folio_to": "256v.[03.mn.0000]",
+  "key_quote": "Instru. Donationis duar. Coronar. aurear. ... fact. Imaginibus miraculosis B. M. V. et Pueri Jesu d. S. Maria di Capo d'Oca in civitate Tusculana die 20. xbr. 1713 — Caps. 39. fasc. 329",
+  "confidence": "high",
+  "notes": "Dossier contents: notarial extract of the 1703 Apostolic Visitation of Frascati (Abp. F. M. de Rubeis) describing the mural image 'B. M. V. Puerum gestantis in muro depicta' in S. Mariæ Capitis Crucis of the Theatines, translated 5 May 1613, extract dated 18 Dec 1709 (246r-v); Giardini conto for two imperial crowns, 111 scudi of gold, total 228:30, paid 215 scudi from 2 Nov 1713 to 11 Oct 1714 (247r); instrument of consignment by notary Pietro Ignazio Lelli, Frascati, 28 Oct 1713 (248r-249r), archivist summary at 249v (OCR reads 'Capo d'Oca' and '20. xbr.' for Capocroce / 28 8br); conto cover with 'Decretum 11 9bris 1709' (250v) and filing note '1709 51 / Frascati de' PP. Teatini' (251v); relazione of the coronation (252r-253v); engravings by Giovan Franceschini 'Vera Effigie della Miracolosa Vergine ... detta di Capocroce' (254r; the 1813 reprint at 256r); 1819 commemorative inscription 'MEMORIAE ET POSTERITATI' recording the crown given 'IV KAL. NOVEMBRIS' 1713, copied by Mons. D'Achille 9 Oct 1855 (254v-255v). Coronation date: relazione and instrument give Saturday 28 Oct 1713; one engraving caption reads '11. di Settembre 1713' (probably OCR/engraver variant). The crowns were fixed on the images by P. Filippo Maria Trigoni/Triconi, Theatine. Petitioner not stated in range (Theatine fathers, Vicar Guglielmo della Valle, received the crowns). '1709 51' / 'origine N. 51' at 251v may be a further filing reference.",
+  "n_batches": 1,
+  "batches": [
+   "T11"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna del Piratello",
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa (Monastero/Convento) di S. Maria del Piratello dei Padri del Terz'Ordine di S. Francesco, fuori della città d'Imola (sulla via Flaminia)",
+  "locality": "Imola",
+  "diocese": "Imola",
+  "country": "Italy",
+  "concession_date": "1711-11-02",
+  "coronation_date": "1714-08-15",
+  "crowns": "two (Virgin and Child)",
+  "deputy": "Mons. Giovanni Andrea Ricci, canonico di S. Pietro",
+  "petitioner": "the Franciscans of the Third Order (P. Generale Paolo Lombardini; P. Maestro F. Elia) and other superiors of the church, who requested the crowns in advance",
+  "register_refs": [
+   "29",
+   "Cap.ri B.9: fasc. B 29",
+   "c. 29"
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "instrumentum donationis",
+   "lettera",
+   "other",
+   "relazione"
+  ],
+  "pb_from": 618,
+  "pb_to": 658,
+  "folio_from": "257r",
+  "folio_to": "275r",
+  "key_quote": "Instro della Coronat.ne di due Corone d'oro fatta all'Imagino della SS.ma Vergine, e Bambino Giesù detta del Piratello esistente nella Chiesa dei PP. del T. ord.e di S. Fran.co fuori della Città d'Imola",
+  "confidence": "high",
+  "notes": "Giardini conto (257r): two crowns weighing 37 scudi 2 den. of gold, worked with foliage and cherub heads, total 83 scudi, settled at 78 scudi; the sum was advanced by the General of the Franciscan Third Order to be refunded by the Chapter 'quando avvinarà il tempo e il Luogo nel quale doveano darsi dette Corone'. Conto cover with 'Decretum die Lunae 2 9brjs 1711' (258v; 2 Nov 1711 was a Monday). Payment order by Amato Vannini, Canon Dean, 10 Dec 1713 ('come a ciò deputato', probably as the Chapter's deputy for the crowns rather than the crowning deputy) and Giardini's receipt dated Dec 1713 (259r). No coronation or instrument in range; the dossier ends at the last page of the batch, so it likely continues. OCR spells the town 'Immola' / 'Imola'. | Dossier is interleaved with the Foligno one: Piratello material at ff. 257r-267r.02 (conto Giardini 78 scudi for the two crowns, paid 10 Dec 1713 by the Franciscan Third Order general; margin 'Decretum die Lunae 2 9brjs 1711' on the conto sheet, taken as the concession decree - 2 Nov 1711 was a Monday, but the decree could instead concern the payment; instrument of quittance 'Actum Imolae in Platea Publica' 15 Aug 1714 = 'Die Mercurij ... Decima quinta mensis Augusti', Wednesday, consistent; relazione of the triduo 14-16 Aug 1714 with the crowning on Assumption Day; two copies of Card. Gozzadini's thank-you letter, OCR-dated '9bre 1712', surely 1714) and again at ff. 273r-275r (Ricci's covering letter 'Imola 19 Agosto 1714'; archivist note at 274v; margin fragment at 275r). OCR gives the archivist's head at 261v as 'li 25 Ag.to 1714' and 274v 'Sotto li 29 Ag.to 1714' - read 15 and 19. Ricci's deputation is OCR-dated '5. marzo 1723' (read 1714). Image: painting on terracotta venerated since 1488. Cardinal named 'Forzadori' in OCR = Gozzadini. f. 267v.01 is an unrelated misfiled 1618 supplica about a canon of Cosenza. f. 275r also carries a 1717 order to pay Giardini for 'l'ultima Corona d'oro' naming no image.",
+  "n_batches": 2,
+  "batches": [
+   "T11",
+   "T12"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna del Pianto",
+  "image_title_latin": "Beatissima Virgo de Planta [de Planctu] Fulgini (OCR: 'Virginis de Planta Fulgini', 'Virginis de Plantu')",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "Chiesa della (Archi)Confraternita della Madonna del Pianto e di S. Leonardo, Foligno (crowning performed in the Cattedrale di S. Feliciano)",
+  "locality": "Foligno",
+  "diocese": "Foligno",
+  "country": "Italy",
+  "concession_date": "1712-05-02",
+  "coronation_date": "1713-05-14",
+  "crowns": "two (Virgin and Child), 'all'Imperiale', valued 409:81 scudi",
+  "deputy": "Mons. Guido del Palagio (de Balagio / del Baglio), Patrizio Romano, canonico della Basilica Vaticana, Referendario di Segnatura",
+  "petitioner": "Confraternita / Archiconfraternita della Madonna del Pianto e S. Leonardo di Foligno (Governatore Francesco Silvestri, Guardiani Filippo Giusti and Vincenzo Bussaroni, 1704; Governatore Giovanni Battista Marcelli, 1713)",
+  "register_refs": [
+   "272",
+   "275/ 52 N. 5",
+   "28",
+   "Cap: 39. Fasc: 319",
+   "Caps. B 9. fasc. 329",
+   "Decretum diei 2.ae Maii 1712"
+  ],
+  "documents": [
+   "conto argentiere",
+   "decretum",
+   "instrumentum donationis",
+   "lettera",
+   "other",
+   "relazione"
+  ],
+  "pb_from": 642,
+  "pb_to": 687,
+  "folio_from": "268r",
+  "folio_to": "289v",
+  "key_quote": "Instrum Donationis Duar. Coronar. aurear. valoris 409 ... imaginib. miraculosis B. M. V. de Planchis, et Pueri Iesu existent. in Eccl. ... Societatis sub invocat. eiusd. ssmae Virginis de Planchis, et S.ti Leonardi Civitatis Fulginei p. die XIV. mensis Majj 1716",
+  "confidence": "high",
+  "notes": "Image is a dressed wooden statue of the Virgin seated with the Child (attestation of 9 Aug 1704, notary Giovanni Scarpellini, with a drawing 'accluso' and notes on the silver crown/star at f. 272v). Documents: sworn attestation of origin and miracles (earthquake of 14 Jan 1703) 1704 = 'other'; an undated letter (f. 271r) asking the Canons for a 'dilazione' so the feast of coronation could wait for the new church ('dentro il Mese di Mag. 1702', '1703') - implies the concession predates 1704 but no decree date is given, hence concession_date null; mandate to Giardini (f. 277r) 'p. la Ma.da SS.ma della Terr.a di Foligno'; conto Giardini 20 May 1713 (OCR 'Fulignio', later dates '1623' = 1713); Latin instrumentum of donation Actum in the Cathedral of Foligno 14 May 1713 (Sunday), attested by the bishop 'Aloisius Malvitius Fontana' 22 May 1713; relazione headed (OCR) 'il 23: Maggio 1723 da Monsig.r Ill.mo Guido del Baglio' - read 1713; relazione text fixes the day as 'quatordici del Mese di Maggio', Sunday after vespers, the day after 'Sabbato 23 [=13]'. Margin note 272v adds 'Dicembre' after 1713, unexplained. The relazione runs on past f. 285r. Piratello letters (ff. 273r-275r) are interleaved inside this folio span. | Range opens mid-way through the Italian relazione of the ceremony (begins before pb 673); the deputy is called only 'Mons.r Ill.mo Incoronante' and is never named in these pages. Relazione: Saturday 23 May, first vespers sung by 'Mon Sig: Malavicini' Bishop of Foligno (name OCR-uncertain), coronation performed the following Sunday after vespers in the Cathedral of S. Feliciano, statues of Mother and Child crowned, De profundis for Count Sforza, procession the following Tuesday. 23 May fell on a Saturday only in 1716 among nearby years, so coronation = Sunday 24 May 1716; the margin note's instrument date 'XIV. mensis Majj 1716' is probably OCR for XXIV. 'de Planchis' = de Planctu (Madonna del Pianto). 'Caps. B 9' probably 'Caps. 29'. Only margin notes survive for ff. 287r-289v; f.289v also carries the head 'Conto ... delle Corone d'Oro' with signature 'Gio: Giardin Argentiere' (silversmith's account, text not transcribed).",
+  "n_batches": 2,
+  "batches": [
+   "T12",
+   "T13"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna della Purità",
+  "image_title_latin": "Beata Maria Virgo Puritatis (et ejus Sanctissimus Filius)",
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "S. Paolo Maggiore dei Chierici Regolari Teatini",
+  "locality": "Napoli",
+  "diocese": "Napoli",
+  "country": "Italy",
+  "concession_date": "1714-03-27",
+  "coronation_date": "1724-09-07",
+  "crowns": "two (Virgin and Child) — 'ad formam semicirculi constructas et perforatas, unciarum novem, valoris ducatorum circiter ducentum'; Giardini's account 174:97 scudi",
+  "deputy": "Prospero Lambertini, canon of St Peter's, Archbishop of Theodosia (delegate), who by letter of 21 July 1724 subdelegated Francesco Maria Carafa, Bishop of Nola; the crowns were imposed by Card. (Francesco) Pignatelli, Archbishop of Naples",
+  "petitioner": "Clerici Regolari Teatini di S. Paolo Maggiore, Napoli (Provost D. Filippo Sifola, Vicar D. Casimiro Salmieri, and the fathers), supported by a letter of Card. Pignatelli",
+  "register_refs": [
+   "Cap. 60.",
+   "Caps. 29. Fasc. 3. n.g. 1.",
+   "Caps: 40. fasc: 329",
+   "N. 76",
+   "fog. 12 fog. 1",
+   "pag. 1",
+   "pag. 112",
+   "pag. 119"
+  ],
+  "documents": [
+   "conto argentiere",
+   "instrumentum donationis",
+   "lettera",
+   "other",
+   "supplica"
+  ],
+  "pb_from": 688,
+  "pb_to": 710,
+  "folio_from": "290r",
+  "folio_to": "301r",
+  "key_quote": "Memoriale dato da d. PP. Teatini di S. Paolo Magg.re di Napoli, che supplicano il R.mo Cap.lo p la Coronat.ne della Mad.na della Purità, che si venera nella loro Chiesa con una Let.ta del S.r Card. Pignatelli",
+  "confidence": "high",
+  "notes": "Supplica dated 'Napoli 4 di 9bre 1713' (= 4 Nov 1713); letter of Card. Pignatelli, Napoli 3 March 1714; letter of P. Savino, canon of St Peter's (undated); margin note reads 'Concesso 27 Marze 1700' — the year is OCR-suspect and 1714 is inferred from the surrounding dates, so concession_date is an inference. 'Other' = extract from Carlo Celano's Notizie di Napoli (1725) on S. Paolo Maggiore, the church of Suor Orsola Benincasa and S. Chiara (Giotto Madonna) — the latter two images are merely described, not crowned; also payment mandates to the silversmith Giacomo Antonio Giardini (30 scudi on 14 Jan 1717) and Giardini's account for the two crowns (174:97 scudi), which mislabels the church as 'S. Carlo de Padri Teatini'. Instrument (Latin, Naples, 7 Sept 1724, notary Thomas Cerillo, copy authenticated 1 Feb 1725) inserts Lambertini's letter of Roma 21 July 1724 ('corrente anno 1624' is OCR for 1724). Margin at f.300v labels it 'Instrumentum Coronationis Sae: Imaginis B. M. V. Laetitiae in Ecclesia Divi Pauli Maj. ... Neapoli factae die 7. Septembris 1724' ('Laetitiae' is probably an OCR/archivist slip for Puritatis). A further stray margin note at f.301r, 'Instrumentum Coronationis Sac: Imagini B.M.V. Luscintani', is unreadable and not tied to any document in the range.",
+  "n_batches": 1,
+  "batches": [
+   "T13"
+  ]
+ },
+ {
+  "image_title_vernacular": "Madonna della Santa Cintura",
+  "image_title_latin": null,
+  "image_subject": "Blessed Virgin Mary with Child",
+  "church_or_sanctuary": "S. Bartolo dei PP. Teatini",
+  "locality": "Assisi",
+  "diocese": null,
+  "country": "Italy",
+  "concession_date": null,
+  "coronation_date": null,
+  "crowns": "two (Virgin and Child) — 'corone d'oro fatte per le Sacre Imagini della Beatissima Vergine, e suo Santo Bambino'",
+  "deputy": null,
+  "petitioner": null,
+  "register_refs": [],
+  "documents": [
+   "other"
+  ],
+  "pb_from": 700,
+  "pb_to": 700,
+  "folio_from": "296r",
+  "folio_to": "296r",
+  "key_quote": "corone d'oro fatte per le Sacre Imagini della Beatissima Vergine, e suo Santo Bambino detta della Santa Cintura nella Chiesa di S. Bartolo delli PP. Teatini nella Città di Assisi",
+  "confidence": "low",
+  "notes": "Only a single payment mandate (8 March 1727, 80 scudi on account to the silversmith Giacomo Antonio Giardini, signed by Gio. Andrea Ricci, canon deputy) filed inside the Naples Purità dossier; no supplica, decree, instrument or relazione for this image appears in the range. 'S. Bartolo' as read; the crowns were already made by 1727.",
+  "n_batches": 1,
+  "batches": [
+   "T13"
+  ]
+ }
+]

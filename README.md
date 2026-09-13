@@ -1,8 +1,9 @@
 # Imagines Coronatae
 
 A machine-readable catalogue of **sacred images crowned under papal authority**, compiled from a
-complete sweep of the official gazettes of the Holy See published on vatican.va:
-*Acta Sanctae Sedis* (ASS, 1865–1908) and *Acta Apostolicae Sedis* (AAS, 1909– ).
+complete sweep of the official gazettes of the Holy See — *Acta Sanctae Sedis* (ASS, 1865–1908) and
+*Acta Apostolicae Sedis* (AAS, 1909– ) — and from the one digitized volume of the Vatican Chapter's
+own coronation dossiers, *Madonne coronate*, tomo IV (1689–1714).
 
 | Where | What |
 |---|---|
@@ -10,16 +11,18 @@ complete sweep of the official gazettes of the Holy See published on vatican.va:
 | [`registry/chronological.md`](registry/chronological.md) | Browsable registry, ordered by date of crowning |
 | [`data/imagines-coronatae.json`](data/imagines-coronatae.json) | **The catalogue** — one record per image, each carrying all its sources |
 | [`data/imagines-coronatae.csv`](data/imagines-coronatae.csv) | One row per image, flat |
-| [`data/attestations.json`](data/attestations.json) | The evidence layer — one record per *act* |
+| [`data/attestations.json`](data/attestations.json) | The evidence layer — one record per *act* in ASS/AAS |
+| [`data/attestations-acsp.json`](data/attestations-acsp.json) | The evidence layer for the Chapter archive — one record per *dossier* in Madonne coronate IV |
 | [`data/sources.csv`](data/sources.csv) | One row per (image, source) pair |
 
 ## What is in it
 
-**338 crowned images** in **42 countries**, documented by **400 source citations**
-drawn from **147,576 pages** across **440 volume PDFs**
-(ASS 1–41, 1865–1908; AAS 1–118, 1909–2026).
+**368 crowned images** in **42 countries**, documented by **434 source citations**:
+400 from **147,576 pages** of the two gazettes (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026),
+and 34 from the **713 transcribed folios** of *Madonne coronate* IV — the Chapter's dossiers for
+33 images crowned between 1689 and 1716, only three of which the gazettes ever mention.
 
-39 images are attested by more than one act — the most-cited is Our Lady of Fátima, with seven.
+43 images are attested by more than one act — the most-cited is Our Lady of Fátima, with seven.
 Crownings run from **1645 to 2001**, far earlier than the gazettes themselves,
 because a later act often recites when an image was first crowned.
 
@@ -27,10 +30,11 @@ By strongest evidence available for each image:
 
 | Type | Images |
 |---|---|
-| `retrospective_attestation` | 189 |
+| `retrospective_attestation` | 186 |
 | `papal_coronation_act` | 101 |
-| `papal_personal_coronation` | 30 |
-| `papal_legate_deputation` | 16 |
+| `chapter_decree` | 33 |
+| `papal_personal_coronation` | 31 |
+| `papal_legate_deputation` | 15 |
 | `norms` | 2 |
 
 Most-represented countries:
@@ -115,6 +119,7 @@ carries an `evidence_type` so you can filter to exactly the sense you need:
 | `papal_legate_deputation` | The Pope deputes a Cardinal or Bishop to crown the image in his name. |
 | `papal_personal_coronation` | The act records that the Pope crowned the image himself. |
 | `retrospective_attestation` | A *different* act (typically a Basilica Minor elevation or a patron declaration) states in passing that the image was crowned, often *"ex decreto Capituli Vaticani"*. |
+| `chapter_decree` | The Chapter of St Peter's own dossier under the Sforza Pallavicino legacy: petition, decree of concession, instrument of donation of the crowns, and the *relazione* of the ceremony. From *Madonne coronate* IV. |
 | `norms` | General legislation on crowning images. |
 
 ## Important limits — please read before citing
@@ -130,8 +135,10 @@ carries an `evidence_type` so you can filter to exactly the sense you need:
    N (mecc. N)*. Exactly **one volume of it is digitized** —
    [`Arch.Cap.S.Pietro.Madonne.coron.4`](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4),
    726 images, not OCR'd. Everything else must be consulted at the Vatican Library or at the
-   Archivio Capitolare. See [`docs/CHAPTER-ARCHIVES.md`](docs/CHAPTER-ARCHIVES.md) for the series
-   layout, the citation form, the petition procedure and what each coronation deposited.
+   Archivio Capitolare. **That one volume has now been transcribed and swept** (`chapter_decree`
+   records, cited by folio); the other tomes remain the largest unexamined source. See
+   [`docs/CHAPTER-ARCHIVES.md`](docs/CHAPTER-ARCHIVES.md) for the series layout, the citation form,
+   the petition procedure and what each coronation deposited.
 
    *A concrete case.* **Our Lady of Altagracia** (Higüey, Dominican Republic), patroness of the
    country, is generally said to have been crowned on 15 August 1922 under Pius XI. **AAS volumes
@@ -246,11 +253,13 @@ this work.
 | `scripts/find_passages_vernacular.py` | Second sweep for Italian, Spanish, French, Polish and German coronation terms. |
 | `scripts/merge.py` | Merges and de-duplicates the per-batch extraction output by locality. |
 | `scripts/build_dataset.py` | Assembles the act-level evidence layer, `data/attestations.json`. |
+| `scripts/build_acsp.py` | Turns the *Madonne coronate* IV extraction into `data/attestations-acsp.json`. |
 | `scripts/build_images.py` | Consolidates acts into one record per image, with `sources`. |
 | `scripts/build_registry.py` | Renders the two registry tables from the catalogue. |
 
 The reading-and-structuring step between the sweep and the merge was performed by parallel LLM
-agents against the specifications in `docs/EXTRACTION_SPEC.md` and `docs/EXTRACTION_SPEC_ASS.md`.
+agents against the specifications in `docs/EXTRACTION_SPEC.md`, `docs/EXTRACTION_SPEC_ASS.md` and,
+for the Chapter dossiers, `docs/EXTRACTION_SPEC_ACSP.md`.
 
 ## Licence
 

@@ -3,7 +3,7 @@
 
 # Registry of crowned images — chronological
 
-**338 images** · 400 source citations · generated 2026-09-10
+**368 images** · 434 source citations · generated 2026-09-14
 
 Ordered by the date the image was crowned where a source gives it, otherwise by the earliest act attesting it.
 
@@ -38,18 +38,41 @@ Vatican Chapter crowning later renewed by a Pope.
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1690-09-29 | Madonna di Tirano | Tirano, Como | Italy | retro | [AAS 19 (1927), p. 337](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *retro* | ●●● |
+| 1690-09-29 | Madonna di Tirano | Tirano (Valtellina), Como | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 24r–69v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0059) **<br>[AAS 19 (1927), p. 337](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *retro* | ●●● |
+|  | Madonna delli Sette Dolori | Rome | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 102r–103v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0239) ** | ●●● |
+|  | — |  |  |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 111v–113r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0258) ** | ●○○ |
+| 1694-03-25 | SS.ma Madonna e suo Bambino di S. Pantaleo in Roma | Rome | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 98r–101v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0231) **<br>[BAV, ACSP, Madonne coronate, tomo IV, ff. 98r–98v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0231) ** | ●●● |
+|  | Madonna e suo Bambino nella Chiesa di S. Lorenzo nelle Scuole Pie di Borgo | Rome (Borgo) | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 160r–161v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0379) ** | ●○○ |
+| 1697-08-15 | Madonna della Febbre | Rome (Vatican) | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 162r–169r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0383) ** | ●●● |
 
 ## 1700s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+|  | Madonna del Nome di Maria | Rome | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 186r–187v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0431) ** | ●●○ |
+| 1703-11-11 | Madonna di Belvedere | Città di Castello | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 77r–81v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0177) ** | ●●● |
 | 1704 | Beata Maria Virgo de Monte Carmelo | Bologna | Italy | retro | [AAS 34 (1942), p. 32](https://www.vatican.va/archive/aas/documents/AAS-34-1942-ocr.pdf) *retro* | ●●● |
+| 1704-06-01 | Madonna SS.ma di Cibona (Monte Urbano) | Cibona / Monte Urbano (Eremo di Cibona, territory of Tolfa), Sutri | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 70r–73v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0163) ** | ●●● |
+| 1704-06-07 | Madonna del Presepio (detta d'Ogni Santi) | Siena | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 113v–121v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0262) ** | ●●● |
+| 1704-06-08 | Madonna di San Brizio | Orvieto | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 142r–159v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0343) ** | ●●● |
+| 1704-09-08 | Madonna delle Grazie della Terra di S. Giovanni (Valdarno) | San Giovanni (Valdarno), Fiesole (Fesulana Diœcesis) | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 90r–97v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0211) ** | ●●● |
+| 1705-03-07 | Simulacro miracoloso della SS.ma Vergine della Cattedrale d'Otranto (eletta Padrona sotto il titolo della Natività) | Otranto | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 82r–89v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0187) ** | ●●● |
+| 1705-08-09 | Madonna del Lago | Bertinoro | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 2r–23v.[02.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0005) ** | ●●● |
+| 1707-11-06 | Madonna di San Martino (B.ma Vergine detta di S. Martino) | Montepulciano | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 188r–204v.[02.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0435) ** | ●●● |
+| 1708-08-15 | B. V. delle Grazie (S. Maria novissima delle Grazie) | Penna (Penna e Billi / Pennabilli), Montefeltro | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 104r–111r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0243) ** | ●●● |
+| 1709-11-10 | Beata Vergine della Giara (Madonna di Loreto) dei PP. Teatini, Verona | Verona | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 235r–241v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0558) ** | ●●● |
 
 ## 1710s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+| 1710-09-29 | Madonna di Caravaggio | Caravaggio, Cremona ('Caravaggii Cremonen. diœcesis') | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 242r–245v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0581) ** | ●●○ |
+| 1712-05-14 | Santa Maria di Montevergine (Madonna di Monte Vergine, anticamente detta di Costantinopoli) | Montevergine (Monte Vergine, near Avellino) — reading uncertain, nullius dioecesis, Provincia Beneventana (attestation: 'Beneventanae Dioecesis'); Regno di Napoli, Principato Ultra | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 215r.[01.mn.0000]–234r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0510) ** | ●●● |
+| 1713-05-14 | Madonna del Pianto | Foligno | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 268r–289v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0644) ** | ●●● |
+| 1713-10-28 | Madonna di Capocroce (B. V. detta di Capo croce) | Frascati | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 246r–256v.[03.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0590) **<br>[AAS 50 (1958), p. 937](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
+| 1714-08-15 | Madonna del Piratello | Imola | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 257r–275r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0620) ** | ●●● |
+| 1715-09-08 | Madonna di Tersatto (Vera Effigie della Madre di Dio dipinta da S. Luca) | Tersatto (Trsat), near Fiume (Rijeka) — 'Loci Tarsacti in Dalmatia', Segna e Modrussa (Episcopus Segnensis et Modrusiensis, 'in cujus Dioecesi praefata Ecclesia ... de Tersacto sita reperitur') | Croatia |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 205r–214r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0479) **<br>[AAS 23 (1931), p. 44](https://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf) *retro* | ●●● |
+| 1715-11-12 | Madonna Liberatrice (S. Maria Liberatrice) | Viterbo | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 122r–141r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0283) ** | ●●● |
 | 1717 | Beata Maria Virgo Gratiarum in Monte Sancto (Deipara Virgo Opifera) | Mons Sanctus prope Urbem Goritiam (Monte Santo / Sveta Gora, near Gorizia) | Slovenia | retro | [ASS 40 (1907), p. 19](https://www.vatican.va/archive/ass/documents/ASS-40-1907-ocr.pdf) *retro* | ●●○ |
 | 1717 | Matka Boża Częstochowska (Jasna Góra) | Częstochowa | Poland | retro | [AAS 109 (2017), p. 928](https://www.vatican.va/archive/aas/documents/2017/acta-settembre2017.pdf) *retro* | ●●○ |
 
@@ -59,12 +82,15 @@ Vatican Chapter crowning later renewed by a Pope.
 |---|---|---|---|---|---|---|
 | 1721-08-24 | Madonna della Misericordia | Macerata | Italy | retro | [AAS 13 (1921), p. 305](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 | 1721-09-24 | Nuestra Señora de la Merced | Lima | Peru | retro | [AAS 17 (1925), p. 9](https://www.vatican.va/archive/aas/documents/AAS-17-1925-ocr.pdf) *retro* | ●●● |
+| 1724-09-07 | Madonna della Purità | Napoli | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 290r–301r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0690) ** | ●●● |
+| 1726-11-04 | Madonna di S. Fiorenzo | Perugia | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 170r–176v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0399) ** | ●●○ |
 | 1728 | Madonna del Suffragio | Grotte di Castro, Montefiascone | Italy | retro | [AAS 60 (1968), p. 245](https://www.vatican.va/archive/aas/documents/AAS-60-1968-ocr.pdf) *retro* | ●●● |
 
 ## 1740s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+|  | S. Maria Liberatrice | Genoa | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 177r–177v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0413) ** | ●○○ |
 | 1747 | La Virgen del Viejo (Nuestra Señora de El Viejo) | El Viejo, León (Nicaragua) | Nicaragua | act | [AAS 81 (1989), p. 824](https://www.vatican.va/archive/aas/documents/AAS-81-1989-ocr.pdf) *act*<br>[AAS 88 (1996), p. 239](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *retro* | ●●● |
 
 ## 1750s
@@ -271,7 +297,6 @@ Vatican Chapter crowning later renewed by a Pope.
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-|  | Majka Božja Trsatska (Our Lady of Trsat) | Trsat, Senj-Modruš | Croatia | retro | [AAS 23 (1931), p. 44](https://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf) *retro* | ●●○ |
 | 1931 | Madonna della Scala (Scala Paradisi) | Noto | Italy | retro | [AAS 56 (1964), p. 517](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro* | ●●○ |
 | 1931 | Madonna delle Grazie | Faenza | Italy | retro | [AAS 41 (1949), p. 541](https://www.vatican.va/archive/aas/documents/AAS-41-1949-ocr.pdf) *retro* | ●●● |
 |  | Madonna del Duomo | Senigallia | Italy | retro | [AAS 24 (1932), p. 335](https://www.vatican.va/archive/aas/documents/AAS-24-1932-ocr.pdf) *retro* | ●●○ |
@@ -347,7 +372,6 @@ Vatican Chapter crowning later renewed by a Pope.
 |  | Nuestra Señora de Guanajuato | Santa Fe de Guanajuato, León | Mexico | retro | [AAS 49 (1957), p. 1002](https://www.vatican.va/archive/aas/documents/AAS-49-1957-ocr.pdf) *retro* | ●●● |
 |  | Beata Maria Virgo « a remedio » | Oristano (prope urbem « Oristano ») | Italy | retro | [AAS 50 (1958), p. 147](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
 |  | Nuestra Señora de Guanajuato | León | Mexico | retro | [AAS 50 (1958), p. 928](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●○ |
-|  | Santa Maria della Croce | Crema | Italy | retro | [AAS 50 (1958), p. 937](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●○ |
 |  | Simulacrum Beatae Mariae Virginis | Volterra | Italy | by pope | [AAS 50 (1958), p. 444](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *by pope* | ●●● |
 |  | Nuestra Señora de El Soto | Iruz (Valle de Toranzo), Santander | Spain | act | [AAS 51 (1959), p. 805](https://www.vatican.va/archive/aas/documents/AAS-51-1959-ocr.pdf) *act* | ●●● |
 |  | Virgen de Vallivana | Morella, Tortosa | Spain | retro | [AAS 51 (1959), p. 33](https://www.vatican.va/archive/aas/documents/AAS-51-1959-ocr.pdf) *retro* | ●○○ |
@@ -519,3 +543,14 @@ Vatican Chapter crowning later renewed by a Pope.
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
 |  | Matka Boża Piekarska | Piekary Śląskie | Poland | retro | [AAS 111 (2019), p. 1342](https://www.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf) *retro* | ●○○ |
+
+## Undated
+
+| Crowned | Image | Place | Country | Evidence | Sources | Conf. |
+|---|---|---|---|---|---|---|
+|  | B. V. di Leuca (Santa Maria di Leuca, 'de Finibus Terrae') | Leuca (Japigia / Salento) | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, f. 211v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0500) ** | ●○○ |
+|  | Beatissima Vergine detta di S. Luca |  |  |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 74r–74v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0171) ** | ●●○ |
+|  | Madonna della Santa Cintura | Assisi | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, f. 296r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0702) ** | ●○○ |
+|  | Madonna di Libera Inferni (S. Maria Libera Inferni, formerly S. Maria Maggiore / della Presentazione) | Palermo | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 178v–185v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0416) ** | ●●● |
+|  | Madonna SS.ma delle Grazie (Żabbar, Malta) | Żabbar (OCR 'Zabar'), Malta | Malta |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 75r–76v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0173) ** | ●●● |
+|  | — |  |  |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 213v.[02.mn.0000]–214r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0507) ** | ●○○ |
