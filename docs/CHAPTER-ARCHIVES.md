@@ -51,6 +51,92 @@ The relevant series is **`Madonne coronate`**, and it is on the BAV side. Schola
 — that is: *tomo* (volume, Roman numeral), *foglio* (folio, Roman numeral, *fronte*/*retro* for
 recto/verso), with a parallel modern stamped foliation given as *mecc.*
 
+## The series itself — from Vrabelová (2013)
+
+Dana Vrabelová's Charles University dissertation *Imago gratiosa: Crowned Madonnas in Central Europe
+in the Baroque Period* (Prague, 2013; in Czech) worked directly in the fond and describes it
+(§ 7.3, pp. 57–63). Her account fills in what cannot be seen from the digitized surface:
+
+- **36 volumes**, uniformly titled *Madonne Coronate ossia Raccolta di documenti relativi alle corone
+  di oro…*, each with its date-span, covering **1631–1931**. Documents from **1932–1981** are a
+  separate fond, *Madonne Incoronate*, kept at the **Archivio Capitolare** (not the BAV). Across the
+  two, the Chapter conceded about **1,300 coronations** worldwide.
+- The fond was arranged in **1863 by Enrico Debellini**, *beneficiato e sotto-archivista* of the
+  Basilica, who gathered every coronation record chronologically (then sixteen volumes) and left a
+  manuscript preface in vol. 1 (6 March 1863) describing the petition procedure.
+- Early volumes span about twenty years each — **vol. 1: 1631/34–1648; vol. 2: 1648–1667;
+  vol. 3: 1668–1689; vol. 4: 1689–1714** — after which, as coronations multiplied and petitions
+  grew with printed monographs, volumes cover roughly a decade (vol. 6 = 1725–1735). Vols **5–11**
+  hold the Central European coronations of 1717–1786.
+- Petitions are filed by date of writing; on the back of most is the endorsement with the **date of
+  the Chapter's concession** (or its refusal), usually with the date the decree was issued — exactly
+  the marginal apparatus the sweep of tomo IV relied on.
+- **Vol. 27 is not a dossier volume but a register:** Raffaele Sindone's manuscript *Elenco istorico
+  e cronologico delle miracolose Imagini di Maria Vergine coronate dalla sacrosanta Basilica di
+  S. Pietro in Vaticano* (1756) — a chronological list of every image crowned to that date. With
+  Bombelli's printed *Raccolta delle immagini della Beatissima Vergine ornate della corona d'oro dal
+  Capitolo di S. Pietro* (Rome, 1792), these are the **canonical registers of the practice**, and the
+  natural next targets after tomo IV.
+- Milestones she draws from the fond: the first ceremony under the Sforza rule, Michelangelo's
+  *Pietà*, **31 August 1637**; first coronation outside Rome, the Madonna dei Laghi at Avigliana,
+  **14 April 1652** (recrowned 1752 and 1852); Naples with 28 coronations in all; first outside
+  Italy, **Trsat, 1715**; first in Central Europe, **Częstochowa, 8 September 1717**; first outside
+  Europe, the Chapter's concession for **Guadalupe, 1 October 1740**; **139** Roman images crowned
+  by 1981; and a record year of **31 coronations in 1904**.
+
+She cites as *BAV, ACSP Madonne Coronate, sv. N, fol. X (ROMAN)* — *sv.* (svazek) = tomo — giving the
+stamped and the Roman foliation together, which matches the *mecc.* convention noted above.
+
+### Her chronological table (§ XXI): thirty Chapter coronations in Central Europe, 1717–1786
+
+| Date | Image | Where |
+|---|---|---|
+| 1717-09-08 | Matka Boża Częstochowska | Częstochowa |
+| 1718-09-04 | Mother of God of Trakai | Lithuania |
+| 1723-08-15 | Matka Boża Kodeńska | Kodeń |
+| 1723-08-15 | Mother of God of the Rosary, Dominicans | Podkamień |
+| 1724-09-08 | Mother of God of Sokal | Sokal |
+| 1730-09-19 | Mother of God of Žyrovičy (jasper relief) | Belarus |
+| 1732-06-22 | Panna Maria Svatohorská | Svatá Hora, Příbram |
+| 1732-09-21 | Panna Maria Svatokopecká | Svatý Kopeček, Olomouc |
+| 1736-05-10 | Madona Svatotomášská | Brno, St Thomas |
+| 1749-09-08 | Mother of God of the Rosary | Łuck |
+| 1750-09-08 | Mother of God of St Michael's | Vilnius |
+| 1751-07-01 | Victorious Mother of God of the Rosary | Lwów, Dominicans |
+| 1752-06-04 | Mother of God of Łąki | Łąki Bratiańskie |
+| 1752-09-08 | Matka Boża Leżajska | Leżajsk |
+| 1754-05-22 | Sorrowful Mother of God (Pietà) | Chełmno |
+| 1755-05-18 | Mother of God of Skępe | Skępe |
+| 1755-09-08 | Sorrowful Mother of God (Pietà) | Jarosław |
+| 1756-07-16 | Matka Boża Berdyczowska | Berdyczów |
+| 1761-09-29 | Mother of God of Białynicze | Belarus |
+| 1763-09-08 | Mother of God of Rzeszów | Rzeszów |
+| 1765-09-15 | Mother of God of Chełm | Chełm |
+| 1766-08-15 | Matka Boża Jackowa, Dominicans | Przemyśl |
+| 1767-06-07 | Holy Family of Miedniewice | Miedniewice |
+| 1773-09-08 | Mother of God of Pochaiv | Poczajów |
+| 1776-05-12 | Matka Boża Łaskawa, cathedral | Lwów |
+| 1777-08-15 | Mother of God of Bołszowce | Bołszowce |
+| 1777-09-15 | Immaculata, Franciscans | Przemyśl |
+| 1778-10-04 | Mother of God of Latyczów | Latyczów |
+| 1779-08-15 | Mother of God of Międzyrzecz Ostrogski | Volhynia |
+| 1786-09-08 | Mother of God (Our Lady of the Snows type) | Lithuania |
+
+Checked against this catalogue: **21 of the 30 are wholly absent from ASS and AAS**. Several of the
+nine present are enriched — Svatý Kopeček's record held only John Paul II's 1995 re-crowning;
+Berdyczów and Rzeszów had no date at all; Leżajsk's 1752-09-08 is confirmed exactly. One she dates
+1751/1776 at Lwów sits beside an AAS recollection of a Lwów crowning in 1762 (AAS 2, 1910) —
+possibly the year of the decree rather than of the ceremony, or a third image; unresolved.
+
+### One place the primary source and the thesis disagree
+
+She dates the Trsat coronation to **21 March 1715**, citing vol. 4 fol. 204. The dossier itself
+(ff. 205r–214r, swept above) contains no March date: the notarial instrument opens *"Anno … 1715,
+Indictione octava, die 14.a Mensis 7bris"*, the bishop's letters from Fiume are dated 14 and
+19 September 1715 and say he was to crown the image *"a 8. del corrente"*, and they blame the delay
+on *"il timor del mal contagioso"*. On the primary evidence the coronation is **8 September 1715**,
+notarised on the 14th. The catalogue keeps that date and notes the discrepancy.
+
 ## What is digitized, and what is not
 
 DigiVatLib splits the fond across **two different sections**, which is easy to miss:
@@ -140,6 +226,13 @@ is waiting on. Tomo 4 covers 1689–1714, so a crowning of the 1920s will not be
 volume.
 
 ## Sources
+
+- Dana Vrabelová, *Imago gratiosa. Korunované Madony ve střední Evropě v době baroka / Crowned Madonnas
+  in Central Europe in the Baroque Period*, dissertation, Charles University, Prague, 2013 — § 7.3 on the
+  fond; § XXI chronological table. Her bibliography points to the printed registers: R. Sindone,
+  *Elenco istorico e cronologico…* (MS, 1756 = Madonne coronate vol. 27); [Bombelli], *Raccolta delle
+  immagini della Beatissima Vergine ornate della corona d'oro dal Capitolo di S. Pietro* (Rome, 1792);
+  Alatri 1933; Dejonghe 1967; Bonci 2004; Zander 2011.
 
 - DigiVatLib, archives section: <https://digi.vatlib.it/arc/Arch.Cap.S.Pietro>
 - DigiVatLib, manuscripts section: <https://digi.vatlib.it/mss/Arch.Cap.S.Pietro>
