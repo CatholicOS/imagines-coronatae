@@ -74,11 +74,24 @@ Tomes 1, 2, 3, 5 and 6 return 404 — they are **not** online. Note the IIIF pre
 
 ### What tomo 4 actually contains
 
-Verified by inspection of f. 17v: a printed broadside for the *"anno secolare della solenne
-coronazione della B.ma Vergine del Lago di Bertinoro"* (August 1805), with **`= Bertinoro =`**
-written in the upper margin. So the volume is a **dossier book** — the petitions, printed
-commemorations, odes and records deposited under step 5 above — **annotated in the margin with the
-place-name of each image**. That marginal annotation is what makes the volume navigable.
+Its own title leaf (f. 1r) reads:
+
+> *Madonne Coronate ossia Raccolta di documenti relativi alle corone di oro donate dal R.mo Capitolo
+> Vaticano secondo la pia intenzione del Conte Alessandro Sforza di Piacenza alle Immagini o Statue di
+> Maria S.ma e suo Divin Figlio più celebri per antichità culto e miracoli — **1689 – 1714** — Tomo IV.*
+
+So the volume covers coronations of **1689–1714** — not, as an earlier version of this note said,
+the early nineteenth century. That misreading came from f. 17v, a printed broadside for the 1805
+centenary of the coronation of the B.ma Vergine del Lago di Bertinoro, annotated **`= Bertinoro =`**
+in the upper margin: a **later insert** filed with the dossier of an image crowned in 1705, not
+evidence of the volume's date. The volume is a **dossier book** — the petitions, printed
+commemorations, silversmiths' accounts and records deposited under step 5 above — and the marginal
+place-name annotation is what makes it navigable. It closes (f. 302v) with the account of the
+silversmith Giacomo Antonio Giardini *"in conto delle Corone d'Oro"*.
+
+A full **TEI transcription** of ff. 1r–302v (713 pages) was produced with Vulgate.ai on 13 September
+2026; the alignment of its `<pb>` elements to the BAV folio labels is pb *n* = image index − 2, and a
+`pb-to-folio.csv` sidecar records it. Folios 303r–v were not transcribed.
 
 ### Limits
 
@@ -112,7 +125,7 @@ To confirm a coronation not recorded in ASS/AAS, the route is:
    (`amministrazione@capitolosp.va`).
 
 This is what [issue #1](https://github.com/CatholicOS/imagines-coronatae/issues/1) (Piekary Śląskie)
-is waiting on. Tomo 4 is early-19th-century, so a crowning of the 1920s will not be in the digitized
+is waiting on. Tomo 4 covers 1689–1714, so a crowning of the 1920s will not be in the digitized
 volume.
 
 ## Sources
