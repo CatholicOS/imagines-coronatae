@@ -7,7 +7,7 @@
       "AAS": "https://www.vatican.va/archive/aas/index_sp.htm"
     },
     "generated": "2026-09-14",
-    "record_count": 368,
+    "record_count": 390,
     "layer": "attestations — one record per ACT that attests a crowning; see imagines-coronatae.json for one record per IMAGE",
     "coverage": {
       "series": [
@@ -44,30 +44,31 @@
       "Several ASS volumes span two calendar years; `year` is the first year of the volume."
     ],
     "statistics": {
-      "images": 368,
-      "source_records": 434,
+      "images": 390,
+      "source_records": 464,
       "by_country": {
         "Italy": 125,
-        "Poland": 64,
+        "Poland": 72,
         "Spain": 24,
         "Mexico": 23,
-        "France": 21,
+        "France": 20,
         "Colombia": 11,
+        "Ukraine": 11,
         "Belgium": 9,
         "Argentina": 7,
         "Philippines": 7,
         "Brazil": 6,
+        "Belarus": 5,
         "Ecuador": 5,
         "Malta": 5,
         "Peru": 5,
         "Switzerland": 5,
         "Venezuela": 5,
-        "Belarus": 3,
+        "Czech Republic": 4,
+        "Lithuania": 4,
         "Chile": 3,
-        "Ukraine": 3,
         "Austria": 2,
         "Canada": 2,
-        "Czech Republic": 2,
         "El Salvador": 2,
         "Germany": 2,
         "Guatemala": 2,
@@ -81,7 +82,6 @@
         "Cuba": 1,
         "Dominican Republic": 1,
         "India": 1,
-        "Lithuania": 1,
         "Netherlands": 1,
         "Puerto Rico": 1,
         "Slovakia": 1,
@@ -91,19 +91,19 @@
         "Vatican City": 1
       },
       "by_strongest_evidence": {
-        "retrospective_attestation": 186,
+        "retrospective_attestation": 181,
         "papal_coronation_act": 101,
+        "chapter_decree": 62,
         "papal_legate_deputation": 16,
-        "papal_personal_coronation": 30,
-        "chapter_decree": 33,
+        "papal_personal_coronation": 28,
         "norms": 2
       },
       "by_confidence": {
         "high": 236,
-        "medium": 121,
-        "low": 11
+        "medium": 140,
+        "low": 14
       },
-      "multi_source_images": 43
+      "multi_source_images": 51
     },
     "license": "Underlying ASS and AAS texts are © Libreria Editrice Vaticana. This compilation is provided for research use.",
     "structure": "One record per CROWNED IMAGE. Every ASS/AAS act that attests it is kept in that image’s `sources` array, so an image cited in several volumes is ONE record with several sources, not several records. Images are identified by locality first, since Marian titles repeat worldwide; a distinctive title can also unite an image crowned away from its shrine."
@@ -754,6 +754,60 @@
       ]
     },
     {
+      "id": "matka-boza-bialynicka-bialynicze-byalynichy",
+      "image_title_vernacular": "Matka Boża Białynicka",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Our Lady of the Snows type)",
+      "church_or_sanctuary": null,
+      "locality": "Białynicze (Byalynichy)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Belarus",
+      "coronation_dates": [
+        "1761-09-29"
+      ],
+      "first_coronation": "1761-09-29",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1761,
+          "page": 19,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 19 (§ 13.5.5)",
+          "source_pdf_url": null,
+          "act_number": "19",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1761-09-29",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 9, fol. 8–38"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Bialyniczká",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
       "id": "image-brest-brzesc",
       "image_title_vernacular": null,
       "image_title_latin": null,
@@ -928,6 +982,60 @@
           "incipit_latin": "Spei signum inter nova rerum adiuncta apparet Immaculata Virgo Maria, « spiritalis Mater quae pro Christi discipulis intercedit et pro cuncta humanitate » (Ut unum sint, 79)",
           "confidence": "medium",
           "notes": "Country Belarus inferred from the Latin diocese of Pinsk; not stated in the act. Cardinal Kazimierz Świątek, Apostolic Administrator of Pinsk, deputed to impose the crown; his letters of 29 April 1995."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-zyrowicka-zyrowice-zhyrovichy",
+      "image_title_vernacular": "Matka Boża Żyrowicka",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Glykophilousa; jasper relief)",
+      "church_or_sanctuary": null,
+      "locality": "Żyrowice (Zhyrovichy)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Belarus",
+      "coronation_dates": [
+        "1730-09-19"
+      ],
+      "first_coronation": "1730-09-19",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1730,
+          "page": 6,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 6 (§ 15.3)",
+          "source_pdf_url": null,
+          "act_number": "6",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1730-09-19",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 6, fol. 58–60"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Žyrowická",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
         }
       ]
     },
@@ -3013,21 +3121,131 @@
       ]
     },
     {
+      "id": "madona-svatotomasska-black-madonna-of-st-thomas",
+      "image_title_vernacular": "Madona Svatotomášská (Black Madonna of St Thomas)",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Hodegetria)",
+      "church_or_sanctuary": null,
+      "locality": "Brno, St Thomas (Augustinians)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Czech Republic",
+      "coronation_dates": [
+        "1736-05-10"
+      ],
+      "first_coronation": "1736-05-10",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1736,
+          "page": 9,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 9 (§ 13.4)",
+          "source_pdf_url": null,
+          "act_number": "9",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1736-05-10",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 6, fol. 106–123"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Madona Svatotomášská z Brna",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
+      "id": "panna-maria-svatohorska-svata-hora-pribram",
+      "image_title_vernacular": "Panna Maria Svatohorská",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (standing; wooden statuette)",
+      "church_or_sanctuary": null,
+      "locality": "Svatá Hora, Příbram",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Czech Republic",
+      "coronation_dates": [
+        "1732-06-22"
+      ],
+      "first_coronation": "1732-06-22",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1732,
+          "page": 7,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 7 (§ 15.1)",
+          "source_pdf_url": null,
+          "act_number": "7",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1732-06-22",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 6, fol. 184"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Panna Maria Svatohorská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
       "id": "panna-maria-svatokopecka-svaty-kopecek-olomouc",
       "image_title_vernacular": "Panna Maria Svatokopecká",
       "image_title_latin": "Beata Maria Virgo sub titulo Matris Dei",
-      "image_subject": "Blessed Virgin Mary",
+      "image_subject": "Blessed Virgin Mary with Child (Immaculata; metal relief)",
       "church_or_sanctuary": "Sacra aedes Visitationis B.M.V. (basilica of the Visitation)",
       "locality": "Svatý Kopeček (Olomouc)",
       "diocese_latin": "Olomucensis",
       "diocese_modern": "Olomouc",
       "country": "Czech Republic",
       "coronation_dates": [
+        "1732-09-21",
         "1995-05-21"
       ],
-      "first_coronation": "1995-05-21",
-      "strongest_evidence": "papal_personal_coronation",
+      "first_coronation": "1732-09-21",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
         "papal_personal_coronation"
       ],
       "popes": [
@@ -3035,8 +3253,37 @@
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1732,
+          "page": 8,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 8 (§ 15.4)",
+          "source_pdf_url": null,
+          "act_number": "8",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1732-09-21",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 6, fol. 216–244"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Panna Marie Svatokopecká",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        },
         {
           "series": "AAS",
           "volume": 88,
@@ -4348,7 +4595,7 @@
       "image_title_vernacular": "Notre-Dame des Miracles et Vertus",
       "image_title_latin": "Simulacrum B. Mariae Virginis de Miraculis et Virtutibus",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Curiale templum Ssmi Salvatoris et B. M. V. de Miraculis et Virtutibus",
+      "church_or_sanctuary": "Ecclesia parochialis S. Albini Ep. et Conf. ac B. M. V. de Bonis Nuntiis",
       "locality": "Rennes",
       "diocese_latin": "Rhedonensis",
       "diocese_modern": "Rennes",
@@ -4365,8 +4612,8 @@
         "Benedictus PP. XV"
       ],
       "legates": [],
-      "confidence": "medium",
-      "source_count": 1,
+      "confidence": "high",
+      "source_count": 2,
       "sources": [
         {
           "series": "AAS",
@@ -4392,34 +4639,7 @@
           "incipit_latin": "Rhedonensi in Urbe Curialis Ecclesia titulo Ssmi Salvatoris et B. Mariae Virginis de Miraculis et Virtutibus, non modo amplitudine sed etiam omnigenae artis conspicuis operibus praestans",
           "confidence": "medium",
           "notes": "IMPORTANT for the checker: this act is NOT inside the assigned passage text — it is the immediately preceding act (no. XI) on printed p. 63 of the same volume, found while verifying passage AAS-09-I-1917-ocr#65 (whose context begins mid-p. 64). Included because it is an unambiguous attestation: 'prodigiosum nempe Virginis Deiparae simulacrum, anno MDCCCCVIII Decessoris Nostri Pii PP. X rec. me. nomine atque auctoritate ... sollemni pompa redimitum est aurea praedivite corona.' Same date and Pope as the following act. Confidence set to medium only because the source_id does not literally cover it."
-        }
-      ]
-    },
-    {
-      "id": "notre-dame-de-bonne-nouvelle-rennes",
-      "image_title_vernacular": "Notre-Dame de Bonne-Nouvelle",
-      "image_title_latin": "Imago Deiparae Virginis Mariae de Bonis Nuntiis",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Ecclesia parochialis S. Albini Ep. et Conf. ac B. M. V. de Bonis Nuntiis",
-      "locality": "Rennes",
-      "diocese_latin": "Rhedonensis",
-      "diocese_modern": "Rennes",
-      "country": "France",
-      "coronation_dates": [
-        "1908"
-      ],
-      "first_coronation": "1908",
-      "strongest_evidence": "retrospective_attestation",
-      "evidence_types": [
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Benedictus PP. XV"
-      ],
-      "legates": [],
-      "confidence": "high",
-      "source_count": 1,
-      "sources": [
+        },
         {
           "series": "AAS",
           "volume": 9,
@@ -12348,6 +12568,169 @@
       ]
     },
     {
+      "id": "siluvos-dievo-motina-matka-boza-szydlowska-szydl",
+      "image_title_vernacular": "Šiluvos Dievo Motina (Matka Boża Szydłowska)",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Our Lady of the Snows type)",
+      "church_or_sanctuary": null,
+      "locality": "Szydłów (Šiluva), Samogitia",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Lithuania",
+      "coronation_dates": [
+        "1786-09-08"
+      ],
+      "first_coronation": "1786-09-08",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1786,
+          "page": 30,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 30 (§ 13.5.7)",
+          "source_pdf_url": null,
+          "act_number": "30",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1786-09-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 10, fol. 284–288"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží (Szydłowická)",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand. Unnamed in her table; identified from her § 13.5.7 (Matka Boží Szydłowická; petition of Jan Dominik Łopaciński approved by the Chapter in 1775). Szydłów is the Polish name of Šiluva."
+        }
+      ]
+    },
+    {
+      "id": "traku-dievo-motina-matka-boza-trocka-trakai-trok",
+      "image_title_vernacular": "Trakų Dievo Motina (Matka Boża Trocka)",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Dexiokratousa)",
+      "church_or_sanctuary": null,
+      "locality": "Trakai (Troki)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Lithuania",
+      "coronation_dates": [
+        "1718-09-04"
+      ],
+      "first_coronation": "1718-09-04",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1718,
+          "page": 2,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 2 (§ 13.7.1)",
+          "source_pdf_url": null,
+          "act_number": "2",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1718-09-04",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 5, fol. 153–156",
+            "BAV, ACSP, Madonne coronate, sv. 11, fol. 77"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Trocká",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-swietomichalska-sapiezynska-vilnius-w",
+      "image_title_vernacular": "Matka Boża Świętomichalska (Sapieżyńska)",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary (Immaculata)",
+      "church_or_sanctuary": null,
+      "locality": "Vilnius (Wilno), St Michael's",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Lithuania",
+      "coronation_dates": [
+        "1750-09-08"
+      ],
+      "first_coronation": "1750-09-08",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1750,
+          "page": 11,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 11 (§ 16.1)",
+          "source_pdf_url": null,
+          "act_number": "11",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1750-09-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 8, fol. 58–63"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Svatomichelská z Wilna",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
       "id": "our-lady-of-ta-pinu-malta",
       "image_title_vernacular": "Our Lady of Ta' Pinu",
       "image_title_latin": "Imago Beatae Mariae Virginis in caelum Assumptae sub titulo « ta Pinu »",
@@ -14988,6 +15371,112 @@
       ]
     },
     {
+      "id": "matka-boza-chelmska-chelm",
+      "image_title_vernacular": "Matka Boża Chełmska",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Dexiokratousa)",
+      "church_or_sanctuary": null,
+      "locality": "Chełm",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Poland",
+      "coronation_dates": [
+        "1765-09-15"
+      ],
+      "first_coronation": "1765-09-15",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1765,
+          "page": 21,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 21 (§ 13.7.2)",
+          "source_pdf_url": null,
+          "act_number": "21",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1765-09-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 8, fol. 273–275"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Chelmská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand. Her § 13.7.2 records the petition approved by the Chapter and decreed by Clement XII already in 1740; coronation 1765."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-bolesna-chelminska-chelmno",
+      "image_title_vernacular": "Matka Boża Bolesna Chełmińska",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary (Pietà)",
+      "church_or_sanctuary": null,
+      "locality": "Chełmno",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Poland",
+      "coronation_dates": [
+        "1754-05-22"
+      ],
+      "first_coronation": "1754-05-22",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1754,
+          "page": 15,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 15 (§ 17.4)",
+          "source_pdf_url": null,
+          "act_number": "15",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1754-05-22",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Bolestná z Chelmna",
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Vrabelová 2013, not read at first hand. No ACSP folio is cited for this image in her § 17.4."
+        }
+      ]
+    },
+    {
       "id": "beata-maria-virgo-nivalis-et-divinus-infans-ciri",
       "image_title_vernacular": null,
       "image_title_latin": "Beata Maria Virgo Nivalis et Divinus Infans",
@@ -15141,18 +15630,19 @@
       "id": "matka-boza-czestochowska-jasna-gora-czestochowa",
       "image_title_vernacular": "Matka Boża Częstochowska (Jasna Góra)",
       "image_title_latin": "Imago Beatae Mariae Virginis Claromontanae",
-      "image_subject": "Blessed Virgin Mary",
+      "image_subject": "Blessed Virgin Mary with Child (Hodegetria)",
       "church_or_sanctuary": "Sanctuarium Iasnae Montanae (Jasna Góra)",
-      "locality": "Częstochowa",
+      "locality": "Częstochowa (Jasna Góra)",
       "diocese_latin": "Czestochoviensis",
       "diocese_modern": "Częstochowa",
       "country": "Poland",
       "coronation_dates": [
-        "1717"
+        "1717-09-08"
       ],
-      "first_coronation": "1717",
-      "strongest_evidence": "retrospective_attestation",
+      "first_coronation": "1717-09-08",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
         "retrospective_attestation"
       ],
       "popes": [
@@ -15160,8 +15650,40 @@
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1717,
+          "page": 1,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 1 (§ 13.1)",
+          "source_pdf_url": null,
+          "act_number": "1",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1717-09-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 5, fol. 80–83",
+            "BAV, ACSP, Madonne coronate, sv. 5, fol. 91",
+            "BAV, ACSP, Madonne coronate, sv. 5, fol. 106",
+            "BAV, ACSP, Madonne coronate, sv. 5, fol. 107"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Czestochovská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        },
         {
           "series": "AAS",
           "volume": 109,
@@ -15517,19 +16039,22 @@
       ]
     },
     {
-      "id": "beata-maria-virgo-dolorosa-jaroslaw",
-      "image_title_vernacular": null,
+      "id": "matka-boza-bolesna-jaroslawska-jaroslaw",
+      "image_title_vernacular": "Matka Boża Bolesna Jarosławska",
       "image_title_latin": "Beata Maria Virgo Dolorosa",
-      "image_subject": "Blessed Virgin Mary",
+      "image_subject": "Blessed Virgin Mary (Pietà; statuette)",
       "church_or_sanctuary": "Dominican shrine church of B. Maria Virgo Dolorosa at Jarosław (Ordo Praedicatorum)",
       "locality": "Jarosław",
       "diocese_latin": "Premisliensis Latinorum",
       "diocese_modern": "Przemyśl",
       "country": "Poland",
-      "coronation_dates": [],
-      "first_coronation": null,
-      "strongest_evidence": "retrospective_attestation",
+      "coronation_dates": [
+        "1755-09-08"
+      ],
+      "first_coronation": "1755-09-08",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
         "retrospective_attestation"
       ],
       "popes": [
@@ -15537,8 +16062,37 @@
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1755,
+          "page": 17,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 17 (§ 15.2)",
+          "source_pdf_url": null,
+          "act_number": "17",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1755-09-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 6, fol. 167–169"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Bolestná z Jaroslawi",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        },
         {
           "series": "AAS",
           "volume": 58,
@@ -15765,6 +16319,60 @@
           "incipit_latin": "Quotiescumque de gloria atque laude beatae Mariae Virginis agitur hic in terris augenda, aequissimo semper animo ac serenissimo gaudio",
           "confidence": "high",
           "notes": "Source passage is the AAS 78 chronological index (p. 1334); the act was retrieved from txt and is cited at its own page 143 (index OCR of the place reads 'Kasimierz'). Bishop: Bolesław Pylak."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-kodenska-koden",
+      "image_title_vernacular": "Matka Boża Kodeńska",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary (Guadalupe type)",
+      "church_or_sanctuary": null,
+      "locality": "Kodeń",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Poland",
+      "coronation_dates": [
+        "1723-08-15"
+      ],
+      "first_coronation": "1723-08-15",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1723,
+          "page": 3,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 3 (§ 17.3)",
+          "source_pdf_url": null,
+          "act_number": "3",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1723-08-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 5, fol. 271–274"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Kodeńská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
         }
       ]
     },
@@ -16074,9 +16682,9 @@
       "id": "matka-boza-pocieszenia-our-lady-of-lezajsk-lezaj",
       "image_title_vernacular": "Matka Boża Pocieszenia (Our Lady of Leżajsk)",
       "image_title_latin": "imago Beatae Mariae Virginis Infantem Iesum ulnis ferentis",
-      "image_subject": "Blessed Virgin Mary",
+      "image_subject": "Blessed Virgin Mary with Child (Our Lady of the Snows type)",
       "church_or_sanctuary": "Ecclesia/sanctuarium ab Annuntiatione B. Mariae Virginis (Order of Friars Minor)",
-      "locality": "Leżajsk (suburbium)",
+      "locality": "Leżajsk, Bernardines",
       "diocese_latin": "Premisliensis Latinorum",
       "diocese_modern": "Przemyśl (Latin rite)",
       "country": "Poland",
@@ -16084,8 +16692,9 @@
         "1752-09-08"
       ],
       "first_coronation": "1752-09-08",
-      "strongest_evidence": "retrospective_attestation",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
         "retrospective_attestation"
       ],
       "popes": [
@@ -16093,8 +16702,37 @@
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1752,
+          "page": 14,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 14 (§ 13.5.6)",
+          "source_pdf_url": null,
+          "act_number": "14",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1752-09-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 8, fol. 196–201"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Leżajská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        },
         {
           "series": "AAS",
           "volume": 20,
@@ -16271,6 +16909,58 @@
           "incipit_latin": "Complura inter sacella illa ac monumenta Marialia, quibus et merito Nostra patria Polonia catholica gloriatur",
           "confidence": "high",
           "notes": "Passage printed_page is 967 but the act begins on p. 966 (rubric IV there, confirmed in txt and in the AAS 80 index); aas_page set to the act's start page. Bishop: Bolesław Pylak."
+        }
+      ]
+    },
+    {
+      "id": "swieta-rodzina-miedniewicka-miedniewice",
+      "image_title_vernacular": "Święta Rodzina Miedniewicka",
+      "image_title_latin": null,
+      "image_subject": "Holy Family",
+      "church_or_sanctuary": null,
+      "locality": "Miedniewice",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Poland",
+      "coronation_dates": [
+        "1767-06-07"
+      ],
+      "first_coronation": "1767-06-07",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1767,
+          "page": 23,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 23 (§ 11.1)",
+          "source_pdf_url": null,
+          "act_number": "23",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1767-06-07",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Miedniewiczká",
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Vrabelová 2013, not read at first hand. No ACSP folio is cited for this image in her § 11.1 (the folio there, sv. 10, fol. 53–57, is the Holy Family of Kalisz, crowned 1796)."
         }
       ]
     },
@@ -16929,21 +17619,22 @@
       ]
     },
     {
-      "id": "signum-dei-genetricis-beata-maria-virgo-regina-p",
-      "image_title_vernacular": null,
+      "id": "matka-boza-jackowa-przemysl-dominicans",
+      "image_title_vernacular": "Matka Boża Jackowa",
       "image_title_latin": "signum Dei Genetricis (Beata Maria Virgo, Regina Poloniae)",
-      "image_subject": "Blessed Virgin Mary",
+      "image_subject": "Blessed Virgin Mary with Child (enthroned; alabaster statuette)",
       "church_or_sanctuary": "cathedralis ecclesia Premisliensis Latinorum, S. Ioanni Baptistae ac B. Mariae Virgini Reginae Poloniae sacra",
-      "locality": "Przemyśl",
+      "locality": "Przemyśl, Dominicans",
       "diocese_latin": "Premisliensis Latinorum",
       "diocese_modern": "Przemyśl (Latin rite)",
       "country": "Poland",
       "coronation_dates": [
-        "1766"
+        "1766-08-15"
       ],
-      "first_coronation": "1766",
-      "strongest_evidence": "retrospective_attestation",
+      "first_coronation": "1766-08-15",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
         "retrospective_attestation"
       ],
       "popes": [
@@ -16951,8 +17642,35 @@
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1766,
+          "page": 22,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 22 (§ 15.6)",
+          "source_pdf_url": null,
+          "act_number": "22",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1766-08-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Jacková z Przemysle",
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Vrabelová 2013, not read at first hand. No ACSP folio is cited for this image in her § 15.6."
+        },
         {
           "series": "AAS",
           "volume": 52,
@@ -16977,6 +17695,60 @@
           "incipit_latin": "Romanorum Pontificum beneficio solet templis, quae religione, structurae genere, artificiosis operibus valde commendantur, peculiaris honor adiungi.",
           "confidence": "medium",
           "notes": "Basilica Minor elevation stating 'signum Dei Genetricis, aureo diademate anno MDCCLXVI ornatum'. Crowning authority not named. Country Poland inferred from the see name Premisliensis Latinorum (Przemyśl) and the title 'Regina Poloniae'."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-niepokalana-franciscans-przemysl-fran",
+      "image_title_vernacular": "Matka Boża Niepokalana (Franciscans)",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary (Immaculata)",
+      "church_or_sanctuary": null,
+      "locality": "Przemyśl, Franciscans",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Poland",
+      "coronation_dates": [
+        "1777-09-15"
+      ],
+      "first_coronation": "1777-09-15",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1777,
+          "page": 27,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 27 (§ 16.2)",
+          "source_pdf_url": null,
+          "act_number": "27",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1777-09-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 10, fol. 22–24"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Panna Maria Neposkvrněného početí z Przemysle",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
         }
       ]
     },
@@ -17077,6 +17849,60 @@
           "incipit_latin": "Quam iucunda omnino cum animi recordatione, quam suavi simul cum pietatis adiectione ad locum simulacrum cultum revolvimur hodie",
           "confidence": "high",
           "notes": "Retrieved from txt for the AAS 80 index entry 'Dominae patientis auditionis ... 965'. The rubric reads 'patientis auditionis', the body 'patientis exauditionis'. Bishop: Józef Michalik."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-rzeszowska-rzeszow",
+      "image_title_vernacular": "Matka Boża Rzeszowska",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (standing; wooden statuette)",
+      "church_or_sanctuary": null,
+      "locality": "Rzeszów",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Poland",
+      "coronation_dates": [
+        "1763-09-08"
+      ],
+      "first_coronation": "1763-09-08",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1763,
+          "page": 20,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 20 (§ 15.7)",
+          "source_pdf_url": null,
+          "act_number": "20",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1763-09-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 9, fol. 225–229"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Rzeszówská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
         }
       ]
     },
@@ -17329,6 +18155,61 @@
           "incipit_latin": "In dolorosae Christi Matris vitam « permultae et vehementes passiones confluxerunt in talem nexum et colligationem, ut non solum fidem eius inconcussam comprobarent »",
           "confidence": "medium",
           "notes": "Country Poland inferred from the diocese of Włocławek and the place Skulsk; not stated in the act. OCR of the quotation reads « eolli-gationem » (colligationem). Bishop Bronisław Dembowski, letters of 2 Feb. 1996."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-skepska-skepe",
+      "image_title_vernacular": "Matka Boża Skępska",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary (Immaculata; wooden statuette)",
+      "church_or_sanctuary": null,
+      "locality": "Skępe",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Poland",
+      "coronation_dates": [
+        "1755-05-18"
+      ],
+      "first_coronation": "1755-05-18",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1755,
+          "page": 16,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 16 (§ 15.8)",
+          "source_pdf_url": null,
+          "act_number": "16",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1755-05-18",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 8, fol. 276–277",
+            "BAV, ACSP, Madonne coronate, sv. 10, fol. 301–309"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Skepská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
         }
       ]
     },
@@ -18114,6 +18995,58 @@
           "incipit_latin": null,
           "confidence": "high",
           "notes": "One of four images crowned personally by John Paul II at Jasna Góra, Częstochowa, on 19 June 1983 ('obrazie z sanktuarium w Zielenicach, Diecezji Kieleckiej'), tied to the centenary of the diocese of Kielce. Bishop Stanisław Szymecki of Kielce is greeted. Image detail on printed pages 939-940; act begins on p. 935."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-lakowska-laki-bratianskie",
+      "image_title_vernacular": "Matka Boża Łąkowska",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (standing; wooden statuette)",
+      "church_or_sanctuary": null,
+      "locality": "Łąki Bratiańskie",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Poland",
+      "coronation_dates": [
+        "1752-06-04"
+      ],
+      "first_coronation": "1752-06-04",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1752,
+          "page": 13,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 13 (§ 15.5)",
+          "source_pdf_url": null,
+          "act_number": "13",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1752-06-04",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Lakianská",
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Vrabelová 2013, not read at first hand. No ACSP folio is cited for this image in her § 15.5."
         }
       ]
     },
@@ -20087,28 +21020,60 @@
       ]
     },
     {
-      "id": "matka-boza-berdyczowska-berdychiv-berdychiv-berd",
+      "id": "matka-boza-berdyczowska-berdychiv-berdyczow-berd",
       "image_title_vernacular": "Matka Boża Berdyczowska (Berdychiv)",
       "image_title_latin": "Beata Maria Virgo de Monte Carmelo",
-      "image_subject": "Blessed Virgin Mary",
+      "image_subject": "Blessed Virgin Mary with Child (Our Lady of the Snows type)",
       "church_or_sanctuary": "Sanctuarium B.M.V. de Monte Carmelo, « Berdicev »",
-      "locality": "Berdychiv (Berdyczów)",
+      "locality": "Berdyczów (Berdychiv)",
       "diocese_latin": "Zytomeriensis",
       "diocese_modern": "Zhytomyr",
       "country": "Ukraine",
-      "coronation_dates": [],
-      "first_coronation": null,
+      "coronation_dates": [
+        "1756-07-16"
+      ],
+      "first_coronation": "1756-07-16",
       "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
-        "papal_coronation_act"
+        "papal_coronation_act",
+        "chapter_decree"
       ],
       "popes": [
         "Ioannes Paulus PP. II"
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1756,
+          "page": 18,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 18 (§ 13.5.4)",
+          "source_pdf_url": null,
+          "act_number": "18",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1756-07-16",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 8, fol. 255–271"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Berdyczowská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        },
         {
           "series": "AAS",
           "volume": 89,
@@ -20133,6 +21098,114 @@
           "incipit_latin": "Deipara Virgo, in historiam salutis ingressa, maxima fidei placita in se quodammodo unit et reverberat dum praedicatur et colitur.",
           "confidence": "high",
           "notes": "Bp Jan Purwiński of Zhytomyr is deputed to impose the crown in the Pope's name. The same act also appears at the end of passage AAS-89-1997-ocr#530. Country not stated in the act; inferred from the Latin diocese/place name."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-bolszowiecka-bolszowce-bilshivtsi",
+      "image_title_vernacular": "Matka Boża Bołszowiecka",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Nikopoia)",
+      "church_or_sanctuary": null,
+      "locality": "Bołszowce (Bilshivtsi)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Ukraine",
+      "coronation_dates": [
+        "1777-08-15"
+      ],
+      "first_coronation": "1777-08-15",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1777,
+          "page": 26,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 26 (§ 17.2)",
+          "source_pdf_url": null,
+          "act_number": "26",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1777-08-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 10, fol. 151–164"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Bolszowická",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-latyczowska-latyczow-letychiv",
+      "image_title_vernacular": "Matka Boża Latyczowska",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Our Lady of the Snows type)",
+      "church_or_sanctuary": null,
+      "locality": "Latyczów (Letychiv)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Ukraine",
+      "coronation_dates": [
+        "1778-10-04"
+      ],
+      "first_coronation": "1778-10-04",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1778,
+          "page": 28,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 28 (§ 13.5.2)",
+          "source_pdf_url": null,
+          "act_number": "28",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1778-10-04",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 11, fol. 56–65"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Latyczowská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand. Attributed on chronology; her § 13.5.2 also cites the Łuck dossier (sv. 8, fol. 64–71)."
         }
       ]
     },
@@ -20189,21 +21262,77 @@
       ]
     },
     {
+      "id": "matka-boza-rozancowa-zwycieska-lwow-lviv-dominic",
+      "image_title_vernacular": "Matka Boża Różańcowa Zwycięska",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Hodegetria)",
+      "church_or_sanctuary": null,
+      "locality": "Lwów (Lviv), Dominicans",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Ukraine",
+      "coronation_dates": [
+        "1751-07-01"
+      ],
+      "first_coronation": "1751-07-01",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1751,
+          "page": 12,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 12 (§ 13.3)",
+          "source_pdf_url": null,
+          "act_number": "12",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1751-07-01",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 8, fol. 72–113"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Vítězná Matka Boží Růžencová ze Lwówa",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
       "id": "obraz-matki-bozej-laskawej-pani-lwowa-our-lady-o",
       "image_title_vernacular": "Obraz Matki Bożej Łaskawej, Pani Lwowa (Our Lady of Grace, Lady of Lviv; « Śliczna Gwiazda miasta Lwowa »)",
       "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
+      "image_subject": "Blessed Virgin Mary (Queen of Heaven)",
       "church_or_sanctuary": null,
-      "locality": "Lviv (Leopolis)",
+      "locality": "Lwów (Lviv), Latin cathedral",
       "diocese_latin": "Leopolitana",
       "diocese_modern": "Lviv of the Latins",
       "country": "Ukraine",
       "coronation_dates": [
+        "1776-05-12",
         "2001-06-26"
       ],
-      "first_coronation": "2001-06-26",
-      "strongest_evidence": "papal_personal_coronation",
+      "first_coronation": "1776-05-12",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
         "papal_personal_coronation"
       ],
       "popes": [
@@ -20211,8 +21340,37 @@
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1776,
+          "page": 25,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 25 (§ 17.1)",
+          "source_pdf_url": null,
+          "act_number": "25",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1776-05-12",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 11, fol. 8–11"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Laskavá ze Lwówa",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand. Her § 17.1 gives 11 May 1776 in the text and 12 May in the table. AAS 2 (1910) recalls a Lwów crowning 'ex decreto Capituli Vaticani' in 1762 — possibly the decree year, possibly another image; unresolved."
+        },
         {
           "series": "AAS",
           "volume": 93,
@@ -20237,6 +21395,277 @@
           "incipit_latin": null,
           "confidence": "high",
           "notes": "'Za chwilę dokonam koronacji łaskami słynącego obrazu Matki Bożej Łaskawej Pani Lwowa' (p. 850) and, earlier in the same homily, 'Maryi, Matki Bożej Łaskawej, od wieków czczonej przez was w wizerunku, który dzisiaj z radością ukoronuję ... obrazem, pamiętającym śluby króla Jana Kazimierza' (p. 849). Homily at the beatification of Józef Bilczewski and Zygmunt Gorazdowski, Lviv, 26 June 2001. Act begins on printed page 844; the passage's printed_page is 850. The text links this image to the vows of King John Casimir, as it does the Lubaczów image crowned in 1983 (AAS 75, p. 935) — a checker should verify the relation between the two. Body in Polish, no Latin incipit."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-miedzyrzecka-miedzyrzecz-ostrogski-ve",
+      "image_title_vernacular": "Matka Boża Międzyrzecka",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Hodegetria)",
+      "church_or_sanctuary": null,
+      "locality": "Międzyrzecz Ostrogski (Velyki Mezhyrichi)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Ukraine",
+      "coronation_dates": [
+        "1779-08-15"
+      ],
+      "first_coronation": "1779-08-15",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1779,
+          "page": 29,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 29 (§ 13.6)",
+          "source_pdf_url": null,
+          "act_number": "29",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1779-08-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 11, fol. 72",
+            "BAV, ACSP, Madonne coronate, sv. 11, fol. 76"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží z Miedzyrzce Ostrogského",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-poczajowska-poczajow-pochaiv",
+      "image_title_vernacular": "Matka Boża Poczajowska",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Glykophilousa)",
+      "church_or_sanctuary": null,
+      "locality": "Poczajów (Pochaiv)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Ukraine",
+      "coronation_dates": [
+        "1773-09-08"
+      ],
+      "first_coronation": "1773-09-08",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1773,
+          "page": 24,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 24 (§ XIV)",
+          "source_pdf_url": null,
+          "act_number": "24",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1773-09-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 10, fol. 222–229"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Poczajowská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-podkamienska-rozancowa-podkamien-pidk",
+      "image_title_vernacular": "Matka Boża Podkamieńska (Różańcowa)",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Our Lady of the Snows type)",
+      "church_or_sanctuary": null,
+      "locality": "Podkamień (Pidkamin), Dominican convent",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Ukraine",
+      "coronation_dates": [
+        "1723-08-15"
+      ],
+      "first_coronation": "1723-08-15",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1723,
+          "page": 5,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 5 (§ 13.5.3)",
+          "source_pdf_url": null,
+          "act_number": "5",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1723-08-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 6, fol. 43–44"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Růžencová z kláštera dominikánů v Podkamieni",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-sokalska-sokal",
+      "image_title_vernacular": "Matka Boża Sokalska",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Hodegetria)",
+      "church_or_sanctuary": null,
+      "locality": "Sokal",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Ukraine",
+      "coronation_dates": [
+        "1724-09-08"
+      ],
+      "first_coronation": "1724-09-08",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1724,
+          "page": 4,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 4 (§ 13.2)",
+          "source_pdf_url": null,
+          "act_number": "4",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1724-09-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 5, fol. 93–105"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Sokalská",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand."
+        }
+      ]
+    },
+    {
+      "id": "matka-boza-lucka-rozancowa-luck-lutsk-dominicans",
+      "image_title_vernacular": "Matka Boża Łucka (Różańcowa)",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (Our Lady of the Snows type)",
+      "church_or_sanctuary": null,
+      "locality": "Łuck (Lutsk), Dominicans",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Ukraine",
+      "coronation_dates": [
+        "1749-09-08"
+      ],
+      "first_coronation": "1749-09-08",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1749,
+          "page": 10,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Vrabelová 2013, § XXI no. 10 (§ 13.5.1)",
+          "source_pdf_url": null,
+          "act_number": "10",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1749-09-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, sv. 8, fol. 64–71"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": "Matka Boží Růžencová z Lucku",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Vrabelová 2013, not read at first hand. sv. 8, fol. 64–71 is cited in her Latyczów narrative as well; attributed here on chronology (sv. 8 ≈ 1740s–1750s)."
         }
       ]
     },

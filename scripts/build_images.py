@@ -3,9 +3,9 @@ import pathlib
 REPO=str(pathlib.Path(__file__).resolve().parent.parent)
 src=json.load(open(REPO+'/data/attestations.json',encoding='utf-8'))
 R=src['records'] if isinstance(src,dict) else src
-_acsp=pathlib.Path(REPO)/'data'/'attestations-acsp.json'
-if _acsp.exists():
-    R=R+json.load(open(_acsp,encoding='utf-8'))['records']   # Chapter-archive layer, same record shape
+for _extra in ('attestations-acsp.json','attestations-lit.json'):   # Chapter-archive and literature layers
+    _p=pathlib.Path(REPO)/'data'/_extra
+    if _p.exists(): R=R+json.load(open(_p,encoding='utf-8'))['records']
 META=src.get('metadata',{}) if isinstance(src,dict) else {}
 SPECIAL=str.maketrans({'ł':'l','Ł':'l','ø':'o','đ':'d','æ':'ae','œ':'oe','ß':'ss','þ':'th'})
 STOP=set('''nuestra senora nossa senhora notre dame madonna matka boza bozej panna beata beatae maria mariae
@@ -45,6 +45,13 @@ GEO_STOP={'near','prope','the','del','de','di','da','of','city','urbe','urbs','u
  'wielkopolska','pomerania','galicia','catalonia','cataluna','andalusia','andalucia','castile','castilla',
  'extremadura','aragon','navarra','bavaria','bayern','tyrol','flanders','wallonia','brabant','parish','near',
  'monte','mons','montis','eremo','territory','territorio','loci','tolfa','avellino','dalmatia','valtellina','salento','japigia',
+ # 'holy' in Slavic languages — the Czech/Polish san/santa: Svatá Hora and Svatý Kopeček are different places
+ 'svata','svaty','svate','sveta','sveti','svete','swieta','swiety','swiete','sw','sv','sventa','sventas','sviata','sviatyi',
+ # institutions and orders are not places either: 'Łuck, Dominicans' and 'Lwów, Dominicans' share nothing
+ 'dominican','dominicans','dominikani','dominikanow','franciscan','franciscans','bernardine','bernardines','bernardynow',
+ 'augustinian','augustinians','jesuit','jesuits','carmelite','carmelites','theatine','theatines','piarist','piarists',
+ 'capuchin','capuchins','benedictine','benedictines','servite','servites','convent','monastery','klasztor','cathedral',
+ 'church','kosciol','kostel','chiesa','iglesia','basilica','sanctuary','shrine','sanktuarium','collegiate','abbey','oratory',
  'diocese','archdiocese','province','state','departamento','department','county','district','shrine','sanctuary'}
 ECCL_STOP={'ecclesia','ecclesiae','paroecialis','paroeciali','templum','templo','templi','basilica',
  'basilicae','minoris','sanctuario','santuario','sanctuary','shrine','aedes','aede','cathedral','cathedralis',
@@ -80,7 +87,20 @@ def place_match(A,B):
 def loc_key(r):
     t=loc_toks(r)
     return min(t)[:7] if t else None
-def title(r): return toks(r.get('image_title_vernacular'),r.get('image_title_latin'))
+SYN={ # cross-language equivalents of the commonest Marian titles, mapped to one canonical token
+ 'dolorosa':'dolor','bolesna':'dolor','addolorata':'dolor','dolores':'dolor','perdolens':'dolor','perdolentis':'dolor','pieta':'dolor','sorrows':'dolor',
+ 'laskawa':'gratia','laskawej':'gratia','gratiarum':'gratia','grazie':'gratia','gracias':'gratia','graces':'gratia','gratiosa':'gratia',
+ 'rozancowa':'rosario','rozancowej':'rosario','rosario':'rosario','rosary':'rosario','rosarii':'rosario',
+ 'pocieszenia':'consol','consolatione':'consol','consolation':'consol','consolazione':'consol','consolatrix':'consol',
+ 'zwycieska':'victoria','victrix':'victoria','vittoria':'victoria','victoria':'victoria','victory':'victoria',
+ 'sniezna':'nivis','nivis':'nivis','neve':'nivis','nieves':'nivis','snows':'nivis',
+ 'niepokalana':'immac','immaculata':'immac','inmaculada':'immac','immacolata':'immac','immaculate':'immac','immaculatae':'immac',
+ 'czestochowska':'czestochow','czestochoviensis':'czestochow','jasnogorska':'czestochow',
+ 'wniebowzieta':'assumpta','assumpta':'assumpta','assunta':'assumpta','asuncion':'assumpta','assumption':'assumpta',
+ 'krolowa':'regina','regina':'regina','reina':'regina','queen':'regina','regine':'regina',
+ 'milosierdzia':'misericord','misericordiae':'misericord','misericordia':'misericord','mercy':'misericord','merced':'misericord'}
+def title(r):
+    return {SYN.get(x,x) for x in toks(r.get('image_title_vernacular'),r.get('image_title_latin'))}
 
 tokloc=collections.defaultdict(set)
 for r in R:
@@ -113,6 +133,12 @@ for c,rs in bycountry.items():
     for r in rs:
         lr=loc_toks(r)
         cands=[g for g in groups if place_match(set().union(*[loc_toks(x) for x in g]),lr) and tcompat(g,r)]
+        if not cands and r.get('coronation_date'):
+            # titles disagree (often just Latin vs vernacular) but the same place was crowned in the same year
+            y=str(r['coronation_date'])[:4]
+            same=[g for g in groups if place_match(set().union(*[loc_toks(x) for x in g]),lr) and subj_ok(g,r)
+                  and any(str(x.get('coronation_date') or '')[:4]==y for x in g)]
+            if len(same)==1: cands=same
         if len(cands)==1:
             cands[0].append(r)
         elif len(cands)>1:
@@ -180,7 +206,7 @@ def slug(s,n=48):
 
 images=[];seen=collections.Counter()
 for g in clusters:
-    g=sorted(g,key=lambda r:(r.get('year') or 9999,{'ACSP':0,'ASS':1,'AAS':2}.get(r.get('series'),3),r.get('page') or 0))
+    g=sorted(g,key=lambda r:(r.get('year') or 9999,{'ACSP':0,'LIT':1,'ASS':2,'AAS':3}.get(r.get('series'),4),r.get('page') or 0))
     cds=collapse_dates([x['coronation_date'] for x in g if x.get('coronation_date')])
     ev=sorted({x['evidence_type'] for x in g},key=lambda e:-RANK.get(e,0))
     base=slug((best(g,'image_title_vernacular') or best(g,'image_title_latin') or 'image')+'-'+(best(g,'locality') or best(g,'country') or ''))

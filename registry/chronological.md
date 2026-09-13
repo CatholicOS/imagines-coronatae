@@ -3,7 +3,7 @@
 
 # Registry of crowned images — chronological
 
-**368 images** · 434 source citations · generated 2026-09-14
+**390 images** · 464 source citations · generated 2026-09-14
 
 Ordered by the date the image was crowned where a source gives it, otherwise by the earliest act attesting it.
 
@@ -74,7 +74,8 @@ Vatican Chapter crowning later renewed by a Pope.
 | 1715-09-08 | Madonna di Tersatto (Vera Effigie della Madre di Dio dipinta da S. Luca) | Tersatto (Trsat), near Fiume (Rijeka) — 'Loci Tarsacti in Dalmatia', Segna e Modrussa (Episcopus Segnensis et Modrusiensis, 'in cujus Dioecesi praefata Ecclesia ... de Tersacto sita reperitur') | Croatia |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 205r–214r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0479) **<br>[AAS 23 (1931), p. 44](https://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf) *retro* | ●●● |
 | 1715-11-12 | Madonna Liberatrice (S. Maria Liberatrice) | Viterbo | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 122r–141r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0283) ** | ●●● |
 | 1717 | Beata Maria Virgo Gratiarum in Monte Sancto (Deipara Virgo Opifera) | Mons Sanctus prope Urbem Goritiam (Monte Santo / Sveta Gora, near Gorizia) | Slovenia | retro | [ASS 40 (1907), p. 19](https://www.vatican.va/archive/ass/documents/ASS-40-1907-ocr.pdf) *retro* | ●●○ |
-| 1717 | Matka Boża Częstochowska (Jasna Góra) | Częstochowa | Poland | retro | [AAS 109 (2017), p. 928](https://www.vatican.va/archive/aas/documents/2017/acta-settembre2017.pdf) *retro* | ●●○ |
+| 1717-09-08 | Matka Boża Częstochowska (Jasna Góra) | Częstochowa (Jasna Góra) | Poland |  | Vrabelová 2013, § XXI no. 1 (§ 13.1) **<br>[AAS 109 (2017), p. 928](https://www.vatican.va/archive/aas/documents/2017/acta-settembre2017.pdf) *retro* | ●●○ |
+| 1718-09-04 | Trakų Dievo Motina (Matka Boża Trocka) | Trakai (Troki) | Lithuania |  | Vrabelová 2013, § XXI no. 2 (§ 13.7.1) ** | ●●○ |
 
 ## 1720s
 
@@ -82,9 +83,21 @@ Vatican Chapter crowning later renewed by a Pope.
 |---|---|---|---|---|---|---|
 | 1721-08-24 | Madonna della Misericordia | Macerata | Italy | retro | [AAS 13 (1921), p. 305](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 | 1721-09-24 | Nuestra Señora de la Merced | Lima | Peru | retro | [AAS 17 (1925), p. 9](https://www.vatican.va/archive/aas/documents/AAS-17-1925-ocr.pdf) *retro* | ●●● |
+| 1723-08-15 | Matka Boża Kodeńska | Kodeń | Poland |  | Vrabelová 2013, § XXI no. 3 (§ 17.3) ** | ●●○ |
+| 1723-08-15 | Matka Boża Podkamieńska (Różańcowa) | Podkamień (Pidkamin), Dominican convent | Ukraine |  | Vrabelová 2013, § XXI no. 5 (§ 13.5.3) ** | ●●○ |
 | 1724-09-07 | Madonna della Purità | Napoli | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 290r–301r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0690) ** | ●●● |
+| 1724-09-08 | Matka Boża Sokalska | Sokal | Ukraine |  | Vrabelová 2013, § XXI no. 4 (§ 13.2) ** | ●●○ |
 | 1726-11-04 | Madonna di S. Fiorenzo | Perugia | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 170r–176v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0399) ** | ●●○ |
 | 1728 | Madonna del Suffragio | Grotte di Castro, Montefiascone | Italy | retro | [AAS 60 (1968), p. 245](https://www.vatican.va/archive/aas/documents/AAS-60-1968-ocr.pdf) *retro* | ●●● |
+
+## 1730s
+
+| Crowned | Image | Place | Country | Evidence | Sources | Conf. |
+|---|---|---|---|---|---|---|
+| 1730-09-19 | Matka Boża Żyrowicka | Żyrowice (Zhyrovichy) | Belarus |  | Vrabelová 2013, § XXI no. 6 (§ 15.3) ** | ●●○ |
+| 1732-06-22 | Panna Maria Svatohorská | Svatá Hora, Příbram | Czech Republic |  | Vrabelová 2013, § XXI no. 7 (§ 15.1) ** | ●●○ |
+| 1732-09-21; 1995-05-21 | Panna Maria Svatokopecká | Svatý Kopeček (Olomouc) | Czech Republic |  | Vrabelová 2013, § XXI no. 8 (§ 15.4) **<br>[AAS 88 (1996), p. 631](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *by pope* | ●●○ |
+| 1736-05-10 | Madona Svatotomášská (Black Madonna of St Thomas) | Brno, St Thomas (Augustinians) | Czech Republic |  | Vrabelová 2013, § XXI no. 9 (§ 13.4) ** | ●●○ |
 
 ## 1740s
 
@@ -92,34 +105,53 @@ Vatican Chapter crowning later renewed by a Pope.
 |---|---|---|---|---|---|---|
 |  | S. Maria Liberatrice | Genoa | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 177r–177v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0413) ** | ●○○ |
 | 1747 | La Virgen del Viejo (Nuestra Señora de El Viejo) | El Viejo, León (Nicaragua) | Nicaragua | act | [AAS 81 (1989), p. 824](https://www.vatican.va/archive/aas/documents/AAS-81-1989-ocr.pdf) *act*<br>[AAS 88 (1996), p. 239](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *retro* | ●●● |
+| 1749-09-08 | Matka Boża Łucka (Różańcowa) | Łuck (Lutsk), Dominicans | Ukraine |  | Vrabelová 2013, § XXI no. 10 (§ 13.5.1) ** | ●●○ |
 
 ## 1750s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1752-09-08 | Matka Boża Pocieszenia (Our Lady of Leżajsk) | Leżajsk (suburbium), Przemyśl (Latin rite) | Poland | retro | [AAS 20 (1928), p. 351](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●○ |
+| 1750-09-08 | Matka Boża Świętomichalska (Sapieżyńska) | Vilnius (Wilno), St Michael's | Lithuania |  | Vrabelová 2013, § XXI no. 11 (§ 16.1) ** | ●●○ |
+| 1751-07-01 | Matka Boża Różańcowa Zwycięska | Lwów (Lviv), Dominicans | Ukraine |  | Vrabelová 2013, § XXI no. 12 (§ 13.3) ** | ●●○ |
+| 1752-06-04 | Matka Boża Łąkowska | Łąki Bratiańskie | Poland |  | Vrabelová 2013, § XXI no. 13 (§ 15.5) ** | ●○○ |
+| 1752-09-08 | Matka Boża Pocieszenia (Our Lady of Leżajsk) | Leżajsk, Bernardines, Przemyśl (Latin rite) | Poland |  | Vrabelová 2013, § XXI no. 14 (§ 13.5.6) **<br>[AAS 20 (1928), p. 351](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●○ |
 | 1754 | Madonna del Ponte | Narni | Italy | retro | [AAS 46 (1954), p. 758](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro* | ●●● |
+| 1754-05-22 | Matka Boża Bolesna Chełmińska | Chełmno | Poland |  | Vrabelová 2013, § XXI no. 15 (§ 17.4) ** | ●○○ |
+| 1755-05-18 | Matka Boża Skępska | Skępe | Poland |  | Vrabelová 2013, § XXI no. 16 (§ 15.8) ** | ●●○ |
+| 1755-09-08 | Matka Boża Bolesna Jarosławska | Jarosław, Przemyśl | Poland |  | Vrabelová 2013, § XXI no. 17 (§ 15.2) **<br>[AAS 58 (1966), p. 628](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
+| 1756-07-16 | Matka Boża Berdyczowska (Berdychiv) | Berdyczów (Berdychiv), Zhytomyr | Ukraine | act | Vrabelová 2013, § XXI no. 18 (§ 13.5.4) **<br>[AAS 89 (1997), p. 532](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
 | 1759 | Materdomini | Salerno | Italy | retro | [AAS 15 (1923), p. 337](https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf) *retro* | ●●○ |
 
 ## 1760s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+| 1761-09-29 | Matka Boża Białynicka | Białynicze (Byalynichy) | Belarus |  | Vrabelová 2013, § XXI no. 19 (§ 13.5.5) ** | ●●○ |
 | 1762 | vetustissima Deiparae Imago | Leopolis (Lviv) | Ukraine | retro | [AAS 2 (1910), p. 570](https://www.vatican.va/archive/aas/documents/AAS-02-1910-ocr.pdf) *retro* | ●●○ |
-| 1766 | signum Dei Genetricis (Beata Maria Virgo, Regina Poloniae) | Przemyśl | Poland | retro | [AAS 52 (1960), p. 450](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●○ |
+| 1763-09-08 | Matka Boża Rzeszowska | Rzeszów | Poland |  | Vrabelová 2013, § XXI no. 20 (§ 15.7) ** | ●●○ |
+| 1765-09-15 | Matka Boża Chełmska | Chełm | Poland |  | Vrabelová 2013, § XXI no. 21 (§ 13.7.2) ** | ●●○ |
+| 1766-08-15 | Matka Boża Jackowa | Przemyśl, Dominicans | Poland |  | Vrabelová 2013, § XXI no. 22 (§ 15.6) **<br>[AAS 52 (1960), p. 450](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●○ |
+| 1767-06-07 | Święta Rodzina Miedniewicka | Miedniewice | Poland |  | Vrabelová 2013, § XXI no. 23 (§ 11.1) ** | ●○○ |
 | 1769 | Madonna della Madia | Monopoli (Apulia) | Italy | retro | [AAS 13 (1921), p. 492](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 
 ## 1770s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+| 1773-09-08 | Matka Boża Poczajowska | Poczajów (Pochaiv) | Ukraine |  | Vrabelová 2013, § XXI no. 24 (§ XIV) ** | ●●○ |
 | 1776 | Dei Genetricis Imago « a Rosa » | Santa Margherita Ligure, Chiavari | Italy | retro | [AAS 43 (1951), p. 669](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●○ |
+| 1776-05-12; 2001-06-26 | Obraz Matki Bożej Łaskawej, Pani Lwowa (Our Lady of Grace, Lady of Lviv; « Śliczna Gwiazda miasta Lwowa ») | Lwów (Lviv), Latin cathedral | Ukraine |  | Vrabelová 2013, § XXI no. 25 (§ 17.1) **<br>[AAS 93 (2001), p. 844](https://www.vatican.va/archive/aas/documents/AAS-93-2001-ocr.pdf) *by pope* | ●●● |
+| 1777-08-15 | Matka Boża Bołszowiecka | Bołszowce (Bilshivtsi) | Ukraine |  | Vrabelová 2013, § XXI no. 26 (§ 17.2) ** | ●●○ |
+| 1777-09-15 | Matka Boża Niepokalana (Franciscans) | Przemyśl, Franciscans | Poland |  | Vrabelová 2013, § XXI no. 27 (§ 16.2) ** | ●●○ |
+| 1778-10-04 | Matka Boża Latyczowska | Latyczów (Letychiv) | Ukraine |  | Vrabelová 2013, § XXI no. 28 (§ 13.5.2) ** | ●●○ |
+| 1779-08-15 | Matka Boża Międzyrzecka | Międzyrzecz Ostrogski (Velyki Mezhyrichi) | Ukraine |  | Vrabelová 2013, § XXI no. 29 (§ 13.6) ** | ●●○ |
 
 ## 1780s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
 | 1782 | Madonna di Fontenuova | Monsummano Terme, Pescia | Italy | retro | [AAS 56 (1964), p. 417](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro* | ●●○ |
+| 1786-09-08 | Šiluvos Dievo Motina (Matka Boża Szydłowska) | Szydłów (Šiluva), Samogitia | Lithuania |  | Vrabelová 2013, § XXI no. 30 (§ 13.5.7) ** | ●●○ |
 
 ## 1810s
 
@@ -235,8 +267,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | 1907 | Nuestra Señora de la Misericordia | Canet de Mar, Girona | Spain | retro | [AAS 49 (1957), p. 896](https://www.vatican.va/archive/aas/documents/AAS-49-1957-ocr.pdf) *retro* | ●●● |
 | 1907-08-15 | Maria Santissima del Soccorso | Sciacca (Thermae Selinuntinae), Agrigento | Italy | retro | [AAS 83 (1991), p. 925](https://www.vatican.va/archive/aas/documents/AAS-83-1991-ocr.pdf) *retro* | ●●● |
 |  | — |  |  | norms | [ASS 41 (1908), p. 621](https://www.vatican.va/archive/ass/documents/ASS-41-1908-ocr.pdf) *norms* | ●●● |
-| 1908 | Notre-Dame de Bonne-Nouvelle | Rennes | France | retro | [AAS 9 (1917), p. 64](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●● |
-| 1908 | Notre-Dame des Miracles et Vertus | Rennes | France | retro | [AAS 9 (1917), p. 63](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●○ |
+| 1908 | Notre-Dame des Miracles et Vertus | Rennes | France | retro | [AAS 9 (1917), p. 63](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro*<br>[AAS 9 (1917), p. 64](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●● |
 | 1908 | Nuestra Señora de la Encina | Ponferrada (region « El Bierzo »), Astorga | Spain | retro | [AAS 50 (1958), p. 673](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
 | 1909 | Madonna di Lourdes | Stella, Savona | Italy | retro | [AAS 27 (1935), p. 44](https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf) *retro* | ●●○ |
 | 1909 | Notre-Dame de Gray | Gray, Besançon | France | retro | [AAS 42 (1950), p. 544](https://www.vatican.va/archive/aas/documents/AAS-42-1950-ocr.pdf) *retro* | ●●● |
@@ -397,7 +428,6 @@ Vatican Chapter crowning later renewed by a Pope.
 |  | Maria Ausiliatrice | Roma, Rome | Italy | retro | [AAS 57 (1965), p. 485](https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf) *retro* | ●●○ |
 |  | Nossa Senhora do Pilar | São João del-Rei | Brazil | retro | [AAS 57 (1965), p. 224](https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf) *retro* | ●●○ |
 | 1965 | statua Iesu Infantis | Cebu | Philippines | legate | [AAS 57 (1965), p. 500](https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf) *legate* | ●●○ |
-|  | Beata Maria Virgo Dolorosa | Jarosław, Przemyśl | Poland | retro | [AAS 58 (1966), p. 628](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
 |  | Beata Maria Virgo « a Catena » | Laurignano, Cosenza | Italy | retro | [AAS 58 (1966), p. 629](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
 |  | Sacro Monte di Viggiano | Viggiano, Potenza-Marsico Nuovo | Italy | retro | [AAS 58 (1966), p. 566](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
 |  | Beata Maria Virgo Lauretana | Loreto, Tijuana | Mexico | retro | [AAS 59 (1967), p. 610](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●○ |
@@ -507,7 +537,6 @@ Vatican Chapter crowning later renewed by a Pope.
 |  | Santa Maria Regina dei Popoli (Madonna di Preval) | Preval, Gorizia | Italy | act | [AAS 87 (1995), p. 555](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act* | ●●○ |
 |  | — | Brest (Brześć), Pinsk | Belarus | act | [AAS 87 (1995), p. 832](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act* | ●●○ |
 | 1995 | Matka Boża Budsławska | Budslaw (Budsłaŭ), Minsk-Mohilev | Belarus | act | [AAS 87 (1995), p. 833](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act*<br>[AAS 88 (1996), p. 695](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *retro* | ●●○ |
-| 1995-05-21 | Panna Maria Svatokopecká | Svatý Kopeček (Olomouc) | Czech Republic | by pope | [AAS 88 (1996), p. 631](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *by pope* | ●●○ |
 | 1995-05-21 | Panna Maria Žarošická | Žarošice, Brno | Czech Republic | act | [AAS 87 (1995), p. 682](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act*<br>[AAS 88 (1996), p. 146](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *by pope* | ●●● |
 |  | Brama Miłosierdzia / Vrata Myloserdia | Jarosław, Przemyśl (Ukrainian Byzantine rite) | Poland | act | [AAS 88 (1996), p. 103](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *act* | ●●○ |
 |  | Mare de Déu de Paret Delgada | La Selva del Camp, Tarragona | Spain | act | [AAS 88 (1996), p. 627](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *act* | ●●● |
@@ -517,7 +546,6 @@ Vatican Chapter crowning later renewed by a Pope.
 |  | Matka Boża Łaskawa (Matki Bozej Laskawej) | Krzeszów, Legnica | Poland | act | [AAS 88 (1996), p. 742](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *act* | ●●● |
 |  | Pocieszycielka Strapionych (Matka Boża Pocieszenia), Miedzna | Miedzna, Drohiczyn | Poland | act | [AAS 88 (1996), p. 910](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *act* | ●●● |
 | 1996-10-26 | Madonna Nicopeja (Santa Maria della Vittoria), San Vito dei Normanni | San Vito dei Normanni, Brindisi-Ostuni | Italy | by pope | [AAS 89 (1997), p. 444](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *by pope*<br>[AAS 91 (1999), p. 346](https://www.vatican.va/archive/aas/documents/AAS-91-1999-ocr.pdf) *retro* | ●●● |
-|  | Matka Boża Berdyczowska (Berdychiv) | Berdychiv (Berdyczów), Zhytomyr | Ukraine | act | [AAS 89 (1997), p. 532](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
 |  | Matka Boża Pocieszenia, Gniezno | Gniezno | Poland | act | [AAS 89 (1997), p. 89](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
 |  | Matka Boża Pocieszenia, Lubiszewo | Lubiszewo, Pelplin | Poland | act | [AAS 89 (1997), p. 530](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
 |  | Nuestra Señora de Inodejo | Las Fraguas (Soria) | Spain | act | [AAS 89 (1997), p. 17](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●○ |
@@ -536,7 +564,6 @@ Vatican Chapter crowning later renewed by a Pope.
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
 | 2000-09-20 | Maria Santissima della Neve del Monte Sirino | Lagonegro | Italy | by pope | [AAS 92 (2000), p. 848](https://www.vatican.va/archive/aas/documents/AAS-92-2000-ocr.pdf) *by pope* | ●●○ |
-| 2001-06-26 | Obraz Matki Bożej Łaskawej, Pani Lwowa (Our Lady of Grace, Lady of Lviv; « Śliczna Gwiazda miasta Lwowa ») | Lviv (Leopolis) | Ukraine | by pope | [AAS 93 (2001), p. 844](https://www.vatican.va/archive/aas/documents/AAS-93-2001-ocr.pdf) *by pope* | ●●● |
 
 ## 2010s
 

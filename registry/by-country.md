@@ -3,7 +3,7 @@
 
 # Registry of crowned images — by country
 
-**368 images** · 42 countries · 434 source citations · generated 2026-09-14
+**390 images** · 42 countries · 464 source citations · generated 2026-09-14
 
 Each row is **one crowned image**. The *Sources* column lists every act in
 *Acta Sanctae Sedis* (ASS, 1865–1908) or *Acta Apostolicae Sedis* (AAS, 1909– ) that attests it,
@@ -64,13 +64,15 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Belarus
 
-*3 images*
+*5 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
+| Matka Boża Białynicka | Białynicze (Byalynichy) | 1761-09-29 |  | Vrabelová 2013, § XXI no. 19 (§ 13.5.5) ** | ●●○ |
 | — | Brest (Brześć), Pinsk |  | act | [AAS 87 (1995), p. 832](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act* | ●●○ |
 | Matka Boża Budsławska | Budslaw (Budsłaŭ), Minsk-Mohilev | 1995 | act | [AAS 87 (1995), p. 833](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act*<br>[AAS 88 (1996), p. 695](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *retro* | ●●○ |
 | Matka Boża Łahiszyńska | Lahiszyn (Logishin), Pinsk |  | act | [AAS 87 (1995), p. 1091](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act* | ●●○ |
+| Matka Boża Żyrowicka | Żyrowice (Zhyrovichy) | 1730-09-19 |  | Vrabelová 2013, § XXI no. 6 (§ 15.3) ** | ●●○ |
 
 ## Belgium
 
@@ -172,11 +174,13 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Czech Republic
 
-*2 images*
+*4 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
-| Panna Maria Svatokopecká | Svatý Kopeček (Olomouc) | 1995-05-21 | by pope | [AAS 88 (1996), p. 631](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *by pope* | ●●○ |
+| Madona Svatotomášská (Black Madonna of St Thomas) | Brno, St Thomas (Augustinians) | 1736-05-10 |  | Vrabelová 2013, § XXI no. 9 (§ 13.4) ** | ●●○ |
+| Panna Maria Svatohorská | Svatá Hora, Příbram | 1732-06-22 |  | Vrabelová 2013, § XXI no. 7 (§ 15.1) ** | ●●○ |
+| Panna Maria Svatokopecká | Svatý Kopeček (Olomouc) | 1732-09-21; 1995-05-21 |  | Vrabelová 2013, § XXI no. 8 (§ 15.4) **<br>[AAS 88 (1996), p. 631](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *by pope* | ●●○ |
 | Panna Maria Žarošická | Žarošice, Brno | 1995-05-21 | act | [AAS 87 (1995), p. 682](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act*<br>[AAS 88 (1996), p. 146](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *by pope* | ●●● |
 
 ## Dominican Republic
@@ -210,7 +214,7 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## France
 
-*21 images*
+*20 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
@@ -229,8 +233,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Nostra Domina a Tabulis | Montpellier (Mons Pessulanus) |  | retro | [AAS 32 (1940), p. 39](https://www.vatican.va/archive/aas/documents/AAS-32-1940-ocr.pdf) *retro* | ●●● |
 | Notre-Dame de Joie | Pontivy, Vannes | 1951 | retro | [AAS 51 (1959), p. 532](https://www.vatican.va/archive/aas/documents/AAS-51-1959-ocr.pdf) *retro* | ●●● |
 | Notre-Dame de la Délivrance | Quentin, Saint-Brieuc |  | legate | [AAS 26 (1934), p. 223](https://www.vatican.va/archive/aas/documents/AAS-26-1934-ocr.pdf) *legate* | ●●● |
-| Notre-Dame de Bonne-Nouvelle | Rennes | 1908 | retro | [AAS 9 (1917), p. 64](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●● |
-| Notre-Dame des Miracles et Vertus | Rennes | 1908 | retro | [AAS 9 (1917), p. 63](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●○ |
+| Notre-Dame des Miracles et Vertus | Rennes | 1908 | retro | [AAS 9 (1917), p. 63](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro*<br>[AAS 9 (1917), p. 64](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●● |
 | Notre-Dame de Bon-Secours | Rouen (Rothomagum) | 1880-05-24 | retro | [AAS 11 (1919), p. 226](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
 | Notre-Dame du Saint-Cordon | Valenciennes, Cambrai |  | retro | [AAS 14 (1922), p. 492](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro* | ●●● |
 | Notre-Dame de Verdelais | Verdelais, Bordeaux | 1856-07-02 | retro | [AAS 16 (1924), p. 152](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
@@ -396,11 +399,14 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Lithuania
 
-*1 image*
+*4 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
 | Pivašiūnų Dievo Motina | Pivašiūnai, Kaišiadorys |  | act | [AAS 80 (1988), p. 1398](https://www.vatican.va/archive/aas/documents/AAS-80-1988-ocr.pdf) *act* | ●●● |
+| Šiluvos Dievo Motina (Matka Boża Szydłowska) | Szydłów (Šiluva), Samogitia | 1786-09-08 |  | Vrabelová 2013, § XXI no. 30 (§ 13.5.7) ** | ●●○ |
+| Trakų Dievo Motina (Matka Boża Trocka) | Trakai (Troki) | 1718-09-04 |  | Vrabelová 2013, § XXI no. 2 (§ 13.7.1) ** | ●●○ |
+| Matka Boża Świętomichalska (Sapieżyńska) | Vilnius (Wilno), St Michael's | 1750-09-08 |  | Vrabelová 2013, § XXI no. 11 (§ 16.1) ** | ●●○ |
 
 ## Malta
 
@@ -489,38 +495,42 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Poland
 
-*64 images*
+*72 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
 | Matka Miłosierdzia | Białystok |  | act | [AAS 85 (1993), p. 557](https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf) *act* | ●●○ |
 | Imago B. M. Virginis quae in sacra aede loci vulgo Blotnica colitur | Blotnica (Bloetnica), Sandomierz |  | act | [AAS 66 (1974), p. 319](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *act* | ●●● |
 | Obraz Matki Bożej z Brdowa (Our Lady of Brdów) | Brdów, Włocławek | 1983-06-19 | act | [AAS 74 (1982), p. 678](https://www.vatican.va/archive/aas/documents/AAS-74-1982-ocr.pdf) *act*<br>[AAS 75 (1983), p. 935](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *by pope* | ●●● |
+| Matka Boża Chełmska | Chełm | 1765-09-15 |  | Vrabelová 2013, § XXI no. 21 (§ 13.7.2) ** | ●●○ |
+| Matka Boża Bolesna Chełmińska | Chełmno | 1754-05-22 |  | Vrabelová 2013, § XXI no. 15 (§ 17.4) ** | ●○○ |
 | Beata Maria Virgo Nivalis et Divinus Infans | Ciricium (Szczyrzyc), Tarnów |  | act | [AAS 76 (1984), p. 768](https://www.vatican.va/archive/aas/documents/AAS-76-1984-ocr.pdf) *act* | ●●○ |
 | Matka Boża Wychowawczyni (« Educatricis »), Czarna | Czarna, Radom |  | act | [AAS 90 (1998), p. 253](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *act* | ●●● |
 | Imago Beatae Mariae Virginis Scapularis seu de Monte Carmelo | Czerna, Kraków |  | act | [AAS 79 (1987), p. 1447](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *act* | ●●○ |
-| Matka Boża Częstochowska (Jasna Góra) | Częstochowa | 1717 | retro | [AAS 109 (2017), p. 928](https://www.vatican.va/archive/aas/documents/2017/acta-settembre2017.pdf) *retro* | ●●○ |
+| Matka Boża Częstochowska (Jasna Góra) | Częstochowa (Jasna Góra) | 1717-09-08 |  | Vrabelová 2013, § XXI no. 1 (§ 13.1) **<br>[AAS 109 (2017), p. 928](https://www.vatican.va/archive/aas/documents/2017/acta-settembre2017.pdf) *retro* | ●●○ |
 | Imago Beatae Mariae Virginis de « Lysiec » | Gliwice, Opole |  | act | [AAS 79 (1987), p. 514](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *act*<br>[AAS 79 (1987), p. 833](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *act* | ●●○ |
 | Matka Boża Pocieszenia, Gniezno | Gniezno |  | act | [AAS 89 (1997), p. 89](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
 | Matka Boża Bolesna | Hałcnów (Bielsko-Biała) |  | act | [AAS 85 (1993), p. 129](https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf) *act* | ●●● |
 | Maria Śnieżna (Iglizna) | Iglizna (Miedzygórze), Wrocław |  | act | [AAS 75 (1983), p. 18](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *act* | ●●○ |
 | Matka Niezawodnej Nadziei | Jamna, Tarnów | 1998-07-03 | by pope | [AAS 91 (1999), p. 1032](https://www.vatican.va/archive/aas/documents/AAS-91-1999-ocr.pdf) *by pope* | ●●○ |
 | Matka Boża Łaskawa z Janowa Lubelskiego | Janów Lubelski, Lublin |  | act | [AAS 77 (1985), p. 708](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *act* | ●●○ |
-| Beata Maria Virgo Dolorosa | Jarosław, Przemyśl |  | retro | [AAS 58 (1966), p. 628](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
+| Matka Boża Bolesna Jarosławska | Jarosław, Przemyśl | 1755-09-08 |  | Vrabelová 2013, § XXI no. 17 (§ 15.2) **<br>[AAS 58 (1966), p. 628](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
 | Brama Miłosierdzia / Vrata Myloserdia | Jarosław, Przemyśl (Ukrainian Byzantine rite) |  | act | [AAS 88 (1996), p. 103](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *act* | ●●○ |
 | simulacrum Sacrae Familiae Nazarethanae | Kalisz, Włocławek |  | act | [AAS 76 (1984), p. 557](https://www.vatican.va/archive/aas/documents/AAS-76-1984-ocr.pdf) *act* | ●●○ |
 | Obraz Matki Bożej Kalwaryjskiej (Our Lady of Kalwaria) | Kalwaria Zebrzydowska, Kraków | 1887-08-15 | retro | [AAS 71 (1979), p. 840](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) *retro* | ●●● |
 | Matka Boża Kazimierska | Kazimierz (Kazimierz Dolny), Lublin |  | act | [AAS 78 (1986), p. 143](https://www.vatican.va/archive/aas/documents/AAS-78-1986-ocr.pdf) *act* | ●●● |
+| Matka Boża Kodeńska | Kodeń | 1723-08-15 |  | Vrabelová 2013, § XXI no. 3 (§ 17.3) ** | ●●○ |
 | Matka Boża Królowa Rodzin, Kościerzyna | Kościerzyna, Pelplin |  | act | [AAS 90 (1998), p. 94](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *act* | ●●● |
 | Matka Boża Różańcowa | Kraków | 1921 | retro | [AAS 50 (1958), p. 850](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
 | Matka Boża Fatimska | Kraków, Nowa Huta-Bieńczyce |  | act | [AAS 84 (1992), p. 838](https://www.vatican.va/archive/aas/documents/AAS-84-1992-ocr.pdf) *act* | ●●● |
 | Matka Boża Nieustającej Pomocy | Kraków-Podgórze |  | act | [AAS 86 (1994), p. 791](https://www.vatican.va/archive/aas/documents/AAS-86-1994-ocr.pdf) *act* | ●●○ |
 | antiquissima beatae Matris effigies | Krypno, Białystok (Vilnius archdiocese, Białystok portion) |  | act | [AAS 75 (1983), p. 608](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *act* | ●●● |
 | Matka Boża Łaskawa (Matki Bozej Laskawej) | Krzeszów, Legnica |  | act | [AAS 88 (1996), p. 742](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *act* | ●●● |
-| Matka Boża Pocieszenia (Our Lady of Leżajsk) | Leżajsk (suburbium), Przemyśl (Latin rite) | 1752-09-08 | retro | [AAS 20 (1928), p. 351](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●○ |
+| Matka Boża Pocieszenia (Our Lady of Leżajsk) | Leżajsk, Bernardines, Przemyśl (Latin rite) | 1752-09-08 |  | Vrabelová 2013, § XXI no. 14 (§ 13.5.6) **<br>[AAS 20 (1928), p. 351](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●○ |
 | Obraz Matki Bożej z Lubaczowa (Matka Boża Łaskawa, image of the vows of King John Casimir) | Lubaczów | 1983-06-19 | by pope | [AAS 75 (1983), p. 935](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *by pope* | ●●● |
 | Matka Boża Pocieszenia, Lubiszewo | Lubiszewo, Pelplin |  | act | [AAS 89 (1997), p. 530](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
 | Matka Boża Płacząca (Lublin) | Lublin |  | act | [AAS 80 (1988), p. 966](https://www.vatican.va/archive/aas/documents/AAS-80-1988-ocr.pdf) *act* | ●●● |
+| Święta Rodzina Miedniewicka | Miedniewice | 1767-06-07 |  | Vrabelová 2013, § XXI no. 23 (§ 11.1) ** | ●○○ |
 | Pocieszycielka Strapionych (Matka Boża Pocieszenia), Miedzna | Miedzna, Drohiczyn |  | act | [AAS 88 (1996), p. 910](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *act* | ●●● |
 | Beata Maria Virgo « Assumpta in Caelum Regina Sancti Rosarii » | Myszków-Mrzygłód, Częstochowa |  | act | [AAS 87 (1995), p. 127](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act* | ●●○ |
 | picta Imago beatissimae Dei Matris Opoliensis | Opole |  | act | [AAS 75 (1983), p. 679](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *act* | ●●● |
@@ -534,14 +544,17 @@ Vatican Chapter crowning later renewed by a Pope.
 | Matka Boża of Płoki | Ploki, Kraków |  | act | [AAS 74 (1982), p. 764](https://www.vatican.va/archive/aas/documents/AAS-74-1982-ocr.pdf) *act* | ●●● |
 | Matka Boża Tęskniąca (Matka Boza Teskniaca), Powsin | Powsin (Warszawa) |  | act | [AAS 90 (1998), p. 251](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *act* | ●●● |
 | Imago Deiparae Virginis Mariae Immaculatae | Przasnysz, Plock |  | act | [AAS 66 (1974), p. 380](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *act* | ●●● |
-| signum Dei Genetricis (Beata Maria Virgo, Regina Poloniae) | Przemyśl | 1766 | retro | [AAS 52 (1960), p. 450](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●○ |
+| Matka Boża Jackowa | Przemyśl, Dominicans | 1766-08-15 |  | Vrabelová 2013, § XXI no. 22 (§ 15.6) **<br>[AAS 52 (1960), p. 450](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●○ |
+| Matka Boża Niepokalana (Franciscans) | Przemyśl, Franciscans | 1777-09-15 |  | Vrabelová 2013, § XXI no. 27 (§ 16.2) ** | ●●○ |
 | Matka Boża z Płonki Kościelnej | Płonka Kościelna, Łomża |  | act | [AAS 77 (1985), p. 286](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *act* | ●●○ |
 | Matka Boża Rokitniańska (Cierpliwie Słuchająca) | Rokitno, Gorzów (Zielona Góra-Gorzów) |  | act | [AAS 80 (1988), p. 965](https://www.vatican.va/archive/aas/documents/AAS-80-1988-ocr.pdf) *act* | ●●● |
+| Matka Boża Rzeszowska | Rzeszów | 1763-09-08 |  | Vrabelová 2013, § XXI no. 20 (§ 15.7) ** | ●●○ |
 | imago Beatae Virginis in Sacra Tilia culta | Sacra Tilia, Warmia |  | retro | [AAS 75 (1983), p. 479](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *retro* | ●●○ |
 | Sacra imago Beatae Virginis Mariae quae in templo loci vulgo Sierpe colitur | Sierpc, Plock |  | act | [AAS 72 (1980), p. 384](https://www.vatican.va/archive/aas/documents/AAS-72-1980-ocr.pdf) *act* | ●●○ |
 | Matka Boża Bolesna of Skrzatusz | Skrzatusz, Koszalin-Kołobrzeg |  | act | [AAS 78 (1986), p. 977](https://www.vatican.va/archive/aas/documents/AAS-78-1986-ocr.pdf) *act* | ●●● |
 | Matka Boża Staroskrzyńska (« Staroskrzynska »), Skrzynno | Skrzynno / Skrzynsko, Radom |  | act | [AAS 90 (1998), p. 252](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *act* | ●●● |
 | Matka Boża Bolesna | Skulsk, Włocławek |  | act | [AAS 88 (1996), p. 628](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *act* | ●●○ |
+| Matka Boża Skępska | Skępe | 1755-05-18 |  | Vrabelová 2013, § XXI no. 16 (§ 15.8) ** | ●●○ |
 | Imago Virginis (B. Mariae Virginis in caelum Assumptae) | Starawieś, Przemyśl (Latin rite) | 1877 | retro | [AAS 20 (1928), p. 17](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●● |
 | Obraz Matki Bożej ze Stoczka Warmińskiego (Matka Pokoju / Mother of Peace) | Stoczek Warmiński, Warmia | 1983-06-19 | by pope | [AAS 75 (1983), p. 935](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *by pope*<br>[AAS 81 (1989), p. 827](https://www.vatican.va/archive/aas/documents/AAS-81-1989-ocr.pdf) *by pope* | ●●● |
 | Matka Boża Fatimska (Szczecin) | Szczecin (Stettin) |  | act | [AAS 78 (1986), p. 408](https://www.vatican.va/archive/aas/documents/AAS-78-1986-ocr.pdf) *act* | ●●● |
@@ -557,6 +570,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | B. M. V. de Consolatione imago | Włodawa-Orchówek, Siedlce |  | act | [AAS 79 (1987), p. 513](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *act* | ●●● |
 | Matka Boża Fatimska, Zakopane-Krzeptówki | Zakopane-Krzeptówki, Kraków | 1987-10-11 | by pope | [AAS 80 (1988), p. 1739](https://www.vatican.va/archive/aas/documents/AAS-80-1988-ocr.pdf) *by pope* | ●●○ |
 | Obraz Matki Bożej z Zielenic (zieleniecki obraz Bogarodzicy) | Zielenice, Kielce | 1983-06-19 | by pope | [AAS 75 (1983), p. 935](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *by pope* | ●●● |
+| Matka Boża Łąkowska | Łąki Bratiańskie | 1752-06-04 |  | Vrabelová 2013, § XXI no. 13 (§ 15.5) ** | ●○○ |
 
 ## Portugal
 
@@ -644,13 +658,21 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Ukraine
 
-*3 images*
+*11 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
-| Matka Boża Berdyczowska (Berdychiv) | Berdychiv (Berdyczów), Zhytomyr |  | act | [AAS 89 (1997), p. 532](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
+| Matka Boża Berdyczowska (Berdychiv) | Berdyczów (Berdychiv), Zhytomyr | 1756-07-16 | act | Vrabelová 2013, § XXI no. 18 (§ 13.5.4) **<br>[AAS 89 (1997), p. 532](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
+| Matka Boża Bołszowiecka | Bołszowce (Bilshivtsi) | 1777-08-15 |  | Vrabelová 2013, § XXI no. 26 (§ 17.2) ** | ●●○ |
+| Matka Boża Latyczowska | Latyczów (Letychiv) | 1778-10-04 |  | Vrabelová 2013, § XXI no. 28 (§ 13.5.2) ** | ●●○ |
 | vetustissima Deiparae Imago | Leopolis (Lviv) | 1762 | retro | [AAS 2 (1910), p. 570](https://www.vatican.va/archive/aas/documents/AAS-02-1910-ocr.pdf) *retro* | ●●○ |
-| Obraz Matki Bożej Łaskawej, Pani Lwowa (Our Lady of Grace, Lady of Lviv; « Śliczna Gwiazda miasta Lwowa ») | Lviv (Leopolis) | 2001-06-26 | by pope | [AAS 93 (2001), p. 844](https://www.vatican.va/archive/aas/documents/AAS-93-2001-ocr.pdf) *by pope* | ●●● |
+| Matka Boża Różańcowa Zwycięska | Lwów (Lviv), Dominicans | 1751-07-01 |  | Vrabelová 2013, § XXI no. 12 (§ 13.3) ** | ●●○ |
+| Obraz Matki Bożej Łaskawej, Pani Lwowa (Our Lady of Grace, Lady of Lviv; « Śliczna Gwiazda miasta Lwowa ») | Lwów (Lviv), Latin cathedral | 1776-05-12; 2001-06-26 |  | Vrabelová 2013, § XXI no. 25 (§ 17.1) **<br>[AAS 93 (2001), p. 844](https://www.vatican.va/archive/aas/documents/AAS-93-2001-ocr.pdf) *by pope* | ●●● |
+| Matka Boża Międzyrzecka | Międzyrzecz Ostrogski (Velyki Mezhyrichi) | 1779-08-15 |  | Vrabelová 2013, § XXI no. 29 (§ 13.6) ** | ●●○ |
+| Matka Boża Poczajowska | Poczajów (Pochaiv) | 1773-09-08 |  | Vrabelová 2013, § XXI no. 24 (§ XIV) ** | ●●○ |
+| Matka Boża Podkamieńska (Różańcowa) | Podkamień (Pidkamin), Dominican convent | 1723-08-15 |  | Vrabelová 2013, § XXI no. 5 (§ 13.5.3) ** | ●●○ |
+| Matka Boża Sokalska | Sokal | 1724-09-08 |  | Vrabelová 2013, § XXI no. 4 (§ 13.2) ** | ●●○ |
+| Matka Boża Łucka (Różańcowa) | Łuck (Lutsk), Dominicans | 1749-09-08 |  | Vrabelová 2013, § XXI no. 10 (§ 13.5.1) ** | ●●○ |
 
 ## Uruguay
 

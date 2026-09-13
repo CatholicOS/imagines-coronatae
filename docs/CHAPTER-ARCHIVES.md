@@ -122,7 +122,7 @@ stamped and the Roman foliation together, which matches the *mecc.* convention n
 | 1779-08-15 | Mother of God of Międzyrzecz Ostrogski | Volhynia |
 | 1786-09-08 | Mother of God (Our Lady of the Snows type) | Lithuania |
 
-Checked against this catalogue: **21 of the 30 are wholly absent from ASS and AAS**. Several of the
+These thirty are now in the catalogue as series **LIT** (secondary, with her folio citations in `register_refs`). Checked against the gazette record: **21 of the 30 were wholly absent from ASS and AAS**. Several of the
 nine present are enriched — Svatý Kopeček's record held only John Paul II's 1995 re-crowning;
 Berdyczów and Rzeszów had no date at all; Leżajsk's 1752-09-08 is confirmed exactly. One she dates
 1751/1776 at Lwów sits beside an AAS recollection of a Lwów crowning in 1762 (AAS 2, 1910) —

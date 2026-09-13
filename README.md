@@ -3,7 +3,8 @@
 A machine-readable catalogue of **sacred images crowned under papal authority**, compiled from a
 complete sweep of the official gazettes of the Holy See — *Acta Sanctae Sedis* (ASS, 1865–1908) and
 *Acta Apostolicae Sedis* (AAS, 1909– ) — and from the one digitized volume of the Vatican Chapter's
-own coronation dossiers, *Madonne coronate*, tomo IV (1689–1714).
+own coronation dossiers, *Madonne coronate*, tomo IV (1689–1714) — plus, kept visibly distinct, thirty
+coronations reported by Vrabelová's 2013 study of the same archive.
 
 | Where | What |
 |---|---|
@@ -13,16 +14,19 @@ own coronation dossiers, *Madonne coronate*, tomo IV (1689–1714).
 | [`data/imagines-coronatae.csv`](data/imagines-coronatae.csv) | One row per image, flat |
 | [`data/attestations.json`](data/attestations.json) | The evidence layer — one record per *act* in ASS/AAS |
 | [`data/attestations-acsp.json`](data/attestations-acsp.json) | The evidence layer for the Chapter archive — one record per *dossier* in Madonne coronate IV |
+| [`data/attestations-lit.json`](data/attestations-lit.json) | Secondary literature — coronations *reported*, not read at first hand, each with the author's archival citation |
 | [`data/sources.csv`](data/sources.csv) | One row per (image, source) pair |
 
 ## What is in it
 
-**368 crowned images** in **42 countries**, documented by **434 source citations**:
-400 from **147,576 pages** of the two gazettes (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026),
-and 34 from the **713 transcribed folios** of *Madonne coronate* IV — the Chapter's dossiers for
-33 images crowned between 1689 and 1716, only three of which the gazettes ever mention.
+**390 crowned images** in **42 countries**, documented by **464 source citations**:
+400 from **147,576 pages** of the two gazettes (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026);
+34 from the **713 transcribed folios** of *Madonne coronate* IV — the Chapter's dossiers for
+34 images crowned between 1689 and 1716, only three of which the gazettes ever mention; and
+30 from **secondary literature** (Vrabelová 2013), reporting Central European coronations of 1717–1786
+from later volumes of the same archive, 23 of them otherwise unrecorded here.
 
-43 images are attested by more than one act — the most-cited is Our Lady of Fátima, with seven.
+51 images are attested by more than one act — the most-cited is Our Lady of Fátima, with seven.
 Crownings run from **1645 to 2001**, far earlier than the gazettes themselves,
 because a later act often recites when an image was first crowned.
 
@@ -30,11 +34,11 @@ By strongest evidence available for each image:
 
 | Type | Images |
 |---|---|
-| `retrospective_attestation` | 186 |
+| `retrospective_attestation` | 181 |
 | `papal_coronation_act` | 101 |
-| `chapter_decree` | 33 |
-| `papal_personal_coronation` | 31 |
-| `papal_legate_deputation` | 15 |
+| `chapter_decree` | 62 |
+| `papal_personal_coronation` | 28 |
+| `papal_legate_deputation` | 16 |
 | `norms` | 2 |
 
 Most-represented countries:
@@ -107,6 +111,21 @@ AAS 55 (1963), 225 records a crowning *Pii Pp. XI permissu* and AAS 111 (2019), 
 Hlond crowning the Piekary image as Apostolic Administrator — almost certainly the same event, but
 neither act gives a date or names the other, so the merge would be inference rather than evidence.
 It waits on the Chapter archives.
+
+## Primary and secondary sources are kept apart
+
+Every source carries a `series`: **ASS** and **AAS** (the gazettes) and **ACSP** (the Chapter's
+dossiers) were **read at first hand** for this catalogue. **LIT** is different: it marks a coronation
+**reported by a scholarly work** and not read here — at present Dana Vrabelová's 2013 dissertation,
+whose § XXI lists thirty Chapter coronations in Central Europe, 1717–1786, each cited to
+*BAV, ACSP, Madonne coronate, sv. N, fol. X*. Those citations are carried in `register_refs`, so
+every LIT row can be taken back to the primary dossier; until it is, its confidence is capped at
+`medium` (`low` where she cites no folio). The rows are in `data/vrabelova-2013-table-xxi.json`.
+
+Why keep the distinction visible: in the one place her account could be checked against a dossier
+read here, it was wrong — she dates Trsat to 21 March 1715; the instrument says 14 September, the
+letters say 8 September. Secondary reports are valuable and mostly right, but they are not the
+same kind of evidence.
 
 ## What "crowned under papal authority" means here
 
@@ -254,6 +273,7 @@ this work.
 | `scripts/merge.py` | Merges and de-duplicates the per-batch extraction output by locality. |
 | `scripts/build_dataset.py` | Assembles the act-level evidence layer, `data/attestations.json`. |
 | `scripts/build_acsp.py` | Turns the *Madonne coronate* IV extraction into `data/attestations-acsp.json`. |
+| `scripts/build_lit.py` | Turns the secondary-literature table into `data/attestations-lit.json`. |
 | `scripts/build_images.py` | Consolidates acts into one record per image, with `sources`. |
 | `scripts/build_registry.py` | Renders the two registry tables from the catalogue. |
 

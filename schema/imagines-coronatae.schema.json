@@ -200,9 +200,10 @@
           "enum": [
             "ASS",
             "AAS",
-            "ACSP"
+            "ACSP",
+            "LIT"
           ],
-          "description": "ASS = Acta Sanctae Sedis (1865-1908); AAS = Acta Apostolicae Sedis (1909- ); ACSP = Archivio del Capitolo di San Pietro (BAV), series Madonne coronate"
+          "description": "ASS = Acta Sanctae Sedis (1865-1908); AAS = Acta Apostolicae Sedis (1909- ); ACSP = Archivio del Capitolo di San Pietro (BAV), Madonne coronate, read at first hand; LIT = secondary literature citing the Chapter archive, NOT read at first hand"
         },
         "volume": {
           "type": "integer"
