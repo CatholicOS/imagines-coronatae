@@ -169,6 +169,42 @@ worked in the fond and adds what Vrabelová does not:
   catalogue as series LIT; the town-only rows are kept standalone, since a town and a year do not
   identify an image.
 
+### Zander / Magister (2011) — the Fabbrica's painted copies, each with its dossier cited
+
+Pietro Zander (ed.), research and texts Sara Magister, *Full of Grace: Crowned Madonnas from the
+Vatican Basilica* (Italian ed. *Piene di grazia. Madonne coronate dalla Basilica Vaticana*),
+exhibition catalogue, Knights of Columbus Museum, New Haven, 8 May 2011 – 15 January 2012. The
+full 240-page English PDF, with a text layer, is published by the Knights of Columbus Italy: the
+flipbook at <https://www.kofc.it/pdf/E-Book-Full_of_Grace_Crowend_Madonnas_from_the_Vatican_Basilica/>
+loads a plain PDF from its `assets/images/p` path.
+
+Step 5 of the procedure required a painted copy of each crowned image to be kept in the Basilica;
+the Fabbrica di San Pietro holds about a hundred of them, restored 2003–2011, and this catalogue
+describes 89 in numbered entries (pp. 46–229) plus seven images in the Basilica itself (pp. 24–36).
+Every entry gives the day of the coronation and, under *Sources and bibliography*, the dossier —
+**BAV, ACSP, Madonne Coronate, vol. N, cc. N–N** (*cc.* = carte, the stamped foliation) — and,
+for the older ones, the Fabbrica's own *catalogo delle immagini* (**AFSP, Arm. 12, F, 11, nr. 10**, a
+second finding-aid not noticed by Vrabelová or Balzamo). **83 of the 96 entries carry a folio
+citation**, spanning vols 1–31, most densely 17–24 (1863–1920). The entries are in
+`data/zander-magister-2011-catalogue.json` (with the raw parsed headers in
+`data/zander-magister-2011-extraction.json`) and in the catalogue as series **LIT**, `medium` where
+a folio is cited, `low` otherwise; where an entry says *"and again ..."* the re-crowning is a second
+LIT record on the same image.
+
+What it adds: the geography of the practice after 1800, which no other source here covered —
+Piedmont, Liguria and Lombardy (Alessandria 1843, Varallo 1857/1862, Ardesio 1872, Castelleone 1886,
+Stezzano 1896 …), Campania at scale (Castellammare di Stabia three times, Massa Lubrense 1804,
+Sorrento 1880/1980, Eboli 1920 …), Spain from 1881 (Montserrat, Aránzazu, Begoña, Lugo, Reus, Teror,
+Ponferrada, Andújar, Orihuela, Palma), France (Délivrande 1872, Périgueux, Vion, Bar-le-Duc),
+Belgium (Hasselt 1867, Huy 1900, Arlon 1904), Cologne 1925, Valletta 1881, Istanbul 1911, and
+Aparecida 1904, Isla Margarita 1911 and Lima 1921 overseas. Where the catalogue meets the gazettes
+they agree (Cuglieri 5 Aug 1893, Narni 5 May 1754, Bonaria 24 Apr 1870 and 1926); where it meets
+a tomo IV dossier (Otranto, 7 March 1705) the day agrees too.
+
+Two cautions. Its dates are the ceremony's, and it sometimes reports alternatives (Chełm "September
+15, 1765 or September 17, 1767"; Arenzano "1890 or 1891"). And it files Chełm under "Ukraine, Lutsk"
+— the diocese — although the town is in Poland; the catalogue keeps Poland.
+
 ### One place the primary source and the thesis disagree
 
 She dates the Trsat coronation to **21 March 1715**, citing vol. 4 fol. 204. The dossier itself
@@ -218,7 +254,9 @@ in Ecclesiastica dignitate constitutum, nomine Nostro capiti Imaginis, de qua su
 coronam auream imponas, et coronationis caeremoniam exequaris iuxta ritum praescriptum ad usum
 Basilicae Nostrae ac typis vulgatum in libello cui titulus = Ordo servandus etc. = et cuius exemplar
 ad Te mittimus"* — which is the concession formula in its late-nineteenth-century form. Ten folios
-for one coronation, at a foliation near 300 for a dossier of 1892: the volume covers the 1890s.
+for one coronation, so vol. 19 as a whole must run to well over a thousand folios; the Zander/Magister
+catalogue below cites it at cc. 21–49, 166–173, 186–191, 305–363, 448–457, 688–700, 739–759,
+1145–1161 and 1213–1226, i.e. it covers roughly 1890–1900.
 
 ### What tomo 4 actually contains
 
@@ -281,13 +319,15 @@ To confirm a coronation not recorded in ASS/AAS, the route is:
 
 1. Check whether the image's dossier falls in **tomo 4** (online, browsable by marginal place-name),
    or is the one Capocolonna dossier online from **tomo 19**.
-2. Otherwise apply to the **BAV** for the relevant `Madonne coronate` volume, or to the **Archivio
+2. Check the **catalogue of painted copies** below: Zander/Magister (2011) gives the day and the
+   volume and folios of the dossier for 83 images across the whole run of the fond.
+3. Otherwise apply to the **BAV** for the relevant `Madonne coronate` volume, or to the **Archivio
    Capitolare** at the Palazzo della Canonica for administrative records
    (`amministrazione@capitolosp.va`).
 
 This is what [issue #1](https://github.com/CatholicOS/imagines-coronatae/issues/1) (Piekary Śląskie)
 is waiting on. Tomo 4 covers 1689–1714, so a crowning of the 1920s will not be in the digitized
-volume.
+volume — though it should be in vol. 25 or 26, which Zander/Magister cite for 1920–1924.
 
 ## Sources
 
@@ -300,6 +340,10 @@ volume.
   *Elenco istorico e cronologico…* (MS, 1756 = Madonne coronate vol. 27); [Bombelli], *Raccolta delle
   immagini della Beatissima Vergine ornate della corona d'oro dal Capitolo di S. Pietro* (Rome, 1792);
   Alatri 1933; Dejonghe 1967; Bonci 2004; Zander 2011.
+
+- Pietro Zander (ed.) and Sara Magister, *Full of Grace: Crowned Madonnas from the Vatican Basilica*,
+  Knights of Columbus Museum, New Haven, 2011:
+  <https://www.kofc.it/pdf/E-Book-Full_of_Grace_Crowend_Madonnas_from_the_Vatican_Basilica/>
 
 - DigiVatLib, archives section: <https://digi.vatlib.it/arc/Arch.Cap.S.Pietro>
 - DigiVatLib, manuscripts section: <https://digi.vatlib.it/mss/Arch.Cap.S.Pietro>

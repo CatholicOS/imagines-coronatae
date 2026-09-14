@@ -7,7 +7,7 @@ for _extra in ('attestations-acsp.json','attestations-lit.json'):   # Chapter-ar
     _p=pathlib.Path(REPO)/'data'/_extra
     if _p.exists(): R=R+json.load(open(_p,encoding='utf-8'))['records']
 META=src.get('metadata',{}) if isinstance(src,dict) else {}
-SPECIAL=str.maketrans({'ł':'l','Ł':'l','ø':'o','đ':'d','æ':'ae','œ':'oe','ß':'ss','þ':'th'})
+SPECIAL=str.maketrans({'ł':'l','Ł':'l','ø':'o','đ':'d','æ':'ae','œ':'oe','ß':'ss','þ':'th','’':"'",'‘':"'",'´':"'",'`':"'"})   # curly apostrophes split words too
 STOP=set('''nuestra senora nossa senhora notre dame madonna matka boza bozej panna beata beatae maria mariae
 mariam marii virgo virgen vergine virginis virgin imago imaginem imagen simulacrum simulacro effigies effigie
 statua statue icon iconem sacra sacrae sacro sacrum santa sancta sanctae santo san sao our lady domina dominae
@@ -15,7 +15,10 @@ nostra nostrae della delle del dei los las sub titulo vulgo appellata appellatae
 deipara deiparae genetricis the and que pie colitur servatur templo ecclesia templi loco urbe oppido dioecesis
 archidioecesis fines intra quae cum divino puero iesu christi mater matris madre nuncupata nuncupatae
 antiqua antiquum vetus vetusta miraculis clara insignis titulus
-bambino gesu puero pueri iesu child figlio divin vergine santissima ssma sma miracolosa effigie vera suo sua detta
+bambino gesu puero pueri iesu child figlio divin vergine santissima ssma sma miracolosa effigie vera suo sua detta holy swieta
+majka bozja matki obraz bozej bozi boze mother dievo motina gottes mutter signora signore copy madonnina
+dell nell sull dall coll degli alla alle nella nel
+existentes existente loci reformatorum francisci dipinta luca fratrum minorum dalmatia
 scuole schole pie padri frati monaci teatini cappuccini agostiniani domenicani francescani gesuiti serviti
 sant sanct saint sankt sainte santi sancti chapel cappella capilla chapelle palazzo palace
 chiesa nella nelle receipt imagines jesu roma rome esistente chiesa ordine congregazione convento
@@ -53,17 +56,25 @@ GEO_STOP={'near','prope','the','del','de','di','da','of','city','urbe','urbs','u
  'augustinian','augustinians','jesuit','jesuits','carmelite','carmelites','theatine','theatines','piarist','piarists',
  'capuchin','capuchins','benedictine','benedictines','servite','servites','convent','monastery','klasztor','cathedral',
  'church','kosciol','kostel','chiesa','iglesia','basilica','sanctuary','shrine','sanktuarium','collegiate','abbey','oratory',
- 'diocese','archdiocese','province','state','departamento','department','county','district','shrine','sanctuary'}
+ 'diocese','archdiocese','province','state','departamento','department','county','district','shrine','sanctuary',
+ 'valle','val','vall','vallis','valley','della','delle','dei','degli','delli','alla','alle','nel','nella','madonna',
+ 'vergine','maria','citta','city','dell','nell','sull','all','del','maggiore','minore','nuova','nuovo','vecchia','vecchio','grande','piccola'}
 ECCL_STOP={'ecclesia','ecclesiae','paroecialis','paroeciali','templum','templo','templi','basilica',
  'basilicae','minoris','sanctuario','santuario','sanctuary','shrine','aedes','aede','cathedral','cathedralis',
  'cathedrali','collegiata','conventus','monasterii','monastery','church','parish','chiesa','iglesia','igreja',
  'kosciol','sacra','sacro','sacrum','dedicata','dicata','dicatum','honorem','beatae','mariae','virginis',
  'sanctae','sancti','sanctus','santa','santo','maria','virgin','nostra','domina','dominae','deiparae'}
+CITY={'naples':'napoli','neapolis':'napoli','neapolim':'napoli','genoa':'genova','genua':'genova','venice':'venezia','venetiae':'venezia',
+ 'florence':'firenze','florentia':'firenze','milan':'milano','mediolanum':'milano','turin':'torino','padua':'padova','patavium':'padova',
+ 'mantua':'mantova','syracuse':'siracusa','leghorn':'livorno','lucerne':'luzern','cologne':'koln','vienna':'wien','prague':'praha',
+ 'cracow':'krakow','warsaw':'warszawa','lisbon':'lisboa','seville':'sevilla','saragossa':'zaragoza','antwerp':'antwerpen',
+ 'brussels':'bruxelles','geneva':'geneve','mexicopolis':'mexico'}
 def loc_toks(r):
     """Place signature: the LOCALITY only, keeping any parenthetical gloss (usually the Latin or
     modern equivalent of the same place, e.g. 'Mexicopolis (Mexico City)'). Sanctuary names were
     tried here too and had to be removed: they dragged unrelated shrines together."""
     raw=norm(r.get('locality')).replace('romae','rome').replace('roma','rome')   # one token for the city
+    for a,b in CITY.items(): raw=re.sub(r'\b'+a+r'\b',b,raw)
     raw=raw.replace('(',' ').replace(')',' ').replace(';',' ').replace('/',' ')
     return {p for p in re.sub(r'[^a-z0-9 ]',' ',raw).split()
             if len(p)>2 and p not in GEO_STOP and p not in ECCL_STOP}
@@ -80,9 +91,25 @@ def _ed1(a,b):
             if len(a)==len(b): i+=1; j+=1
             else: j+=1
     return d+(len(b)-j)+(len(a)-i)<=1
+ROME_NOISE={'della','delle','del','dei','degli','alla','alle','nel','nella','nell','col','con','per','the',
+ 'near','vicino','presso','madonna','ceremony','copy','vatican','vaticana','vaticano','rione','church','chiesa','basilica'}
+def rome_sig(A): return {a for a in A if a!='rome' and a not in ROME_NOISE}
+def _sub(A,B):
+    """A ⊆ B, one typo per token allowed."""
+    return all(a in B or any(_ed1(a,b) for b in B) for a in A)
 def place_match(A,B):
     """True if two place signatures name the same place (exact token, or one typo/inflection apart:
-    Roma/Rome, Talpa/Talpa)."""
+    Roma/Rome, Talpa/Talpa).
+    ROME is the exception: over a hundred distinct images were crowned there, so the city alone
+    is not a place. Two Roman records match only if their church signatures agree — one is a
+    subset of the other, so 'Rome' or 'Rome (Borgo)' still reaches 'Rome, S. Lorenzo in Borgo' and
+    the title decides — and a Roman record never matches a record from anywhere else, however many
+    saints' names the two churches share (San Giovanni in Fonte is not San Giovanni Valdarno)."""
+    ra,rb='rome' in A,'rome' in B
+    if ra!=rb: return False
+    if ra and rb:
+        A2,B2=rome_sig(A),rome_sig(B)
+        return _sub(A2,B2) or _sub(B2,A2)
     if A & B: return True
     return any(_ed1(a,b) for a in A for b in B)
 def loc_key(r):
@@ -91,7 +118,7 @@ def loc_key(r):
 SYN={ # cross-language equivalents of the commonest Marian titles, mapped to one canonical token
  'dolorosa':'dolor','bolesna':'dolor','addolorata':'dolor','dolores':'dolor','perdolens':'dolor','perdolentis':'dolor','pieta':'dolor','sorrows':'dolor',
  'laskawa':'gratia','laskawej':'gratia','gratiarum':'gratia','grazie':'gratia','gracias':'gratia','graces':'gratia','gratiosa':'gratia',
- 'rozancowa':'rosario','rozancowej':'rosario','rosario':'rosario','rosary':'rosario','rosarii':'rosario',
+ 'rozancowa':'rosario','rozancowej':'rosario','rosario':'rosario','rosary':'rosario','rosarii':'rosario','rosarium':'rosario','rosarij':'rosario',
  'pocieszenia':'consol','consolatione':'consol','consolation':'consol','consolazione':'consol','consolatrix':'consol',
  'zwycieska':'victoria','victrix':'victoria','vittoria':'victoria','victoria':'victoria','victory':'victoria',
  'sniezna':'nivis','nivis':'nivis','neve':'nivis','nieves':'nivis','snows':'nivis',
@@ -99,13 +126,32 @@ SYN={ # cross-language equivalents of the commonest Marian titles, mapped to one
  'czestochowska':'czestochow','czestochoviensis':'czestochow','jasnogorska':'czestochow',
  'wniebowzieta':'assumpta','assumpta':'assumpta','assunta':'assumpta','asuncion':'assumpta','assumption':'assumpta',
  'krolowa':'regina','regina':'regina','reina':'regina','queen':'regina','regine':'regina',
- 'milosierdzia':'misericord','misericordiae':'misericord','misericordia':'misericord','mercy':'misericord','merced':'misericord'}
+ 'milosierdzia':'misericord',
+ 'rodzina':'family','famiglia':'family','familia':'family','famille':'family','familiae':'family','family':'family',
+ 'febre':'febbre','febbre':'febbre','misericordiae':'misericord','misericordia':'misericord','mercy':'misericord','merced':'misericord'}
+TITLE_STOP=ECCL_STOP|{'cattedrale','catedrale','collegiata','metropolitana','monastero','oratorio','eremo','ritiro',
+ 'monache','chierici','regolari','teatini','carmelitani','cappucini','cappuccini','benedettini','domenicani',
+ 'camaldolesi','camandolesi','basiliani','premostratensi','bernabiti','riformati','osservanti','minori','parrochiale',
+ 'citta','regno','diocesi','provincia','vicino','fuori','presso','dentro','sopra','sulla','sul','incontro','detta',
+ 'della','delle','degli','alla','alle','nella','nell','stanze','cappella','portico','congregazione','madre','madri',
+ 'chapel','shrine','sanctuary','cathedral','collegiate','monastery','convent','church','abbey','abbazia','parish',
+ 'santuario','indie','occidentali','maggiore','minore','nuova','nuovo','vecchia','vecchio'}
+def title_full(r):
+    """Title words including any place word — used only for records that name no locality at all,
+    where the title is the only thing that can carry the place ('Nossa Senhora Aparecida')."""
+    return {SYN.get(x,x) for x in toks(r.get('image_title_vernacular'),r.get('image_title_latin')) if x not in TITLE_STOP}
 def title(r):
-    return {SYN.get(x,x) for x in toks(r.get('image_title_vernacular'),r.get('image_title_latin'))}
+    """Identifying words of the title: the place's own tokens and words for kinds of building are
+    not identity ('Santa Maria della Neve di Frosinone' identifies by 'neve', not by 'frosinone',
+    which the locality already carries; 'Santa Maria nella Cattedrale di Verona' by nothing at all,
+    and then the place and the year have to carry it)."""
+    lt=loc_toks(r)
+    return {SYN.get(x,x) for x in toks(r.get('image_title_vernacular'),r.get('image_title_latin'))
+            if x not in TITLE_STOP and x not in lt and not any((len(l)>=4 and x.startswith(l)) or (len(x)>=5 and l.startswith(x)) or (len(x)>=8 and _ed1(x,l)) for l in lt)}
 
 tokloc=collections.defaultdict(set)
 for r in R:
-    for t in title(r): tokloc[t].add(loc_key(r) or '?')
+    for t in title_full(r): tokloc[t].add(loc_key(r) or '?')
 def distinctive(ts): return {t for t in ts if len(tokloc[t])<=2}
 
 for i,r in enumerate(R): r['_i']=i
@@ -123,24 +169,92 @@ def subj_ok(g,r):
     """Never merge across different subjects (a St Joseph is not a Marian image)."""
     a={subj(x) for x in g if subj(x)}; b=subj(r)
     return (not a) or (b is None) or (b in a)
+def yr_of(r):
+    """The year a record dates its crowning to — the ceremony, else the decree, else the act."""
+    gaz=r.get('series') in ('ASS','AAS')     # a gazette act's own date says nothing about the crowning
+    for k in (('coronation_date',) if gaz else ('coronation_date','concession_date','act_date')):
+        m=re.match(r'(\d{4})',str(r.get(k) or ''))
+        if m: return int(m.group(1))
+    return r.get('year') if isinstance(r.get('year'),int) and not gaz else None
+def work(r):
+    """Which source a record comes from: the series, or for the literature layer the work."""
+    if r.get('series')!='LIT': return r.get('series')
+    return re.match(r'[A-Za-z]*',str(r.get('act_number') or '')).group(0)
+def rome_church_ok(g,r):
+    """In Rome, when both sides name their church, the churches must agree: the Madonna degli
+    Angeli of Sant'Agata dei Tessitori (1729) is not Santa Maria degli Angeli alle Terme (1920)."""
+    lr=loc_toks(r)
+    if 'rome' not in lr: return True
+    if rome_sig(lr) and any(rome_sig(lr)==rome_sig(loc_toks(x)) for x in g): return True   # same church already
+    cr={t for t in toks(r.get('church_or_sanctuary')) if t not in ECCL_STOP and t not in ROME_NOISE}
+    if not cr: return True
+    for x in g:
+        cx={t for t in toks(x.get('church_or_sanctuary')) if t not in ECCL_STOP and t not in ROME_NOISE}
+        if cx and not (cx&cr) and not any(_ed1(a,b) or (len(a)>=7 and len(b)>=7 and a[:7]==b[:7]) for a in cx for b in cr): return False
+    return True
 def tcompat(g,r):
     """Titles agree, OR one side carries no identifying word at all once descriptive praise is
     stripped — in which case the shared locality plus subject is what establishes identity."""
     if not subj_ok(g,r): return False
     tg=set().union(*[title(x) for x in g]); tr=title(r)
-    return (not tg) or (not tr) or bool(tg&tr) or bool({t[:5] for t in tg}&{t[:5] for t in tr})
+    if not tg or not tr:
+        # One side has no identifying word once place and building words are gone. If the other
+        # side's title names the first side's church ('Madonna ... di S. Lorenzo ... di Borgo' /
+        # 'Rome, San Lorenzo in Borgo'), that is the identification.
+        T=tg or tr
+        P=set().union(*[loc_toks(x)|{t for t in toks(x.get('church_or_sanctuary')) if t not in TITLE_STOP} for x in (g if not tg else [r])])
+        if T & P or ({t[:7] for t in T if len(t)>=7} & {t[:7] for t in P if len(t)>=7}): return True
+        # Otherwise the place alone must carry identity — in Rome only the same church (a church
+        # may hold several crowned images, so a bare 'Rome' never suffices); elsewhere only the
+        # SAME token, not one letter away (Krzeszów is not Rzeszów); and never between two entries
+        # of the same register (a register lists distinct images, and if it meant the same one it
+        # would have said so). Between registers the years must agree to within a year — a
+        # register may give the decree year, a dossier the ceremony; a gazette act joining is
+        # exempt, as its wording often praises the image rather than naming it.
+        if 'rome' in loc_toks(r):
+            sr=rome_sig(loc_toks(r))
+            if not sr or not any(rome_sig(loc_toks(x)) and (_sub(sr,rome_sig(loc_toks(x))) or _sub(rome_sig(loc_toks(x)),sr)) for x in g):
+                return False   # not the same church
+        elif not (set().union(*[loc_toks(x) for x in g]) & loc_toks(r)): return False
+        if r.get('series') in ('ASS','AAS'): return True
+        if r.get('series')=='LIT' and any(work(x)==work(r) for x in g): return False
+        yg={yr_of(x) for x in g if yr_of(x)}
+        yr=yr_of(r)
+        if not yg or not yr: return True
+        tol=2 if 'rome' in loc_toks(r) else 1      # the same Roman church: registers differ by up to two years
+        return any(abs(yr-y)<=tol for y in yg)
+    return bool(tg&tr) or bool({t[:7] for t in tg if len(t)>=7}&{t[:7] for t in tr if len(t)>=7})
 for c,rs in bycountry.items():
     groups=[]
     for r in rs:
         lr=loc_toks(r)
         if r.get('standalone'):            # insufficient identity to merge (e.g. a town and a year only)
             groups.append([r]); continue
-        cands=[g for g in groups if place_match(set().union(*[loc_toks(x) for x in g]),lr) and tcompat(g,r)]
+        if r.get('parent_act'):            # a second crown on an image listed just above (the Child's)
+            par=[g for g in groups if any(x.get('act_number')==r['parent_act'] and work(x)==work(r) for x in g)]
+            if len(par)==1: par[0].append(r); continue
+        # a standalone record (a town and a year, or a title with no date) accepts a joiner only on
+        # the strength of a shared title word, never on place and year alone
+        cands=[g for g in groups if (not g[0].get('standalone') or (title_full(r) & set().union(*[title_full(x) for x in g])))
+               and place_match(set().union(*[loc_toks(x) for x in g]),lr) and tcompat(g,r) and rome_church_ok(g,r)]
         if not cands and r.get('coronation_date'):
-            # titles disagree (often just Latin vs vernacular) but the same place was crowned in the same year
-            y=str(r['coronation_date'])[:4]
+            # Titles disagree but the same place was crowned in the same year. This is how a Latin
+            # gazette rubric meets an Italian dossier or register ('Templum Tersactense B. M. V.
+            # Matris Gratiarum' / 'Madonna di Tersatto'). Two full dates that differ are two
+            # crownings, not one: Genoa's Madonnetta (27 June 1920) and Nostra Signora delle Vigne
+            # (21 November 1920) are not the same image. And between two literature registers the
+            # year alone is not enough (Benevento 1723: Balzamo's Incoronata of the Camaldolese and
+            # Briccolani's Madonna delle Grazie are two images) unless one of them gives the day —
+            # a register that says 10 May 1736 at Brno means one crowning.
+            d=str(r['coronation_date']); y=d[:4]
+            def same_day(x):
+                xd=str(x.get('coronation_date') or '')
+                return xd[:4]==y and not (len(xd)==10 and len(d)==10 and xd!=d)
+            def precise(x): return len(str(x.get('coronation_date') or ''))==10
             same=[g for g in groups if place_match(set().union(*[loc_toks(x) for x in g]),lr) and subj_ok(g,r)
-                  and any(str(x.get('coronation_date') or '')[:4]==y for x in g)]
+                  and any(same_day(x) for x in g)
+                  and (r.get('series')!='LIT' or any(x.get('series')!='LIT' for x in g)
+                       or precise(r) or any(precise(x) and same_day(x) for x in g))]
             if len(same)==1: cands=same
         if len(cands)==1:
             cands[0].append(r)
@@ -157,18 +271,21 @@ for c,rs in bycountry.items():
         else:
             groups.append([r])
     clusters.extend(groups)
+def generic(t): return len(tokloc[t])>8      # a title word used at more than eight places identifies nothing, even with a matching year
 for r in noloc:
-    tr=title(r); dr=distinctive(tr); tgt=None
+    tr=title_full(r); dr=distinctive(tr); tgt=None
     cands=[g for g in clusters if g[0].get('country')==r.get('country')
-           and (tr & set().union(*[title(x) for x in g]))]
-    # a shared coronation date settles which shrine is meant
-    if r.get('coronation_date'):
-        y=str(r['coronation_date'])[:4]
-        dated=[g for g in cands if any(str(x.get('coronation_date') or '')[:4]==y for x in g)]
-        if len(dated)==1: tgt=dated[0]
-    if tgt is None and dr:
+           and (tr & set().union(*[title_full(x) for x in g]))]
+    # a shared DISTINCTIVE title word settles it ('Lattani', 'Coromoto')
+    if dr:
         for g in cands:
-            if dr & distinctive(set().union(*[title(x) for x in g])): tgt=g; break
+            if dr & distinctive(set().union(*[title_full(x) for x in g])): tgt=g; break
+    # else a shared coronation date, provided the shared word is not one used everywhere ('regina')
+    if tgt is None and r.get('coronation_date'):
+        y=str(r['coronation_date'])[:4]
+        dated=[g for g in cands if any(str(x.get('coronation_date') or '')[:4]==y for x in g)
+               and any(not generic(t) for t in tr & set().union(*[title_full(x) for x in g]))]
+        if len(dated)==1: tgt=dated[0]
     if tgt is not None: tgt.append(r)
     else: clusters.append([r])
 # NOTE: an earlier build had a third pass merging clusters in the same country that shared a
@@ -190,16 +307,25 @@ def collapse_dates(dates):
             best.setdefault(d,d); continue
         y=m.group(1)
         if y not in best or len(d)>len(best[y]): best[y]=d
+    # A bare year from a register close to a full date from a dossier or act is the same
+    # crowning too: registers often give the year of the decree, the dossier the day of the
+    # ceremony (Lucca: decree 1689, crowned 30 April 1690; Cava de' Tirreni: 1764, crowned 15 June
+    # 1766). Up to two years before the full date, one year after.
+    for y in list(best):
+        if len(best[y])==4 and y.isdigit() and any(len(best[z])>4 and z.isdigit() and -1<=int(z)-int(y)<=2 for z in best):
+            del best[y]
     return sorted(best.values())
 
 SRC=['series','volume','year','page','folio','folio_to','citation','source_pdf_url','act_number','act_type','pope',
      'evidence_type','act_date','concession_date','coronation_date','legate','deputy','register_refs','documents',
-     'rubric_latin','incipit_latin','confidence','notes']
+     'rubric_latin','incipit_latin','confidence','notes','parent_act']
 RANK={'papal_coronation_act':4,'chapter_decree':4,'papal_legate_deputation':3,'papal_personal_coronation':3,
       'retrospective_attestation':1,'norms':0,'petition_not_conceded':-1}
 CONF={'high':3,'medium':2,'low':1}
 def best(g,f):
-    vals=[x.get(f) for x in g if x.get(f)]
+    # a Child's-crown entry names the image by its parent; let the image's own records name it
+    own=[x for x in g if not x.get('parent_act')] or g
+    vals=[x.get(f) for x in own if x.get(f)]
     if not vals: return None
     c=collections.Counter(vals)
     return sorted(vals,key=lambda v:(c[v],len(str(v))),reverse=True)[0]
@@ -210,7 +336,8 @@ def slug(s,n=48):
 images=[];seen=collections.Counter()
 for g in clusters:
     g=sorted(g,key=lambda r:(r.get('year') or 9999,{'ACSP':0,'LIT':1,'ASS':2,'AAS':3}.get(r.get('series'),4),r.get('page') or 0))
-    cds=collapse_dates([x['coronation_date'] for x in g if x.get('coronation_date')])
+    # a crown for the Child of an image already crowned (a register's 'Bambino Gesù' entry) is not a re-crowning of the image
+    cds=collapse_dates([x['coronation_date'] for x in g if x.get('coronation_date') and not x.get('parent_act')])
     ev=sorted({x['evidence_type'] for x in g},key=lambda e:-RANK.get(e,0))
     base=slug((best(g,'image_title_vernacular') or best(g,'image_title_latin') or 'image')+'-'+(best(g,'locality') or best(g,'country') or ''))
     seen[base]+=1; iid=base if seen[base]==1 else f'{base}-{seen[base]}'
