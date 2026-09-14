@@ -161,13 +161,14 @@
   "folio_from": "75r",
   "folio_to": "76v",
   "key_quote": "concedere La Corona alla Madonna S.ma delle Gratie in Malta esistente nello Chiesa Parochiale della Terra Zabar",
-  "confidence": "high",
-  "notes": "Undated supplica; it cites as witnesses to the image's veneration the former Inquisitors and Apostolic Ministers of Malta: Cardinals Marescotti, Acquaviva, Ruffo, Pallavicino, and Mons. Passionei, Spinola, Caracciolo. ff. 75v-76r are blank; f. 76v is the docket ('Per Il Sacerdote Fran.co Pace Maltese p.r l'incoronatione di Una Madonna Miracolosa'). The range ends here, so any decree, instrument or relazione for Żabbar would lie beyond f. 76v and is not visible. | Petition only. Archivist's docket on f.76v: 'Per Il Sacerdote Fran.co Pace Maltese p.r l'incoronatione di Una Madonna Miracolosa — Non si trova concessa' (no concession found). Supplica cites Cardinals Marescotti, Acquaviva, Russo, Pallavicino and Mons. Passionei, Spinola, Caracciolo as former Inquisitors who venerated the image. 'other' = the archivist's docket note.",
+  "confidence": "low",
+  "notes": "PETITION NOT CONCEDED — the image was not crowned. The Chapter's later docket on this dossier reads 'non si trova concessa' (Balzamo 2023, p. 189, citing BAV, ACSP, Madonne coronate, 4, f. 75r). Undated supplica; it cites as witnesses to the image's veneration the former Inquisitors and Apostolic Ministers of Malta: Cardinals Marescotti, Acquaviva, Ruffo, Pallavicino, and Mons. Passionei, Spinola, Caracciolo. ff. 75v-76r are blank; f. 76v is the docket ('Per Il Sacerdote Fran.co Pace Maltese p.r l'incoronatione di Una Madonna Miracolosa'). The range ends here, so any decree, instrument or relazione for Żabbar would lie beyond f. 76v and is not visible. | Petition only. Archivist's docket on f.76v: 'Per Il Sacerdote Fran.co Pace Maltese p.r l'incoronatione di Una Madonna Miracolosa — Non si trova concessa' (no concession found). Supplica cites Cardinals Marescotti, Acquaviva, Russo, Pallavicino and Mons. Passionei, Spinola, Caracciolo as former Inquisitors who venerated the image. 'other' = the archivist's docket note.",
   "n_batches": 2,
   "batches": [
    "T03",
    "T04"
-  ]
+  ],
+  "outcome": "not conceded"
  },
  {
   "image_title_vernacular": "Madonna di Belvedere",

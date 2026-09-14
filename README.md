@@ -19,14 +19,14 @@ coronations reported by Vrabelová's 2013 study of the same archive.
 
 ## What is in it
 
-**390 crowned images** in **42 countries**, documented by **464 source citations**:
+**416 crowned images** in **42 countries**, documented by **495 source citations**:
 400 from **147,576 pages** of the two gazettes (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026);
 34 from the **713 transcribed folios** of *Madonne coronate* IV — the Chapter's dossiers for
 34 images crowned between 1689 and 1716, only three of which the gazettes ever mention; and
-30 from **secondary literature** (Vrabelová 2013), reporting Central European coronations of 1717–1786
-from later volumes of the same archive, 23 of them otherwise unrecorded here.
+61 from **secondary literature** — Vrabelová 2013 on Central Europe 1717–1786 and Balzamo 2023 on Italy
+and Rome 1631–1798 — reporting coronations from volumes of the same archive that are not online.
 
-51 images are attested by more than one act — the most-cited is Our Lady of Fátima, with seven.
+53 images are attested by more than one act — the most-cited is Our Lady of Guadalupe, with seven.
 Crownings run from **1645 to 2001**, far earlier than the gazettes themselves,
 because a later act often recites when an image was first crowned.
 
@@ -36,9 +36,9 @@ By strongest evidence available for each image:
 |---|---|
 | `retrospective_attestation` | 181 |
 | `papal_coronation_act` | 101 |
-| `chapter_decree` | 62 |
+| `chapter_decree` | 88 |
 | `papal_personal_coronation` | 28 |
-| `papal_legate_deputation` | 16 |
+| `papal_legate_deputation` | 15 |
 | `norms` | 2 |
 
 Most-represented countries:
@@ -116,11 +116,14 @@ It waits on the Chapter archives.
 
 Every source carries a `series`: **ASS** and **AAS** (the gazettes) and **ACSP** (the Chapter's
 dossiers) were **read at first hand** for this catalogue. **LIT** is different: it marks a coronation
-**reported by a scholarly work** and not read here — at present Dana Vrabelová's 2013 dissertation,
-whose § XXI lists thirty Chapter coronations in Central Europe, 1717–1786, each cited to
-*BAV, ACSP, Madonne coronate, sv. N, fol. X*. Those citations are carried in `register_refs`, so
+**reported by a scholarly work** and not read here — at present Dana Vrabelová's 2013 dissertation
+(thirty Chapter coronations in Central Europe, 1717–1786, § XXI) and Nicolas Balzamo's 2023 article
+(Roman and Italian coronations 1631–1798), each row cited to *BAV, ACSP, Madonne coronate, volume,
+folio* where the author gives one. Those citations are carried in `register_refs`, so
 every LIT row can be taken back to the primary dossier; until it is, its confidence is capped at
-`medium` (`low` where she cites no folio). The rows are in `data/vrabelova-2013-table-xxi.json`.
+`medium` (`low` where she cites no folio). The rows are in `data/vrabelova-2013-table-xxi.json` and
+`data/balzamo-2023-crownings.json`. Rows that name only a town and a year are kept **standalone** —
+they are not merged into any named image, because a town and a year do not identify one.
 
 Why keep the distinction visible: in the one place her account could be checked against a dossier
 read here, it was wrong — she dates Trsat to 21 March 1715; the instrument says 14 September, the
@@ -140,6 +143,7 @@ carries an `evidence_type` so you can filter to exactly the sense you need:
 | `retrospective_attestation` | A *different* act (typically a Basilica Minor elevation or a patron declaration) states in passing that the image was crowned, often *"ex decreto Capituli Vaticani"*. |
 | `chapter_decree` | The Chapter of St Peter's own dossier under the Sforza Pallavicino legacy: petition, decree of concession, instrument of donation of the crowns, and the *relazione* of the ceremony. From *Madonne coronate* IV. |
 | `norms` | General legislation on crowning images. |
+| `petition_not_conceded` | A petition to the Chapter that was refused or never granted — the image was **not** crowned by it. One case so far: Żabbar, Malta, c. 1700. |
 
 ## Important limits — please read before citing
 

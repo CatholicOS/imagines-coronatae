@@ -17,6 +17,7 @@ archidioecesis fines intra quae cum divino puero iesu christi mater matris madre
 antiqua antiquum vetus vetusta miraculis clara insignis titulus
 bambino gesu puero pueri iesu child figlio divin vergine santissima ssma sma miracolosa effigie vera suo sua detta
 scuole schole pie padri frati monaci teatini cappuccini agostiniani domenicani francescani gesuiti serviti
+sant sanct saint sankt sainte santi sancti chapel cappella capilla chapelle palazzo palace
 chiesa nella nelle receipt imagines jesu roma rome esistente chiesa ordine congregazione convento
 # Latin/vernacular DESCRIPTIVE adjectives. These praise an image, they do not identify it, and if
 # left in they block real merges: Notre-Dame du Cap reduced to {rosario} in one act and
@@ -62,13 +63,13 @@ def loc_toks(r):
     """Place signature: the LOCALITY only, keeping any parenthetical gloss (usually the Latin or
     modern equivalent of the same place, e.g. 'Mexicopolis (Mexico City)'). Sanctuary names were
     tried here too and had to be removed: they dragged unrelated shrines together."""
-    raw=norm(r.get('locality'))
+    raw=norm(r.get('locality')).replace('romae','rome').replace('roma','rome')   # one token for the city
     raw=raw.replace('(',' ').replace(')',' ').replace(';',' ').replace('/',' ')
     return {p for p in re.sub(r'[^a-z0-9 ]',' ',raw).split()
             if len(p)>2 and p not in GEO_STOP and p not in ECCL_STOP}
 def _ed1(a,b):
     if a==b: return True
-    if abs(len(a)-len(b))>1 or min(len(a),len(b))<4: return False
+    if abs(len(a)-len(b))>1 or min(len(a),len(b))<6: return False   # 'Enna'/'Penna' are different places
     if len(a)>len(b): a,b=b,a
     i=j=d=0
     while i<len(a) and j<len(b):
@@ -132,6 +133,8 @@ for c,rs in bycountry.items():
     groups=[]
     for r in rs:
         lr=loc_toks(r)
+        if r.get('standalone'):            # insufficient identity to merge (e.g. a town and a year only)
+            groups.append([r]); continue
         cands=[g for g in groups if place_match(set().union(*[loc_toks(x) for x in g]),lr) and tcompat(g,r)]
         if not cands and r.get('coronation_date'):
             # titles disagree (often just Latin vs vernacular) but the same place was crowned in the same year
@@ -193,7 +196,7 @@ SRC=['series','volume','year','page','folio','folio_to','citation','source_pdf_u
      'evidence_type','act_date','concession_date','coronation_date','legate','deputy','register_refs','documents',
      'rubric_latin','incipit_latin','confidence','notes']
 RANK={'papal_coronation_act':4,'chapter_decree':4,'papal_legate_deputation':3,'papal_personal_coronation':3,
-      'retrospective_attestation':1,'norms':0}
+      'retrospective_attestation':1,'norms':0,'petition_not_conceded':-1}
 CONF={'high':3,'medium':2,'low':1}
 def best(g,f):
     vals=[x.get(f) for x in g if x.get(f)]

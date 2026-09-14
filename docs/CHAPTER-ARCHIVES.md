@@ -80,8 +80,8 @@ in the Baroque Period* (Prague, 2013; in Czech) worked directly in the fond and 
 - Milestones she draws from the fond: the first ceremony under the Sforza rule, Michelangelo's
   *Pietà*, **31 August 1637**; first coronation outside Rome, the Madonna dei Laghi at Avigliana,
   **14 April 1652** (recrowned 1752 and 1852); Naples with 28 coronations in all; first outside
-  Italy, **Trsat, 1715**; first in Central Europe, **Częstochowa, 8 September 1717**; first outside
-  Europe, the Chapter's concession for **Guadalupe, 1 October 1740**; **139** Roman images crowned
+  Italy, **Trsat, 1715**; first in Central Europe, **Częstochowa, 8 September 1717**; first request from
+  outside Europe, **Guadalupe, 1738–1740** — conceded but never executed (see Balzamo below); **139** Roman images crowned
   by 1981; and a record year of **31 coronations in 1904**.
 
 She cites as *BAV, ACSP Madonne Coronate, sv. N, fol. X (ROMAN)* — *sv.* (svazek) = tomo — giving the
@@ -127,6 +127,47 @@ nine present are enriched — Svatý Kopeček's record held only John Paul II's 
 Berdyczów and Rzeszów had no date at all; Leżajsk's 1752-09-08 is confirmed exactly. One she dates
 1751/1776 at Lwów sits beside an AAS recollection of a Lwów crowning in 1762 (AAS 2, 1910) —
 possibly the year of the decree rather than of the ceremony, or a third image; unresolved.
+
+### Balzamo (2023) — finding aids, numbers, and two corrections
+
+Nicolas Balzamo, *« Uniformisation ou distinction ? Le couronnement des Madones dans l'Europe
+moderne (XVIIe–XVIIIe siècles) »*, *Réforme, Humanisme, Renaissance* 97 (2023), pp. 169–190, also
+worked in the fond and adds what Vrabelová does not:
+
+- **Finding aids.** Besides the dossier volumes there are **lists of crowned images** — he cites
+  *Madonne coronate, 30, f. 15r–21r* — and the **alphabetical index of crowned Madonnas in Pio
+  Pecchiai's typescript inventory of the ACSP** (4 vols, 1945–48, t. 2, pp. 280–306), which omits
+  images crowned before 1648. Vol. 30 also holds Sforza's will (f. 2r–4v). Two printed catalogues:
+  Ottavio da Alatri and Anselmo da Reno Centese, *« L'incoronazione delle immagini mariane:
+  istituzione, cerimoniale, catalogo »*, *L'Italia francescana* 8 (1933), and Paolo Bonci, *Madonne
+  coronate in Italia e nel mondo* (Fiesole, 2004). The first twelve volumes of the fond cover the
+  17th–18th centuries.
+- **Numbers.** 82 Roman images crowned 1640–1681; the Scala Santa image of 8 July 1679 was the
+  95th Roman; the first non-Roman was the Madonna di San Biagio at Montepulciano in 1681; about
+  **203 images outside Rome by 1798**, roughly 1.7 a year — barely a tenth of them outside Italy,
+  and every one of those in Central and Eastern Europe. France, Iberia and the Empire are absent
+  before the 19th century; Campania has 28, Calabria 1, Sicily 15 (12 in the western dioceses).
+- **Refusals** are marked in the dossiers by a later docket, *« non si trova concessa »*. Żabbar
+  (Malta), c. 1700, *4, f. 75r*, is one — the catalogue's Żabbar record, read in tomo IV, is
+  accordingly marked `petition_not_conceded`: **the image was not crowned**.
+- **Guadalupe.** Lorenzo Boturini's memorial of 18 July 1738 (*7, f. 103r*) won the Chapter's
+  assent, but the Council of the Indies annulled the coronation and expelled him; the image was
+  first crowned in 1895. Vrabelová's statement (p. 62) that the Chapter *crowned* it on 1 October
+  1740 therefore records a concession that was never carried out.
+- **Przemyśl.** He dates its two coronations 1762 (Dominicans) and 1764 (Franciscans), citing
+  *9, f. 225r–227* and *10, f. 20r–32r*; Vrabelová dates the same two images 1766 and 1777, citing
+  *sv. 9, fol. 225–229* for Rzeszów and *sv. 10, fol. 22–24* for the Przemyśl Immaculata. The folios
+  overlap, the dates do not. Unresolved without the dossiers; the catalogue keeps her dates and
+  notes his.
+- Enrichments taken into the catalogue: Orvieto's concession year (1696) and the deputed canon's
+  name, Alessandro Casali Cocciani, which the OCR had garbled; the Madonna della Febbre's first
+  crowning (1631) beside its 1697 re-crowning; Julius II's crowning of the Loreto statue (1500)
+  and Clement VIII's of Salus Populi Romani (1597), the papal crownings that preceded any
+  procedure. His named 17th-century Roman coronations (San Sisto 1641, Sant'Agostino 1643, the
+  Altemps chapel 1673, the Scala Santa 1679), Montepulciano's San Biagio 1681, Benevento 1723,
+  Trapani 1734, and his town-and-year lists for Sicily, Piedmont, Padua and Naples are in the
+  catalogue as series LIT; the town-only rows are kept standalone, since a town and a year do not
+  identify an image.
 
 ### One place the primary source and the thesis disagree
 
@@ -226,6 +267,9 @@ is waiting on. Tomo 4 covers 1689–1714, so a crowning of the 1920s will not be
 volume.
 
 ## Sources
+
+- Nicolas Balzamo, « Uniformisation ou distinction ? Le couronnement des Madones dans l'Europe moderne
+  (XVIIe–XVIIIe siècles) », *Réforme, Humanisme, Renaissance* 97 (2023), pp. 169–190.
 
 - Dana Vrabelová, *Imago gratiosa. Korunované Madony ve střední Evropě v době baroka / Crowned Madonnas
   in Central Europe in the Baroque Period*, dissertation, Charles University, Prague, 2013 — § 7.3 on the

@@ -1,0 +1,436 @@
+{
+  "source": "Nicolas Balzamo, « Uniformisation ou distinction ? Le couronnement des Madones dans l'Europe moderne (XVIIe-XVIIIe siècles) », Réforme, Humanisme, Renaissance 97 (2023), pp. 169-190. Coronations named in the text and footnotes, with his citations of BAV, ACSP, Madonne coronate (volume, folio) where given.",
+  "note": "SECONDARY: reported by the article, not read here. Rows with a folio citation are `medium`; rows he gives as a bare year in prose (the Sicilian and Piedmontese lists, the Naples list) are `low` and carry no folio. Images he names only by town are recorded by town with the title null.",
+  "work": "Balzamo 2023",
+  "rows": [
+    {
+      "no": 1,
+      "date": "1631",
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna della Febbre",
+      "locality": "Rome, Vatican Basilica (sacristy)",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "174",
+      "notes": "The first image crowned under the Sforza initiative, before the count's earliest surviving letters of 1634 (p. 174); 1631 is the year of the petition per Vrabelová 2013, p. 59. Re-crowned by the Chapter in 1697 (see the tomo IV dossier).",
+      "standalone": false
+    },
+    {
+      "no": 2,
+      "date": "1641-01-14",
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna di San Sisto",
+      "locality": "Rome, monastery of the Dominican nuns of San Sisto",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [
+        "1, f. 156r–157r"
+      ],
+      "page": "180",
+      "notes": "One of the first crowned after Sforza's death; the nuns' letter claimed the icon was begun by St Luke and finished by God.",
+      "standalone": false
+    },
+    {
+      "no": 3,
+      "date": "1643",
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna di Sant'Agostino",
+      "locality": "Rome, Sant'Agostino",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [
+        "1, f. 165r"
+      ],
+      "page": "180",
+      "notes": "Icon said to have been brought from Constantinople; dossier includes a copy of a doubtful notarial act of 1482.",
+      "standalone": false
+    },
+    {
+      "no": 4,
+      "date": "1647",
+      "evidence": "chapter_decree",
+      "title_vernacular": "Santa Maria delle Grazie al Foro Romano",
+      "locality": "Rome, Santa Maria delle Grazie al Foro Romano",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [
+        "1, f. 275r–285r"
+      ],
+      "page": "181",
+      "notes": "1647 is the year the dossier was submitted to the Chapter (p. 181); the coronation itself is implied, not dated.",
+      "standalone": true
+    },
+    {
+      "no": 5,
+      "date": null,
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna della Pace",
+      "locality": "Rome, Santa Maria della Pace",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [
+        "1, f. 210r"
+      ],
+      "page": "181",
+      "notes": "Dossier cited for its weak claim to antiquity; no date of coronation given.",
+      "standalone": true
+    },
+    {
+      "no": 6,
+      "date": "1673-04-12",
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna of the Sant'Aniceto chapel, Palazzo Altemps",
+      "locality": "Rome, Palazzo Altemps, chapel of Sant'Aniceto",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [
+        "3, f. 12r–13v"
+      ],
+      "page": "178",
+      "notes": "The only known case of an image in a private oratory receiving the crown.",
+      "standalone": false
+    },
+    {
+      "no": 7,
+      "date": "1679-07-08",
+      "evidence": "chapter_decree",
+      "title_vernacular": "Maria Santissima della Scala Santa",
+      "locality": "Rome, Scala Santa",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [
+        "3, f. 45r–46v"
+      ],
+      "page": "182",
+      "notes": "The 95th Roman image crowned; after it the Chapter turned to images outside Rome.",
+      "standalone": false
+    },
+    {
+      "no": 8,
+      "date": "1681",
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna di San Biagio",
+      "locality": "Montepulciano, San Biagio",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [
+        "3, f. 73r–85v"
+      ],
+      "page": "182",
+      "notes": "The first non-Roman image crowned by the Chapter; a 14th-c. fresco whose cult emerged in 1518. Distinct from the cathedral's Madonna di San Martino crowned 1707.",
+      "standalone": false
+    },
+    {
+      "no": 9,
+      "date": "1704-06-08",
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna di San Brizio",
+      "locality": "Orvieto",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary with Child",
+      "refs": [
+        "4, f. 143r"
+      ],
+      "page": "169",
+      "concession_date": "1696",
+      "deputy": "Alessandro Casali Cocciani, canon of St Peter's",
+      "notes": "Chapter's assent 1696, ceremony 8 June 1704; the canon brought the crown from Rome and placed it after a sung Mass, the local bishop assisting. Resolves the OCR-garbled surname in the tomo IV dossier.",
+      "standalone": false
+    },
+    {
+      "no": 10,
+      "date": "1723",
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna Incoronata",
+      "locality": "Benevento, church of the Camaldolese",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [
+        "5, f. 68r–78v"
+      ],
+      "page": "186",
+      "notes": "A shrine of purely local reach, absent even from Montorio's Zodiaco di Maria (1715).",
+      "standalone": false
+    },
+    {
+      "no": 11,
+      "date": "1734",
+      "evidence": "chapter_decree",
+      "title_vernacular": "Santissima Annunziata (Madonna di Trapani)",
+      "locality": "Trapani, Carmelite sanctuary of the Annunziata",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary with Child (marble statue)",
+      "refs": [
+        "6, f. 249r–259v"
+      ],
+      "page": "186",
+      "concession_date": "1733",
+      "notes": "Petitioned for the image's supposed millennium (733–1733); the crowns arrived too late for 15 August 1733 and the coronation was held the next year. First image crowned in Sicily.",
+      "standalone": false
+    },
+    {
+      "no": 12,
+      "date": null,
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna di Gibilmanna",
+      "locality": "Gibilmanna (diocese of Cefalù)",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "187",
+      "notes": "Named among the fifteen Sicilian images crowned 1733–1797; no date given.",
+      "standalone": true
+    },
+    {
+      "no": 13,
+      "date": "1753",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Custonaci",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "187",
+      "notes": "Year only, from his list of Sicilian coronations near Trapani.",
+      "standalone": true
+    },
+    {
+      "no": 14,
+      "date": "1762",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Monreale",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "187",
+      "notes": "Year only.",
+      "standalone": true
+    },
+    {
+      "no": 15,
+      "date": "1778",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Calatafimi",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "187",
+      "notes": "Year only.",
+      "standalone": true
+    },
+    {
+      "no": 16,
+      "date": "1786",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Alcamo",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "187",
+      "notes": "Year only.",
+      "standalone": true
+    },
+    {
+      "no": 17,
+      "date": "1797",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Castellammare del Golfo",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "187",
+      "notes": "Year only.",
+      "standalone": true
+    },
+    {
+      "no": 18,
+      "date": "1763",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Militello in Val di Catania",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "188",
+      "notes": "Year only; one of three coronations in eastern Sicily.",
+      "standalone": true
+    },
+    {
+      "no": 19,
+      "date": "1785",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Vittoria (Sicily)",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "188",
+      "notes": "Year only.",
+      "standalone": true
+    },
+    {
+      "no": 20,
+      "date": "1797",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Enna",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "188",
+      "notes": "Year only.",
+      "standalone": true
+    },
+    {
+      "no": 21,
+      "date": "1764",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Padua",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "185",
+      "notes": "Year only; one of only two coronations in Venetian territory (the other Verona 1709).",
+      "standalone": true
+    },
+    {
+      "no": 22,
+      "date": "1772",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Monchiero",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "185",
+      "notes": "Year only; one of only two coronations in Piedmont.",
+      "standalone": true
+    },
+    {
+      "no": 23,
+      "date": "1788",
+      "evidence": "chapter_decree",
+      "title_vernacular": null,
+      "locality": "Valperga",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "185",
+      "notes": "Year only.",
+      "standalone": true
+    },
+    {
+      "no": 24,
+      "date": null,
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna delle Grazie",
+      "locality": "Naples, Clarisses",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "188",
+      "notes": "Among eight Neapolitan images crowned 1724–1787; no individual date.",
+      "standalone": true
+    },
+    {
+      "no": 25,
+      "date": null,
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna dei Miracoli",
+      "locality": "Naples, Franciscan nuns",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "188",
+      "notes": "Among eight Neapolitan images crowned 1724–1787; no individual date.",
+      "standalone": true
+    },
+    {
+      "no": 26,
+      "date": null,
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna della Concezione",
+      "locality": "Naples, Theatine nuns of the Immaculate Conception",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "188",
+      "notes": "Among eight Neapolitan images crowned 1724–1787; no individual date.",
+      "standalone": true
+    },
+    {
+      "no": 27,
+      "date": null,
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna della Potenza",
+      "locality": "Naples, Ardorini missionaries",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "188",
+      "notes": "Among eight Neapolitan images crowned 1724–1787; no individual date.",
+      "standalone": true
+    },
+    {
+      "no": 28,
+      "date": null,
+      "evidence": "chapter_decree",
+      "title_vernacular": "Madonna di Porto Salvo",
+      "locality": "Naples, confraternity of the mariners",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary",
+      "refs": [],
+      "page": "188",
+      "notes": "Among eight Neapolitan images crowned 1724–1787; no individual date.",
+      "standalone": true
+    },
+    {
+      "no": 29,
+      "date": "1500",
+      "evidence": "papal_personal_coronation",
+      "title_vernacular": "Madonna di Loreto",
+      "locality": "Loreto (Lauretum)",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary with Child (statue)",
+      "refs": [],
+      "page": "173",
+      "notes": "Crowned by Julius II in 1500 — a papal crowning before any procedure existed (citing Vrabelová 2012, p. 106).",
+      "standalone": false
+    },
+    {
+      "no": 30,
+      "date": "1597",
+      "evidence": "papal_personal_coronation",
+      "title_vernacular": "Salus Populi Romani",
+      "locality": "Rome, Santa Maria Maggiore",
+      "country": "Italy",
+      "subject": "Blessed Virgin Mary with Child (icon)",
+      "refs": [],
+      "page": "173",
+      "notes": "Crowned by Clement VIII in 1597 (citing Lupi 2012, p. 72).",
+      "standalone": false
+    },
+    {
+      "no": 31,
+      "date": null,
+      "evidence": "chapter_decree",
+      "concession_date": "1740",
+      "title_vernacular": "Nuestra Señora de Guadalupe",
+      "locality": "Mexico City",
+      "country": "Mexico",
+      "subject": "Blessed Virgin Mary",
+      "refs": [
+        "7, f. 103r"
+      ],
+      "page": "184",
+      "notes": "NOT EXECUTED. Petitioned by Lorenzo Boturini (memorial of 18 July 1738); the Chapter agreed, but the Council of the Indies annulled the coronation and expelled Boturini (citing Escamilla González 2010). The image was first crowned in 1895. Corrects the reading of Vrabelová 2013, p. 62, that the Chapter 'crowned' it on 1 October 1740.",
+      "standalone": false
+    }
+  ]
+}

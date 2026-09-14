@@ -3,7 +3,7 @@
 
 # Registry of crowned images — by country
 
-**390 images** · 42 countries · 464 source citations · generated 2026-09-14
+**416 images** · 42 countries · 495 source citations · generated 2026-09-14
 
 Each row is **one crowned image**. The *Sources* column lists every act in
 *Acta Sanctae Sedis* (ASS, 1865–1908) or *Acta Apostolicae Sedis* (AAS, 1909– ) that attests it,
@@ -12,7 +12,7 @@ sources, not several rows.
 
 **Evidence tags** — `act` the granting act itself · `legate` a Cardinal Legate deputed to crown ·
 `by pope` the Pope crowned it in person · `retro` a later act mentions an earlier crowning ·
-`norms` general legislation.
+`norms` general legislation · `NOT conceded` a petition the Chapter never granted — the image was not crowned by it.
 **Conf.** — ●●● explicit · ●●○ some inference (usually country from the Latin diocese) ·
 ●○○ fragmentary, verify against the printed page.
 
@@ -267,17 +267,19 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Italy
 
-*125 images*
+*151 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
 | Beata Maria Virgo Immaculata | Agrigento | 1940 | retro | [AAS 33 (1941), p. 482](https://www.vatican.va/archive/aas/documents/AAS-33-1941-ocr.pdf) *retro* | ●●○ |
 | Madonna del Pontelungo | Albenga |  | retro | [AAS 42 (1950), p. 591](https://www.vatican.va/archive/aas/documents/AAS-42-1950-ocr.pdf) *retro* | ●○○ |
+| — | Alcamo | 1786 |  | Balzamo 2023, p. 187 ** | ●○○ |
 | Madonna di Valverde | Alghero | 1948 | retro | [AAS 42 (1950), p. 174](https://www.vatican.va/archive/aas/documents/AAS-42-1950-ocr.pdf) *retro* | ●●○ |
 | Imago Deiparae sub titulo Reginae omnium Sanctorum | Ancona |  | by pope | [ASS 37 (1904), p. 195](https://www.vatican.va/archive/ass/documents/ASS-37-1904-5-ocr.pdf) *by pope*<br>[AAS 19 (1927), p. 13](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *retro* | ●●● |
 | Sacra Infantis Pragensis effigies | Arenzano, Genoa | 1924-02-24 | retro | [AAS 20 (1928), p. 320](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●● |
 | Madonna delle Grazie | Asculum in Piceno (Ascoli Piceno) | 1960 | retro | [AAS 53 (1961), p. 674](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●○ |
 | Madonna della Santa Cintura | Assisi |  |  | [BAV, ACSP, Madonne coronate, tomo IV, f. 296r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0702) ** | ●○○ |
+| Madonna Incoronata | Benevento, church of the Camaldolese | 1723 |  | Balzamo 2023, p. 186 ** | ●●○ |
 | Madonna del Lago | Bertinoro | 1705-08-09 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 2r–23v.[02.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0005) ** | ●●● |
 | Madonna della Quercia | Bettola, Piacenza | 1920 | retro | [AAS 55 (1963), p. 29](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
 | Beata Maria Virgo de Monte Carmelo | Bologna | 1704 | retro | [AAS 34 (1942), p. 32](https://www.vatican.va/archive/aas/documents/AAS-34-1942-ocr.pdf) *retro* | ●●● |
@@ -285,18 +287,22 @@ Vatican Chapter crowning later renewed by a Pope.
 | Madonna delle Grazie | Brixia (Brescia) | 1886 | retro | [AAS 53 (1961), p. 672](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●○ |
 | imago Beatae Mariae Virginis, eodem in templo exculta | Caesena (Cesena) |  | retro | [AAS 53 (1961), p. 214](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●○ |
 | Nostra Signora di Bonaria | Cagliari (Calaris) | 1870-04-24; 1926 | legate | [ASS 6 (1870), p. 353](https://www.vatican.va/archive/ass/documents/ASS-06-1870-71-ocr.pdf) *retro*<br>[AAS 18 (1926), p. 302](https://www.vatican.va/archive/aas/documents/AAS-18-1926-ocr.pdf) *legate*<br>[AAS 18 (1926), p. 376](https://www.vatican.va/archive/aas/documents/AAS-18-1926-ocr.pdf) *retro* | ●●● |
+| — | Calatafimi | 1778 |  | Balzamo 2023, p. 187 ** | ●○○ |
 | Madonna di Conadomini (Madonna del Monte) | Caltagirone |  | retro | [AAS 55 (1963), p. 911](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
 | Madonna del Transito | Canoscio (Città di Castello) | 1888 | retro | [AAS 90 (1998), p. 469](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *retro* | ●●○ |
 | Madonna di Caravaggio | Caravaggio, Cremona ('Caravaggii Cremonen. diœcesis') | 1710-09-29 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 242r–245v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0581) ** | ●●○ |
 | Beata Maria Virgo « a Miraculis » | Casalbordino, Vasto (now Chieti-Vasto) | 1899-06-11 | retro | [AAS 43 (1951), p. 156](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●● |
 | Madonna della Salute | Castel Goffredo (Godium), Mantua | 1945-11-04 | retro | [AAS 40 (1948), p. 445](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro* | ●●● |
 | Santa Maria ad Rupes | Castel Sant'Elia (sancti Eliae Castrum), vallis Suppentonia, Nepi |  | retro | [AAS 4 (1912), p. 553](https://www.vatican.va/archive/aas/documents/AAS-04-1912-ocr.pdf) *retro* | ●●● |
+| — | Castellammare del Golfo | 1797 |  | Balzamo 2023, p. 187 ** | ●○○ |
 | Madonna di Pozzano | Castellammare di Stabia (Castrum Maris seu Stabia) | 1874 | retro | [AAS 8 (1916), p. 259](https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf) *retro* | ●●● |
 | Sacra Imago Beatae Mariae Virginis de Horto | Chiavari (Clavarium), Liguria | 1645 | retro | [ASS 37 (1904), p. 478](https://www.vatican.va/archive/ass/documents/ASS-37-1904-5-ocr.pdf) *retro* | ●●○ |
 | Madonna SS.ma di Cibona (Monte Urbano) | Cibona / Monte Urbano (Eremo di Cibona, territory of Tolfa), Sutri | 1704-06-01 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 70r–73v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0163) ** | ●●● |
 | Madonna di Belvedere | Città di Castello | 1703-11-11 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 77r–81v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0177) ** | ●●● |
 | Nostra Domina a Sacro Corde (Iesu) | Como |  | retro | [AAS 33 (1941), p. 326](https://www.vatican.va/archive/aas/documents/AAS-33-1941-ocr.pdf) *retro* | ●●● |
 | Santa Maria della Neve | Cuglieri (Sardinia), Bosa | 1893-08-05 | retro | [AAS 11 (1919), p. 409](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
+| — | Custonaci | 1753 |  | Balzamo 2023, p. 187 ** | ●○○ |
+| — | Enna | 1797 |  | Balzamo 2023, p. 188 ** | ●○○ |
 | Madonna delle Grazie (Este) | Este, Padua (Padova) |  | retro | [AAS 16 (1924), p. 85](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
 | Madonna del Buon Gesù | Fabriano | 1898-09-08 | retro | [AAS 48 (1956), p. 365](https://www.vatican.va/archive/aas/documents/AAS-48-1956-ocr.pdf) *retro* | ●●● |
 | Madonna delle Grazie | Faenza | 1931 | retro | [AAS 41 (1949), p. 541](https://www.vatican.va/archive/aas/documents/AAS-41-1949-ocr.pdf) *retro* | ●●● |
@@ -308,6 +314,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Madonna di Capocroce (B. V. detta di Capo croce) | Frascati | 1713-10-28 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 246r–256v.[03.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0590) **<br>[AAS 50 (1958), p. 937](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
 | Nostra Signora delle Vigne | Genoa | 1920-11-21 | legate | [AAS 12 (1920), p. 568](https://www.vatican.va/archive/aas/documents/AAS-12-1920-ocr.pdf) *legate* | ●●● |
 | S. Maria Liberatrice | Genoa |  |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 177r–177v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0413) ** | ●○○ |
+| Madonna di Gibilmanna | Gibilmanna (diocese of Cefalù) |  |  | Balzamo 2023, p. 187 ** | ●○○ |
 | Madonna del Suffragio | Grotte di Castro, Montefiascone | 1728 | retro | [AAS 60 (1968), p. 245](https://www.vatican.va/archive/aas/documents/AAS-60-1968-ocr.pdf) *retro* | ●●● |
 | della Porta | Guastalla |  | retro | [AAS 59 (1967), p. 1038](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●○ |
 | Madonna del Bosco | Imbersago, Milan | 1954-08-29 | by pope | [AAS 51 (1959), p. 413](https://www.vatican.va/archive/aas/documents/AAS-51-1959-ocr.pdf) *by pope*<br>[AAS 54 (1962), p. 850](https://www.vatican.va/archive/aas/documents/AAS-54-1962-ocr.pdf) *by pope*<br>[AAS 54 (1962), p. 851](https://www.vatican.va/archive/aas/documents/AAS-54-1962-ocr.pdf) *retro* | ●●● |
@@ -318,20 +325,29 @@ Vatican Chapter crowning later renewed by a Pope.
 | Beata Maria Virgo « a Catena » | Laurignano, Cosenza |  | retro | [AAS 58 (1966), p. 629](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
 | Madonna del Pilastrello | Lendinara, Adria | 1906 | retro | [AAS 3 (1911), p. 122](https://www.vatican.va/archive/aas/documents/AAS-03-1911-ocr.pdf) *retro* | ●●● |
 | B. V. di Leuca (Santa Maria di Leuca, 'de Finibus Terrae') | Leuca (Japigia / Salento) |  |  | [BAV, ACSP, Madonne coronate, tomo IV, f. 211v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0500) ** | ●○○ |
-| Madonna di Loreto | Loreto (Lauretum) | 1922 | by pope | [AAS 14 (1922), p. 544](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *by pope*<br>[AAS 14 (1922), p. 675](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *by pope*<br>[AAS 15 (1923), p. 215](https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf) *by pope* | ●●● |
+| Madonna di Loreto | Loreto (Lauretum) | 1500; 1922 | by pope | Balzamo 2023, p. 173 *by pope*<br>[AAS 14 (1922), p. 544](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *by pope*<br>[AAS 14 (1922), p. 675](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *by pope*<br>[AAS 15 (1923), p. 215](https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf) *by pope* | ●●● |
 | Madonna del Molino | Lugo, Imola | 1856 | retro | [AAS 43 (1951), p. 726](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●● |
 | Madonna della Misericordia | Macerata | 1721-08-24 | retro | [AAS 13 (1921), p. 305](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 | Madonna della Bruna | Matera | 1843 | retro | [AAS 55 (1963), p. 324](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
+| — | Militello in Val di Catania | 1763 |  | Balzamo 2023, p. 188 ** | ●○○ |
 | Simulacrum Beatae Mariae Virginis in Caelum Assumptae | Missaglia, Milan |  | retro | [AAS 39 (1947), p. 439](https://www.vatican.va/archive/aas/documents/AAS-39-1947-ocr.pdf) *retro* | ●○○ |
+| — | Monchiero | 1772 |  | Balzamo 2023, p. 185 ** | ●○○ |
 | Madonna della Madia | Monopoli (Apulia) | 1769 | retro | [AAS 13 (1921), p. 492](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
+| — | Monreale | 1762 |  | Balzamo 2023, p. 187 ** | ●○○ |
 | Madonna di Fontenuova | Monsummano Terme, Pescia | 1782 | retro | [AAS 56 (1964), p. 417](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro* | ●●○ |
 | Maria Santissima della Divina Provvidenza | Montalbano Elicona, Messina |  | act | [AAS 75 (1983), p. 879](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *act* | ●●● |
 | Assumptio Dei Genetricis, a Gulielmo Caccia, quem et « Moncalvo » appellant, coloribus expressa | Monte Crea (Montferrat), Casale Monferrato | 1890-08-05 | retro | [AAS 44 (1952), p. 179](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro* | ●●○ |
 | Madonna di San Martino (B.ma Vergine detta di S. Martino) | Montepulciano | 1707-11-06 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 188r–204v.[02.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0435) ** | ●●● |
+| Madonna di San Biagio | Montepulciano, San Biagio | 1681 |  | Balzamo 2023, p. 182 ** | ●●○ |
 | Santa Maria di Montevergine (Madonna di Monte Vergine, anticamente detta di Costantinopoli) | Montevergine (Monte Vergine, near Avellino) — reading uncertain, nullius dioecesis, Provincia Beneventana (attestation: 'Beneventanae Dioecesis'); Regno di Napoli, Principato Ultra | 1712-05-14 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 215r.[01.mn.0000]–234r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0510) ** | ●●● |
 | Immacolata (Immacolata di Placido Baccher) | Naples | 1826-12-30 | retro | [AAS 1 (1909), p. 498](https://www.vatican.va/archive/aas/documents/AAS-01-1909-ocr.pdf) *retro*<br>[AAS 36 (1944), p. 152](https://www.vatican.va/archive/aas/documents/AAS-36-1944-ocr.pdf) *retro*<br>[AAS 51 (1959), p. 34](https://www.vatican.va/archive/aas/documents/AAS-51-1959-ocr.pdf) *retro* | ●●● |
 | Madonna Addolorata al Fiumicello | Naples | 1910-09-04 | retro | [AAS 9 (1917), p. 58](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●● |
 | Madonna del Carmine, «la Bruna» | Naples (Neapolis) | 1875 | retro | [AAS 10 (1918), p. 12](https://www.vatican.va/archive/aas/documents/AAS-10-1918-ocr.pdf) *retro* | ●●● |
+| Madonna della Potenza | Naples, Ardorini missionaries |  |  | Balzamo 2023, p. 188 ** | ●○○ |
+| Madonna delle Grazie | Naples, Clarisses |  |  | Balzamo 2023, p. 188 ** | ●○○ |
+| Madonna di Porto Salvo | Naples, confraternity of the mariners |  |  | Balzamo 2023, p. 188 ** | ●○○ |
+| Madonna dei Miracoli | Naples, Franciscan nuns |  |  | Balzamo 2023, p. 188 ** | ●○○ |
+| Madonna della Concezione | Naples, Theatine nuns of the Immaculate Conception |  |  | Balzamo 2023, p. 188 ** | ●○○ |
 | Madonna della Purità | Napoli | 1724-09-07 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 290r–301r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0690) ** | ●●● |
 | Madonna del Ponte | Narni | 1754 | retro | [AAS 46 (1954), p. 758](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro* | ●●● |
 | Madonna dell'Arco | near Naples (apud urbem Neapolim) | 1874 | retro | [AAS 66 (1974), p. 485](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *retro* | ●●○ |
@@ -340,8 +356,9 @@ Vatican Chapter crowning later renewed by a Pope.
 | Nostra Signora del Rimedio | Oristano (Arborea) |  | retro | [AAS 47 (1955), p. 488](https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf) *retro* | ●●○ |
 | Beata Maria Virgo « a remedio » | Oristano (prope urbem « Oristano ») |  | retro | [AAS 50 (1958), p. 147](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
 | Imago (Simulacrum) B. Mariae V. de Oropa | Oropa (Biella) |  | retro | [AAS 49 (1957), p. 952](https://www.vatican.va/archive/aas/documents/AAS-49-1957-ocr.pdf) *retro* | ●●○ |
-| Madonna di San Brizio | Orvieto | 1704-06-08 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 142r–159v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0343) ** | ●●● |
+| Madonna di San Brizio | Orvieto | 1704-06-08 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 142r–159v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0343) **<br>Balzamo 2023, p. 169 ** | ●●● |
 | Simulacro miracoloso della SS.ma Vergine della Cattedrale d'Otranto (eletta Padrona sotto il titolo della Natività) | Otranto | 1705-03-07 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 82r–89v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0187) ** | ●●● |
+| — | Padua | 1764 |  | Balzamo 2023, p. 185 ** | ●○○ |
 | Madonna Costantinopolitana | Padua (Patavium) | 1909-05-23 | legate | [AAS 1 (1909), p. 460](https://www.vatican.va/archive/aas/documents/AAS-01-1909-ocr.pdf) *legate*<br>[AAS 1 (1909), p. 573](https://www.vatican.va/archive/aas/documents/AAS-01-1909-ocr.pdf) *retro* | ●●● |
 | Madonna di Libera Inferni (S. Maria Libera Inferni, formerly S. Maria Maggiore / della Presentazione) | Palermo |  |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 178v–185v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0416) ** | ●●● |
 | B. V. delle Grazie (S. Maria novissima delle Grazie) | Penna (Penna e Billi / Pennabilli), Montefeltro | 1708-08-15 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 104r–111r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0243) ** | ●●● |
@@ -359,8 +376,14 @@ Vatican Chapter crowning later renewed by a Pope.
 | Santa Maria degli Angeli | Rome | 1920-06-27 | retro | [AAS 12 (1920), p. 435](https://www.vatican.va/archive/aas/documents/AAS-12-1920-ocr.pdf) *retro* | ●●● |
 | SS.ma Madonna e suo Bambino di S. Pantaleo in Roma | Rome | 1694-03-25 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 98r–101v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0231) **<br>[BAV, ACSP, Madonne coronate, tomo IV, ff. 98r–98v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0231) ** | ●●● |
 | Madonna e suo Bambino nella Chiesa di S. Lorenzo nelle Scuole Pie di Borgo | Rome (Borgo) |  |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 160r–161v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0379) ** | ●○○ |
-| Salus Populi Romani | Rome (ceremony in the Vatican Basilica) | 1954-11-01 | by pope | [AAS 46 (1954), p. 662](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *by pope*<br>[AAS 46 (1954), p. 708](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *by pope* | ●●● |
-| Madonna della Febbre | Rome (Vatican) | 1697-08-15 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 162r–169r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0383) ** | ●●● |
+| Salus Populi Romani | Rome (ceremony in the Vatican Basilica) | 1597; 1954-11-01 | by pope | Balzamo 2023, p. 173 *by pope*<br>[AAS 46 (1954), p. 662](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *by pope*<br>[AAS 46 (1954), p. 708](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *by pope* | ●●● |
+| Madonna di San Sisto | Rome, monastery of the Dominican nuns of San Sisto | 1641-01-14 |  | Balzamo 2023, p. 180 ** | ●●○ |
+| Madonna of the Sant'Aniceto chapel, Palazzo Altemps | Rome, Palazzo Altemps, chapel of Sant'Aniceto | 1673-04-12 |  | Balzamo 2023, p. 178 ** | ●●○ |
+| Madonna di Sant'Agostino | Rome, Sant'Agostino | 1643 |  | Balzamo 2023, p. 180 ** | ●●○ |
+| Madonna della Pace | Rome, Santa Maria della Pace |  |  | Balzamo 2023, p. 181 ** | ●●○ |
+| Santa Maria delle Grazie al Foro Romano | Rome, Santa Maria delle Grazie al Foro Romano | 1647 |  | Balzamo 2023, p. 181 ** | ●●○ |
+| Maria Santissima della Scala Santa | Rome, Scala Santa | 1679-07-08 |  | Balzamo 2023, p. 182 ** | ●●○ |
+| Madonna della Febbre | Rome, Vatican Basilica (sacristy) | 1631; 1697-08-15 |  | Balzamo 2023, p. 174 **<br>[BAV, ACSP, Madonne coronate, tomo IV, ff. 162r–169r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0383) ** | ●●● |
 | Maria Santissima del Pettoruto | S. Sosti (San Sosti), Calabria | 1903 | retro | [AAS 71 (1979), p. 975](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) *retro* | ●●● |
 | Materdomini | Salerno | 1759 | retro | [AAS 15 (1923), p. 337](https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf) *retro* | ●●○ |
 | Madonna delle Grazie della Terra di S. Giovanni (Valdarno) | San Giovanni (Valdarno), Fiesole (Fesulana Diœcesis) | 1704-09-08 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 90r–97v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0211) ** | ●●● |
@@ -385,16 +408,19 @@ Vatican Chapter crowning later renewed by a Pope.
 | Madonna della Misericordia | Terni (Interamna) | 1937 | retro | [AAS 45 (1953), p. 177](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *retro* | ●●● |
 | Madonna di Tirano | Tirano (Valtellina), Como | 1690-09-29 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 24r–69v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0059) **<br>[AAS 19 (1927), p. 337](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *retro* | ●●● |
 | Imago Beatae Mariae Virginis primae labis expertis | Torre del Greco, Naples |  | retro | [AAS 49 (1957), p. 725](https://www.vatican.va/archive/aas/documents/AAS-49-1957-ocr.pdf) *retro* | ●●○ |
+| Santissima Annunziata (Madonna di Trapani) | Trapani, Carmelite sanctuary of the Annunziata | 1734 |  | Balzamo 2023, p. 186 ** | ●●○ |
 | La Madonna Grande | Treviso | 1897 | retro | [AAS 9 (1917), p. 324](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●● |
 | Beata Maria Virgo de Monte Carmelo | Tricarico | 1938 | retro | [AAS 44 (1952), p. 264](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro* | ●●● |
 | Maria Ausiliatrice | Turin | 1903-05-27 | act | [ASS 35 (1902), p. 580](https://www.vatican.va/archive/ass/documents/ASS-35-1902-3-ocr.pdf) *act*<br>[ASS 35 (1902), p. 709](https://www.vatican.va/archive/ass/documents/ASS-35-1902-3-ocr.pdf) *retro*<br>[AAS 3 (1911), p. 410](https://www.vatican.va/archive/aas/documents/AAS-03-1911-ocr.pdf) *retro* | ●●● |
 | Beata Maria Virgo Mater Gratiarum | Udine (Utinum) | 1870 | retro | [AAS 14 (1922), p. 491](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro* | ●●● |
+| — | Valperga | 1788 |  | Balzamo 2023, p. 185 ** | ●○○ |
 | Madonna degli Infermi | Vercelli (Vercellae) | 1921 | retro | [AAS 14 (1922), p. 38](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro* | ●●○ |
 | Beata Vergine della Giara (Madonna di Loreto) dei PP. Teatini, Verona | Verona | 1709-11-10 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 235r–241v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0558) ** | ●●● |
 | simulacrum Virginis Perdolentis | Viareggio, Lucca |  | retro | [AAS 55 (1963), p. 913](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
 | Sacro Monte di Viggiano | Viggiano, Potenza-Marsico Nuovo |  | retro | [AAS 58 (1966), p. 566](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
 | Madonna Consolatrice del Carpinello | Visciano, Nola | 1886-04-20 | retro | [AAS 79 (1987), p. 247](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *retro* | ●●● |
 | Madonna Liberatrice (S. Maria Liberatrice) | Viterbo | 1715-11-12 |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 122r–141r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0283) ** | ●●● |
+| — | Vittoria (Sicily) | 1785 |  | Balzamo 2023, p. 188 ** | ●○○ |
 | Simulacrum Beatae Mariae Virginis | Volterra |  | by pope | [AAS 50 (1958), p. 444](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *by pope* | ●●● |
 
 ## Lithuania
@@ -418,7 +444,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Our Lady of Ta' Pinu | Gozo |  | legate | [AAS 27 (1935), p. 403](https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf) *legate* | ●●● |
 | Beatae Mariae Virginis in caelum Assumptae imago | Mosta, Malta |  | act | [AAS 66 (1974), p. 322](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *act* | ●●● |
 | Maria Bambina | Senglea, Malta |  | retro | [AAS 13 (1921), p. 190](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●○ |
-| Madonna SS.ma delle Grazie (Żabbar, Malta) | Żabbar (OCR 'Zabar'), Malta |  |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 75r–76v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0173) ** | ●●● |
+| Madonna SS.ma delle Grazie (Żabbar, Malta) | Żabbar (OCR 'Zabar'), Malta |  | NOT conceded | [BAV, ACSP, Madonne coronate, tomo IV, ff. 75r–76v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0173) *NOT conceded* | ●○○ |
 
 ## Mexico
 
@@ -438,7 +464,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Beata Maria Virgo Lauretana | Loreto, Tijuana |  | retro | [AAS 59 (1967), p. 610](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●○ |
 | Nuestra Señora de Guadalupe | Manzanillo, Colima |  | act | [AAS 86 (1994), p. 942](https://www.vatican.va/archive/aas/documents/AAS-86-1994-ocr.pdf) *act* | ●●● |
 | Domina Nostra a Sacro Corde Iesu | Mexico City | 1948-09-26 | retro | [AAS 85 (1993), p. 405](https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf) *retro* | ●●● |
-| Nuestra Señora de Guadalupe | Mexicopolis (Mexico City) | 1895-10-12; 1945-10-12; 1979-01-27 | by pope | [AAS 37 (1945), p. 254](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 264](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 267](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *by pope*<br>[AAS 58 (1966), p. 475](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro*<br>[AAS 62 (1970), p. 681](https://www.vatican.va/archive/aas/documents/AAS-62-1970-ocr.pdf) *retro*<br>[AAS 71 (1979), p. 177](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) *by pope* | ●●● |
+| Nuestra Señora de Guadalupe | Mexico City | 1895-10-12; 1945-10-12; 1979-01-27 |  | Balzamo 2023, p. 184 **<br>[AAS 37 (1945), p. 254](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 264](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 267](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *by pope*<br>[AAS 58 (1966), p. 475](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro*<br>[AAS 62 (1970), p. 681](https://www.vatican.va/archive/aas/documents/AAS-62-1970-ocr.pdf) *retro*<br>[AAS 71 (1979), p. 177](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) *by pope* | ●●● |
 | Nuestra Señora de Monterrey | Monterrey | 1990-05-10 | act | [AAS 82 (1990), p. 1512](https://www.vatican.va/archive/aas/documents/AAS-82-1990-ocr.pdf) *by pope*<br>[AAS 88 (1996), p. 840](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *act* | ●●● |
 | Nuestra Señora de los Remedios | Naucalpan, Tlalnepantla |  | act | [AAS 66 (1974), p. 327](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *act* | ●●● |
 | Nuestra Señora de Ocotlán | Ocotlan (provincia Tlaxcalensis), Puebla de los Angeles |  | retro | [AAS 32 (1940), p. 545](https://www.vatican.va/archive/aas/documents/AAS-32-1940-ocr.pdf) *retro*<br>[AAS 50 (1958), p. 558](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
@@ -698,7 +724,7 @@ Vatican Chapter crowning later renewed by a Pope.
 |---|---|---|---|---|---|
 | Nuestra Señora de la Soledad | Caracas |  | act | [AAS 79 (1987), p. 1446](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *act* | ●●○ |
 | Nuestra Señora de Guadalupe de El Carrizal | El Carrizal, Coro |  | act | [AAS 85 (1993), p. 22](https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf) *act* | ●●● |
-| Nuestra Señora de Coromoto | Guanare, Barquisimeto | 1952-09-12; 1985-01-27 | legate | [AAS 44 (1952), p. 722](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *legate*<br>[AAS 44 (1952), p. 739](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro*<br>[AAS 77 (1985), p. 466](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *by pope*<br>[AAS 77 (1985), p. 828](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *by pope* | ●●● |
+| Nuestra Señora de Coromoto | Guanare, Barquisimeto | 1952-09-12; 1985-01-27 | by pope | [AAS 44 (1952), p. 722](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *legate*<br>[AAS 44 (1952), p. 739](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro*<br>[AAS 77 (1985), p. 466](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *by pope*<br>[AAS 77 (1985), p. 828](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *by pope* | ●●● |
 | Nuestra Senora de Chiquinquira | Maracaibo |  | retro | [AAS 13 (1921), p. 5](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 | Nuestra Señora del Socorro | Valentia (Valencia) | 1910 | retro | [AAS 52 (1960), p. 885](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●● |
 

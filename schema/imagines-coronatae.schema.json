@@ -141,6 +141,7 @@
             "retrospective_attestation",
             "norms",
             "chapter_decree",
+            "petition_not_conceded",
             null
           ],
           "description": "Best evidence across all sources, ranked: granting act > legate deputation / crowned by the Pope in person > retrospective mention."
@@ -258,9 +259,10 @@
             "papal_personal_coronation",
             "retrospective_attestation",
             "norms",
-            "chapter_decree"
+            "chapter_decree",
+            "petition_not_conceded"
           ],
-          "description": "chapter_decree = concession of the crown by the Chapter of St Peter’s under the Sforza Pallavicino legacy, documented in the Chapter’s own dossier (petition, decree, instrument of donation, relazione)"
+          "description": "chapter_decree = concession of the crown by the Chapter of St Peter’s under the Sforza Pallavicino legacy, documented in the Chapter’s own dossier (petition, decree, instrument of donation, relazione) petition_not_conceded = a petition to the Chapter that was refused or never granted; the image was NOT crowned by this act."
         },
         "act_date": {
           "type": [

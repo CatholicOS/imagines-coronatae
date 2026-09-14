@@ -7,7 +7,7 @@
       "AAS": "https://www.vatican.va/archive/aas/index_sp.htm"
     },
     "generated": "2026-09-14",
-    "record_count": 390,
+    "record_count": 416,
     "layer": "attestations — one record per ACT that attests a crowning; see imagines-coronatae.json for one record per IMAGE",
     "coverage": {
       "series": [
@@ -44,10 +44,10 @@
       "Several ASS volumes span two calendar years; `year` is the first year of the volume."
     ],
     "statistics": {
-      "images": 390,
-      "source_records": 464,
+      "images": 416,
+      "source_records": 495,
       "by_country": {
-        "Italy": 125,
+        "Italy": 151,
         "Poland": 72,
         "Spain": 24,
         "Mexico": 23,
@@ -93,17 +93,18 @@
       "by_strongest_evidence": {
         "retrospective_attestation": 181,
         "papal_coronation_act": 101,
-        "chapter_decree": 62,
-        "papal_legate_deputation": 16,
+        "chapter_decree": 88,
+        "papal_legate_deputation": 15,
         "papal_personal_coronation": 28,
+        "petition_not_conceded": 1,
         "norms": 2
       },
       "by_confidence": {
-        "high": 236,
-        "medium": 140,
-        "low": 14
+        "high": 235,
+        "medium": 149,
+        "low": 32
       },
-      "multi_source_images": 51
+      "multi_source_images": 53
     },
     "license": "Underlying ASS and AAS texts are © Libreria Editrice Vaticana. This compilation is provided for research use.",
     "structure": "One record per CROWNED IMAGE. Every ASS/AAS act that attests it is kept in that image’s `sources` array, so an image cited in several volumes is ONE record with several sources, not several records. Images are identified by locality first, since Marian titles repeat worldwide; a distinctive title can also unite an image crowned away from its shrine."
@@ -5472,6 +5473,58 @@
       ]
     },
     {
+      "id": "image-alcamo",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Alcamo",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1786"
+      ],
+      "first_coronation": "1786",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1786,
+          "page": 116,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 187",
+          "source_pdf_url": null,
+          "act_number": "B16",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1786",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only."
+        }
+      ]
+    },
+    {
       "id": "madonna-di-valverde-alghero",
       "image_title_vernacular": "Madonna di Valverde",
       "image_title_latin": "Beatissima Virgo a « Valleviride »",
@@ -5753,6 +5806,60 @@
           "incipit_latin": null,
           "confidence": "low",
           "notes": "Crowns: two (Virgin and Child) — 'corone d'oro fatte per le Sacre Imagini della Beatissima Vergine, e suo Santo Bambino'. Only a single payment mandate (8 March 1727, 80 scudi on account to the silversmith Giacomo Antonio Giardini, signed by Gio. Andrea Ricci, canon deputy) filed inside the Naples Purità dossier; no supplica, decree, instrument or relazione for this image appears in the range. 'S. Bartolo' as read; the crowns were already made by 1727."
+        }
+      ]
+    },
+    {
+      "id": "madonna-incoronata-benevento-church-of-the-camal",
+      "image_title_vernacular": "Madonna Incoronata",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Benevento, church of the Camaldolese",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1723"
+      ],
+      "first_coronation": "1723",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1723,
+          "page": 110,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 186",
+          "source_pdf_url": null,
+          "act_number": "B10",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1723",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 5, f. 68r–78v"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. A shrine of purely local reach, absent even from Montorio's Zodiaco di Maria (1715)."
         }
       ]
     },
@@ -6186,6 +6293,58 @@
       ]
     },
     {
+      "id": "image-calatafimi",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Calatafimi",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1778"
+      ],
+      "first_coronation": "1778",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1778,
+          "page": 115,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 187",
+          "source_pdf_url": null,
+          "act_number": "B15",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1778",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only."
+        }
+      ]
+    },
+    {
       "id": "madonna-di-conadomini-madonna-del-monte-caltagir",
       "image_title_vernacular": "Madonna di Conadomini (Madonna del Monte)",
       "image_title_latin": "simulacrum Beatae Mariae Virginis quod « Conadomini » appellant",
@@ -6496,6 +6655,58 @@
           "incipit_latin": "Quo pietatis studium in Cristifidelium animis impensius excitarent Sanctorumque cultum omni ope proveherent, consueverunt Romani Pontifices decessores Nostri perhonorificis nominibus, privilegiis gratiisque ea loca sacra vel templa augere",
           "confidence": "high",
           "notes": "Motu proprio erecting the sanctuary into a minor basilica, stating in passing 'decreto Ordinis Canonicorum Basilicae Vaticanae, sacerrimo Virginis simulacro diadema ex auro gemmisque est impositum' - i.e. crowning by decree of the Vatican Chapter; no date given. Passage printed_page was 554; the act begins on printed page 553 (rubric and incipit verified in the volume text), used as aas_page. OCR reads 'Cristifidelium' for 'Christifidelium'. Country Italy inferred from Nepi/Castel Sant'Elia - unambiguous."
+        }
+      ]
+    },
+    {
+      "id": "image-castellammare-del-golfo",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Castellammare del Golfo",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1797"
+      ],
+      "first_coronation": "1797",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1797,
+          "page": 117,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 187",
+          "source_pdf_url": null,
+          "act_number": "B17",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1797",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only."
         }
       ]
     },
@@ -6822,6 +7033,110 @@
           "incipit_latin": "Vestigiis Romanorum Pontificum decessorum Nostrorum insistentes, sacras catholici orbis aedes, quae vetustate, monumentis artium et antiqua populorum religione excellant",
           "confidence": "high",
           "notes": "Basilica Minor act citing the coronation: the Chapter of the Vatican Basilica decreed the golden diadem on 4 December 1892 ('die iv mensis decembris anno MDCCCXCII') and the rite was performed on 5 August 1893 ('die v mensis augusti anno MDCCCXCIII'); the passage's printed_page is 410 but the act begins on printed page 409, used here. Rubric OCR 'ECCLESIA EU M. VIRGINIS' repaired to 'ECCLESIA B. M. VIRGINIS'. Marble statue ('marmoreum eius simulacrum, auro gemmisque ornatum')."
+        }
+      ]
+    },
+    {
+      "id": "image-custonaci",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Custonaci",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1753"
+      ],
+      "first_coronation": "1753",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1753,
+          "page": 113,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 187",
+          "source_pdf_url": null,
+          "act_number": "B13",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1753",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only, from his list of Sicilian coronations near Trapani."
+        }
+      ]
+    },
+    {
+      "id": "image-enna",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Enna",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1797"
+      ],
+      "first_coronation": "1797",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1797,
+          "page": 120,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 188",
+          "source_pdf_url": null,
+          "act_number": "B20",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1797",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only."
         }
       ]
     },
@@ -7482,6 +7797,56 @@
       ]
     },
     {
+      "id": "madonna-di-gibilmanna-gibilmanna-diocese-of-cefa",
+      "image_title_vernacular": "Madonna di Gibilmanna",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Gibilmanna (diocese of Cefalù)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [],
+      "first_coronation": null,
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": null,
+          "page": 112,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 187",
+          "source_pdf_url": null,
+          "act_number": "B12",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Named among the fifteen Sicilian images crowned 1733–1797; no date given."
+        }
+      ]
+    },
+    {
       "id": "madonna-del-suffragio-grotte-di-castro",
       "image_title_vernacular": "Madonna del Suffragio",
       "image_title_latin": "Beata Maria Virgo vulgo « dei Suffragio »",
@@ -8070,9 +8435,10 @@
       "diocese_modern": "Recanati-Loreto",
       "country": "Italy",
       "coronation_dates": [
+        "1500",
         "1922"
       ],
-      "first_coronation": "1922",
+      "first_coronation": "1500",
       "strongest_evidence": "papal_personal_coronation",
       "evidence_types": [
         "papal_personal_coronation"
@@ -8084,8 +8450,35 @@
         "Petrus Card. Gasparri"
       ],
       "confidence": "high",
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1500,
+          "page": 129,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 173",
+          "source_pdf_url": null,
+          "act_number": "B29",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "papal_personal_coronation",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1500",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Crowned by Julius II in 1500 — a papal crowning before any procedure existed (citing Vrabelová 2012, p. 106)."
+        },
         {
           "series": "AAS",
           "volume": 14,
@@ -8320,6 +8713,58 @@
       ]
     },
     {
+      "id": "image-militello-in-val-di-catania",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Militello in Val di Catania",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1763"
+      ],
+      "first_coronation": "1763",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1763,
+          "page": 118,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 188",
+          "source_pdf_url": null,
+          "act_number": "B18",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1763",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only; one of three coronations in eastern Sicily."
+        }
+      ]
+    },
+    {
       "id": "simulacrum-beatae-mariae-virginis-in-caelum-assu",
       "image_title_vernacular": null,
       "image_title_latin": "Simulacrum Beatae Mariae Virginis in Caelum Assumptae",
@@ -8366,6 +8811,58 @@
           "incipit_latin": "Piissima eximiaque, intra Archidioeceseos Mediolanensis fines, regio, cui vulgo « Brianza » est nomen, splendida praedita est gemma",
           "confidence": "low",
           "notes": "Basilica Minor act; the only coronation reference is 'sollemni caerimonia integri saeculi, primi ex quo Cultui patet Praeposituralis Ecclesia, tertii ab Incoronatane [= Incoronatione] Simulacri' — i.e. the August 1947 celebrations mark the third centenary of the crowning of the statue (so c. 1647), but no year and NO papal authority are stated, hence low confidence; a checker should decide whether it belongs in scope. Passage printed_page is 441; the act opens on printed p. 439, used as aas_page. Country inferred from 'Archidioeceseos Mediolanensis'. Church name OCR'd 'Praeposituralis'."
+        }
+      ]
+    },
+    {
+      "id": "image-monchiero",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Monchiero",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1772"
+      ],
+      "first_coronation": "1772",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1772,
+          "page": 122,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 185",
+          "source_pdf_url": null,
+          "act_number": "B22",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1772",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only; one of only two coronations in Piedmont."
         }
       ]
     },
@@ -8418,6 +8915,58 @@
           "incipit_latin": "Inter potiores sacras Apuliae aedes Monopolitanum cathedrale templum iure meritoque accensendum est, ineunte saeculo xii a sancto Romualdo Episcopo",
           "confidence": "high",
           "notes": "Basilica Minor act stating 'ipsaque Virginis imago anno MDCCLXIX aureo diademate est coronata' (1769); no crowning authority named. The image is painted on wood ('Virginis imago in ligno depicta'). The act also mentions that a Cardinal Legate of Benedict XV attended the 1921 eighth-centenary festivities - not a coronation legation."
+        }
+      ]
+    },
+    {
+      "id": "image-monreale",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Monreale",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1762"
+      ],
+      "first_coronation": "1762",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1762,
+          "page": 114,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 187",
+          "source_pdf_url": null,
+          "act_number": "B14",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1762",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only."
         }
       ]
     },
@@ -8634,6 +9183,60 @@
           "incipit_latin": null,
           "confidence": "high",
           "notes": "Crowns: two (Virgin and Child) — 'duas coronas aureas valoris et aestimationis scut. centum monetae Romanae'. f.188r: letter of Gio. Andrea Ricci from Montepulciano, 31 Oct 1707, announcing his arrival and reception by the Bishop, Chapter, Magistrato and the Operai della Madonna di S. Martino. f.189r: silversmith's account ('Adi 30 Sett. 1700' - probably 1707) for two gold crowns, large and small, 153.85 scudi, 'Servirono p le Sacre Immagini della Sma Vergine e Suo Bambino Gesu nella Città di Monte Pulciano'; sums repeated on f.188v; wrapper f.194v 'Conto 2 ... Gio: Giardini Oref.'. ff.190r-192r, 196r-197v and 198r-v: three copies of the 'Relatione del seguito nella venuta ... Can.co Gio. Andrea Ricci in Montepulciano per coronare la Bma Vergine detta di S. Martino esistente nella Chiesa Cattedrale' (arrival dates garbled by OCR: '16 Ott.e 1701', '26 7bre 1760' with margin 'd'an: 1760', '5 Ott.e 1707'; the coronation day 6 November is consistent in all copies and the title leaf f.193v gives 1707). Coronation at the Mass after Communion; an instrument of consignment of the two crowns was rogated by the chancellor of the episcopal curia (not present; f.193v margin '(non vi è l'origine)'). f.195v margin: 'lettera delle M. S. ... Andrea Ricci ...'. The third copy of the relazione breaks off at f.198v, the last page of the range. | Two copies of the relazione (ff. 196r–198v), 'Memorie dello Scoprimento e Culto' drawn from episcopal visitations of 1610/1612 (ff. 200r–200v, two copies; ends 'De Anno 1707 ... ipsa Sacra Imago una cum Imagine Infantis Jesu in ejus sinu sedentis corona aurea fuit solemni pompa coronata'), Ricci's covering letter of the day after the crowning (f. 201r, OCR date 'Montepulciano 7 9.bre 1701' / 'Montegranaro 9 8br 1701', i.e. 7 Nov 1707), a 'Decretum 30 Junii 1704' of which only the heading was transcribed (f. 201v) — taken here as the concession date, medium certainty — and two copies of the notarial instrument of consignment (ff. 202r–203v; notary Oliverius Antonius Vannutius, chancellor Vincentius Pallini/Lattini; authenticated by the vicar general 15/18 Nov 1707; margin: 'Instrum. Donationis ... Politiana die 5. [or 8.] 9bris 1707'). Coronation date: relazione says Ricci arrived 26 Sept (OCR '1760') / 5 Oct 1707 and the ceremony was 'il dì 6. Nov.'; letter 'Coronatione di ieri mattina' confirms 6 Nov 1707; the instrument's OCR 'die sexta Mens. Sept./Feb.' is presumably 'Novembris'. f. 204v margin: 'Altra lettera del d.º S.r Ab.e Ricci ... relat.e ... alla coronaz.ne' (text not transcribed). Isolated margin words 'Antonelli' (f. 199r) and 'loco detto Sevratto' (f. 204v) unexplained — the latter probably belongs to the following Tersatto dossier. f. 196r opens with the head of the relazione; whether earlier Montepulciano documents precede f. 196r cannot be seen from this range. The instrument also alludes to the Chapter having earlier crowned images 'in celeberrimo D. Blasii Templo' (S. Biagio, Montepulciano) — not documented in this range."
+        }
+      ]
+    },
+    {
+      "id": "madonna-di-san-biagio-montepulciano-san-biagio",
+      "image_title_vernacular": "Madonna di San Biagio",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Montepulciano, San Biagio",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1681"
+      ],
+      "first_coronation": "1681",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1681,
+          "page": 108,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 182",
+          "source_pdf_url": null,
+          "act_number": "B8",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1681",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 3, f. 73r–85v"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. The first non-Roman image crowned by the Chapter; a 14th-c. fresco whose cult emerged in 1518. Distinct from the cathedral's Madonna di San Martino crowned 1707."
         }
       ]
     },
@@ -8910,6 +9513,256 @@
           "incipit_latin": "Templa Dei quae tum antiqua fidelium religione, tum historicis memoriis, tum mirandis artis operibus prae ceteris eniteant",
           "confidence": "high",
           "notes": "Basilica minor act; coronation stated in passing: « Novissime prodigiosa Imago anno millesimo octingentesimo septuagesimo quinto a Capitulo Nostro Vaticano diademate aureo sollemni pompa redimita fuit ». Crowned by the Vatican Chapter, not personally by the Pope. The act opens on printed page 12 (rubric + 'Ad perpetuam rei memoriam'); the coronation clause falls on page 13, so aas_page is the act's START page."
+        }
+      ]
+    },
+    {
+      "id": "madonna-della-potenza-naples-ardorini-missionari",
+      "image_title_vernacular": "Madonna della Potenza",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Naples, Ardorini missionaries",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [],
+      "first_coronation": null,
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": null,
+          "page": 127,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 188",
+          "source_pdf_url": null,
+          "act_number": "B27",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Among eight Neapolitan images crowned 1724–1787; no individual date."
+        }
+      ]
+    },
+    {
+      "id": "madonna-delle-grazie-naples-clarisses",
+      "image_title_vernacular": "Madonna delle Grazie",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Naples, Clarisses",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [],
+      "first_coronation": null,
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": null,
+          "page": 124,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 188",
+          "source_pdf_url": null,
+          "act_number": "B24",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Among eight Neapolitan images crowned 1724–1787; no individual date."
+        }
+      ]
+    },
+    {
+      "id": "madonna-dei-miracoli-naples-franciscan-nuns",
+      "image_title_vernacular": "Madonna dei Miracoli",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Naples, Franciscan nuns",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [],
+      "first_coronation": null,
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": null,
+          "page": 125,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 188",
+          "source_pdf_url": null,
+          "act_number": "B25",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Among eight Neapolitan images crowned 1724–1787; no individual date."
+        }
+      ]
+    },
+    {
+      "id": "madonna-della-concezione-naples-theatine-nuns-of",
+      "image_title_vernacular": "Madonna della Concezione",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Naples, Theatine nuns of the Immaculate Conception",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [],
+      "first_coronation": null,
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": null,
+          "page": 126,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 188",
+          "source_pdf_url": null,
+          "act_number": "B26",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Among eight Neapolitan images crowned 1724–1787; no individual date."
+        }
+      ]
+    },
+    {
+      "id": "madonna-di-porto-salvo-naples-confraternity-of-t",
+      "image_title_vernacular": "Madonna di Porto Salvo",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Naples, confraternity of the mariners",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [],
+      "first_coronation": null,
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": null,
+          "page": 128,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 188",
+          "source_pdf_url": null,
+          "act_number": "B28",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Among eight Neapolitan images crowned 1724–1787; no individual date."
         }
       ]
     },
@@ -9258,10 +10111,11 @@
       ],
       "popes": [],
       "legates": [
+        "Alessandro Casali Cocciani, canon of St Peter's",
         "Alexander 'Cia- Siy Coccianus' Romanus (OCR-garbled surname), Referendary of both Signatures, canon of St Peter's, specially deputed by the Chapter"
       ],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "ACSP",
@@ -9292,6 +10146,35 @@
           "incipit_latin": null,
           "confidence": "high",
           "notes": "Crowns: two (Virgin and Child) — 'Duas Coronas Aureas', weight 7½ oz and 2 denari of gold, 276 scudi 8 [baiocchi?] Roman money excluding the goldsmith's fee. Petitioner: City of Orvieto (Confaloniere e Conservatori / publico Consiglio) through Bishop Vincenzo de' Conti degli Atti; crowns received in the instrument by Giovanni Battista Gualterio, camerlengo of the Fabbrica of the Cathedral. Only the first two pages of the Latin donation instrument fall within this range (f.142r–v); it breaks off at 'coronata' and continues past the range. Coronation date is the date of the instrument (8 June 1704, Clement XI anno IV), which states the crowns were brought 'ad effectum coronandi' and that the images were 'postea coram eisdem ... coronata' — read as same-day crowning, not explicitly confirmed. Diocese inferred from 'Civitatis Urbevetanae' and the mention of its bishop. The deputy's surname is OCR-garbled ('Cia- Siy Coccianus'); the bishop is named only as 'R.mo D. Fabritio Ep.'. No concession decree or margin note is visible in this range. The image is apparently the Madonna venerated in the Cappella di S. Brizio of Orvieto Cathedral (the text says 'nuncupat. S.ti Brijj'); the Child is named ('illiusque D.ni Filij'). The margin note on f.122r mentioning an 'Ab.te d'Orvieto: Andrea Ricci' may relate to this dossier. | Instrument of donation dated 8 June 1704 (notary Carlo Fontana of Orvieto), witnesses Leone Albergio and Monaldo Aurelio; the printed Racconto (by canon Lattanzio Silvestrucci, Orvieto: Livio Tosini) confirms the crowning on 8 June 1704 during solemn Mass, with feasts 8-10 June; a sonnet to D. Annibale Albani at f.159v. Margin note at f.143v reads 'conceditur 16 Jul. 1896' — year clearly garbled by OCR (1696 or 1703 possible), so concession_date left null; the same note reads 'Instrum. donationis duarum Coronarum aurearum factae Imaginis miraculosae B. M. V. in Ecclesia ... Civitatis Urbevet. ... die 27. May 1704' (partly garbled). The image was formerly called 'Santa Maria prisca' and 'S. Maria della Stella'. The bishop's name is garbled as 'Fabritio Ep.' in the Latin instrument but given as Vincenzo de' Conti degli Atti in the Racconto."
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1704,
+          "page": 109,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 169",
+          "source_pdf_url": null,
+          "act_number": "B9",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1696",
+          "coronation_date": "1704-06-08",
+          "legate": "Alessandro Casali Cocciani, canon of St Peter's",
+          "deputy": "Alessandro Casali Cocciani, canon of St Peter's",
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 4, f. 143r"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Chapter's assent 1696, ceremony 8 June 1704; the canon brought the crown from Rome and placed it after a sung Mass, the local bishop assisting. Resolves the OCR-garbled surname in the tomo IV dossier."
         }
       ]
     },
@@ -9352,6 +10235,58 @@
           "incipit_latin": null,
           "confidence": "high",
           "notes": "Crowns: two (Virgin and Child), value 78 1/2 scudi d'oro in oro. Petitioner: Clero e Città d'Otranto; concession originally granted at the prayers of Card. de Aste (then a member of the Chapter). Concession date taken from the endorsement on f.82r ('Instrum Donationis duar Coronar aurear / concessio 14 Maii 1691', with silversmith Gio. Giardini's signature on f.82v); its attribution to Otranto is inferred (medium) from the 1705 letter stating the crown had been 'destinata' earlier at Card. de Aste's request and from the archbishop's information letter of 6/20 June 1691 (two copies, ff.83r-84r, endorsed 'Lettera di Mons. Arcivescovo d'Otranto in ordine alla Corona d'oro'). Instrument (two copies, ff.87r-88r) is dated 'Die vero Septima Martij' 1705, notary Angelo Stephanoch of Otranto; the archivist's endorsement reads '7 Maij 1705' but the archbishop's covering letter of 22 March 1705 (f.89r) confirms March. Conto on f.85r (Dom.co Vannini) for two crowns, 154:50 in all, sits inside this dossier and is presumed to belong to it. The 1691 letter records the statue's return from Valona (Vlorë) after the Turkish sack of 1480 and a jubilee granted by Pius V in 1564. Loose margin words 'Oronzo', '14', '85' on ff.85v-86v."
+        }
+      ]
+    },
+    {
+      "id": "image-padua",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Padua",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1764"
+      ],
+      "first_coronation": "1764",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1764,
+          "page": 121,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 185",
+          "source_pdf_url": null,
+          "act_number": "B21",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1764",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only; one of only two coronations in Venetian territory (the other Verona 1709)."
         }
       ]
     },
@@ -10337,67 +11272,6 @@
       ]
     },
     {
-      "id": "madonna-della-febbre-rome-vatican",
-      "image_title_vernacular": "Madonna della Febbre",
-      "image_title_latin": "S. Imago B.mae Virginis De febri",
-      "image_subject": "Blessed Virgin Mary with Child",
-      "church_or_sanctuary": "Sagrestia della Basilica di S. Pietro (Cappella del Sacrario / Cappella Beneficiatale della Sagrestia Vaticana)",
-      "locality": "Rome (Vatican)",
-      "diocese_latin": null,
-      "diocese_modern": null,
-      "country": "Italy",
-      "coronation_dates": [
-        "1697-08-15"
-      ],
-      "first_coronation": "1697-08-15",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "high",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "ACSP",
-          "volume": 4,
-          "year": 1696,
-          "page": 381,
-          "folio": "162r",
-          "folio_to": "169r",
-          "citation": "BAV, ACSP, Madonne coronate, tomo IV, ff. 162r–169r",
-          "source_pdf_url": "https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0383",
-          "act_number": null,
-          "act_type": "Chapter dossier: conto argentiere, decretum, lettera, other, supplica",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": "1696-12-17",
-          "concession_date": "1696-12-17",
-          "coronation_date": "1697-08-15",
-          "legate": null,
-          "deputy": null,
-          "register_refs": [
-            "Caps. 1. fasc. 2.",
-            "To. XVIII p. 13",
-            "ex decr. caplanibus To. XVIII p. 13",
-            "ex libr. XVIII. Decr. Cap. p. 6"
-          ],
-          "documents": [
-            "conto argentiere",
-            "decretum",
-            "lettera",
-            "other",
-            "supplica"
-          ],
-          "rubric_latin": "Decreta fuit 17. Xbris 1696 corona redimita in die Assumptionis 1697 ex decr. caplanibus To. XVIII p. 13.",
-          "incipit_latin": null,
-          "confidence": "high",
-          "notes": "Crowns: one new gold crown for the Child ('una Corona d'oro lavorata con fiori e cartelle per il Bambino'); the existing crowns of the Virgin and Child recoloured and burnished. Petitioner: Capitolo e Canonici della Basilica di S. Pietro (the Chapter itself). Contents: decree 2 March 1697 deputing the Sacrista Maggiore and Fabretti to oversee restoration of the sacristy chapel where the image stands (100 scudi from the Fabbrica); account of 25 June 1697 for the Child's crown (39.45 scudi, signed Tomaso Vannini camerlengo), docket 'Gio: Giardini Orefice'; supplica to the Pope for a plenary indulgence for the crowning 'alli 14 del corrente mese d'Agosto', granted 7 Aug 1697 by Card. Albani 'pro unica vice'; a note (f.168r, dated 3 Jan 1695 by 'Parruccini Vic.o') that Innocent XII conceded the indulgence for the crowning after the Vespers of the Assumption, with f.168v recording an indulgence brief of 11 Aug 1695 (Caps. 1 fasc. 2), suggesting the crowning was first planned for 1695 and carried out in 1697; f.169r gives the inscription on the Child's crown 'Cap.lum S. Petri de urbe hanc cor. au. ex legato Ill.mi Com. Alex. Sfortiae An. 1697'. Coronation date: docket says 'in die Assumptionis 1697', supplica says 14 August (eve/after Vespers) — 15 Aug 1697 adopted, 14 Aug possible. f.167r is a later letter to Mons. Guerrieri asking that the image, 'la prima ad esser decorata della corona d'oro' in Sforza's lifetime, be crowned anew. OCR gives 'Madonna della Pieve' at f.168r for 'della Febre'. | f.168r (OCR) calls the image 'Madonna s:ma della Pieve ... nella Sagrestia della Basilica di S. Pietro' - almost certainly 'della Febre' as f.169r reads. f.168r: letter of the Vicar (Parruccini Vic.o) on the plenary indulgence granted by Innocent XII for the day of the coronation, 'Dati li 3. Gen. 1695'; f.168v: note on the Brief 'Dat. 11. Aug. 1695 = Caps. 1. fasc. 2.' and 'Decreta fuit 17. Xbris 1696 corona redimita in die Assumptionis 1697 ex decr. caplanibus To. XVIII p. 13'; f.169r: text of the inscription on the crown ('Cap.lum S. Petri de urbe hanc cor. au. ex legato Ill.mi Com. Alex. Sfortiae An. 1697'). Years 1695 vs 1696/97 may be OCR noise. This is the first leaf of the range; earlier documents of this dossier may lie in the preceding batch (not visible)."
-        }
-      ]
-    },
-    {
       "id": "salus-populi-romani-rome-ceremony-in-the-vatican",
       "image_title_vernacular": "Salus Populi Romani",
       "image_title_latin": "prisca Deiparae Virginis imago, quae « salus populi Romani » dicitur",
@@ -10408,9 +11282,10 @@
       "diocese_modern": "Rome",
       "country": "Italy",
       "coronation_dates": [
+        "1597",
         "1954-11-01"
       ],
-      "first_coronation": "1954-11-01",
+      "first_coronation": "1597",
       "strongest_evidence": "papal_personal_coronation",
       "evidence_types": [
         "papal_personal_coronation"
@@ -10420,8 +11295,35 @@
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1597,
+          "page": 130,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 173",
+          "source_pdf_url": null,
+          "act_number": "B30",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "papal_personal_coronation",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1597",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Crowned by Clement VIII in 1597 (citing Lupi 2012, p. 72)."
+        },
         {
           "series": "AAS",
           "volume": 46,
@@ -10471,6 +11373,417 @@
           "incipit_latin": "Cum Marialis Annus proxime exeat, quem Encyclicis datis Litteris indiximus (« Fulgens Corona » ; A. A. S. 1953 pag. 577 sq.)",
           "confidence": "high",
           "notes": "Pius XII states he himself crowned the image: « cum priscam Deiparae Virginis imaginem, quae ‹salus populi Romani› dicitur ... Nobis licuit aurea redimire corona ». The coronation clause falls on printed page 709; the act (Epistula VII to Card. Micara) begins on printed page 708, which is cited here as aas_page. The church is not named in the coronation clause itself but the same letter twice names the Basilica Liberiana as the site of the Marian Year opening/closing."
+        }
+      ]
+    },
+    {
+      "id": "madonna-of-the-sant-aniceto-chapel-palazzo-altem",
+      "image_title_vernacular": "Madonna of the Sant'Aniceto chapel, Palazzo Altemps",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Rome, Palazzo Altemps, chapel of Sant'Aniceto",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1673-04-12"
+      ],
+      "first_coronation": "1673-04-12",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1673,
+          "page": 106,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 178",
+          "source_pdf_url": null,
+          "act_number": "B6",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1673-04-12",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 3, f. 12r–13v"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. The only known case of an image in a private oratory receiving the crown."
+        }
+      ]
+    },
+    {
+      "id": "madonna-di-sant-agostino-rome-sant-agostino",
+      "image_title_vernacular": "Madonna di Sant'Agostino",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Rome, Sant'Agostino",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1643"
+      ],
+      "first_coronation": "1643",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1643,
+          "page": 103,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 180",
+          "source_pdf_url": null,
+          "act_number": "B3",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1643",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 1, f. 165r"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Icon said to have been brought from Constantinople; dossier includes a copy of a doubtful notarial act of 1482."
+        }
+      ]
+    },
+    {
+      "id": "madonna-della-pace-rome-santa-maria-della-pace",
+      "image_title_vernacular": "Madonna della Pace",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Rome, Santa Maria della Pace",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [],
+      "first_coronation": null,
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": null,
+          "page": 105,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 181",
+          "source_pdf_url": null,
+          "act_number": "B5",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 1, f. 210r"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Dossier cited for its weak claim to antiquity; no date of coronation given."
+        }
+      ]
+    },
+    {
+      "id": "santa-maria-delle-grazie-al-foro-romano-rome-san",
+      "image_title_vernacular": "Santa Maria delle Grazie al Foro Romano",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Rome, Santa Maria delle Grazie al Foro Romano",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1647"
+      ],
+      "first_coronation": "1647",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1647,
+          "page": 104,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 181",
+          "source_pdf_url": null,
+          "act_number": "B4",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1647",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 1, f. 275r–285r"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. 1647 is the year the dossier was submitted to the Chapter (p. 181); the coronation itself is implied, not dated."
+        }
+      ]
+    },
+    {
+      "id": "maria-santissima-della-scala-santa-rome-scala-sa",
+      "image_title_vernacular": "Maria Santissima della Scala Santa",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Rome, Scala Santa",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1679-07-08"
+      ],
+      "first_coronation": "1679-07-08",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1679,
+          "page": 107,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 182",
+          "source_pdf_url": null,
+          "act_number": "B7",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1679-07-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 3, f. 45r–46v"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. The 95th Roman image crowned; after it the Chapter turned to images outside Rome."
+        }
+      ]
+    },
+    {
+      "id": "madonna-della-febbre-rome-vatican-basilica-sacri",
+      "image_title_vernacular": "Madonna della Febbre",
+      "image_title_latin": "S. Imago B.mae Virginis De febri",
+      "image_subject": "Blessed Virgin Mary with Child",
+      "church_or_sanctuary": "Sagrestia della Basilica di S. Pietro (Cappella del Sacrario / Cappella Beneficiatale della Sagrestia Vaticana)",
+      "locality": "Rome, Vatican Basilica (sacristy)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1631",
+        "1697-08-15"
+      ],
+      "first_coronation": "1631",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "high",
+      "source_count": 2,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1631,
+          "page": 101,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 174",
+          "source_pdf_url": null,
+          "act_number": "B1",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1631",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. The first image crowned under the Sforza initiative, before the count's earliest surviving letters of 1634 (p. 174); 1631 is the year of the petition per Vrabelová 2013, p. 59. Re-crowned by the Chapter in 1697 (see the tomo IV dossier)."
+        },
+        {
+          "series": "ACSP",
+          "volume": 4,
+          "year": 1696,
+          "page": 381,
+          "folio": "162r",
+          "folio_to": "169r",
+          "citation": "BAV, ACSP, Madonne coronate, tomo IV, ff. 162r–169r",
+          "source_pdf_url": "https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0383",
+          "act_number": null,
+          "act_type": "Chapter dossier: conto argentiere, decretum, lettera, other, supplica",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": "1696-12-17",
+          "concession_date": "1696-12-17",
+          "coronation_date": "1697-08-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "Caps. 1. fasc. 2.",
+            "To. XVIII p. 13",
+            "ex decr. caplanibus To. XVIII p. 13",
+            "ex libr. XVIII. Decr. Cap. p. 6"
+          ],
+          "documents": [
+            "conto argentiere",
+            "decretum",
+            "lettera",
+            "other",
+            "supplica"
+          ],
+          "rubric_latin": "Decreta fuit 17. Xbris 1696 corona redimita in die Assumptionis 1697 ex decr. caplanibus To. XVIII p. 13.",
+          "incipit_latin": null,
+          "confidence": "high",
+          "notes": "Crowns: one new gold crown for the Child ('una Corona d'oro lavorata con fiori e cartelle per il Bambino'); the existing crowns of the Virgin and Child recoloured and burnished. Petitioner: Capitolo e Canonici della Basilica di S. Pietro (the Chapter itself). Contents: decree 2 March 1697 deputing the Sacrista Maggiore and Fabretti to oversee restoration of the sacristy chapel where the image stands (100 scudi from the Fabbrica); account of 25 June 1697 for the Child's crown (39.45 scudi, signed Tomaso Vannini camerlengo), docket 'Gio: Giardini Orefice'; supplica to the Pope for a plenary indulgence for the crowning 'alli 14 del corrente mese d'Agosto', granted 7 Aug 1697 by Card. Albani 'pro unica vice'; a note (f.168r, dated 3 Jan 1695 by 'Parruccini Vic.o') that Innocent XII conceded the indulgence for the crowning after the Vespers of the Assumption, with f.168v recording an indulgence brief of 11 Aug 1695 (Caps. 1 fasc. 2), suggesting the crowning was first planned for 1695 and carried out in 1697; f.169r gives the inscription on the Child's crown 'Cap.lum S. Petri de urbe hanc cor. au. ex legato Ill.mi Com. Alex. Sfortiae An. 1697'. Coronation date: docket says 'in die Assumptionis 1697', supplica says 14 August (eve/after Vespers) — 15 Aug 1697 adopted, 14 Aug possible. f.167r is a later letter to Mons. Guerrieri asking that the image, 'la prima ad esser decorata della corona d'oro' in Sforza's lifetime, be crowned anew. OCR gives 'Madonna della Pieve' at f.168r for 'della Febre'. | f.168r (OCR) calls the image 'Madonna s:ma della Pieve ... nella Sagrestia della Basilica di S. Pietro' - almost certainly 'della Febre' as f.169r reads. f.168r: letter of the Vicar (Parruccini Vic.o) on the plenary indulgence granted by Innocent XII for the day of the coronation, 'Dati li 3. Gen. 1695'; f.168v: note on the Brief 'Dat. 11. Aug. 1695 = Caps. 1. fasc. 2.' and 'Decreta fuit 17. Xbris 1696 corona redimita in die Assumptionis 1697 ex decr. caplanibus To. XVIII p. 13'; f.169r: text of the inscription on the crown ('Cap.lum S. Petri de urbe hanc cor. au. ex legato Ill.mi Com. Alex. Sfortiae An. 1697'). Years 1695 vs 1696/97 may be OCR noise. This is the first leaf of the range; earlier documents of this dossier may lie in the preceding batch (not visible)."
+        }
+      ]
+    },
+    {
+      "id": "madonna-di-san-sisto-rome-monastery-of-the-domin",
+      "image_title_vernacular": "Madonna di San Sisto",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Rome, monastery of the Dominican nuns of San Sisto",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1641-01-14"
+      ],
+      "first_coronation": "1641-01-14",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1641,
+          "page": 102,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 180",
+          "source_pdf_url": null,
+          "act_number": "B2",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1641-01-14",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 1, f. 156r–157r"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. One of the first crowned after Sforza's death; the nuns' letter claimed the icon was begun by St Luke and finished by God."
         }
       ]
     },
@@ -11824,6 +13137,60 @@
       ]
     },
     {
+      "id": "santissima-annunziata-madonna-di-trapani-trapani",
+      "image_title_vernacular": "Santissima Annunziata (Madonna di Trapani)",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary with Child (marble statue)",
+      "church_or_sanctuary": null,
+      "locality": "Trapani, Carmelite sanctuary of the Annunziata",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1734"
+      ],
+      "first_coronation": "1734",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1734,
+          "page": 111,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 186",
+          "source_pdf_url": null,
+          "act_number": "B11",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1733",
+          "coronation_date": "1734",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 6, f. 249r–259v"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Petitioned for the image's supposed millennium (733–1733); the crowns arrived too late for 15 August 1733 and the coronation was held the next year. First image crowned in Sicily."
+        }
+      ]
+    },
+    {
       "id": "la-madonna-grande-treviso",
       "image_title_vernacular": "La Madonna Grande",
       "image_title_latin": "SSmae Virginis imago (thaumaturga ac vetustissima icon B. Mariae Virginis)",
@@ -12082,6 +13449,58 @@
           "incipit_latin": "Minime Nos latet templum Gratiarum Utinensis civitatis anno MXXXX conditum et decimo quinto vertente saeculo restitutum",
           "confidence": "high",
           "notes": "Basilica minor elevation; states the image was 'aureo diademate anno MDCCCLXX auctoritate Apostolica redimitam'. OCR of rubric read 'CONDE COR ATUR'; foundation year printed 'anno MXXXX' (likely OCR corruption). No vernacular title given in the act."
+        }
+      ]
+    },
+    {
+      "id": "image-valperga",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Valperga",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1788"
+      ],
+      "first_coronation": "1788",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1788,
+          "page": 123,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 185",
+          "source_pdf_url": null,
+          "act_number": "B23",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1788",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only."
         }
       ]
     },
@@ -12410,6 +13829,58 @@
           "incipit_latin": null,
           "confidence": "high",
           "notes": "Crowns: two (Virgin and Child) — 'due Corone d'oro, una grande, et una piccola', made by Giovanni Giardini, argentiere, Rome, total 169.76½ scudi. Petitioner: Città / Magistrato di Viterbo (Comunità di Viterbo; letter of Bernardino Baroni, 25 May 1712). Letter of Bernardino Baroni (margin: 'Belardino Peroni', secretary of the Comunità di Viterbo), Viterbo 25 May 1712, about the city's failed plans to fund a solemn coronation and leaving it to the friars. Margin f. 123v labels it as concerning 'la Madonna S.ma della Quercia' - contradicting the letter's 'della Trinità' and f. 124r's 'Chiesa de Padri Agostiniani della Città di Viterbo'; probably an archivist's slip or OCR. Margin f. 123v: 'Decrevere 28 Maii 1696'. f. 124r: payment order of 27 Sept 1715 signed 'Moreno Vaiani Econ.o Dep.to'. No relazione or instrument in range and f. 124v is the last page, so the dossier likely continues. | The letter on f.122r (Bernardino Baroni, Viterbo 25 May 1712) opens mid-text with no salutation, so the dossier probably begins on the preceding leaf (outside this range). Concession date taken from the margin note 'Decrevere 28 Maii 1696' on f.123v; the same note reads the image as 'Madonna S.ma della Quercia' (OCR) whereas the letter itself and all other documents say 'della Trinità' / 'Liberatrice' — treat 'Quercia' as an OCR or archivist slip. The Latin instrument on f.128r reads 'die duodecima Mensis Iulii' (OCR), but the Breve Notizia, the pastoral letter, the inscriptions ('Idibus Novembris') and the archivist's note all give 12 November 1715. The pastoral letter (Card. Michelangelo Conti, bishop of Viterbo e Toscanella, Rome 1 Nov 1715, printed Viterbo 1715) and the Breve Notizia both survive in two copies (ff.127r, 130r–136r). Margin note on f.122r 'Sacra mad.na dal R.m... Ab.te d'Orvieto: Andrea Ricci al R.mo Cap.lo di S. Pietro' is obscure and may belong to another letter. f.136v.02 (pb 328) carries a stray list of Genoese-looking names (Martinengo, Giustiniani, Manganaro) with a marginal '181', unrelated to the coronation. The silversmith's account is dated 28 Sept / 9 Nov 1715; the first payment order is dated 27 Sept 1715 (Moreno Vaiani, Economo Deputato). | Only the last leaf of a dossier: a transcription of a votive inscription set up by S.P.Q.V. (Viterbo) on the Nones of May 1703 (Clement XI) thanking the Virgin for preserving the city from the earthquakes of that year; placed 'a parte Epistolae Maioris Altaris' (church not named). Copied 3 Oct 1856 by Alessandro D'Achille. f.140v-141r blank. No coronation data visible in this range; the dossier proper must precede f.140r."
+        }
+      ]
+    },
+    {
+      "id": "image-vittoria-sicily",
+      "image_title_vernacular": null,
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": null,
+      "locality": "Vittoria (Sicily)",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1785"
+      ],
+      "first_coronation": "1785",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1785,
+          "page": 119,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 188",
+          "source_pdf_url": null,
+          "act_number": "B19",
+          "act_type": "Coronation reported by secondary literature",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1785",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Balzamo 2023, not read at first hand. Year only."
         }
       ]
     },
@@ -12948,13 +14419,13 @@
       "country": "Malta",
       "coronation_dates": [],
       "first_coronation": null,
-      "strongest_evidence": "chapter_decree",
+      "strongest_evidence": "petition_not_conceded",
       "evidence_types": [
-        "chapter_decree"
+        "petition_not_conceded"
       ],
       "popes": [],
       "legates": [],
-      "confidence": "high",
+      "confidence": "low",
       "source_count": 1,
       "sources": [
         {
@@ -12969,7 +14440,7 @@
           "act_number": null,
           "act_type": "Chapter dossier: other, supplica",
           "pope": null,
-          "evidence_type": "chapter_decree",
+          "evidence_type": "petition_not_conceded",
           "act_date": null,
           "concession_date": null,
           "coronation_date": null,
@@ -12982,8 +14453,8 @@
           ],
           "rubric_latin": "concedere La Corona alla Madonna S.ma delle Gratie in Malta esistente nello Chiesa Parochiale della Terra Zabar",
           "incipit_latin": null,
-          "confidence": "high",
-          "notes": "Crowns: one requested ('concedere La Corona'). Petitioner: Francesco Pace, Maltese priest ('Fran.co Pace Sacerdote Maltese'), recommended by the Auditor Acquaviva ('raccommandato dall'Aud.re Acquaviva'). Undated supplica; it cites as witnesses to the image's veneration the former Inquisitors and Apostolic Ministers of Malta: Cardinals Marescotti, Acquaviva, Ruffo, Pallavicino, and Mons. Passionei, Spinola, Caracciolo. ff. 75v-76r are blank; f. 76v is the docket ('Per Il Sacerdote Fran.co Pace Maltese p.r l'incoronatione di Una Madonna Miracolosa'). The range ends here, so any decree, instrument or relazione for Żabbar would lie beyond f. 76v and is not visible. | Petition only. Archivist's docket on f.76v: 'Per Il Sacerdote Fran.co Pace Maltese p.r l'incoronatione di Una Madonna Miracolosa — Non si trova concessa' (no concession found). Supplica cites Cardinals Marescotti, Acquaviva, Russo, Pallavicino and Mons. Passionei, Spinola, Caracciolo as former Inquisitors who venerated the image. 'other' = the archivist's docket note."
+          "confidence": "low",
+          "notes": "Crowns: one requested ('concedere La Corona'). Petitioner: Francesco Pace, Maltese priest ('Fran.co Pace Sacerdote Maltese'), recommended by the Auditor Acquaviva ('raccommandato dall'Aud.re Acquaviva'). PETITION NOT CONCEDED — the image was not crowned. The Chapter's later docket on this dossier reads 'non si trova concessa' (Balzamo 2023, p. 189, citing BAV, ACSP, Madonne coronate, 4, f. 75r). Undated supplica; it cites as witnesses to the image's veneration the former Inquisitors and Apostolic Ministers of Malta: Cardinals Marescotti, Acquaviva, Ruffo, Pallavicino, and Mons. Passionei, Spinola, Caracciolo. ff. 75v-76r are blank; f. 76v is the docket ('Per Il Sacerdote Fran.co Pace Maltese p.r l'incoronatione di Una Madonna Miracolosa'). The range ends here, so any decree, instrument or relazione for Żabbar would lie beyond f. 76v and is not visible. | Petition only. Archivist's docket on f.76v: 'Per Il Sacerdote Fran.co Pace Maltese p.r l'incoronatione di Una Madonna Miracolosa — Non si trova concessa' (no concession found). Supplica cites Cardinals Marescotti, Acquaviva, Russo, Pallavicino and Mons. Passionei, Spinola, Caracciolo as former Inquisitors who venerated the image. 'other' = the archivist's docket note."
         }
       ]
     },
@@ -13548,64 +15019,12 @@
       ]
     },
     {
-      "id": "domina-nostra-a-sacro-corde-iesu-mexico-city",
-      "image_title_vernacular": null,
-      "image_title_latin": "Domina Nostra a Sacro Corde Iesu",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "templum paroeciale Sancti Ioseph et Dominae Nostrae a Sacro Corde Iesu",
-      "locality": "Mexico City",
-      "diocese_latin": "Mexicanus",
-      "diocese_modern": "Mexico City",
-      "country": "Mexico",
-      "coronation_dates": [
-        "1948-09-26"
-      ],
-      "first_coronation": "1948-09-26",
-      "strongest_evidence": "retrospective_attestation",
-      "evidence_types": [
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Ioannes Paulus PP. II"
-      ],
-      "legates": [],
-      "confidence": "high",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "AAS",
-          "volume": 85,
-          "year": 1993,
-          "page": 405,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 85 (1993), p. 405",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf",
-          "act_number": "III",
-          "act_type": "Litterae Apostolicae",
-          "pope": "Ioannes Paulus PP. II",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1993-01-15",
-          "concession_date": null,
-          "coronation_date": "1948-09-26",
-          "legate": null,
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "Templum paroeciale Sancti Ioseph et Dominae Nostrae a Sacro Corde Iesu, quod in urbe Mexicopoli exstat, ad Basilicae Minoris gradum dignitatemque evehitur.",
-          "incipit_latin": "Mexicopoli, in celebri atque amplissima urbe, exstat templum paroeciale Sancti Ioseph et Dominae Nostrae a Sacro Corde Iesu miris artis operibus clarum",
-          "confidence": "high",
-          "notes": "Coronation attested in passing in a Basilica Minor elevation: the image 'die xxvi mensis Septembris anno MCMXLVIII nomine et auctoritate Summi Pontificis Pii Pp. XII ... aureo diademate coronata est'. The crowning was therefore under Pius XII; the act here is by John Paul II. No vernacular title is given in the text."
-        }
-      ]
-    },
-    {
-      "id": "nuestra-senora-de-guadalupe-mexicopolis-mexico-c",
+      "id": "nuestra-senora-de-guadalupe-mexico-city",
       "image_title_vernacular": "Nuestra Señora de Guadalupe",
       "image_title_latin": "B. Maria V. Guadalupensis",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Sanctuarium B. Mariae V. Guadalupensis (the Basilica, 'la Basilica, recien restaurada')",
-      "locality": "Mexicopolis (Mexico City)",
+      "locality": "Mexico City",
       "diocese_latin": "Mexicana",
       "diocese_modern": "Mexico City",
       "country": "Mexico",
@@ -13615,8 +15034,9 @@
         "1979-01-27"
       ],
       "first_coronation": "1895-10-12",
-      "strongest_evidence": "papal_personal_coronation",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
         "papal_personal_coronation",
         "retrospective_attestation"
       ],
@@ -13627,8 +15047,37 @@
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 6,
+      "source_count": 7,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1740,
+          "page": 131,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 184",
+          "source_pdf_url": null,
+          "act_number": "B31",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1740",
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 7, f. 103r"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. NOT EXECUTED. Petitioned by Lorenzo Boturini (memorial of 18 July 1738); the Chapter agreed, but the Council of the Indies annulled the coronation and expelled Boturini (citing Escamilla González 2010). The image was first crowned in 1895. Corrects the reading of Vrabelová 2013, p. 62, that the Chapter 'crowned' it on 1 October 1740."
+        },
         {
           "series": "AAS",
           "volume": 37,
@@ -13778,6 +15227,58 @@
           "incipit_latin": null,
           "confidence": "medium",
           "notes": "Found by extending the search over the surrounding pages of the same journey, as instructed; this page is NOT one of the 26 passages of batch G07 (the id follows the batch id convention for AAS-71-1979-ocr, page 177). Homily/prayer of John Paul II at the shrine of Guadalupe, 27 January 1979, at the Mass opening the III General Conference of the Latin American Episcopate. Spanish sentence, verbatim: 'Finalmente, oh Madre, recordando y confirmando el gesto de mis Predecesores Benedicto XIV y Pío X, quienes Te proclamaron Patrona de México y de toda la América Latina, Te presento una diadema en nombre de todos tus hijos mexicanos y latinoamericanos, para que los conserves bajo tu protección, guardes su concordia en la fe y su fidelidad a Cristo, Tu Hijo.' Same pattern as the Altagracia passage: the Pope presents a diadem to a devotion named by title; no formal coronation rite is described, and the words are addressed to the Virgin, not to an image (the image is mentioned separately on p. 175: 'Tu imagen en el Santuario de Guadalupe'). The homily begins on printed page 171; the diadem sentence is on p. 177. Locality 'Mexico City' is inferred — AAS names only the 'Santuario de Guadalupe' / 'templum B. M. V. a Guadalupe' in Mexico (Tepeyac is named on p. 173) — hence medium confidence. Body is in Spanish, so no Latin incipit; rubric_latin is the Latin editorial narrative of p. 171 (ellipsis marks omitted text)."
+        }
+      ]
+    },
+    {
+      "id": "domina-nostra-a-sacro-corde-iesu-mexico-city",
+      "image_title_vernacular": null,
+      "image_title_latin": "Domina Nostra a Sacro Corde Iesu",
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": "templum paroeciale Sancti Ioseph et Dominae Nostrae a Sacro Corde Iesu",
+      "locality": "Mexico City",
+      "diocese_latin": "Mexicanus",
+      "diocese_modern": "Mexico City",
+      "country": "Mexico",
+      "coronation_dates": [
+        "1948-09-26"
+      ],
+      "first_coronation": "1948-09-26",
+      "strongest_evidence": "retrospective_attestation",
+      "evidence_types": [
+        "retrospective_attestation"
+      ],
+      "popes": [
+        "Ioannes Paulus PP. II"
+      ],
+      "legates": [],
+      "confidence": "high",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "AAS",
+          "volume": 85,
+          "year": 1993,
+          "page": 405,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 85 (1993), p. 405",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf",
+          "act_number": "III",
+          "act_type": "Litterae Apostolicae",
+          "pope": "Ioannes Paulus PP. II",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1993-01-15",
+          "concession_date": null,
+          "coronation_date": "1948-09-26",
+          "legate": null,
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "Templum paroeciale Sancti Ioseph et Dominae Nostrae a Sacro Corde Iesu, quod in urbe Mexicopoli exstat, ad Basilicae Minoris gradum dignitatemque evehitur.",
+          "incipit_latin": "Mexicopoli, in celebri atque amplissima urbe, exstat templum paroeciale Sancti Ioseph et Dominae Nostrae a Sacro Corde Iesu miris artis operibus clarum",
+          "confidence": "high",
+          "notes": "Coronation attested in passing in a Basilica Minor elevation: the image 'die xxvi mensis Septembris anno MCMXLVIII nomine et auctoritate Summi Pontificis Pii Pp. XII ... aureo diademate coronata est'. The crowning was therefore under Pius XII; the act here is by John Paul II. No vernacular title is given in the text."
         }
       ]
     },
@@ -21911,10 +23412,10 @@
         "1985-01-27"
       ],
       "first_coronation": "1952-09-12",
-      "strongest_evidence": "papal_legate_deputation",
+      "strongest_evidence": "papal_personal_coronation",
       "evidence_types": [
-        "papal_legate_deputation",
         "papal_personal_coronation",
+        "papal_legate_deputation",
         "retrospective_attestation"
       ],
       "popes": [

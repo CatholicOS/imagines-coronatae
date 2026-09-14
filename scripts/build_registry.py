@@ -2,7 +2,7 @@ import json,collections,datetime,os,re,pathlib,unicodedata as U
 REPO=str(pathlib.Path(__file__).resolve().parent.parent)
 I=json.load(open(os.path.join(REPO,'data','imagines-coronatae.json'),encoding='utf-8'))['images']
 EV={'papal_coronation_act':'act','papal_legate_deputation':'legate','papal_personal_coronation':'by pope',
-    'retrospective_attestation':'retro','norms':'norms'}
+    'retrospective_attestation':'retro','norms':'norms','petition_not_conceded':'NOT conceded'}
 CONF={'high':'●●●','medium':'●●○','low':'●○○'}
 def esc(s): return re.sub(r'\s+',' ',str(s or '')).replace('|','\\|').strip()
 def title(im): return esc(im.get('image_title_vernacular') or im.get('image_title_latin') or '—')
@@ -37,7 +37,7 @@ sources, not several rows.
 
 **Evidence tags** — `act` the granting act itself · `legate` a Cardinal Legate deputed to crown ·
 `by pope` the Pope crowned it in person · `retro` a later act mentions an earlier crowning ·
-`norms` general legislation.
+`norms` general legislation · `NOT conceded` a petition the Chapter never granted — the image was not crowned by it.
 **Conf.** — ●●● explicit · ●●○ some inference (usually country from the Latin diocese) ·
 ●○○ fragmentary, verify against the printed page.
 

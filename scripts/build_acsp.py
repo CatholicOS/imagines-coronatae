@@ -26,7 +26,7 @@ for a in A:
       'source_pdf_url':VIEW.format(pb+2),          # pb n = image index - 2
       'act_number':None,
       'act_type':'Chapter dossier: '+', '.join(a.get('documents') or []) if a.get('documents') else 'Chapter dossier',
-      'pope':None,'evidence_type':'chapter_decree',
+      'pope':None,'evidence_type':('petition_not_conceded' if a.get('outcome')=='not conceded' else 'chapter_decree'),
       'act_date':a.get('concession_date'),'concession_date':a.get('concession_date'),
       'coronation_date':a.get('coronation_date'),'legate':a.get('deputy'),'deputy':a.get('deputy'),
       'register_refs':a.get('register_refs') or [],'documents':a.get('documents') or [],
