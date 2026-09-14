@@ -75,8 +75,8 @@ in the Baroque Period* (Prague, 2013; in Czech) worked directly in the fond and 
   e cronologico delle miracolose Imagini di Maria Vergine coronate dalla sacrosanta Basilica di
   S. Pietro in Vaticano* (1756) — a chronological list of every image crowned to that date. With
   Bombelli's printed *Raccolta delle immagini della Beatissima Vergine ornate della corona d'oro dal
-  Capitolo di S. Pietro* (Rome, 1792), these are the **canonical registers of the practice**, and the
-  natural next targets after tomo IV.
+  Capitolo di S. Pietro* (Rome, 1792), these are the **canonical registers of the practice**; Bombelli's tomi II–IV are
+  now transcribed (below), Sindone's manuscript is not online.
 - Milestones she draws from the fond: the first ceremony under the Sforza rule, Michelangelo's
   *Pietà*, **31 August 1637**; first coronation outside Rome, the Madonna dei Laghi at Avigliana,
   **14 April 1652** (recrowned 1752 and 1852); Naples with 28 coronations in all; first outside
@@ -240,9 +240,43 @@ The transcription, made page by page against the scan, is `data/briccolani-1800-
 re-crowning. Because the list carries so many Roman images, it is what forced the matcher to treat
 Rome differently from every other place — see the README.
 
-Of the other repertories: Bombelli's *Raccolta* of 1792 (104 crowned Roman images with engravings)
-is on the Internet Archive in tomi II–IV (`bub_gb_JhP2LAUmGjUC`, `bub_gb_rHbfIRvNjxkC`,
-`bub_gb_9vADu01fhEAC`); Mazzolari's *Diario sagro* (3rd ed. 1819, vol. 3, pp. 112–116: 102 Roman
+### Bombelli (1792) — the illustrated *Raccolta* of the crowned images of Rome
+
+[Pietro Bombelli, incisore], *Raccolta delle immagini della Beatissima Vergine ornate della corona
+d'oro dal R.mo Capitolo di S. Pietro, con una breve ed esatta notizia di ciascuna immagine*, four
+small volumes, Rome, Salomoni, 1792 (the plates are dated 1791–1793). It is the register Briccolani
+points to in his footnote, and it is a different kind of book: one notice of four to ten pages for
+each of the **104 Roman images the Chapter had crowned**, facing an engraving by Bombelli whose
+caption gives the support and size of the original (*in Tavola, Alta Pal. 4, Lar. 3*; *in Muro*, *in
+Tela*, *in Marmo*, *in Musaico*) and the year of the crowning. The notices are devotional, but they
+were written from the Basilica's papers — "dalle memorie dell'archivio della Basilica Vaticana", the
+*memoriali* "che si conservano nell'archivio del Capitolo", the *atti capitolari*, "MM.SS. del
+Capitolo" — and they give what no printed register gives: the **day** of the crowning (fifty of the
+seventy-four notices read), often the day of the petition or decree, the canons deputed to carry the
+crowns (Palagi and Ricci in the 1670s, Mattei and Ricci in the 1680s, Maffei and Casali in 1662), the
+**cost of the crowns** in scudi (sc. 65 at Porta Angelica in 1644, 213 at the Minerva, 564 for
+Michelangelo's *Pietà*), and the separate crown for the Child. The sixteen images of the *Appendice*
+in tomo IV (S. Maria Maggiore, S. Benedetto in Piscinula, Guadalupe of the Salesian nuns…) are, in
+his own words, added "sebben non sieno coronate", and are not transcribed.
+
+Tomi II–IV are on the Internet Archive from the Google scans of the Biblioteca Nazionale Centrale di
+Roma (`bub_gb_JhP2LAUmGjUC`, `bub_gb_rHbfIRvNjxkC`, `bub_gb_9vADu01fhEAC`), with a rough OCR;
+**tomo I** — the first thirty images, among them the Febbre, the Monti, the Consolazione, the
+Sant'Agostino — has not been found online. The 74 notices of tomi II–IV are transcribed in
+`data/bombelli-1792-raccolta.json` (`scripts/transcribe_bombelli.py`), every date and figure checked
+against the page image and every plate caption read from the scan; they are in the catalogue as
+series **LIT**, confidence `low` (no folio), a Child's crown linked by `parent_act`. All 74 fall on an
+image Briccolani already lists, so what they add is the day, the decree, the cost and the plate.
+Checked against the tomo IV dossiers the days fit (San Pantaleo's receipt of 25 March 1694 is his
+crowning day; San Marcello: decree 16 August 1694, crowned 17 April 1695). Against Briccolani the
+year agrees in 71 of 74, and in the three that differ — the Vittoria (notice 6 July 1635, plate
+1633), the Madonna del Sole (notice 18 May 1669, plate 1665) and the Rosario of the Minerva (notice
+28 August 1644, plate 1640) — the engraved caption sides with Briccolani against the notice, which
+suggests the captions were taken from the Chapter's register and the notices' dates from other
+papers. The Loreto dei Fornari is printed "1760" in a notice that otherwise sits in the 1660s (plate
+and Briccolani 1660); the plate of S. Lucia della Tinta was left with its year unfinished ("nel 16").
+
+Of the other repertories: Mazzolari's *Diario sagro* (3rd ed. 1819, vol. 3, pp. 112–116: 102 Roman
 images "trascritto da quello che si conserva nell'Archivio del Revmo Capitolo Vaticano") and
 Mansi–Persichini's *Le incoronate* (1853, Google Books `7fcYSwOXFJAC`) are online but add nothing
 Briccolani lacks; Anselmo da Reno Centese's catalogue in *L'Italia francescana* 8 (1933) — the
@@ -413,6 +447,11 @@ volume — though it should be in vol. 25 or 26, which Zander/Magister cite for 
   *Elenco istorico e cronologico…* (MS, 1756 = Madonne coronate vol. 27); [Bombelli], *Raccolta delle
   immagini della Beatissima Vergine ornate della corona d'oro dal Capitolo di S. Pietro* (Rome, 1792);
   Alatri 1933; Dejonghe 1967; Bonci 2004; Zander 2011.
+
+- [Pietro Bombelli], *Raccolta delle immagini della Beatissima Vergine ornate della corona d'oro dal R.mo
+  Capitolo di S. Pietro, con una breve ed esatta notizia di ciascuna immagine*, 4 tomi, Rome, 1792 — tomi
+  II–IV: <https://archive.org/details/bub_gb_JhP2LAUmGjUC>, <https://archive.org/details/bub_gb_rHbfIRvNjxkC>,
+  <https://archive.org/details/bub_gb_9vADu01fhEAC>
 
 - Pietro Zander (ed.) and Sara Magister, *Full of Grace: Crowned Madonnas from the Vatican Basilica*,
   Knights of Columbus Museum, New Haven, 2011:

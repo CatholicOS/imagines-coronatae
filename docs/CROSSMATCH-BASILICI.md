@@ -25,30 +25,30 @@ own matching. The rule is deliberately no fuzzier than that.
 | | schede |
 |---|---|
 | in the database | 1,737 |
-| matched to a catalogue image | 467 (27%) |
-| — on title and year | 301 |
-| — on title only | 67 |
+| matched to a catalogue image | 469 (27%) |
+| — on title and year | 302 |
+| — on title only | 68 |
 | — on year only | 99 |
-| not in the catalogue | 1,270 (73%) |
-| — of which they mark *verificata: sì* and a real crowning (1st/2nd) | 981 |
+| not in the catalogue | 1,268 (73%) |
+| — of which they mark *verificata: sì* and a real crowning (1st/2nd) | 979 |
 
-Of the 467 matches, the year agrees exactly in 379, is one off in 21,
-differs in 49, and cannot be compared in 18.
+Of the 469 matches, the year agrees exactly in 380, is one off in 21,
+differs in 50, and cannot be compared in 18.
 
 ### Gaps in the catalogue: crownings they record that this catalogue lacks
 
-981 schede that they mark as verified crownings have no counterpart here. By period, authority and country:
+979 schede that they mark as verified crownings have no counterpart here. By period, authority and country:
 
 | Century | Schede |
 |---|---|
-| 1600s | 6 |
+| 1600s | 4 |
 | 1700s | 39 |
 | 1800s | 227 |
 | 1900s | 709 |
 
 | Authority (their `Autorizza`) | Schede |
 |---|---|
-| Capitolo | 570 |
+| Capitolo | 568 |
 | B.P. | 371 |
 | # | 9 |
 | B.P | 9 |
@@ -64,7 +64,7 @@ differs in 49, and cannot be compared in 18.
 
 | Country | Schede |
 |---|---|
-| Italia | 436 |
+| Italia | 434 |
 | Spagna | 178 |
 | Francia | 108 |
 | Messico | 51 |
@@ -86,9 +86,9 @@ differs in 49, and cannot be compared in 18.
 | Paesi Bassi | 4 |
 
 The shape is what the sources predict. The catalogue's primary layers are the two gazettes and one
-dossier volume (1689–1714); its literature layer is Briccolani to 1791, Vrabelová for Central Europe
+dossier volume (1689–1714); its literature layer is Briccolani to 1791 and Bombelli for Rome, Vrabelová for Central Europe
 to 1786, Balzamo's lists to 1798 and the 89 painted copies of Zander/Magister. Before 1800 the two
-lists nearly coincide: 45 of their verified crownings of the seventeenth and eighteenth
+lists nearly coincide: 43 of their verified crownings of the seventeenth and eighteenth
 centuries are unmatched here, and on inspection about half of those are the same crowning under a
 locality this matching could not align (Tolfa for Cibona, Nova Gorica for Monte Santo, Dobrzyń nad
 Wisłą for Skępe, Leopoli for Lwów, Monte San Giuliano for Custonaci, or a year two or three off — see
@@ -105,13 +105,13 @@ through Anselmo's 1933 list and its continuators.
 
 ### Gaps in the database: images here that they do not record
 
-258 of the catalogue's 671 images found no scheda. By evidence and by the series that attest them:
+256 of the catalogue's 671 images found no scheda. By evidence and by the series that attest them:
 
 | Strongest evidence | Images |
 |---|---|
 | `papal_coronation_act` | 92 |
 | `retrospective_attestation` | 74 |
-| `chapter_decree` | 59 |
+| `chapter_decree` | 57 |
 | `papal_personal_coronation` | 24 |
 | `papal_legate_deputation` | 7 |
 | `norms` | 2 |
@@ -119,7 +119,7 @@ through Anselmo's 1933 list and its continuators.
 | Series | Images |
 |---|---|
 | AAS | 192 |
-| LIT | 47 |
+| LIT | 45 |
 | AAS+LIT | 6 |
 | ACSP | 5 |
 | ASS | 3 |
@@ -129,7 +129,7 @@ through Anselmo's 1933 list and its continuators.
 
 | Country | Images |
 |---|---|
-| Italy | 80 |
+| Italy | 78 |
 | Poland | 64 |
 | Mexico | 17 |
 | Spain | 16 |
@@ -154,16 +154,17 @@ CSV.
 
 ### Where the two disagree on the date
 
-49 matched crownings carry a year here that differs from theirs by more than one. A sample:
+50 matched crownings carry a year here that differs from theirs by more than one. A sample:
 
 | Their scheda | Their date | Catalogue image | Catalogue dates |
 |---|---|---|---|
+| Madonna della Vittoria — Roma | 6-7-1633 | Santa Maria della Vittoria — Rome, Santa Maria della Vittoria | 1635-07-06 |
 | Madonna della Febbre — Città del Vaticano | 31-1-1643 | Madonna della Febbre — Rome, Vatican Basilica (sacristy) | 1631-08-27; 1697-08-15 |
 | Madonna di Loreto — Roma | #-#-1646 | Santa Maria di Loreto in S. Salvator in Lauro — Rome, San Salvatore in Lauro | 1644 |
-| Madonna del Soccorso — Città del Vaticano | #-#-1647 | Santa Maria del Soccorso nella Cappella Gregoriana della Basilica Vaticana — Rome, Vatican Basilica (Cappella Gregoriana) | 1643-11-17 |
+| Madonna del Soccorso — Città del Vaticano | #-#-1647 | Madonna del Soccorso — Rome, Vatican Basilica (Cappella Gregoriana) | 1643-11-17 |
 | Madonna del Pianto — Roma | #-#-1651 | Santa Maria del Pianto — Rome, Santa Maria del Pianto | 1643 |
-| Madonna della Purità — Roma | #-#-1651 | Santa Maria della Purità in Borgo — Rome, Santa Maria della Purità in Borgo | 1646 |
-| Madonna del Rosario — Roma | 15-12-1654 | Santa Maria del Rosario nella Chiesa di Santa Maria — Rome, Santa Maria sopra Minerva | 1640 |
+| Madonna della Purità — Roma | #-#-1651 | Santa Maria della Purità in Borgo — Rome, Santa Maria della Purità in Borgo | 1646-04-16 |
+| Madonna del Rosario — Roma | 15-12-1654 | Santa Maria del Rosario nella Chiesa di Santa Maria — Rome, Santa Maria sopra Minerva | 1640; 1644-08-28 |
 | Madonna della Misericordia — Roma | 6-11-1661 | Santa Maria della Misericordia in S. Giovanni de Fiorentini — Rome, San Giovanni dei Fiorentini | 1648 |
 | Madonna del Popolo — Roma | 6-9-1667 | Santa Maria de' Miracoli sulla Piazza del Popolo — Rome, Santa Maria dei Miracoli | 1645 |
 | Madonna dei Miracoli — Roma | #-#-1667 | Santa Maria de' Miracoli sulla Piazza del Popolo — Rome, Santa Maria dei Miracoli | 1645 |
@@ -187,7 +188,6 @@ CSV.
 | Santa Maria della Civita — Itri | 20-7-1877 | Santa Maria di Civita nella Chiesa d'Itri — Itri | 1777 |
 | Nostra Signora de la Delivrande — Douvres-la-Délivrande | 22-8-1877 | Notre Dame De La Délivrande — Douvres-la-Délivrande | 1872-08-22 |
 | Santa Maria della Rotonda — Albano Laziale | 3-8-1879 | Santa Maria della Rotonda d'Albano — Albano | 1729 |
-| Santa Maria di Costantinopoli — Acquaviva delle Fonti | 4-9-1881 | Santa Maria di Costantinopoli nella Chiesa di S. Eustachio della Città d'Aquaviva — Acquaviva delle Fonti | 1780 |
 
 Read down the list and three things separate out.
 
@@ -216,11 +216,11 @@ Read down the list and three things separate out.
 
 ## How to use this
 
-- To **extend the catalogue**, the 981 unmatched verified schede are the work-list: each names
+- To **extend the catalogue**, the 979 unmatched verified schede are the work-list: each names
   a locality, a church and a year, which is enough to find the dossier in the right volume of
   *Madonne coronate* (Zander/Magister's citations give the volume for each decade) and, for 1865
   onwards, to search the gazettes for a retrospective mention.
-- To **check the catalogue**, the 49 date disagreements and the 21 one-year offsets are
+- To **check the catalogue**, the 50 date disagreements and the 21 one-year offsets are
   the places to look first.
 - Their `Autorizza = B.P.` rows (442) are crownings by papal brief; from 1865 these ought to
   be in ASS/AAS, and any that are unmatched here are candidates for a missed act.

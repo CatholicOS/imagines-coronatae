@@ -128,7 +128,7 @@ SYN={ # cross-language equivalents of the commonest Marian titles, mapped to one
  'krolowa':'regina','regina':'regina','reina':'regina','queen':'regina','regine':'regina',
  'milosierdzia':'misericord',
  'rodzina':'family','famiglia':'family','familia':'family','famille':'family','familiae':'family','family':'family',
- 'febre':'febbre','febbre':'febbre','misericordiae':'misericord','misericordia':'misericord','mercy':'misericord','merced':'misericord'}
+ 'febre':'febbre','febbre':'febbre','sanita':'salute','salute':'salute','misericordiae':'misericord','misericordia':'misericord','mercy':'misericord','merced':'misericord'}
 TITLE_STOP=ECCL_STOP|{'cattedrale','catedrale','collegiata','metropolitana','monastero','oratorio','eremo','ritiro',
  'monache','chierici','regolari','teatini','carmelitani','cappucini','cappuccini','benedettini','domenicani',
  'camaldolesi','camandolesi','basiliani','premostratensi','bernabiti','riformati','osservanti','minori','parrochiale',
@@ -274,8 +274,11 @@ for c,rs in bycountry.items():
 def generic(t): return len(tokloc[t])>8      # a title word used at more than eight places identifies nothing, even with a matching year
 for r in noloc:
     tr=title_full(r); dr=distinctive(tr); tgt=None
+    # never a Roman cluster: Rome holds a hundred crowned images, and a Roman act says 'Romae' or
+    # 'in Urbe' — the Madonna del Rimedio of Arborea (Sardinia) is not the one in S. Dionigi
     cands=[g for g in clusters if g[0].get('country')==r.get('country')
-           and (tr & set().union(*[title_full(x) for x in g]))]
+           and (tr & set().union(*[title_full(x) for x in g]))
+           and not any('rome' in loc_toks(x) for x in g)]
     # a shared DISTINCTIVE title word settles it ('Lattani', 'Coromoto')
     if dr:
         for g in cands:
@@ -338,7 +341,7 @@ for g in clusters:
     g=sorted(g,key=lambda r:(r.get('year') or 9999,{'ACSP':0,'LIT':1,'ASS':2,'AAS':3}.get(r.get('series'),4),r.get('page') or 0))
     # a crown for the Child of an image already crowned (a register's 'Bambino Gesù' entry) is not a re-crowning of the image
     cds=collapse_dates([x['coronation_date'] for x in g if x.get('coronation_date') and not x.get('parent_act')])
-    ev=sorted({x['evidence_type'] for x in g},key=lambda e:-RANK.get(e,0))
+    ev=sorted({x['evidence_type'] for x in g},key=lambda e:(-RANK.get(e,0),e))   # tie-break by name: set order is not stable across runs
     base=slug((best(g,'image_title_vernacular') or best(g,'image_title_latin') or 'image')+'-'+(best(g,'locality') or best(g,'country') or ''))
     seen[base]+=1; iid=base if seen[base]==1 else f'{base}-{seen[base]}'
     images.append({

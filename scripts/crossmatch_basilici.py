@@ -182,7 +182,7 @@ L.append("\n| Country | Schede |\n|---|---|")
 for a,v in by_nation.most_common(20): L.append(f"| {a} | {v} |")
 L.append(f"""
 The shape is what the sources predict. The catalogue's primary layers are the two gazettes and one
-dossier volume (1689–1714); its literature layer is Briccolani to 1791, Vrabelová for Central Europe
+dossier volume (1689–1714); its literature layer is Briccolani to 1791 and Bombelli for Rome, Vrabelová for Central Europe
 to 1786, Balzamo's lists to 1798 and the 89 painted copies of Zander/Magister. Before 1800 the two
 lists nearly coincide: {by_cent.get(1600,0)+by_cent.get(1700,0)} of their verified crownings of the seventeenth and eighteenth
 centuries are unmatched here, and on inspection about half of those are the same crowning under a

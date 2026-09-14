@@ -1,7 +1,8 @@
 """Secondary-literature layer: coronations reported by scholarly works that cite the Chapter archive.
 
 Inputs : data/vrabelova-2013-table-xxi.json, data/balzamo-2023-crownings.json,
-         data/zander-magister-2011-catalogue.json, data/briccolani-1800-serie.json
+         data/zander-magister-2011-catalogue.json, data/briccolani-1800-serie.json,
+         data/bombelli-1792-raccolta.json
 Output : data/attestations-lit.json   (act-level records, series "LIT")
 
 These records are NOT read at first hand. Each carries the work and locus as its citation and the
@@ -89,8 +90,36 @@ for r in Bc['rows']:
       'country':r['country'],'confidence':'low','notes':notes.strip(),
       'parent_act':f"Br{r['parent_no']}" if r.get('parent_no') else None})
 
+# --- Bombelli 1792 (the illustrated Raccolta: one notice per Roman image, with the day of the crowning, no folio) ---
+Bo=json.load(open(REPO/'data/bombelli-1792-raccolta.json',encoding='utf-8'))
+for r in Bo['rows']:
+    notes=("Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but "
+           "citing no folio), not read at first hand. ")
+    plate=[]
+    if r['medium']: plate.append(f"in {r['medium']}")
+    if r['size_palmi']: plate.append(f"pal. {r['size_palmi']}")
+    if r['caption_year']: plate.append(f"crowned {r['caption_year']}")
+    if plate: notes+=f"The plate's caption: {', '.join(plate)}. "
+    if r['crown_cost_scudi']: notes+=f"Crown cost sc. {r['crown_cost_scudi']}. "
+    if r['deputies']: notes+=f"Deputed: {r['deputies']}. "
+    notes+=(r['notes'] or '')
+    recs.append({'series':'LIT','volume':0,'year':r['year'],'page':500+r['no'],'folio':None,'folio_to':None,
+      'citation':f"Bombelli 1792, tomo {r['tomo']}, p. {r['page']}",'source_pdf_url':Bo['scan'][r['tomo']],
+      'act_number':f"Bo{r['no']}",'act_type':'Coronation reported in a printed collection of notices','pope':None,
+      'evidence_type':'chapter_decree','act_date':None,'concession_date':r['concession_date'],'coronation_date':r['coronation_date'],
+      'legate':None,'deputy':r['deputies'],'register_refs':[],'documents':['printed notice'],
+      'rubric_latin':r['heading_as_printed'],'incipit_latin':r['text_as_printed'],
+      'image_title_vernacular':r['title'],'image_title_latin':None,'image_subject':'Blessed Virgin Mary',
+      'church_or_sanctuary':r['church_or_place'],'locality':r['locality'],'diocese_latin':None,'diocese_modern':None,
+      'country':'Italy','confidence':'low','notes':notes.strip(),'parent_act':None})
+    # a separate crown for the Child is a second act on the same image, linked by parent_act
+    if r['child_date']:
+        recs.append({**recs[-1],'year':year(r['child_date']),'coronation_date':r['child_date'],'concession_date':None,
+          'act_number':f"Bo{r['no']}c",'image_subject':'Blessed Virgin Mary with Child','parent_act':f"Bo{r['no']}",
+          'notes':f"Crown for the Child (Bambino Gesù) of the image crowned {r['coronation_date']}, reported by Bombelli 1792 (tomo {r['tomo']}, p. {r['page']})."})
+
 out={'metadata':{'layer':'attestations-lit — coronations reported by secondary literature, each with the author’s own citation of the Chapter archive where given',
-  'sources':[V['source'],B['source'],Z['source'],Bc['source']],'generated':datetime.date.today().isoformat(),'record_count':len(recs),
+  'sources':[V['source'],B['source'],Z['source'],Bc['source'],Bo['source']],'generated':datetime.date.today().isoformat(),'record_count':len(recs),
   'caveats':['Secondary evidence: none of these records was read at first hand; confidence is capped at medium.',
              'Where the author cites no folio, confidence is low and the record says so.']},
   'records':recs}
