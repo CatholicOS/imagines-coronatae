@@ -3,7 +3,7 @@
 
 # Registry of crowned images — chronological
 
-**416 images** · 495 source citations · generated 2026-09-14
+**671 images** · 858 source citations · generated 2026-09-14
 
 Ordered by the date the image was crowned where a source gives it, otherwise by the earliest act attesting it.
 
@@ -26,7 +26,7 @@ Vatican Chapter crowning later renewed by a Pope.
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1500; 1922 | Madonna di Loreto | Loreto (Lauretum) | Italy | by pope | Balzamo 2023, p. 173 *by pope*<br>[AAS 14 (1922), p. 544](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *by pope*<br>[AAS 14 (1922), p. 675](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *by pope*<br>[AAS 15 (1923), p. 215](https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf) *by pope* | ●●● |
+| 1500 | Madonna di Loreto | Loreto (Lauretum) | Italy | by pope | Balzamo 2023, p. 173 *by pope* | ●○○ |
 
 ## 1590s
 
@@ -38,182 +38,391 @@ Vatican Chapter crowning later renewed by a Pope.
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1631; 1697-08-15 | Madonna della Febbre | Rome, Vatican Basilica (sacristy) | Italy |  | Balzamo 2023, p. 174 **<br>[BAV, ACSP, Madonne coronate, tomo IV, ff. 162r–169r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0383) ** | ●●● |
+| 1631-08-27; 1697-08-15 | Madonna della Febbre | Rome, Vatican Basilica (sacristy) | Italy | chapter | Balzamo 2023, p. 174 *chapter*<br>Zander/Magister 2011, cat. V1, p. 25 *chapter*<br>[Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter*<br>[BAV, ACSP, Madonne coronate, tomo IV, ff. 162r–169r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0383) *chapter* | ●●● |
+| 1632 | Santa Maria de' Monti | Rome, Santa Maria ai Monti | Italy | chapter | [Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1633 | Santa Maria della Vittoria | Rome, Santa Maria della Vittoria | Italy | chapter | [Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1634 | Santa Maria col Bambino Gesù di via Cupa in Santa Maria in Trastevere | Rome, Santa Maria in Trastevere | Italy | chapter | [Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1634 | Santa Maria del Popolo | Rome, Santa Maria del Popolo | Italy | chapter | [Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1634 | Santa Maria della Consolazione | Rome, Santa Maria della Consolazione | Italy | chapter | [Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1634 | Santa Maria della Pace | Rome, Santa Maria della Pace | Italy | chapter | [Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter*<br>Balzamo 2023, p. 181 *chapter* | ●●○ |
+| 1635 | Santa Maria Annunziata in Tor de' Specchi | Rome, Tor de' Specchi | Italy | chapter | [Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1635 | Santa Maria della Concezione in S. Lorenzo, e Damaso | Rome, San Lorenzo in Damaso | Italy | chapter | [Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1636 | Santa Maria in Araceli | Rome, Santa Maria in Aracoeli | Italy | chapter | [Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1637-08-31 | Madonna della Pietà (Michelangelo's Pietà) | Rome, Vatican Basilica (Pietà) | Italy | chapter | Zander/Magister 2011, cat. V2, p. 26 *chapter*<br>[Briccolani 1800, p. 144](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1638 | Santa Maria della Strada nella Chiesa del Gesù | Rome, Chiesa del Gesù | Italy | chapter | [Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1638 | Santa Maria in Santa Teresa alle quattro Fontane | Rome, Santa Teresa alle Quattro Fontane | Italy | chapter | [Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 
 ## 1640s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1641-01-14 | Madonna di San Sisto | Rome, monastery of the Dominican nuns of San Sisto | Italy |  | Balzamo 2023, p. 180 ** | ●●○ |
-| 1643 | Madonna di Sant'Agostino | Rome, Sant'Agostino | Italy |  | Balzamo 2023, p. 180 ** | ●●○ |
+| 1640 | Santa Maria del Rosario nella Chiesa di Santa Maria | Rome, Santa Maria sopra Minerva | Italy | chapter | [Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1641; 1643 | Santa Maria in S. Agostino | Rome, Sant'Agostino | Italy | chapter | [Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter*<br>Balzamo 2023, p. 180 *chapter* | ●●○ |
+| 1641 | Santa Maria in S. Cosimato in Trastevere | Rome, San Cosimato in Trastevere | Italy | chapter | [Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1641 | Santa Maria in Traspontina | Rome, Santa Maria in Traspontina | Italy | chapter | [Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1641-01-14 | Santa Maria nella Chiesa de' SS. Domenico, e Sisto a Monte Magnanapoli | Rome, monastery of the Dominican nuns of San Sisto (Santi Domenico e Sisto, Magnanapoli) | Italy | chapter | Balzamo 2023, p. 180 *chapter*<br>[Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1643 | Santa Maria del Pianto | Rome, Santa Maria del Pianto | Italy | chapter | [Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1643 | Santa Maria in Via Lata | Rome, Santa Maria in Via Lata | Italy | chapter | [Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1643-11-17 | Santa Maria del Soccorso nella Cappella Gregoriana della Basilica Vaticana | Rome, Vatican Basilica (Cappella Gregoriana) | Italy | chapter | Zander/Magister 2011, cat. V3, p. 28 *chapter*<br>[Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1644 | Santa Maria delle Grazie a Porta Angelica | Rome, Santa Maria delle Grazie a Porta Angelica | Italy | chapter | [Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1644 | Santa Maria di Loreto in S. Salvator in Lauro | Rome, San Salvatore in Lauro | Italy | chapter | [Briccolani 1800, p. 145](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 | 1645 | Sacra Imago Beatae Mariae Virginis de Horto | Chiavari (Clavarium), Liguria | Italy | retro | [ASS 37 (1904), p. 478](https://www.vatican.va/archive/ass/documents/ASS-37-1904-5-ocr.pdf) *retro* | ●●○ |
-| 1647 | Santa Maria delle Grazie al Foro Romano | Rome, Santa Maria delle Grazie al Foro Romano | Italy |  | Balzamo 2023, p. 181 ** | ●●○ |
+| 1645 | Santa Maria de' Miracoli sulla Piazza del Popolo | Rome, Santa Maria dei Miracoli | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1645 | Santa Maria dentro il Monastero di S. Marta al Collegio Romano | Rome, Santa Marta al Collegio Romano | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1645 | Santa Maria nella Chiesa di S. Alessio | Rome, Sant'Alessio | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1645-01-01 | Santa Maria della Colonna nella Basilica Vaticana | Rome, Vatican Basilica (Madonna della Colonna) | Italy | chapter | Zander/Magister 2011, cat. V4, p. 30 *chapter*<br>[Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1646 | Santa Maria della Purità in Borgo | Rome, Santa Maria della Purità in Borgo | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter*<br>[Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1646 | Santa Maria della Scala in Trastevere | Rome, Santa Maria della Scala (Trastevere) | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1646 | Santa Maria in Via | Rome, Santa Maria in Via | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1647 | Santa Maria delle Grazie al Foro Romano | Rome, Santa Maria delle Grazie al Foro Romano | Italy | chapter | Balzamo 2023, p. 181 *chapter* | ●●○ |
+| 1647 | Santa Maria delle Grazie nella Chiesa della Consolazione | Rome, Santa Maria delle Grazie al Foro Romano | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1647 | Santa Maria in Fonte | Rome, San Giovanni in Fonte (Lateran baptistery) | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1647 | Santa Maria nel Monastero de' SS. Domenico, e Sisto | Rome, Santi Domenico e Sisto (Magnanapoli), inner monastery | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1648 | Santa Maria della Misericordia in S. Giovanni de Fiorentini | Rome, San Giovanni dei Fiorentini | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1648 | Santa Maria della Salute in S. Lorenzo in Lucina | Rome, San Lorenzo in Lucina | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1649 | Santa Maria in Vallicella detta la Chiesa Nuova | Rome, Santa Maria in Vallicella | Italy | chapter | [Briccolani 1800, p. 146](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+
+## 1650s
+
+| Crowned | Image | Place | Country | Evidence | Sources | Conf. |
+|---|---|---|---|---|---|---|
+| 1650 | Santa Maria in Portico in Campitelli | Rome, Santa Maria in Portico in Campitelli | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1650 | Santa Maria in S. Giovannino in Campo Marzo de' PP. della Mercede | Rome, San Giovannino in Campo Marzio (Mercedarians) | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1650 | Santa Maria in S. Silvestro a Monte Cavallo | Rome, San Silvestro al Quirinale | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1651 | Santa Maria di Costantinopoli a capo le Case | Rome, Santa Maria di Costantinopoli a Capo le Case | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1651 | Santa Maria in S. Cosma, e Damiano in Campo Vaccino | Rome, Santi Cosma e Damiano | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1651 | Santa Maria in S. Paolino alla Regola | Rome, San Paolino alla Regola | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1651 | Santa Maria nell'Oratorio di Campitelli | Rome, Oratorio di Campitelli | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1652 | Santa Maria ad Martires, detta la Rotonda | Rome, Pantheon (Santa Maria ad Martyres) | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1652 | Santa Maria nella Chiesa di S. Anna alli Falegnami | Rome, Sant'Anna dei Falegnami | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1653 | Santa Maria in Posterola all'Orso | Rome, Santa Maria in Posterula | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1653 | Santa Maria Liberatrice in Campo Vaccino | Rome, Santa Maria Liberatrice | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1653 | Santa Maria nel Portico di S. Apollinare | Rome, Sant'Apollinare (portico) | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1654 | Santa Maria delle Grazie in S. Salvator in Lauro | Rome, San Salvatore in Lauro | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1654 | Santa Maria nella Chiesa della Trinità de' Pellegrini | Rome, Santissima Trinità dei Pellegrini | Italy | chapter | [Briccolani 1800, p. 147](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1655 | Santa Maria in S. Prasede | Rome, Santa Prassede | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1655 | Santa Maria in S. Spirito in Sassia | Rome, Santo Spirito in Sassia | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1655 | Santa Maria nella Chiesa delle Monache di Campo Marzo | Rome, Santa Maria in Campo Marzio (nuns) | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1656 | Santa Maria di Monserrato | Rome, Santa Maria di Monserrato | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1657 | Santa Maria dell'Orto in Trastevere | Rome, Santa Maria dell'Orto | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1658 | Santa Maria nell'Oratorio di S. Marcello | Rome, Oratorio del Crocifisso di San Marcello | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1658 | Santa Maria nella Cappella Salviati in S. Gregorio al Monte Celio | Rome, San Gregorio al Celio (Cappella Salviati) | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1658 | Santa Maria nella Chiesa di S. Rocco a Ripetta | Rome, San Rocco a Ripetta | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1659 | Santa Maria della Clemenza in Santa Maria in Trastevere | Rome, Santa Maria in Trastevere (Madonna della Clemenza) | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1659 | Santa Maria di Monte Santo sulla piazza del Popolo | Rome, Santa Maria di Montesanto | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1659 | Santa Maria in S. Martino a' Monti | Rome, San Martino ai Monti | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1659 | Santa Maria nella Chiesa di S. Giacomo degl'Incurabili | Rome, San Giacomo degli Incurabili | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 
 ## 1660s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
 | 1660; 1925 | Madonna del Rosario di Fontanellato | Fontanellato, Parma | Italy | legate | [ASS 36 (1903), p. 591](https://www.vatican.va/archive/ass/documents/ASS-36-1903-4-ocr.pdf) *retro*<br>[AAS 17 (1925), p. 239](https://www.vatican.va/archive/aas/documents/AAS-17-1925-ocr.pdf) *legate* | ●●● |
+| 1660 | Santa Maria di Loreto a Colonna Trajana | Rome, Santa Maria di Loreto (Colonna Traiana) | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1661 | Santa Maria dell'Orazione nella Chiesa della Morte a strada Giulia | Rome, Santa Maria dell'Orazione e Morte | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1661 | Santa Maria in S. Giovanni decollato | Rome, San Giovanni Decollato | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1662 | Santa Maria in S. Francesca Romana in Campo Vaccino | Rome, Santa Francesca Romana | Italy | chapter | [Briccolani 1800, p. 148](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1662 | Santa Maria in S. Grisogono in Trastevere | Rome, San Crisogono | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1664 | Santa Maria in S. Giacomo Scosciacavalli | Rome, San Giacomo Scossacavalli | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1664 | Santa Maria in S. Giovanni Calabita all'Isola | Rome, San Giovanni Calibita | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1665 | Santa Maria del Sole incontro alla Bocca della Verità | Rome, Santa Maria del Sole | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1665 | Santa Maria in S. Celso in Banchi | Rome, Santi Celso e Giuliano | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1666 | Santa Maria nella Chiesa del Suffraggio | Rome, Santa Maria del Suffragio | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1666 | Santa Maria nella Chiesa di S. Lucia del Confalone | Rome, Santa Lucia del Gonfalone | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1667 | Santa Maria in S. Dionigi alle quattro Fontane | Rome, San Dionigi alle Quattro Fontane | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1667 | Santa Maria in S. Lucia della Tinta | Rome, Santa Lucia della Tinta | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1668 | Santa Maria del Rosario nella Chiesa di S. Michele a Ripa | Rome, San Michele a Ripa | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1668 | Santa Maria della Salute nella Chiesa della Madalena | Rome, Santa Maria Maddalena | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 
 ## 1670s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1673-04-12 | Madonna of the Sant'Aniceto chapel, Palazzo Altemps | Rome, Palazzo Altemps, chapel of Sant'Aniceto | Italy |  | Balzamo 2023, p. 178 ** | ●●○ |
-| 1679-07-08 | Maria Santissima della Scala Santa | Rome, Scala Santa | Italy |  | Balzamo 2023, p. 182 ** | ●●○ |
+| 1670 | Santa Maria della Quercia | Rome, Santa Maria della Quercia | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1671 | Santa Maria in S. Biagio della Pagnotta | Rome, San Biagio della Pagnotta | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1672 | Santa Maria in Cosmedin detta la Bocca della Verità | Rome, Santa Maria in Cosmedin | Italy | chapter | [Briccolani 1800, p. 149](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1673-04-12 | Santa Maria nella Cappella di S. Aniceto del Palazzo Altemps | Rome, Palazzo Altemps, chapel of Sant'Aniceto | Italy | chapter | Balzamo 2023, p. 178 *chapter*<br>[Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1674 | Santa Maria in S. Ambrogio della Massima a Piazza Mattei | Rome, Sant'Ambrogio della Massima | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1675 | Santa Maria in S. Salvatore delle Cupelle | Rome, San Salvatore alle Coppelle | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1676 | Santa Maria in Monterone | Rome, Santa Maria in Monterone | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1676 | Santa Maria nelle Stanze di S. Ignazio al Gesù | Rome, Chiesa del Gesù (Stanze di Sant'Ignazio) | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1676 | Santa Maria Porta Paradisi in S. Giacomo degli Incurabili | Rome, Santa Maria Porta Paradisi | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1677 | S. Maria in Trevi detta li Crociferi | Rome, Santa Maria in Trivio (Crociferi) | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1677 | Santa Maria della Pietà nell'Oratorio del P. Caravita | Rome, Oratorio del Caravita | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1677 | Santa Maria in S. Adriano in Campo Vaccino | Rome, Sant'Adriano al Foro | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1678 | Santa Maria della Purità in S. Andrea della Valle | Rome, Sant'Andrea della Valle | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1678 | Santa Maria delle Grazie in S. Lorenzo in Lucina | Rome, San Lorenzo in Lucina (Madonna delle Grazie) | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1679 | Santa Maria in S. Vincenzo, ed Anastasio a Trevi | Rome, Santi Vincenzo e Anastasio a Trevi | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1679-07-08 | Santa Maria nell'Oratorio vicino alla Scala Santa | Rome, Scala Santa | Italy | chapter | Balzamo 2023, p. 182 *chapter*<br>[Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
 
 ## 1680s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1681 | Madonna di San Biagio | Montepulciano, San Biagio | Italy |  | Balzamo 2023, p. 182 ** | ●●○ |
+| 1681 | Santa Maria di Provenzano | Siena (Provenzano) | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1681 | Santa Maria in S. Biagio di Montepulciano | Montepulciano, San Biagio | Italy | chapter | Balzamo 2023, p. 182 *chapter*<br>[Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1682 | S. Maria di Ripatransone | Ripatransone | Italy | chapter | [Briccolani 1800, p. 150](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1682 | Santa Maria del Buonconsiglio di Genazano | Genazzano | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1682 | Santa Maria delle Grazie di Velletri | Velletri | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1683 | Santa Maria al Mare | Fermo (diocese) | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1683 | Santa Maria del Soccorso di Genova | Genoa (Genova) | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1684 | Santa Maria de Ruscelli | Vallerano | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1684 | Santa Maria del Transito in S. Giovanni Laterano | Rome, San Giovanni in Laterano | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1684 | Santa Maria in Via di Camerino | Camerino | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1685 | Santa Maria di Mongiovino di Città della Pieve | Mongiovino (Panicale), diocese of Città della Pieve | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1686 | Santa Maria nella Cattedrale di Forlì | Forlì | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1686 | Santa Maria nella Chiesa delle Monache dello Spirito Santo | Rome, Santo Spirito (nuns) | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1687 | Santa Maria in Santa Maria Nuova | Cortona | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1687 | Santa Maria nel Monastero di Tor de' Specchi | Rome, Tor de' Specchi (monastery) | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1687 | Santa Maria nella Chiesa di S. Marco de' Serviti di Pesaro | Pesaro | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1687 | Santa Maria nella Metropolitana di Urbino | Urbino | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1688 | Santa Maria di Grotta Ferrata | Grottaferrata | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1688 | Santa Maria nel Monastero delle Monache di Campo Marzo | Rome, Santa Maria in Campo Marzio (monastery) | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 
 ## 1690s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1690-09-29 | Madonna di Tirano | Tirano (Valtellina), Como | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 24r–69v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0059) **<br>[AAS 19 (1927), p. 337](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *retro* | ●●● |
-|  | Madonna delli Sette Dolori | Rome | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 102r–103v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0239) ** | ●●● |
-|  | — |  |  |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 111v–113r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0258) ** | ●○○ |
-| 1694-03-25 | SS.ma Madonna e suo Bambino di S. Pantaleo in Roma | Rome | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 98r–101v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0231) **<br>[BAV, ACSP, Madonne coronate, tomo IV, ff. 98r–98v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0231) ** | ●●● |
-|  | Madonna e suo Bambino nella Chiesa di S. Lorenzo nelle Scuole Pie di Borgo | Rome (Borgo) | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 160r–161v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0379) ** | ●○○ |
+| 1690 | Santa Maria di Monte Nero | Montenero (Livorno) | Italy | chapter | [Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1690-04-30 | Santa Maria del Sasso nella Chiesa degli Agostiniani di Lucca | Lucca | Italy | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter*<br>Zander/Magister 2011, cat. 29, p. 102 *chapter* | ●●○ |
+| 1690-09-29 | Madonna di Tirano | Tirano (Valtellina), Como | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 24r–69v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0059) *chapter*<br>[Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 19 (1927), p. 337](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *retro* | ●●● |
+| 1691 | Santa Maria Assunta nella Chiesa di Santa Maria | Milan (Milano) | Italy | chapter | [Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1693 | Santa Maria della Colonella nella Chiesa de PP. del Terz'Ordine di S. Francesco | Rimini | Italy | chapter | [Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+|  | — |  |  | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 111v–113r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0258) *chapter* | ●○○ |
+| 1694 | Santa Maria della Neve di Frosinone | Frosinone | Italy | chapter | [Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1694-03-25 | SS.ma Madonna e suo Bambino di S. Pantaleo in Roma | Rome, San Pantaleo | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 98r–101v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0231) *chapter*<br>[Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter*<br>[BAV, ACSP, Madonne coronate, tomo IV, ff. 98r–98v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0231) *chapter* | ●●● |
+| 1695 | Santa Maria de' Sette Dolori in San Marcello | Rome, San Marcello al Corso | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 102r–103v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0239) *chapter*<br>[Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1696 | Madonna e suo Bambino nella Chiesa di S. Lorenzo nelle Scuole Pie di Borgo | Rome, San Lorenzo in Borgo (Scuole Pie) | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 160r–161v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0379) *chapter*<br>[Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1696 | S. Maria delle Vergini nella Chiesa de' Carmelitani di Macerata | Macerata | Italy | chapter | [Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1696 | Santa Maria Lauretana nella Chiesa de Chierici Regolari di S. Paolo di Spoleto | Spoleto | Italy | chapter | [Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 
 ## 1700s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-|  | Madonna del Nome di Maria | Rome | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 186r–187v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0431) ** | ●●○ |
-| 1703-11-11 | Madonna di Belvedere | Città di Castello | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 77r–81v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0177) ** | ●●● |
+| 1703 | Santa Maria nella Chiesa del Nome di Maria | Rome, Santissimo Nome di Maria | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 186r–187v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0431) *chapter*<br>[Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1703-11-11 | Santa Maria di Belvedere | Città di Castello | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 77r–81v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0177) *chapter*<br>[Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
 | 1704 | Beata Maria Virgo de Monte Carmelo | Bologna | Italy | retro | [AAS 34 (1942), p. 32](https://www.vatican.va/archive/aas/documents/AAS-34-1942-ocr.pdf) *retro* | ●●● |
-| 1704-06-01 | Madonna SS.ma di Cibona (Monte Urbano) | Cibona / Monte Urbano (Eremo di Cibona, territory of Tolfa), Sutri | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 70r–73v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0163) ** | ●●● |
-| 1704-06-07 | Madonna del Presepio (detta d'Ogni Santi) | Siena | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 113v–121v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0262) ** | ●●● |
-| 1704-06-08 | Madonna di San Brizio | Orvieto | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 142r–159v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0343) **<br>Balzamo 2023, p. 169 ** | ●●● |
-| 1704-09-08 | Madonna delle Grazie della Terra di S. Giovanni (Valdarno) | San Giovanni (Valdarno), Fiesole (Fesulana Diœcesis) | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 90r–97v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0211) ** | ●●● |
-| 1705-03-07 | Simulacro miracoloso della SS.ma Vergine della Cattedrale d'Otranto (eletta Padrona sotto il titolo della Natività) | Otranto | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 82r–89v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0187) ** | ●●● |
-| 1705-08-09 | Madonna del Lago | Bertinoro | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 2r–23v.[02.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0005) ** | ●●● |
-| 1707-11-06 | Madonna di San Martino (B.ma Vergine detta di S. Martino) | Montepulciano | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 188r–204v.[02.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0435) ** | ●●● |
-| 1708-08-15 | B. V. delle Grazie (S. Maria novissima delle Grazie) | Penna (Penna e Billi / Pennabilli), Montefeltro | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 104r–111r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0243) ** | ●●● |
-| 1709-11-10 | Beata Vergine della Giara (Madonna di Loreto) dei PP. Teatini, Verona | Verona | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 235r–241v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0558) ** | ●●● |
+| 1704-06-01 | Santa Maria di Cibbona vicino alla Tolfa | Cibona / Monte Urbano (Eremo di Cibona, territory of Tolfa), Sutri | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 70r–73v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0163) *chapter*<br>[Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1704-06-07 | Santa Maria del Presepe delle Monache di tutti i Santi di Siena | Siena | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 113v–121v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0262) *chapter*<br>[Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1704-06-08 | Madonna di San Brizio | Orvieto | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 142r–159v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0343) *chapter*<br>Balzamo 2023, p. 169 *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1704-09-08 | Madonna delle Grazie della Terra di S. Giovanni (Valdarno) | San Giovanni (Valdarno), Fiesole (Fesulana Diœcesis) | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 90r–97v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0211) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1705-03-07 | Simulacro miracoloso della SS.ma Vergine della Cattedrale d'Otranto (eletta Padrona sotto il titolo della Natività) | Otranto | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 82r–89v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0187) *chapter*<br>[Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter*<br>Zander/Magister 2011, cat. 53, p. 150 *chapter* | ●●● |
+| 1705-08-09 | Santa Maria del Lago | Bertinoro | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 2r–23v.[02.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0005) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1707-11-06 | Madonna di San Martino (B.ma Vergine detta di S. Martino) | Montepulciano | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 188r–204v.[02.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0435) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1708-08-15 | Santa Maria nella Chiesa di S. Cristofaro della Penna de' Billi | Penna (Penna e Billi / Pennabilli), Montefeltro | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 104r–111r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0243) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1709-11-10 | Beata Vergine della Giara (Madonna di Loreto) dei PP. Teatini, Verona | Verona | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 235r–241v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0558) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
 
 ## 1710s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1710-09-29 | Madonna di Caravaggio | Caravaggio, Cremona ('Caravaggii Cremonen. diœcesis') | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 242r–245v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0581) ** | ●●○ |
-| 1712-05-14 | Santa Maria di Montevergine (Madonna di Monte Vergine, anticamente detta di Costantinopoli) | Montevergine (Monte Vergine, near Avellino) — reading uncertain, nullius dioecesis, Provincia Beneventana (attestation: 'Beneventanae Dioecesis'); Regno di Napoli, Principato Ultra | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 215r.[01.mn.0000]–234r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0510) ** | ●●● |
-| 1713-05-14 | Madonna del Pianto | Foligno | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 268r–289v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0644) ** | ●●● |
-| 1713-10-28 | Madonna di Capocroce (B. V. detta di Capo croce) | Frascati | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 246r–256v.[03.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0590) **<br>[AAS 50 (1958), p. 937](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
-| 1714-08-15 | Madonna del Piratello | Imola | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 257r–275r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0620) ** | ●●● |
-| 1715-09-08 | Madonna di Tersatto (Vera Effigie della Madre di Dio dipinta da S. Luca) | Tersatto (Trsat), near Fiume (Rijeka) — 'Loci Tarsacti in Dalmatia', Segna e Modrussa (Episcopus Segnensis et Modrusiensis, 'in cujus Dioecesi praefata Ecclesia ... de Tersacto sita reperitur') | Croatia |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 205r–214r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0479) **<br>[AAS 23 (1931), p. 44](https://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf) *retro* | ●●● |
-| 1715-11-12 | Madonna Liberatrice (S. Maria Liberatrice) | Viterbo | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 122r–141r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0283) ** | ●●● |
-| 1717 | Beata Maria Virgo Gratiarum in Monte Sancto (Deipara Virgo Opifera) | Mons Sanctus prope Urbem Goritiam (Monte Santo / Sveta Gora, near Gorizia) | Slovenia | retro | [ASS 40 (1907), p. 19](https://www.vatican.va/archive/ass/documents/ASS-40-1907-ocr.pdf) *retro* | ●●○ |
-| 1717-09-08 | Matka Boża Częstochowska (Jasna Góra) | Częstochowa (Jasna Góra) | Poland |  | Vrabelová 2013, § XXI no. 1 (§ 13.1) **<br>[AAS 109 (2017), p. 928](https://www.vatican.va/archive/aas/documents/2017/acta-settembre2017.pdf) *retro* | ●●○ |
-| 1718-09-04 | Trakų Dievo Motina (Matka Boża Trocka) | Trakai (Troki) | Lithuania |  | Vrabelová 2013, § XXI no. 2 (§ 13.7.1) ** | ●●○ |
+| 1710-09-29 | Santa Maria Fonte de' Miracoli | Caravaggio, Cremona ('Caravaggii Cremonen. diœcesis') | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 242r–245v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0581) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1712-05-14 | Santa Maria di Montevergine (Madonna di Monte Vergine, anticamente detta di Costantinopoli) | Montevergine (Monte Vergine, near Avellino) — reading uncertain, nullius dioecesis, Provincia Beneventana (attestation: 'Beneventanae Dioecesis'); Regno di Napoli, Principato Ultra | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 215r.[01.mn.0000]–234r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0510) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1713-05-14 | Santa Maria della Pianta in Foligno | Foligno | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 268r–289v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0644) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1713-10-28 | Madonna di Capocroce (B. V. detta di Capo croce) | Frascati | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 246r–256v.[03.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0590) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 50 (1958), p. 937](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
+| 1714-08-15 | Santa Maria del Peratello | Imola | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 257r–275r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0620) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1715 | Santa Maria di Forano | Forano (Appignano), diocese of Osimo | Italy | chapter | [Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1715-09-08 | Madonna di Tersatto (Vera Effigie della Madre di Dio dipinta da S. Luca) | Tersatto (Trsat), near Fiume (Rijeka) — 'Loci Tarsacti in Dalmatia', Segna e Modrussa (Episcopus Segnensis et Modrusiensis, 'in cujus Dioecesi praefata Ecclesia ... de Tersacto sita reperitur') | Croatia | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 205r–214r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0479) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 23 (1931), p. 44](https://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf) *retro* | ●●● |
+| 1715-11-12 | Santa Maria nella Chiesa della SSma Trinità di Viterbo | Viterbo | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 122r–141r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0283) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1716 | Santa Maria dell'Umiltà di Pistoja | Pistoia | Italy | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1717 | Santa Maria delle Grazie | Mons Sanctus prope Urbem Goritiam (Monte Santo / Sveta Gora, near Gorizia) | Slovenia | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter*<br>[ASS 40 (1907), p. 19](https://www.vatican.va/archive/ass/documents/ASS-40-1907-ocr.pdf) *retro* | ●●○ |
+| 1717 | Santa Maria in S. Pietro in Montorio | Rome, San Pietro in Montorio | Italy | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1717-09-08 | Santa Maria di Chiaromonte Czestochoviensi | Częstochowa (Jasna Góra) | Poland | chapter | Vrabelová 2013, § XXI no. 1 (§ 13.1) *chapter*<br>[Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 109 (2017), p. 928](https://www.vatican.va/archive/aas/documents/2017/acta-settembre2017.pdf) *retro* | ●●○ |
+| 1718 | Santa Maria del Soccorso di Monte Alcino | Montalcino | Italy | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1718-09-04 | Trakų Dievo Motina (Matka Boża Trocka) | Trakai (Troki) | Lithuania | chapter | Vrabelová 2013, § XXI no. 2 (§ 13.7.1) *chapter* | ●●○ |
 
 ## 1720s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1721-08-24 | Madonna della Misericordia | Macerata | Italy | retro | [AAS 13 (1921), p. 305](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
-| 1721-09-24 | Nuestra Señora de la Merced | Lima | Peru | retro | [AAS 17 (1925), p. 9](https://www.vatican.va/archive/aas/documents/AAS-17-1925-ocr.pdf) *retro* | ●●● |
-| 1723 | Madonna Incoronata | Benevento, church of the Camaldolese | Italy |  | Balzamo 2023, p. 186 ** | ●●○ |
-| 1723-08-15 | Matka Boża Kodeńska | Kodeń | Poland |  | Vrabelová 2013, § XXI no. 3 (§ 17.3) ** | ●●○ |
-| 1723-08-15 | Matka Boża Podkamieńska (Różańcowa) | Podkamień (Pidkamin), Dominican convent | Ukraine |  | Vrabelová 2013, § XXI no. 5 (§ 13.5.3) ** | ●●○ |
-| 1724-09-07 | Madonna della Purità | Napoli | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 290r–301r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0690) ** | ●●● |
-| 1724-09-08 | Matka Boża Sokalska | Sokal | Ukraine |  | Vrabelová 2013, § XXI no. 4 (§ 13.2) ** | ●●○ |
-| 1726-11-04 | Madonna di S. Fiorenzo | Perugia | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 170r–176v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0399) ** | ●●○ |
-| 1728 | Madonna del Suffragio | Grotte di Castro, Montefiascone | Italy | retro | [AAS 60 (1968), p. 245](https://www.vatican.va/archive/aas/documents/AAS-60-1968-ocr.pdf) *retro* | ●●● |
+| 1720 | Santa Maria della Misericordia d'Osimo | Osimo | Italy | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1721 | B. V. di Leuca (Santa Maria di Leuca, 'de Finibus Terrae') | Santa Maria di Leuca (Finibus Terrae), diocese of Alessano | Italy | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter*<br>[BAV, ACSP, Madonne coronate, tomo IV, f. 211v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0500) *chapter* | ●○○ |
+| 1721-08-24 | Santa Maria della Misericordia di Macerata | Macerata | Italy | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 13 (1921), p. 305](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
+| 1721-09-24; 1921-09-24 | Nuestra Señora de la Merced | Lima | Peru | chapter | Zander/Magister 2011, cat. 88, p. 226 *chapter*<br>[AAS 17 (1925), p. 9](https://www.vatican.va/archive/aas/documents/AAS-17-1925-ocr.pdf) *retro* | ●●● |
+| 1723 | Santa Maria dell'Incoronata nell'Eremo de' Camaldolesi | Benevento, church of the Camaldolese | Italy | chapter | Balzamo 2023, p. 186 *chapter*<br>[Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1723 | Santa Maria delle Grazie di Benevento | Benevento | Italy | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1723-08-15 | Matka Boża Kodeńska | Kodeń | Poland | chapter | Vrabelová 2013, § XXI no. 3 (§ 17.3) *chapter* | ●●○ |
+| 1723-08-15 | Matka Boża Podkamieńska (Różańcowa) | Podkamień (Pidkamin), Dominican convent | Ukraine | chapter | Vrabelová 2013, § XXI no. 5 (§ 13.5.3) *chapter* | ●●○ |
+| 1724 | Santa Maria de' Bisognosi sul Monte Cassoli | Pereto / Rocca di Botte (Monte Carsoli), diocese of the Marsi | Italy | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1724-09-07 | Santa Maria nella Chiesa di S. Paolo Maggiore de' Teatini di Napoli | Napoli | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 290r–301r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0690) *chapter*<br>[Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●●● |
+| 1724-09-08 | Matka Boża Sokalska | Sokal | Ukraine | chapter | Vrabelová 2013, § XXI no. 4 (§ 13.2) *chapter* | ●●○ |
+| 1726 | Santa Maria di Galloro | Galloro (Ariccia) | Italy | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1726-11-04 | Santa Maria nella Chiesa di S. Fiorenzo di Perugia | Perugia | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 170r–176v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0399) *chapter*<br>[Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1728 | Santa Maria del Suffraggio nella Collegiata di S. Giovan Batista delle Grotte | Grotte di Castro, Montefiascone | Italy | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 60 (1968), p. 245](https://www.vatican.va/archive/aas/documents/AAS-60-1968-ocr.pdf) *retro* | ●●● |
+| 1729 | Santa Maria degli Angeli nella Chiesa di S. Agata de Tessitori | Rome, Sant'Agata dei Tessitori | Italy | chapter | [Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1729 | Santa Maria della Rotonda d'Albano | Albano | Italy | chapter | [Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 
 ## 1730s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1730-09-19 | Matka Boża Żyrowicka | Żyrowice (Zhyrovichy) | Belarus |  | Vrabelová 2013, § XXI no. 6 (§ 15.3) ** | ●●○ |
-| 1732-06-22 | Panna Maria Svatohorská | Svatá Hora, Příbram | Czech Republic |  | Vrabelová 2013, § XXI no. 7 (§ 15.1) ** | ●●○ |
-| 1732-09-21; 1995-05-21 | Panna Maria Svatokopecká | Svatý Kopeček (Olomouc) | Czech Republic |  | Vrabelová 2013, § XXI no. 8 (§ 15.4) **<br>[AAS 88 (1996), p. 631](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *by pope* | ●●○ |
-| 1734 | Santissima Annunziata (Madonna di Trapani) | Trapani, Carmelite sanctuary of the Annunziata | Italy |  | Balzamo 2023, p. 186 ** | ●●○ |
-| 1736-05-10 | Madona Svatotomášská (Black Madonna of St Thomas) | Brno, St Thomas (Augustinians) | Czech Republic |  | Vrabelová 2013, § XXI no. 9 (§ 13.4) ** | ●●○ |
+| 1730-09-19 | Matka Boża Żyrowicka | Żyrowice (Zhyrovichy) | Belarus | chapter | Vrabelová 2013, § XXI no. 6 (§ 15.3) *chapter* | ●●○ |
+| 1731 | Santa Maria del Glorioso di S. Severino | San Severino Marche | Italy | chapter | [Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1732; 1755-09-08 | Matka Boża Bolesna Jarosławska | Jarosław, Przemyśl | Poland | chapter | [Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter*<br>Vrabelová 2013, § XXI no. 17 (§ 15.2) *chapter*<br>[AAS 58 (1966), p. 628](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
+| 1732-06-22 | Nostra Signora di Svatá Hora | Svatá Hora, Příbram | Czech Republic | chapter | Vrabelová 2013, § XXI no. 7 (§ 15.1) *chapter*<br>Zander/Magister 2011, cat. 83, p. 214 *chapter* | ●●○ |
+| 1732-08-17 | Santa Maria Lauretana nella Chiesa di S. Abbondio de Teatini di Cremona | Cremona | Italy | chapter | Zander/Magister 2011, cat. 16, p. 76 *chapter*<br>[Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1732-09-21; 1995-05-21 | Panna Maria Svatokopecká | Svatý Kopeček (Olomouc) | Czech Republic | chapter | Vrabelová 2013, § XXI no. 8 (§ 15.4) *chapter*<br>[Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 88 (1996), p. 631](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *by pope* | ●●○ |
+| 1733 | Santissima Concezione nella Chiesa della Congregazione della V. Orsola Benincasa in Napoli | Napoli (Suor Orsola Benincasa) | Italy | chapter | [Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1734 | Santa Maria della Providenza nella Chiesa de' Teatini di Palermo | Palermo | Italy | chapter | [Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1734 | Santa Maria nella Chiesa de Carmelitani di Trapani | Trapani, Carmelite sanctuary of the Annunziata | Italy | chapter | Balzamo 2023, p. 186 *chapter*<br>[Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1736-05-10 | Santa Maria Annunziata nella Chiesa di S. Tommaso degli Agostiniani di Bruna | Brno, St Thomas (Augustinians) | Czech Republic | chapter | Vrabelová 2013, § XXI no. 9 (§ 13.4) *chapter*<br>[Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1739 | Santa Maria in Monte | Sacro Monte di Varese | Italy | chapter | [Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 
 ## 1740s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-|  | S. Maria Liberatrice | Genoa | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 177r–177v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0413) ** | ●○○ |
+| 1741 | Santa Maria della Manna | Cortona (Manna) | Italy | chapter | [Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1741-09-24 | Santa Maria delle Grazie nella Chiesa de' Carmelitani di Monte Pulciano | Montepulciano | Italy | chapter | Zander/Magister 2011, cat. 30, p. 104 *chapter*<br>[Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+|  | S. Maria Liberatrice | Genoa | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 177r–177v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0413) *chapter* | ●○○ |
+| 1742-05-20 | Santa Maria delle Grazie nella Chiesa degli Agostiniani di Aquapendente | Acquapendente | Italy | chapter | Zander/Magister 2011, cat. 35, p. 114 *chapter*<br>[Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1742-06-23 | Madonna di Gallivaggio, Madre della Misericordia | Gallivaggio (Valle Spluga), diocese of Como | Italy | chapter | Zander/Magister 2011, cat. 17, p. 78 *chapter*<br>[Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1743 | Santa Maria de Avvocata nella Chiesa dell'Eremo de' Camandolesi | Maiori (Eremo dell'Avvocata), diocese of Amalfi | Italy | chapter | [Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1745 | Santa Maria Assunta nella Cattedrale d'Amelia | Amelia | Italy | chapter | [Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1745 | Santa Maria delle Grazie nella Chiesa de' Carmelitani di Jesi | Jesi | Italy | chapter | [Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 | 1747 | La Virgen del Viejo (Nuestra Señora de El Viejo) | El Viejo, León (Nicaragua) | Nicaragua | act | [AAS 81 (1989), p. 824](https://www.vatican.va/archive/aas/documents/AAS-81-1989-ocr.pdf) *act*<br>[AAS 88 (1996), p. 239](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *retro* | ●●● |
-| 1749-09-08 | Matka Boża Łucka (Różańcowa) | Łuck (Lutsk), Dominicans | Ukraine |  | Vrabelová 2013, § XXI no. 10 (§ 13.5.1) ** | ●●○ |
+| 1747 | Santa Maria de' Lumi nella Chiesa de' Bernabiti di S. Severino | San Severino Marche | Italy | chapter | [Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1747 | Santa Maria di Valle del Prato di Monticelli | Monticchiello (Pienza), diocese of Chiusi | Italy | chapter | [Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1747-06-04 | Madonna della Consolazione, Madonna di Valle Prata | Monticello Amiata | Italy | chapter | Zander/Magister 2011, cat. 31, p. 106 *chapter* | ●●○ |
+| 1749 | Santa Maria de Soviore di Monte Rosso | Monterosso al Mare | Italy | chapter | [Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1749 | Santa Maria della Pace di Giuliano | Giugliano in Campania | Italy | chapter | [Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1749 | Santa Maria delle Vertighe di Monte Savino | Monte San Savino | Italy | chapter | [Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1749-05-11 | Beata Vergine della Salute | Macerata | Italy | chapter | Zander/Magister 2011, cat. 27, p. 98 *chapter* | ●○○ |
+| 1749-09-08 | Matka Boża Łucka (Różańcowa) | Łuck (Lutsk), Dominicans | Ukraine | chapter | Vrabelová 2013, § XXI no. 10 (§ 13.5.1) *chapter* | ●●○ |
 
 ## 1750s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1750-09-08 | Matka Boża Świętomichalska (Sapieżyńska) | Vilnius (Wilno), St Michael's | Lithuania |  | Vrabelová 2013, § XXI no. 11 (§ 16.1) ** | ●●○ |
-| 1751-07-01 | Matka Boża Różańcowa Zwycięska | Lwów (Lviv), Dominicans | Ukraine |  | Vrabelová 2013, § XXI no. 12 (§ 13.3) ** | ●●○ |
-| 1752-06-04 | Matka Boża Łąkowska | Łąki Bratiańskie | Poland |  | Vrabelová 2013, § XXI no. 13 (§ 15.5) ** | ●○○ |
-| 1752-09-08 | Matka Boża Pocieszenia (Our Lady of Leżajsk) | Leżajsk, Bernardines, Przemyśl (Latin rite) | Poland |  | Vrabelová 2013, § XXI no. 14 (§ 13.5.6) **<br>[AAS 20 (1928), p. 351](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●○ |
-| 1753 | — | Custonaci | Italy |  | Balzamo 2023, p. 187 ** | ●○○ |
-| 1754 | Madonna del Ponte | Narni | Italy | retro | [AAS 46 (1954), p. 758](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro* | ●●● |
-| 1754-05-22 | Matka Boża Bolesna Chełmińska | Chełmno | Poland |  | Vrabelová 2013, § XXI no. 15 (§ 17.4) ** | ●○○ |
-| 1755-05-18 | Matka Boża Skępska | Skępe | Poland |  | Vrabelová 2013, § XXI no. 16 (§ 15.8) ** | ●●○ |
-| 1755-09-08 | Matka Boża Bolesna Jarosławska | Jarosław, Przemyśl | Poland |  | Vrabelová 2013, § XXI no. 17 (§ 15.2) **<br>[AAS 58 (1966), p. 628](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
-| 1756-07-16 | Matka Boża Berdyczowska (Berdychiv) | Berdyczów (Berdychiv), Zhytomyr | Ukraine | act | Vrabelová 2013, § XXI no. 18 (§ 13.5.4) **<br>[AAS 89 (1997), p. 532](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
-| 1759 | Materdomini | Salerno | Italy | retro | [AAS 15 (1923), p. 337](https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf) *retro* | ●●○ |
+| 1750 | Madonna di Libera Inferni (S. Maria Libera Inferni, formerly S. Maria Maggiore / della Presentazione) | Palermo | Italy | chapter | [Briccolani 1800, p. 156](https://archive.org/details/gri_33125011212400) *chapter*<br>[BAV, ACSP, Madonne coronate, tomo IV, ff. 178v–185v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0416) *chapter* | ●●● |
+| 1750-09-08 | Matka Boża Świętomichalska (Sapieżyńska) | Vilnius (Wilno), St Michael's | Lithuania | chapter | Vrabelová 2013, § XXI no. 11 (§ 16.1) *chapter* | ●●○ |
+| 1751 | Santa Maria del Rosario nella Chiesa di S. Michel Arcangelo di Antegnate | Antegnate | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1751-07-01 | Matka Boża Różańcowa Zwycięska | Lwów (Lviv), Dominicans | Ukraine | chapter | Vrabelová 2013, § XXI no. 12 (§ 13.3) *chapter* | ●●○ |
+| 1752 | Santa Maria di S. Pietro del Piano Castrenaro | Castro (Piano di Castro), diocese of Sovana | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1752-06-04 | Matka Boża Łąkowska | Łąki Bratiańskie | Poland | chapter | Vrabelová 2013, § XXI no. 13 (§ 15.5) *chapter* | ●○○ |
+| 1752-09-08 | Matka Boża Pocieszenia (Our Lady of Leżajsk) | Leżajsk, Bernardines, Przemyśl (Latin rite) | Poland | chapter | Vrabelová 2013, § XXI no. 14 (§ 13.5.6) *chapter*<br>[AAS 20 (1928), p. 351](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●○ |
+| 1753 | Santa Maria de Custonacci di Monte S. Giuliano | Custonaci | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1753 | — | Custonaci | Italy | chapter | Balzamo 2023, p. 187 *chapter* | ●○○ |
+| 1754 | S. Maria Annunziata in Benevento | Benevento | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1754-05-05 | Madonna del Ponte | Narni | Italy | chapter | Zander/Magister 2011, cat. 34, p. 112 *chapter*<br>[Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 46 (1954), p. 758](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro* | ●●● |
+| 1754-05-22 | Matka Boża Bolesna Chełmińska | Chełmno | Poland | chapter | Vrabelová 2013, § XXI no. 15 (§ 17.4) *chapter* | ●○○ |
+| 1755-05-18 | Matka Boża Skępska | Skępe | Poland | chapter | Vrabelová 2013, § XXI no. 16 (§ 15.8) *chapter* | ●●○ |
+| 1756-07-16 | Matka Boża Berdyczowska (Berdychiv) | Berdyczów (Berdychiv), Zhytomyr | Ukraine | act | Vrabelová 2013, § XXI no. 18 (§ 13.5.4) *chapter*<br>[AAS 89 (1997), p. 532](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
+| 1759 | S. Maria nella Catedrale di Verona | Verona (cathedral) | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1759 | Santa Maria di Macereto di Visso | Macereto (Visso) | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1759 | Santa Maria Mater Domini nella Chiesa de Monaci Basiliani di Nocera de' Pagani | Nocera de' Pagani (Nocera Superiore), diocese of Salerno | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 15 (1923), p. 337](https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf) *retro* | ●●○ |
 
 ## 1760s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1761-09-29 | Matka Boża Białynicka | Białynicze (Byalynichy) | Belarus |  | Vrabelová 2013, § XXI no. 19 (§ 13.5.5) ** | ●●○ |
+| 1760 | Santa Maria nella Chiesa de' Cappucini | Cefalù | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1761 | Santa Maria del Popolo nella Metropolitana di Montereale | Monreale | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1761-09-29 | Matka Boża Białynicka | Białynicze (Byalynichy) | Belarus | chapter | Vrabelová 2013, § XXI no. 19 (§ 13.5.5) *chapter* | ●●○ |
 | 1762 | vetustissima Deiparae Imago | Leopolis (Lviv) | Ukraine | retro | [AAS 2 (1910), p. 570](https://www.vatican.va/archive/aas/documents/AAS-02-1910-ocr.pdf) *retro* | ●●○ |
-| 1762 | — | Monreale | Italy |  | Balzamo 2023, p. 187 ** | ●○○ |
-| 1763 | — | Militello in Val di Catania | Italy |  | Balzamo 2023, p. 188 ** | ●○○ |
-| 1763-09-08 | Matka Boża Rzeszowska | Rzeszów | Poland |  | Vrabelová 2013, § XXI no. 20 (§ 15.7) ** | ●●○ |
-| 1764 | — | Padua | Italy |  | Balzamo 2023, p. 185 ** | ●○○ |
-| 1765-09-15 | Matka Boża Chełmska | Chełm | Poland |  | Vrabelová 2013, § XXI no. 21 (§ 13.7.2) ** | ●●○ |
-| 1766-08-15 | Matka Boża Jackowa | Przemyśl, Dominicans | Poland |  | Vrabelová 2013, § XXI no. 22 (§ 15.6) **<br>[AAS 52 (1960), p. 450](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●○ |
-| 1767-06-07 | Święta Rodzina Miedniewicka | Miedniewice | Poland |  | Vrabelová 2013, § XXI no. 23 (§ 11.1) ** | ●○○ |
-| 1769 | Madonna della Madia | Monopoli (Apulia) | Italy | retro | [AAS 13 (1921), p. 492](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
+| 1762 | — | Monreale | Italy | chapter | Balzamo 2023, p. 187 *chapter* | ●○○ |
+| 1763 | Santa Maria di Monte Allegro di Rapallo | Rapallo | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1763 | — | Militello in Val di Catania | Italy | chapter | Balzamo 2023, p. 188 *chapter* | ●○○ |
+| 1763-09-08 | Matka Boża Rzeszowska | Rzeszów | Poland | chapter | Vrabelová 2013, § XXI no. 20 (§ 15.7) *chapter* | ●●○ |
+| 1764 | Santa Maria in S. Pietro di Padova | Padua | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1764 | — | Padua | Italy | chapter | Balzamo 2023, p. 185 *chapter* | ●○○ |
+| 1765 | Santa Maria della Prima primaria Congregazione nel Collegio Romano | Rome, Collegio Romano (Prima Primaria) | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1765 | Santa Maria delle Grazie di Valle Valenza | Valle di Valenza (Valtellina), diocese of Como | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1765 | Santa Maria di Quintigliolo nelle vicinanze di Tivoli | Tivoli (Quintiliolo) | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1765 | Santa Maria in S. Rocco di Monte Rotondo | Monterotondo | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1765-09-15 | Nostra Signora di Chelm | Chełm | Poland | chapter | Vrabelová 2013, § XXI no. 21 (§ 13.7.2) *chapter*<br>Zander/Magister 2011, cat. 84, p. 216 *chapter* | ●●○ |
+| 1766 | Santa Maria di Costantinopoli d'Avellino | Avellino | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1766-06-15; 1924 | Madonna dell’Olmo | Cava de' Tirreni | Italy | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter*<br>Zander/Magister 2011, cat. 37, p. 118 *chapter*<br>Zander/Magister 2011, cat. 37, p. 118 *chapter* | ●●○ |
+| 1766-08-15 | Matka Boża Jackowa | Przemyśl, Dominicans | Poland | chapter | Vrabelová 2013, § XXI no. 22 (§ 15.6) *chapter*<br>[AAS 52 (1960), p. 450](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●○ |
+| 1767 | Santa Maria dell'Orto di Chiaveri | Chiavari (Clavarium), Liguria | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1767-06-07 | Święta Rodzina Miedniewicka | Miedniewice | Poland | chapter | Vrabelová 2013, § XXI no. 23 (§ 11.1) *chapter*<br>Zander/Magister 2011, cat. 81, p. 210 *chapter* | ●○○ |
+| 1768 | Santa Maria del Mare in Maggiore | Maiori | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1769 | Santa Maria della Rosa | Genoa (diocese) | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1769 | Santa Maria di Monopoli | Monopoli (Apulia) | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 13 (1921), p. 492](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 
 ## 1770s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1772 | — | Monchiero | Italy |  | Balzamo 2023, p. 185 ** | ●○○ |
-| 1773-09-08 | Matka Boża Poczajowska | Poczajów (Pochaiv) | Ukraine |  | Vrabelová 2013, § XXI no. 24 (§ XIV) ** | ●●○ |
+| 1770; 1815-05-10 | Nostra Signora della Misericordia | Savona | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 6 (1914), p. 374](https://www.vatican.va/archive/aas/documents/AAS-06-1914-ocr.pdf) *by pope*<br>[AAS 7 (1915), p. 201](https://www.vatican.va/archive/aas/documents/AAS-07-1915-ocr.pdf) *retro*<br>[AAS 28 (1936), p. 266](https://www.vatican.va/archive/aas/documents/AAS-28-1936-ocr.pdf) *by pope*<br>[AAS 28 (1936), p. 303](https://www.vatican.va/archive/aas/documents/AAS-28-1936-ocr.pdf) *by pope*<br>[AAS 30 (1938), p. 231](https://www.vatican.va/archive/aas/documents/AAS-30-1938-ocr.pdf) *by pope*<br>[AAS 30 (1938), p. 406](https://www.vatican.va/archive/aas/documents/AAS-30-1938-ocr.pdf) *by pope* | ●●● |
+| 1770 | Santa Maria del Porto Salvo di Napoli | Naples, confraternity of the mariners | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter*<br>Balzamo 2023, p. 188 *chapter* | ●○○ |
+| 1771 | Santa Maria Assunta del Castello del Piano | Castel del Piano, diocese of Chiusi | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1771 | Santa Maria di Costantinopoli di Bari | Bari | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1772 | Santa Maria del Soccorso di Vezzano | Vezzano Ligure | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1772 | Santa Maria di Moncheri | Monchiero | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1772 | — | Monchiero | Italy | chapter | Balzamo 2023, p. 185 *chapter* | ●○○ |
+| 1773-01-08 | Santa Maria del Principio nella Chiesa di Santa Restituta di Napoli | Napoli (Santa Restituta) | Italy | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter*<br>Zander/Magister 2011, cat. 38, p. 120 *chapter* | ●●○ |
+| 1773-09-08 | Santa Maria della Natività Pozcaioviens, Luceorien diaecesis | Poczajów (Pochaiv) | Ukraine | chapter | Vrabelová 2013, § XXI no. 24 (§ XIV) *chapter*<br>[Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1773-09-26 | Santa Maria del Rosario nella Chiesa della Santissima Trinità del Piano | Piano di Sorrento | Italy | chapter | Zander/Magister 2011, cat. 42, p. 128 *chapter*<br>[Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1774 | Santa Maria nella Catedrale di Groseto | Grosseto | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1775 | Santa Maria de' Miracoli nella Chiesa delle Monache della Providenza in Napoli | Napoli (Monache della Provvidenza) | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter*<br>Balzamo 2023, p. 188 *chapter* | ●○○ |
 | 1776 | Dei Genetricis Imago « a Rosa » | Santa Margherita Ligure, Chiavari | Italy | retro | [AAS 43 (1951), p. 669](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●○ |
-| 1776-05-12; 2001-06-26 | Obraz Matki Bożej Łaskawej, Pani Lwowa (Our Lady of Grace, Lady of Lviv; « Śliczna Gwiazda miasta Lwowa ») | Lwów (Lviv), Latin cathedral | Ukraine |  | Vrabelová 2013, § XXI no. 25 (§ 17.1) **<br>[AAS 93 (2001), p. 844](https://www.vatican.va/archive/aas/documents/AAS-93-2001-ocr.pdf) *by pope* | ●●● |
-| 1777-08-15 | Matka Boża Bołszowiecka | Bołszowce (Bilshivtsi) | Ukraine |  | Vrabelová 2013, § XXI no. 26 (§ 17.2) ** | ●●○ |
-| 1777-09-15 | Matka Boża Niepokalana (Franciscans) | Przemyśl, Franciscans | Poland |  | Vrabelová 2013, § XXI no. 27 (§ 16.2) ** | ●●○ |
-| 1778 | — | Calatafimi | Italy |  | Balzamo 2023, p. 187 ** | ●○○ |
-| 1778-10-04 | Matka Boża Latyczowska | Latyczów (Letychiv) | Ukraine |  | Vrabelová 2013, § XXI no. 28 (§ 13.5.2) ** | ●●○ |
-| 1779-08-15 | Matka Boża Międzyrzecka | Międzyrzecz Ostrogski (Velyki Mezhyrichi) | Ukraine |  | Vrabelová 2013, § XXI no. 29 (§ 13.6) ** | ●●○ |
+| 1776-05-12; 2001-06-26 | Obraz Matki Bożej Łaskawej, Pani Lwowa (Our Lady of Grace, Lady of Lviv; « Śliczna Gwiazda miasta Lwowa ») | Lwów (Lviv), Latin cathedral | Ukraine | chapter | Vrabelová 2013, § XXI no. 25 (§ 17.1) *chapter*<br>[AAS 93 (2001), p. 844](https://www.vatican.va/archive/aas/documents/AAS-93-2001-ocr.pdf) *by pope* | ●●● |
+| 1777 | Santa Maria di Civita nella Chiesa d'Itri | Itri | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1777-08-15 | Matka Boża Bołszowiecka | Bołszowce (Bilshivtsi) | Ukraine | chapter | Vrabelová 2013, § XXI no. 26 (§ 17.2) *chapter* | ●●○ |
+| 1777-09-15 | Matka Boża Niepokalana (Franciscans) | Przemyśl, Franciscans | Poland | chapter | Vrabelová 2013, § XXI no. 27 (§ 16.2) *chapter* | ●●○ |
+| 1778 | Santa Maria del Soccorso di Cori | Cori | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1778 | Santa Maria della Concezione nella Cattedrale d'Aquapendente | Acquapendente (cathedral) | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1778 | Santa Maria della Misericordia di Fabriano | Fabriano | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1778 | Santa Maria delle Grazie | Calatafimi | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1778 | Santa Maria delle Grazie | Ponticelli (Sabina) | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1778 | Santa Maria delle Grazie nella Metropolitana di Ferrara | Ferrara | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1778 | Santa Maria di Col de' Venti della Muccia | Muccia (Col di Venti) | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1778 | Santa Maria di Costantinopoli nella Chiesa di Granani | Gragnano, diocese of Lettere | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1778 | Santa Maria di Marzano | Marzano (diocese of Nola) | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1778 | Santa Maria nella Chiesa de Capucini di Palermo | Palermo (Cappuccini) | Italy | chapter | [Briccolani 1800, p. 159](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1778 | — | Calatafimi | Italy | chapter | Balzamo 2023, p. 187 *chapter* | ●○○ |
+| 1778-10-04 | Matka Boża Latyczowska | Latyczów (Letychiv) | Ukraine | chapter | Vrabelová 2013, § XXI no. 28 (§ 13.5.2) *chapter* | ●●○ |
+| 1779 | Santa Maria della Potenza nella Chiesa di S. Giorgio maggiore di Napoli | Napoli (San Giorgio Maggiore) | Italy | chapter | [Briccolani 1800, p. 160](https://archive.org/details/gri_33125011212400) *chapter*<br>Balzamo 2023, p. 188 *chapter* | ●○○ |
+| 1779-08-15 | Matka Boża Międzyrzecka | Międzyrzecz Ostrogski (Velyki Mezhyrichi) | Ukraine | chapter | Vrabelová 2013, § XXI no. 29 (§ 13.6) *chapter* | ●●○ |
 
 ## 1780s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+| 1780 | Santa Maria di Costantinopoli nella Chiesa di S. Eustachio della Città d'Aquaviva | Acquaviva delle Fonti | Italy | chapter | [Briccolani 1800, p. 160](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1780-09-03 | Santa Maria nella Chiesa de Cappucini di Casal Posterlengo | Casalpusterlengo | Italy | chapter | Zander/Magister 2011, cat. 18, p. 80 *chapter*<br>[Briccolani 1800, p. 160](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1781 | Santa Maria dei Sette Veli nella Chiesa Collegiata di Foggia | Foggia | Italy | chapter | [Briccolani 1800, p. 160](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 | 1782 | Madonna di Fontenuova | Monsummano Terme, Pescia | Italy | retro | [AAS 56 (1964), p. 417](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro* | ●●○ |
-| 1785 | — | Vittoria (Sicily) | Italy |  | Balzamo 2023, p. 188 ** | ●○○ |
-| 1786 | — | Alcamo | Italy |  | Balzamo 2023, p. 187 ** | ●○○ |
-| 1786-09-08 | Šiluvos Dievo Motina (Matka Boża Szydłowska) | Szydłów (Šiluva), Samogitia | Lithuania |  | Vrabelová 2013, § XXI no. 30 (§ 13.5.7) ** | ●●○ |
-| 1788 | — | Valperga | Italy |  | Balzamo 2023, p. 185 ** | ●○○ |
+| 1782 | Santa Maria de' Miracoli nella Chiesa d'Alcami | Alcamo | Italy | chapter | [Briccolani 1800, p. 160](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1782 | Santa Maria di tutte le Grazie della Quercia nella Chiesa di Conflenti Inferiori | Conflenti | Italy | chapter | [Briccolani 1800, p. 160](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1783 | Santa Maria nella Chiesa di S. Vito di Positano | Positano | Italy | chapter | [Briccolani 1800, p. 160](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1784 | Santa Maria della Misericordia nella Chiesa di S. Pietro di Jesi | Jesi (San Pietro) | Italy | chapter | [Briccolani 1800, p. 160](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1784-10-29 | Santa Maria del Presepio nell'Oratorio de' Minori Riformati | Palermo (Sant'Antonio di Padova) | Italy | chapter | Zander/Magister 2011, cat. 62, p. 170 *chapter*<br>[Briccolani 1800, p. 160](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
+| 1785 | Santa Maria del Carmine di Nocera de' Pagani | Nocera de' Pagani (Nocera Inferiore) | Italy | chapter | [Briccolani 1800, p. 161](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1785 | Santa Maria Lauretana nella Chiesa de' Cappucini della Città Vittoria | Vittoria (Sicily) | Italy | chapter | [Briccolani 1800, p. 160](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1785 | — | Vittoria (Sicily) | Italy | chapter | Balzamo 2023, p. 188 *chapter* | ●○○ |
+| 1786 | Santa Maria delle Grazie alla Pietra del Pesce in Napoli | Napoli (Pietra del Pesce) | Italy | chapter | [Briccolani 1800, p. 161](https://archive.org/details/gri_33125011212400) *chapter*<br>Balzamo 2023, p. 188 *chapter* | ●○○ |
+| 1786 | Santa Maria delle Grazie nella Chiesa de' Domenicani di Val di Novi | Vallo della Lucania (Novi Velia), diocese of Capaccio | Italy | chapter | [Briccolani 1800, p. 161](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1786 | Santa Maria Lauretana di Forigi | Forio (Ischia) | Italy | chapter | [Briccolani 1800, p. 161](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1786 | — | Alcamo | Italy | chapter | Balzamo 2023, p. 187 *chapter* | ●○○ |
+| 1786-09-08 | Šiluvos Dievo Motina (Matka Boża Szydłowska) | Szydłów (Šiluva), Samogitia | Lithuania | chapter | Vrabelová 2013, § XXI no. 30 (§ 13.5.7) *chapter* | ●●○ |
+| 1788-08-17 | Santa Maria della Natività, di Belmonte | Valperga | Italy | chapter | Balzamo 2023, p. 185 *chapter*<br>Zander/Magister 2011, cat. 1, p. 46 *chapter*<br>[Briccolani 1800, p. 161](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
 
 ## 1790s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1797 | — | Castellammare del Golfo | Italy |  | Balzamo 2023, p. 187 ** | ●○○ |
-| 1797 | — | Enna | Italy |  | Balzamo 2023, p. 188 ** | ●○○ |
+| 1790 | Santa Maria della Neve | Palombara Sabina | Italy | chapter | [Briccolani 1800, p. 161](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1790-09-14; 1814-09-14 | Nostra Signora dei Miracoli | Cicagna | Italy | chapter | Zander/Magister 2011, cat. 9, p. 62 *chapter*<br>Zander/Magister 2011, cat. 9, p. 62 *chapter* | ●●○ |
+| 1791 | Santa Maria di Costantinopoli d'Ischia | Ischia | Italy | chapter | [Briccolani 1800, p. 161](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1793 | Santa Maria nella Chiesa Parrochiale di S. Benedetto in Piscinula | Rome, San Benedetto in Piscinula | Italy | chapter | [Briccolani 1800, p. 161](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
+| 1797 | — | Castellammare del Golfo | Italy | chapter | Balzamo 2023, p. 187 *chapter* | ●○○ |
+| 1797 | — | Enna | Italy | chapter | Balzamo 2023, p. 188 *chapter* | ●○○ |
+| 1797-09-27 | Madonna dei Miracoli | Lucca (San Tommaso in Pelleria) | Italy | chapter | Zander/Magister 2011, cat. 32, p. 108 *chapter* | ●●○ |
 
-## 1810s
+## 1800s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-| 1815-05-10 | Nostra Signora della Misericordia | Savona | Italy | by pope | [AAS 6 (1914), p. 374](https://www.vatican.va/archive/aas/documents/AAS-06-1914-ocr.pdf) *by pope*<br>[AAS 7 (1915), p. 201](https://www.vatican.va/archive/aas/documents/AAS-07-1915-ocr.pdf) *retro*<br>[AAS 28 (1936), p. 266](https://www.vatican.va/archive/aas/documents/AAS-28-1936-ocr.pdf) *by pope*<br>[AAS 28 (1936), p. 303](https://www.vatican.va/archive/aas/documents/AAS-28-1936-ocr.pdf) *by pope*<br>[AAS 30 (1938), p. 231](https://www.vatican.va/archive/aas/documents/AAS-30-1938-ocr.pdf) *by pope*<br>[AAS 30 (1938), p. 406](https://www.vatican.va/archive/aas/documents/AAS-30-1938-ocr.pdf) *by pope* | ●●● |
+| 1804-08-12 | Madonna della Lobra | Massa Lubrense | Italy | chapter | Zander/Magister 2011, cat. 43, p. 130 *chapter* | ●●○ |
 
 ## 1820s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+| 1821-09-08 | Madonna della Rovere | San Bartolomeo al Mare | Italy | chapter | Zander/Magister 2011, cat. 10, p. 64 *chapter* | ●●○ |
 | 1826-12-30 | Immacolata (Immacolata di Placido Baccher) | Naples | Italy | retro | [AAS 1 (1909), p. 498](https://www.vatican.va/archive/aas/documents/AAS-01-1909-ocr.pdf) *retro*<br>[AAS 36 (1944), p. 152](https://www.vatican.va/archive/aas/documents/AAS-36-1944-ocr.pdf) *retro*<br>[AAS 51 (1959), p. 34](https://www.vatican.va/archive/aas/documents/AAS-51-1959-ocr.pdf) *retro* | ●●● |
 
 ## 1830s
@@ -227,22 +436,28 @@ Vatican Chapter crowning later renewed by a Pope.
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
 | 1843 | Madonna della Bruna | Matera | Italy | retro | [AAS 55 (1963), p. 324](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
+| 1843-05-28 | Madonna della Salve | Alessandria | Italy | chapter | Zander/Magister 2011, cat. 2, p. 48 *chapter* | ●●○ |
 
 ## 1850s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+| 1852-05-20 | Madonna del Pozzo | Capurso | Italy | chapter | Zander/Magister 2011, cat. 54, p. 152 *chapter* | ●●○ |
+| 1854-12-08 | Madonna Immacolata | Rome, Vatican Basilica (Cappella del Coro) | Italy | chapter | Zander/Magister 2011, cat. V5, p. 32 *chapter* | ●○○ |
 | 1855 | Notre-Dame des Miracles | Mauriac, Saint-Flour | France | retro | [AAS 13 (1921), p. 493](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 | 1856 | Madonna del Molino | Lugo, Imola | Italy | retro | [AAS 43 (1951), p. 726](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●● |
 | 1856 | Sacrum Cor Immaculatum Beatae Mariae Virginis | Taggia, Ventimiglia | Italy | retro | [AAS 35 (1943), p. 251](https://www.vatican.va/archive/aas/documents/AAS-35-1943-ocr.pdf) *retro* | ●●● |
 | 1856-07-02 | Notre-Dame de Verdelais | Verdelais, Bordeaux | France | retro | [AAS 16 (1924), p. 152](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
+| 1857-08-20; 1862-08-17 | Vergine del Sacro Monte | Varallo (Sacro Monte) | Italy | chapter | Zander/Magister 2011, cat. 3, p. 50 *chapter*<br>Zander/Magister 2011, cat. 3, p. 50 *chapter* | ●●○ |
 
 ## 1860s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+| 1863-08-15 | Madonna di Barbana | Grado (Isola di Barbana) | Italy | chapter | Zander/Magister 2011, cat. 25, p. 94 *chapter* | ●●○ |
 | 1864 | Sedembolestná Panna Mária (Šaštín) | Šaštín-Stráže, Trnava | Slovakia | retro | [AAS 57 (1965), p. 457](https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf) *retro* | ●●○ |
 | 1865 | Notre-Dame d'Esperance | Briconium (Saint-Brieuc), Brittany | France | retro | [ASS 36 (1903), p. 400](https://www.vatican.va/archive/ass/documents/ASS-36-1903-4-ocr.pdf) *retro* | ●●○ |
+| 1867-08-15 | Virga Jesse | Hasselt | Belgium | chapter | Zander/Magister 2011, cat. 77, p. 202 *chapter* | ●●○ |
 | 1869 | Notre-Dame du Sacre-Coeur | Issoudun, Bourges | France | retro | [ASS 11 (1878), p. 618](https://www.vatican.va/archive/ass/documents/ASS-11-1878-ocr.pdf) *retro*<br>[AAS 11 (1919), p. 344](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
 | 1869-12-08 | L'Immacolata Concezione (mosaic in the Cappella del Coro) | Vatican City / Rome | Vatican City | by pope | [AAS 53 (1961), p. 34](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *by pope* | ●●○ |
 
@@ -252,11 +467,13 @@ Vatican Chapter crowning later renewed by a Pope.
 |---|---|---|---|---|---|---|
 | 1870 | Beata Maria Virgo Mater Gratiarum | Udine (Utinum) | Italy | retro | [AAS 14 (1922), p. 491](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro* | ●●● |
 | 1870 | Notre-Dame d'Arcachon | Arcachon, Bordeaux | France | retro | [AAS 45 (1953), p. 714](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *retro* | ●●● |
-| 1870-04-24; 1926 | Nostra Signora di Bonaria | Cagliari (Calaris) | Italy | legate | [ASS 6 (1870), p. 353](https://www.vatican.va/archive/ass/documents/ASS-06-1870-71-ocr.pdf) *retro*<br>[AAS 18 (1926), p. 302](https://www.vatican.va/archive/aas/documents/AAS-18-1926-ocr.pdf) *legate*<br>[AAS 18 (1926), p. 376](https://www.vatican.va/archive/aas/documents/AAS-18-1926-ocr.pdf) *retro* | ●●● |
+| 1870-04-24; 1926-04-24 | Nostra Signora di Bonaria | Cagliari (Calaris) | Italy | chapter | Zander/Magister 2011, cat. 58, p. 162 *chapter*<br>[ASS 6 (1870), p. 353](https://www.vatican.va/archive/ass/documents/ASS-06-1870-71-ocr.pdf) *retro*<br>Zander/Magister 2011, cat. 58, p. 162 *chapter*<br>[AAS 18 (1926), p. 302](https://www.vatican.va/archive/aas/documents/AAS-18-1926-ocr.pdf) *legate*<br>[AAS 18 (1926), p. 376](https://www.vatican.va/archive/aas/documents/AAS-18-1926-ocr.pdf) *retro* | ●●● |
 | 1872; 1927 | Onze-Lieve-Vrouw van Scherpenheuvel (Notre-Dame de Montaigu) | Scherpenheuvel (Aspricollis), near Leuven, Mechelen (Malines) | Belgium | legate | [AAS 14 (1922), p. 374](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro*<br>[AAS 19 (1927), p. 308](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *legate* | ●●● |
+| 1872-06-24 | Madonna delle Grazie | Ardesio | Italy | chapter | Zander/Magister 2011, cat. 19, p. 82 *chapter* | ●●○ |
+| 1872-08-22 | Notre Dame De La Délivrande | Douvres-la-Délivrande | France | chapter | Zander/Magister 2011, cat. 73, p. 194 *chapter* | ●●○ |
 | 1873 | Notre-Dame de Sion | Mons Sion (Sion-Vaudémont), Lotharingia, Nancy-Toul | France | retro | [AAS 27 (1935), p. 328](https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf) *retro* | ●●● |
 | 1874 | Madonna dell'Arco | near Naples (apud urbem Neapolim) | Italy | retro | [AAS 66 (1974), p. 485](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *retro* | ●●○ |
-| 1874 | Madonna di Pozzano | Castellammare di Stabia (Castrum Maris seu Stabia) | Italy | retro | [AAS 8 (1916), p. 259](https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf) *retro* | ●●● |
+| 1874-07-02 | Santa Maria di Pozzano | Castellammare di Stabia (Castrum Maris seu Stabia) | Italy | chapter | Zander/Magister 2011, cat. 44, p. 132 *chapter*<br>[AAS 8 (1916), p. 259](https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf) *retro* | ●●● |
 | 1874-10-04 | Notre-Dame de Hal / Onze-Lieve-Vrouw van Halle | Halle (Hal), Mechelen | Belgium | retro | [AAS 40 (1948), p. 448](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro* | ●●● |
 | 1875 | Madonna del Carmine, «la Bruna» | Naples (Neapolis) | Italy | retro | [AAS 10 (1918), p. 12](https://www.vatican.va/archive/aas/documents/AAS-10-1918-ocr.pdf) *retro* | ●●● |
 | 1875 | signum Beatae Mariae Virginis, durateum, argento obductum, arte « Romanica » conspicuum | Walcourt, Namur | Belgium | retro | [AAS 43 (1951), p. 268](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●○ |
@@ -264,6 +481,8 @@ Vatican Chapter crowning later renewed by a Pope.
 |  | Sainte-Anne d'Auray | le Bourg de Sainte-Anne, parish of Pluneret, near Auray, Brittany, Vannes | France | retro | [ASS 9 (1876), p. 373](https://www.vatican.va/archive/ass/documents/ASS-09-1876-ocr.pdf) *retro*<br>[AAS 16 (1924), p. 284](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
 | 1876 | Notre-Dame d'Afrique | Icosium (Algiers) | Algeria | retro | [AAS 53 (1961), p. 356](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●● |
 | 1876-07-30 | Onze-Lieve-Vrouw van Hanswijk / Notre-Dame de Hanswijk | Mechelen (Malines) | Belgium | retro | [AAS 79 (1987), p. 1377](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *retro* | ●●● |
+| 1876-08-29 | Madonna di Valleverde | Bovino | Italy | chapter | Zander/Magister 2011, cat. 55, p. 154 *chapter* | ●●○ |
+| 1876-09-10 | Santa Maria dell’Eremita, Nostra Signora della Misericordia | Mallare (Eremita) | Italy | chapter | Zander/Magister 2011, cat. 11, p. 66 *chapter* | ●●○ |
 | 1877 | Imago Virginis (B. Mariae Virginis in caelum Assumptae) | Starawieś, Przemyśl (Latin rite) | Poland | retro | [AAS 20 (1928), p. 17](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●● |
 
 ## 1880s
@@ -273,28 +492,42 @@ Vatican Chapter crowning later renewed by a Pope.
 | 1880 | Madonna del Sasso | Locarno, Lugano | Switzerland | retro | [AAS 11 (1919), p. 66](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
 | 1880 | Notre-Dame de Bon Secours | Lablachère, Viviers | France | retro | [AAS 23 (1931), p. 153](https://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf) *retro* | ●●● |
 | 1880-05-24 | Notre-Dame de Bon-Secours | Rouen (Rothomagum) | France | retro | [AAS 11 (1919), p. 226](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
+| 1880-07-11; 1980 | Santa Maria del Carmine | Sorrento | Italy | chapter | Zander/Magister 2011, cat. 47, p. 138 *chapter*<br>Zander/Magister 2011, cat. 47, p. 138 *chapter* | ●●○ |
+| 1881-05-28 | Nostra Signora delle Grazie | Nettuno | Italy | chapter | Zander/Magister 2011, cat. 36, p. 116 *chapter* | ●●○ |
+| 1881-07-15 | Our Lady of Mount Carmel | Valletta | Malta | chapter | Zander/Magister 2011, cat. 85, p. 218 *chapter* | ●●○ |
 | 1881-08-30 | Madonna di Polsi (Madonna della Montagna) | Polsi (Aspromonte, Calabria), Gerace (Locri-Gerace) | Italy | retro | [AAS 12 (1920), p. 151](https://www.vatican.va/archive/aas/documents/AAS-12-1920-ocr.pdf) *retro* | ●●● |
 | 1881-09-08 | Notre-Dame de Tongre | Tongre-Notre-Dame, Tournai | Belgium | retro | [AAS 44 (1952), p. 363](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro* | ●●● |
+| 1881-09-11 | Nuestra Señora de Montserrat, La Moreneta | Montserrat | Spain | chapter | Zander/Magister 2011, cat. 63, p. 174 *chapter* | ●●○ |
+| 1883-09-08 | Nostra Signora di Piasek | Kraków (Na Piasku) | Poland | chapter | Zander/Magister 2011, cat. 82, p. 212 *chapter* | ●●○ |
+| 1885-11-15 | Madonna della Libera | Napoli (Donnaregina) | Italy | chapter | Zander/Magister 2011, cat. 39, p. 122 *chapter* | ●●○ |
 | 1886 | Madonna delle Grazie | Brixia (Brescia) | Italy | retro | [AAS 53 (1961), p. 672](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●○ |
-| 1886 | Nuestra Senora de Aranzazu | Aranzazu, near Onate (Guipuzcoa), Vitoria | Spain | retro | [AAS 14 (1922), p. 35](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro* | ●●○ |
 | 1886-04-20 | Madonna Consolatrice del Carpinello | Visciano, Nola | Italy | retro | [AAS 79 (1987), p. 247](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *retro* | ●●● |
+| 1886-06-06 | Nuestra Senora de Aranzazu | Aranzazu, near Onate (Guipuzcoa), Vitoria | Spain | chapter | Zander/Magister 2011, cat. 64, p. 176 *chapter*<br>[AAS 14 (1922), p. 35](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro* | ●●○ |
+| 1886-09-12 | Santa Maria della Misericordia | Castelleone | Italy | chapter | Zander/Magister 2011, cat. 20, p. 84 *chapter* | ●●○ |
 | 1887 | La Pura y Limpia Concepción del Río Luján (Nuestra Señora de Luján) | Luján | Argentina | retro | [AAS 39 (1947), p. 627](https://www.vatican.va/archive/aas/documents/AAS-39-1947-ocr.pdf) *retro* | ●●● |
 | 1887-08-15 | Obraz Matki Bożej Kalwaryjskiej (Our Lady of Kalwaria) | Kalwaria Zebrzydowska, Kraków | Poland | retro | [AAS 71 (1979), p. 840](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) *retro* | ●●● |
 | 1888 | Madonna del Transito | Canoscio (Città di Castello) | Italy | retro | [AAS 90 (1998), p. 469](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *retro* | ●●○ |
+| 1888-05-20 | Mater Domini | Laterza | Italy | chapter | Zander/Magister 2011, cat. 56, p. 156 *chapter* | ●●○ |
 
 ## 1890s
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+| 1890 | Nostra Signora dell’Annunziata delle Olivette | Arenzano | Italy | chapter | Zander/Magister 2011, cat. 12, p. 68 *chapter* | ●●○ |
 | 1890 | Trosterin der Betrübten (Kevelaer) | Kevelaer, Münster | Germany | retro | [AAS 15 (1923), p. 488](https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf) *retro* | ●●● |
 | 1890-08-05 | Assumptio Dei Genetricis, a Gulielmo Caccia, quem et « Moncalvo » appellant, coloribus expressa | Monte Crea (Montferrat), Casale Monferrato | Italy | retro | [AAS 44 (1952), p. 179](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro* | ●●○ |
 | 1891 | Nuestra Señora del Valle | Catamarca | Argentina | retro | [AAS 8 (1916), p. 144](https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf) *retro*<br>[AAS 33 (1941), p. 447](https://www.vatican.va/archive/aas/documents/AAS-33-1941-ocr.pdf) *retro*<br>[AAS 102 (2010), p. 454](https://www.vatican.va/archive/aas/documents/2010/agosto%202010.pdf) *retro* | ●●● |
 | 1892 | Nuestra Señora del Milagro | Córdoba | Argentina | retro | [AAS 3 (1911), p. 177](https://www.vatican.va/archive/aas/documents/AAS-03-1911-ocr.pdf) *retro* | ●●● |
+| 1892-05-24 | Notre Dame Du Grand Pouvoir | Périgueux | France | chapter | Zander/Magister 2011, cat. 74, p. 196 *chapter* | ●●○ |
+| 1892-09-04; 1991-04-28 | Madonna del Monte di Viggiano | Viggiano, Potenza-Marsico Nuovo | Italy | chapter | Zander/Magister 2011, cat. 52, p. 148 *chapter*<br>[AAS 58 (1966), p. 566](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro*<br>Zander/Magister 2011, cat. 52, p. 148 *chapter* | ●●○ |
 | 1893 | Madonna delle Grazie | Telese - Cerreto Sannita | Italy | retro | [AAS 57 (1965), p. 155](https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf) *retro* | ●●○ |
 | 1893 | Maria Ausiliatrice (Madonna del soccorso dei Cristiani) | Isola di San Giorgio Maggiore, Venice | Italy | retro | [AAS 50 (1958), p. 719](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
-| 1893-08-05 | Santa Maria della Neve | Cuglieri (Sardinia), Bosa | Italy | retro | [AAS 11 (1919), p. 409](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
-| 1895-10-12; 1945-10-12; 1979-01-27 | Nuestra Señora de Guadalupe | Mexico City | Mexico |  | Balzamo 2023, p. 184 **<br>[AAS 37 (1945), p. 254](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 264](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 267](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *by pope*<br>[AAS 58 (1966), p. 475](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro*<br>[AAS 62 (1970), p. 681](https://www.vatican.va/archive/aas/documents/AAS-62-1970-ocr.pdf) *retro*<br>[AAS 71 (1979), p. 177](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) *by pope* | ●●● |
+| 1893-08-05 | Santa Maria della Neve, Sancta Maria ad Nives | Cuglieri (Sardinia), Bosa | Italy | chapter | Zander/Magister 2011, cat. 59, p. 164 *chapter*<br>[AAS 11 (1919), p. 409](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
+| 1894-08-11 | Madonna di Piné | Montagnaga di Piné | Italy | chapter | Zander/Magister 2011, cat. 24, p. 92 *chapter* | ●●○ |
+| 1895-10-12; 1945-10-12; 1979-01-27 | Nuestra Señora de Guadalupe | Mexicopolis (Mexico City) | Mexico | chapter | Balzamo 2023, p. 184 *chapter*<br>[Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 37 (1945), p. 254](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 264](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 267](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *by pope*<br>[AAS 58 (1966), p. 475](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro*<br>[AAS 62 (1970), p. 681](https://www.vatican.va/archive/aas/documents/AAS-62-1970-ocr.pdf) *retro*<br>[AAS 71 (1979), p. 177](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) *by pope* | ●●● |
+| 1896-09-05 | Madonna dei Campi, Nostra Signora della Preghiera | Stezzano | Italy | chapter | Zander/Magister 2011, cat. 21, p. 86 *chapter* | ●●○ |
 | 1897 | La Madonna Grande | Treviso | Italy | retro | [AAS 9 (1917), p. 324](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●● |
+| 1897-08-08 | Santa Maria di Portosalvo | Castellammare di Stabia (Portosalvo) | Italy | chapter | Zander/Magister 2011, cat. 45, p. 134 *chapter* | ●●○ |
 | 1898-09-08 | Madonna del Buon Gesù | Fabriano | Italy | retro | [AAS 48 (1956), p. 365](https://www.vatican.va/archive/aas/documents/AAS-48-1956-ocr.pdf) *retro* | ●●● |
 | 1899 | Nuestra Señora de la Salud | Pátzcuaro, Morelia (Michoacán) | Mexico | retro | [AAS 16 (1924), p. 353](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
 | 1899-06-11 | Beata Maria Virgo « a Miraculis » | Casalbordino, Vasto (now Chieti-Vasto) | Italy | retro | [AAS 43 (1951), p. 156](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●● |
@@ -303,6 +536,9 @@ Vatican Chapter crowning later renewed by a Pope.
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
+| 1900 | Notre Dame De La Sarte | Huy | Belgium | chapter | Zander/Magister 2011, cat. 78, p. 204 *chapter* | ●●○ |
+| 1900-08-15 | Madonna del Pasco | Villanova Mondovì | Italy | chapter | Zander/Magister 2011, cat. 4, p. 52 *chapter* | ●●○ |
+| 1900-09-08 | Virgen de Begoña | Bilbao | Spain | chapter | Zander/Magister 2011, cat. 65, p. 178 *chapter* | ●●○ |
 | 1902 | Signum Virginis Immaculatae | Linz (Lincia) | Austria | retro | [AAS 16 (1924), p. 229](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●○ |
 |  | Imago SSmi Iesu Cordis | Berchem, suburb of Antwerp (suburbium Antverpiae civitatis vulgo Berchem), Mechelen (Malines) | Belgium | act | [ASS 36 (1903), p. 401](https://www.vatican.va/archive/ass/documents/ASS-36-1903-4-ocr.pdf) *act* | ●●● |
 | 1903 | imago Christi Cruci affixi | Sestri Levante, Chiavari | Italy | retro | [AAS 55 (1963), p. 320](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
@@ -311,19 +547,32 @@ Vatican Chapter crowning later renewed by a Pope.
 | 1903-05-27 | Maria Ausiliatrice | Turin | Italy | act | [ASS 35 (1902), p. 580](https://www.vatican.va/archive/ass/documents/ASS-35-1902-3-ocr.pdf) *act*<br>[ASS 35 (1902), p. 709](https://www.vatican.va/archive/ass/documents/ASS-35-1902-3-ocr.pdf) *retro*<br>[AAS 3 (1911), p. 410](https://www.vatican.va/archive/aas/documents/AAS-03-1911-ocr.pdf) *retro* | ●●● |
 |  | Imago Deiparae sub titulo Reginae omnium Sanctorum | Ancona | Italy | by pope | [ASS 37 (1904), p. 195](https://www.vatican.va/archive/ass/documents/ASS-37-1904-5-ocr.pdf) *by pope*<br>[AAS 19 (1927), p. 13](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *retro* | ●●● |
 | 1904 | Deiparae Immaculatae simulacrum | Braga | Portugal | retro | [AAS 46 (1954), p. 365](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro* | ●●○ |
-| 1904 | Nossa Senhora da Conceição Aparecida | Aparecida | Brazil | retro | [AAS 23 (1931), p. 7](https://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf) *retro*<br>[AAS 46 (1954), p. 524](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro*<br>[AAS 59 (1967), p. 769](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●● |
 | 1904; 1954 | Notre-Dame du Cap | Cap-de-la-Madeleine, Trois-Rivières | Canada | legate | [AAS 46 (1954), p. 481](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *legate*<br>[AAS 58 (1966), p. 42](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●● |
-| 1904 | Prodigiosa imago Beatae Mariae Virginis, populi Suessani Advocata | Sessa Aurunca | Italy | retro | [AAS 22 (1930), p. 267](https://www.vatican.va/archive/aas/documents/AAS-22-1930-ocr.pdf) *retro* | ●●● |
+| 1904-08-15 | Virgen de Los Ojos Grandes | Lugo | Spain | chapter | Zander/Magister 2011, cat. 66, p. 180 *chapter* | ●●○ |
+| 1904-09-08 | Madonna delle Grazie di Valle | Gavi (Valle) | Italy | chapter | Zander/Magister 2011, cat. 5, p. 54 *chapter* | ●●○ |
+| 1904-09-08 | Nossa Senhora da Conceição Aparecida | Aparecida | Brazil | chapter | Zander/Magister 2011, cat. 89, p. 228 *chapter*<br>[AAS 23 (1931), p. 7](https://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf) *retro*<br>[AAS 46 (1954), p. 524](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro*<br>[AAS 59 (1967), p. 769](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●● |
+| 1904-09-11 | Madonna Avvocata del Popolo | Sessa Aurunca | Italy | chapter | Zander/Magister 2011, cat. 48, p. 140 *chapter*<br>[AAS 22 (1930), p. 267](https://www.vatican.va/archive/aas/documents/AAS-22-1930-ocr.pdf) *retro* | ●●● |
+| 1904-09-14 | Notre Dame Reine de la Paix, Notre Dame d’Arlon | Arlon | Belgium | chapter | Zander/Magister 2011, cat. 79, p. 206 *chapter* | ●●○ |
+| 1904-10-09 | Mare de Déu de La Misericòrdia | Reus | Spain | chapter | Zander/Magister 2011, cat. 67, p. 182 *chapter* | ●●○ |
+| 1905 | Santa Maria Lagrimosa | Novi Ligure | Italy | chapter | Zander/Magister 2011, cat. 6, p. 56 *chapter* | ●●○ |
+| 1905-06-01 | Madonna di Loreto, Oregina | Genoa (Oregina) | Italy | chapter | Zander/Magister 2011, cat. 13, p. 70 *chapter* | ●●○ |
+| 1905-09-07 | Nuestra Señora del Pino | Teror (Gran Canaria) | Spain | chapter | Zander/Magister 2011, cat. 68, p. 184 *chapter* | ●●○ |
 | 1906 | Madonna del Pilastrello | Lendinara, Adria | Italy | retro | [AAS 3 (1911), p. 122](https://www.vatican.va/archive/aas/documents/AAS-03-1911-ocr.pdf) *retro* | ●●● |
+| 1906-09-02 | Madonna delle Grazie | Orta San Giulio | Italy | chapter | Zander/Magister 2011, cat. 7, p. 58 *chapter* | ●●○ |
 | 1907 | Nuestra Señora de la Misericordia | Canet de Mar, Girona | Spain | retro | [AAS 49 (1957), p. 896](https://www.vatican.va/archive/aas/documents/AAS-49-1957-ocr.pdf) *retro* | ●●● |
 | 1907-08-15 | Maria Santissima del Soccorso | Sciacca (Thermae Selinuntinae), Agrigento | Italy | retro | [AAS 83 (1991), p. 925](https://www.vatican.va/archive/aas/documents/AAS-83-1991-ocr.pdf) *retro* | ●●● |
 |  | — |  |  | norms | [ASS 41 (1908), p. 621](https://www.vatican.va/archive/ass/documents/ASS-41-1908-ocr.pdf) *norms* | ●●● |
 | 1908 | Notre-Dame des Miracles et Vertus | Rennes | France | retro | [AAS 9 (1917), p. 63](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro*<br>[AAS 9 (1917), p. 64](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●● |
-| 1908 | Nuestra Señora de la Encina | Ponferrada (region « El Bierzo »), Astorga | Spain | retro | [AAS 50 (1958), p. 673](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
+| 1908-09-08 | Nuestra Señora De La Encina, Virgen De La Encina | Ponferrada (region « El Bierzo »), Astorga | Spain | chapter | Zander/Magister 2011, cat. 69, p. 186 *chapter*<br>[AAS 50 (1958), p. 673](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
+| 1908-09-08; 1958 | Santa Maria Preziosa | Casal di Principe | Italy | chapter | Zander/Magister 2011, cat. 49, p. 142 *chapter*<br>Zander/Magister 2011, cat. 49, p. 142 *chapter* | ●●○ |
+| 1908-10-06 | Notre Dame Du Chêne | Vion | France | chapter | Zander/Magister 2011, cat. 75, p. 198 *chapter* | ●○○ |
 | 1909 | Madonna di Lourdes | Stella, Savona | Italy | retro | [AAS 27 (1935), p. 44](https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf) *retro* | ●●○ |
 | 1909 | Notre-Dame de Gray | Gray, Besançon | France | retro | [AAS 42 (1950), p. 544](https://www.vatican.va/archive/aas/documents/AAS-42-1950-ocr.pdf) *retro* | ●●● |
 | 1909-01-18 | Nuestra Señora de la Soledad | Antequera (Oaxaca) | Mexico | retro | [AAS 52 (1960), p. 77](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●● |
+| 1909-04-23; 1960 | Virgen De La Cabeza | Andújar, Jaén | Spain | chapter | Zander/Magister 2011, cat. 70, p. 188 *chapter*<br>Zander/Magister 2011, cat. 70, p. 188 *chapter*<br>[AAS 52 (1960), p. 383](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●● |
+| 1909-05-09 | Madonna delle Grazie | Sassari | Italy | chapter | Zander/Magister 2011, cat. 60, p. 166 *chapter* | ●●○ |
 | 1909-05-23 | Madonna Costantinopolitana | Padua (Patavium) | Italy | legate | [AAS 1 (1909), p. 460](https://www.vatican.va/archive/aas/documents/AAS-01-1909-ocr.pdf) *legate*<br>[AAS 1 (1909), p. 573](https://www.vatican.va/archive/aas/documents/AAS-01-1909-ocr.pdf) *retro* | ●●● |
+| 1909-08-22 | Santa Maria dell’Orto | Genoa (Cremeno) | Italy | chapter | Zander/Magister 2011, cat. 14, p. 72 *chapter* | ●●○ |
 
 ## 1910s
 
@@ -331,16 +580,25 @@ Vatican Chapter crowning later renewed by a Pope.
 |---|---|---|---|---|---|---|
 |  | Notre-Dame de Bonsecours | Bonsecours, Tournai | Belgium | retro | [AAS 2 (1910), p. 323](https://www.vatican.va/archive/aas/documents/AAS-02-1910-ocr.pdf) *retro* | ●●● |
 | 1910 | Nuestra Señora del Socorro | Valentia (Valencia) | Venezuela | retro | [AAS 52 (1960), p. 885](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●● |
+| 1910-05-22 | Madonna del Castello, Regina degli Apostoli | Caraglio | Italy | chapter | Zander/Magister 2011, cat. 8, p. 60 *chapter* | ●●○ |
 | 1910-09-04 | Madonna Addolorata al Fiumicello | Naples | Italy | retro | [AAS 9 (1917), p. 58](https://www.vatican.va/archive/aas/documents/AAS-09-I-1917-ocr.pdf) *retro* | ●●● |
 | 1911 | Imago Beatae Mariae Virginis (olim « Sanctae Mariae ad pratum » Susatii) | Werl, Paderborn | Germany | retro | [AAS 46 (1954), p. 479](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro* | ●●● |
+| 1911-03-25 | Santa Maria Draperis | Istanbul | Turkey | chapter | Zander/Magister 2011, cat. 86, p. 220 *chapter* | ●●○ |
+| 1911-09-08 | Virgen del Valle | El Valle del Espíritu Santo (Isla Margarita) | Venezuela | chapter | Zander/Magister 2011, cat. 87, p. 224 *chapter* | ●●○ |
 |  | Santa Maria ad Rupes | Castel Sant'Elia (sancti Eliae Castrum), vallis Suppentonia, Nepi | Italy | retro | [AAS 4 (1912), p. 553](https://www.vatican.va/archive/aas/documents/AAS-04-1912-ocr.pdf) *retro* | ●●● |
 | 1912 | Notre-Dame du Beau Rameau | Bétharram, Bayonne | France | act | [AAS 4 (1912), p. 490](https://www.vatican.va/archive/aas/documents/AAS-04-1912-ocr.pdf) *act* | ●●● |
 | 1912 | Sterre der Zee (Star of the Sea) | Maastricht, Roermond | Netherlands | retro | [AAS 25 (1933), p. 242](https://www.vatican.va/archive/aas/documents/AAS-25-1933-ocr.pdf) *retro* | ●●○ |
+| 1912-04-21 | Beata Vergine della Sanità | Castellammare di Stabia (Quisisana) | Italy | chapter | Zander/Magister 2011, cat. 46, p. 136 *chapter* | ●●○ |
 |  | sacerrimum Virginis Deiparae simulacrum quod Conspicuae colitur | Cospicua (Bormla), Malta | Malta | retro | [AAS 5 (1913), p. 180](https://www.vatican.va/archive/aas/documents/AAS-05-1913-ocr.pdf) *retro* | ●●○ |
 | 1913 | Beatae Mariae Virginis Simulacrum (B. M. V. in Caelum Assumpta) | Santa Maria a Vico, Acerra | Italy | retro | [AAS 50 (1958), p. 354](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
 |  | pervetustum Virginis augustae simulacrum, Ariminensibus sacrum | Rimini | Italy | by pope | [AAS 6 (1914), p. 180](https://www.vatican.va/archive/aas/documents/AAS-06-1914-ocr.pdf) *by pope* | ●●● |
+| 1914-08-02 | Madonna della Neve | Napoli (Ponticelli) | Italy | chapter | Zander/Magister 2011, cat. 40, p. 124 *chapter* | ●●○ |
+| 1915-04-18 | Vergine Annunziata | Napoli (Annunziata Maggiore) | Italy | chapter | Zander/Magister 2011, cat. 41, p. 126 *chapter* | ●●○ |
 |  | Mare de Déu de la Mercè / Nuestra Señora de la Merced | Barcelona | Spain | retro | [AAS 10 (1918), p. 435](https://www.vatican.va/archive/aas/documents/AAS-10-1918-ocr.pdf) *retro* | ●●● |
 | 1919 | Nuestra Señora del Rosario de Chiquinquirá | Chiquinquirá, Tunja | Colombia | retro | [AAS 20 (1928), p. 18](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●● |
+| 1919-07-23 | Madonna di Altino | Vall'Alta di Albino | Italy | chapter | Zander/Magister 2011, cat. 22, p. 88 *chapter* | ●●○ |
+| 1919-08-17 | Santa Maria Annunziata | Sant'Agnello di Sorrento (Angri) | Italy | chapter | Zander/Magister 2011, cat. 50, p. 144 *chapter* | ●●○ |
+| 1919-09-21 | Madonna del Pianto | Albino | Italy | chapter | Zander/Magister 2011, cat. 23, p. 90 *chapter* | ●●○ |
 | 1919-09-21 | simulacrum, cedrino ligno sculptum, Beatae Mariae Virginis de Monte Carmelo | Recife | Brazil | retro | [AAS 13 (1921), p. 8](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 
 ## 1920s
@@ -349,17 +607,25 @@ Vatican Chapter crowning later renewed by a Pope.
 |---|---|---|---|---|---|---|
 |  | Nuestra Senora de la Luz (Madre Santisima de la Luz) | Leon | Mexico | retro | [AAS 12 (1920), p. 437](https://www.vatican.va/archive/aas/documents/AAS-12-1920-ocr.pdf) *retro* | ●●● |
 | 1920 | Antiquum Simulacrum Sancti Nicolai Barensis | La Rioja | Argentina | retro | [AAS 40 (1948), p. 290](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro* | ●●● |
-| 1920 | Madonna della Quercia | Bettola, Piacenza | Italy | retro | [AAS 55 (1963), p. 29](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
 | 1920 | Nuestra Señora de la Paz | San Miguel | El Salvador | retro | [AAS 59 (1967), p. 605](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●● |
+| 1920-05-09 | Maria Santissima Addolorata | Viareggio, Lucca | Italy | chapter | Zander/Magister 2011, cat. 33, p. 110 *chapter*<br>[AAS 55 (1963), p. 913](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
+| 1920-05-30 | Santa Maria Addolorata, Santa Maria della Pietà | Eboli | Italy | chapter | Zander/Magister 2011, cat. 51, p. 146 *chapter* | ●●○ |
+| 1920-05-31; 1959 | Nuestra Señore De Monserrate | Orihuela | Spain | chapter | Zander/Magister 2011, cat. 71, p. 190 *chapter*<br>Zander/Magister 2011, cat. 71, p. 190 *chapter* | ●●○ |
+| 1920-06-27 | La Madonnetta | Genoa (Carbonara) | Italy | chapter | Zander/Magister 2011, cat. 15, p. 74 *chapter* | ●●○ |
 | 1920-06-27 | Santa Maria degli Angeli | Rome | Italy | retro | [AAS 12 (1920), p. 435](https://www.vatican.va/archive/aas/documents/AAS-12-1920-ocr.pdf) *retro* | ●●● |
+| 1920-07-04 | Notre Dame Du Guet, Reine De La Paix | Bar-le-Duc | France | chapter | Zander/Magister 2011, cat. 76, p. 200 *chapter* | ●●○ |
+| 1920-09-05 | Madonna della Quercia | Bettola, Piacenza | Italy | chapter | Zander/Magister 2011, cat. 26, p. 96 *chapter*<br>[AAS 55 (1963), p. 29](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
 | 1920-11-21 | Nostra Signora delle Vigne | Genoa | Italy | legate | [AAS 12 (1920), p. 568](https://www.vatican.va/archive/aas/documents/AAS-12-1920-ocr.pdf) *legate* | ●●● |
 |  | Maria Bambina | Senglea, Malta | Malta | retro | [AAS 13 (1921), p. 190](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●○ |
 |  | Nuestra Senora de Chiquinquira | Maracaibo | Venezuela | retro | [AAS 13 (1921), p. 5](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 | 1921 | Madonna degli Infermi | Vercelli (Vercellae) | Italy | retro | [AAS 14 (1922), p. 38](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro* | ●●○ |
 | 1921 | Madonna di Follina (Santa Maria Assunta / Annunciazione) | Follina, Ceneda (Vittorio Veneto) | Italy | retro | [AAS 13 (1921), p. 470](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●○ |
 | 1921 | Matka Boża Różańcowa | Kraków | Poland | retro | [AAS 50 (1958), p. 850](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
+| 1921-09-11; 1984 | Madonna della Catena | Dipignano (Laurignano), Cosenza | Italy | chapter | Zander/Magister 2011, cat. 57, p. 158 *chapter*<br>[AAS 58 (1966), p. 629](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro*<br>Zander/Magister 2011, cat. 57, p. 158 *chapter* | ●●○ |
+| 1921-09-18 | Santa Maria Addolorata | Senigallia | Italy | chapter | Zander/Magister 2011, cat. 28, p. 100 *chapter* | ●●○ |
 |  | Notre-Dame du Saint-Cordon | Valenciennes, Cambrai | France | retro | [AAS 14 (1922), p. 492](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro* | ●●● |
 |  | Nuestra Señora de la Merced | Santiago de Chile | Chile | retro | [AAS 14 (1922), p. 495](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro* | ●●● |
+| 1922 | Madonna di Loreto | Loreto (Lauretum) | Italy | by pope | [AAS 14 (1922), p. 544](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *by pope*<br>[AAS 14 (1922), p. 675](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *by pope*<br>[AAS 15 (1923), p. 215](https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf) *by pope* | ●●● |
 | 1923 | Notre-Dame de Chèvremont | Chèvremont, Liège | Belgium | retro | [AAS 21 (1929), p. 183](https://www.vatican.va/archive/aas/documents/AAS-21-1929-ocr.pdf) *retro* | ●●● |
 | 1923 | Nuestra Señora de los Desamparados / Mare de Déu dels Desamparats | Valencia | Spain | retro | [AAS 40 (1948), p. 540](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro* | ●●● |
 | 1923 | Nuestra Señora del Rosario de Talpa | Talpa (Talpa de Allende), Tepic | Mexico | retro | [AAS 40 (1948), p. 362](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro*<br>[AAS 40 (1948), p. 363](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro* | ●●● |
@@ -367,6 +633,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | 1924 | Beata Maria Virgo ab Angelis, Angelorum Regina | Cartago, San Jose de Costa Rica | Costa Rica | retro | [AAS 28 (1936), p. 155](https://www.vatican.va/archive/aas/documents/AAS-28-1936-ocr.pdf) *retro* | ●●● |
 | 1924-02-24 | Sacra Infantis Pragensis effigies | Arenzano, Genoa | Italy | retro | [AAS 20 (1928), p. 320](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●● |
 | 1925 | Nuestra Señora del Carmen | Jerez de la Frontera, Seville | Spain | retro | [AAS 59 (1967), p. 1119](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●○ |
+| 1925-04-03 | Madonna Nera della Misericordia, Sancta Maria Mater Misericordiae | Cologne (Köln) | Germany | chapter | Zander/Magister 2011, cat. 80, p. 208 *chapter* | ●○○ |
 | 1926 | Nuestra Señora del Carmen | Santiago de Chile | Chile | legate | [AAS 19 (1927), p. 132](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *legate*<br>[AAS 30 (1938), p. 218](https://www.vatican.va/archive/aas/documents/AAS-30-1938-ocr.pdf) *retro* | ●●● |
 |  | Beatae Mariae Virginis titulo Montis Carmeli imago | Mendoza, San Juan de Cuyo | Argentina | retro | [AAS 19 (1927), p. 300](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *retro* | ●●● |
 |  | Nuestra Señora del Sagrario | Toledo (Toletum) | Spain | retro | [AAS 19 (1927), p. 52](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *retro* | ●●○ |
@@ -380,6 +647,7 @@ Vatican Chapter crowning later renewed by a Pope.
 |---|---|---|---|---|---|---|
 | 1931 | Madonna della Scala (Scala Paradisi) | Noto | Italy | retro | [AAS 56 (1964), p. 517](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro* | ●●○ |
 | 1931 | Madonna delle Grazie | Faenza | Italy | retro | [AAS 41 (1949), p. 541](https://www.vatican.va/archive/aas/documents/AAS-41-1949-ocr.pdf) *retro* | ●●● |
+| 1931-09-13 | Mare de Déu de la Salut, Virgen de la Salud | Palma de Mallorca | Spain | chapter | Zander/Magister 2011, cat. 72, p. 192 *chapter* | ●○○ |
 |  | Madonna del Duomo | Senigallia | Italy | retro | [AAS 24 (1932), p. 335](https://www.vatican.va/archive/aas/documents/AAS-24-1932-ocr.pdf) *retro* | ●●○ |
 |  | Notre-Dame de Fribourg | Fribourg | Switzerland | retro | [AAS 24 (1932), p. 364](https://www.vatican.va/archive/aas/documents/AAS-24-1932-ocr.pdf) *retro* | ●●● |
 | 1933 | Nuestra Señora del Quinche | El Quinche, Quito | Ecuador | retro | [AAS 51 (1959), p. 694](https://www.vatican.va/archive/aas/documents/AAS-51-1959-ocr.pdf) *retro* | ●●● |
@@ -417,6 +685,7 @@ Vatican Chapter crowning later renewed by a Pope.
 |  | Nuestra Señora de San Juan de los Lagos | San Juan de los Lagos, Guadalajara | Mexico | retro | [AAS 40 (1948), p. 494](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro*<br>[AAS 50 (1958), p. 302](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
 | 1948 | Madonna di Valverde | Alghero | Italy | retro | [AAS 42 (1950), p. 174](https://www.vatican.va/archive/aas/documents/AAS-42-1950-ocr.pdf) *retro* | ●●○ |
 | 1948 | Nuestra Señora del Carmen | Papantla | Mexico | retro | [AAS 53 (1961), p. 25](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●○ |
+| 1948-09-04; 1998-09-04 | Sancta Maria Cabuabbas, Nostra Signora di Corte | Sindia | Italy | chapter | Zander/Magister 2011, cat. 61, p. 168 *chapter*<br>Zander/Magister 2011, cat. 61, p. 168 *chapter* | ●○○ |
 | 1948-09-26 | Domina Nostra a Sacro Corde Iesu | Mexico City | Mexico | retro | [AAS 85 (1993), p. 405](https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf) *retro* | ●●● |
 | 1949 | Nuestra Señora de Izamal | Izamal, Yucatán | Mexico | retro | [AAS 53 (1961), p. 671](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●● |
 
@@ -426,11 +695,12 @@ Vatican Chapter crowning later renewed by a Pope.
 |---|---|---|---|---|---|---|
 |  | Madonna del Pontelungo | Albenga | Italy | retro | [AAS 42 (1950), p. 591](https://www.vatican.va/archive/aas/documents/AAS-42-1950-ocr.pdf) *retro* | ●○○ |
 | 1950-08-06 | Madonna dei Lattani | Roccamonfina, Calvi and Teano | Italy | retro | [AAS 45 (1953), p. 149](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *retro*<br>[AAS 63 (1971), p. 204](https://www.vatican.va/archive/aas/documents/AAS-63-1971-ocr.pdf) *retro* | ●●● |
+| 1950-11-04 | Madonna Regina degli Apostoli | Rome, Vatican Grottoes (Regina Apostolorum) | Italy | chapter | Zander/Magister 2011, cat. V6, p. 34 *chapter* | ●○○ |
 | 1951 | Notre-Dame de Joie | Pontivy, Vannes | France | retro | [AAS 51 (1959), p. 532](https://www.vatican.va/archive/aas/documents/AAS-51-1959-ocr.pdf) *retro* | ●●● |
 | 1952 | de Las Lajas | Las Lajas, Pasto | Colombia | retro | [AAS 48 (1956), p. 69](https://www.vatican.va/archive/aas/documents/AAS-48-1956-ocr.pdf) *retro* | ●●● |
 | 1952 | Nuestra Señora de la Peña de Francia | Salamanca | Spain | retro | [AAS 58 (1966), p. 794](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●● |
 | 1952 | Nuestra Señora del Rosario de las Lajas | Ipiales | Colombia | retro | [AAS 58 (1966), p. 45](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●● |
-| 1952-09-12; 1985-01-27 | Nuestra Señora de Coromoto | Guanare, Barquisimeto | Venezuela | by pope | [AAS 44 (1952), p. 722](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *legate*<br>[AAS 44 (1952), p. 739](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro*<br>[AAS 77 (1985), p. 466](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *by pope*<br>[AAS 77 (1985), p. 828](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *by pope* | ●●● |
+| 1952-09-12; 1985-01-27 | Nuestra Señora de Coromoto | Guanare, Barquisimeto | Venezuela | legate | [AAS 44 (1952), p. 722](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *legate*<br>[AAS 44 (1952), p. 739](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro*<br>[AAS 77 (1985), p. 466](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *by pope*<br>[AAS 77 (1985), p. 828](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *by pope* | ●●● |
 |  | Maria Plain | Mons « Plain », near Salzburg | Austria | retro | [AAS 45 (1953), p. 173](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *retro* | ●●○ |
 |  | Notre-Dame du Rempart | Namur | Belgium | retro | [AAS 45 (1953), p. 221](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *retro* | ●●○ |
 | 1953 | Nossa Senhora de Nazaré | Belém do Pará | Brazil | legate | [AAS 45 (1953), p. 545](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *legate* | ●●● |
@@ -461,7 +731,6 @@ Vatican Chapter crowning later renewed by a Pope.
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-|  | Nuestra Señora de la Cabeza | Illiturgis (Andújar), Jaén | Spain | retro | [AAS 52 (1960), p. 383](https://www.vatican.va/archive/aas/documents/AAS-52-1960-ocr.pdf) *retro* | ●●● |
 | 1960 | Madonna delle Grazie | Asculum in Piceno (Ascoli Piceno) | Italy | retro | [AAS 53 (1961), p. 674](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●○ |
 |  | imago Beatae Mariae Virginis, eodem in templo exculta | Caesena (Cesena) | Italy | retro | [AAS 53 (1961), p. 214](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●○ |
 |  | Madonna del Rocciamelone | Susa (Segusium) / Monte Rocciamelone | Italy | retro | [AAS 54 (1962), p. 426](https://www.vatican.va/archive/aas/documents/AAS-54-1962-ocr.pdf) *retro* | ●●○ |
@@ -471,14 +740,11 @@ Vatican Chapter crowning later renewed by a Pope.
 |  | Madonna di Conadomini (Madonna del Monte) | Caltagirone | Italy | retro | [AAS 55 (1963), p. 911](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
 |  | mirifica Beatissimae Mariae Virginis imago | Piekary, Silesia, Katowice | Poland | retro | [AAS 55 (1963), p. 225](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
 |  | Nuestra Señora del Buen Viaje | Morón | Argentina | retro | [AAS 55 (1963), p. 442](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
-|  | simulacrum Virginis Perdolentis | Viareggio, Lucca | Italy | retro | [AAS 55 (1963), p. 913](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
 |  | vetus nobilisque imago Beatae Mariae Virginis, quae est « decor Carmeli » | Mariana (Minas Gerais) | Brazil | retro | [AAS 56 (1964), p. 516](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro* | ●●○ |
 | 1964-05-31 | Nuestra Señora de la Esperanza (Esperanza de Triana) | Seville (Hispalis) | Spain | act | [AAS 56 (1964), p. 598](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro*<br>[AAS 75 (1983), p. 607](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *act* | ●●● |
 |  | Maria Ausiliatrice | Roma, Rome | Italy | retro | [AAS 57 (1965), p. 485](https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf) *retro* | ●●○ |
 |  | Nossa Senhora do Pilar | São João del-Rei | Brazil | retro | [AAS 57 (1965), p. 224](https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf) *retro* | ●●○ |
 | 1965 | statua Iesu Infantis | Cebu | Philippines | legate | [AAS 57 (1965), p. 500](https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf) *legate* | ●●○ |
-|  | Beata Maria Virgo « a Catena » | Laurignano, Cosenza | Italy | retro | [AAS 58 (1966), p. 629](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
-|  | Sacro Monte di Viggiano | Viggiano, Potenza-Marsico Nuovo | Italy | retro | [AAS 58 (1966), p. 566](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●○ |
 |  | Beata Maria Virgo Lauretana | Loreto, Tijuana | Mexico | retro | [AAS 59 (1967), p. 610](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●○ |
 |  | della Porta | Guastalla | Italy | retro | [AAS 59 (1967), p. 1038](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●○ |
 
@@ -613,6 +879,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
 | 2000-09-20 | Maria Santissima della Neve del Monte Sirino | Lagonegro | Italy | by pope | [AAS 92 (2000), p. 848](https://www.vatican.va/archive/aas/documents/AAS-92-2000-ocr.pdf) *by pope* | ●●○ |
+| 2005-04-02 | Nostra Signora di Częstochowa (copy) | Rome, Vatican Grottoes (Chapel of the Polish Nation) | Italy | chapter | Zander/Magister 2011, cat. V7, p. 35 *chapter* | ●○○ |
 
 ## 2010s
 
@@ -624,16 +891,9 @@ Vatican Chapter crowning later renewed by a Pope.
 
 | Crowned | Image | Place | Country | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|---|
-|  | B. V. di Leuca (Santa Maria di Leuca, 'de Finibus Terrae') | Leuca (Japigia / Salento) | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, f. 211v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0500) ** | ●○○ |
-|  | Beatissima Vergine detta di S. Luca |  |  |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 74r–74v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0171) ** | ●●○ |
-|  | Madonna dei Miracoli | Naples, Franciscan nuns | Italy |  | Balzamo 2023, p. 188 ** | ●○○ |
-|  | Madonna della Concezione | Naples, Theatine nuns of the Immaculate Conception | Italy |  | Balzamo 2023, p. 188 ** | ●○○ |
-|  | Madonna della Pace | Rome, Santa Maria della Pace | Italy |  | Balzamo 2023, p. 181 ** | ●●○ |
-|  | Madonna della Potenza | Naples, Ardorini missionaries | Italy |  | Balzamo 2023, p. 188 ** | ●○○ |
-|  | Madonna della Santa Cintura | Assisi | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, f. 296r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0702) ** | ●○○ |
-|  | Madonna delle Grazie | Naples, Clarisses | Italy |  | Balzamo 2023, p. 188 ** | ●○○ |
-|  | Madonna di Gibilmanna | Gibilmanna (diocese of Cefalù) | Italy |  | Balzamo 2023, p. 187 ** | ●○○ |
-|  | Madonna di Libera Inferni (S. Maria Libera Inferni, formerly S. Maria Maggiore / della Presentazione) | Palermo | Italy |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 178v–185v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0416) ** | ●●● |
-|  | Madonna di Porto Salvo | Naples, confraternity of the mariners | Italy |  | Balzamo 2023, p. 188 ** | ●○○ |
+|  | Beatissima Vergine detta di S. Luca |  |  | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 74r–74v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0171) *chapter* | ●●○ |
+|  | Madonna della Concezione | Naples, Theatine nuns of the Immaculate Conception | Italy | chapter | Balzamo 2023, p. 188 *chapter* | ●○○ |
+|  | Madonna della Santa Cintura | Assisi | Italy | chapter | [BAV, ACSP, Madonne coronate, tomo IV, f. 296r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0702) *chapter* | ●○○ |
+|  | Madonna di Gibilmanna | Gibilmanna (diocese of Cefalù) | Italy | chapter | Balzamo 2023, p. 187 *chapter* | ●○○ |
 |  | Madonna SS.ma delle Grazie (Żabbar, Malta) | Żabbar (OCR 'Zabar'), Malta | Malta | NOT conceded | [BAV, ACSP, Madonne coronate, tomo IV, ff. 75r–76v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0173) *NOT conceded* | ●○○ |
-|  | — |  |  |  | [BAV, ACSP, Madonne coronate, tomo IV, ff. 213v.[02.mn.0000]–214r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0507) ** | ●○○ |
+|  | — |  |  | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 213v.[02.mn.0000]–214r](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0507) *chapter* | ●○○ |

@@ -1,0 +1,1972 @@
+{
+ "source": "Pietro Zander (ed.), research and texts Sara Magister, Full of Grace: Crowned Madonnas from the Vatican Basilica, exhibition catalogue, Knights of Columbus Museum, New Haven, 8 May 2011 - 15 January 2012 (Italian ed.: Piene di grazia. Madonne coronate dalla Basilica Vaticana). 89 catalogue entries (pp. 46-229) on the painted copies of crowned images kept by the Fabbrica di San Pietro, each with the coronation date and the Chapter dossier cited as BAV, ACSP, Madonne Coronate, vol., cc.; plus seven images in the Vatican Basilica itself (pp. 24-36).",
+ "pdf": "https://www.kofc.it/pdf/E-Book-Full_of_Grace_Crowend_Madonnas_from_the_Vatican_Basilica/ (Knights of Columbus Italy e-book; the flipbook source is the PDF)",
+ "note": "SECONDARY: reported by the catalogue, not read here. `refs` are its citations of BAV, ACSP, Madonne Coronate (volume, cc. = carte, the stamped foliation); `afsp_refs` its citations of the Fabbrica's catalogo delle immagini (AFSP, Arm. 12, F, 11, nr. 10). `coronation_dates` holds every date the entry gives ('and again ...' = a re-crowning). Rows without a folio are `low`.",
+ "work": "Zander/Magister 2011",
+ "row_count": 96,
+ "rows": [
+  {
+   "no": 1,
+   "page": 46,
+   "title": "Santa Maria della Natività, di Belmonte",
+   "location_as_given": "Italy, Piedmont, Valperga Canavese Sacro Monte di Belmonte (province of Turin), shrine.",
+   "crowned_as_given": "Crowned August 17, 1788",
+   "coronation_dates": [
+    "1788-08-17"
+   ],
+   "locality": "Valperga (Sacro Monte di Belmonte)",
+   "church_or_sanctuary": "Sacro Monte di Belmonte",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "11, cc. 235-246, 337-334, 346"
+   ],
+   "afsp_refs": [
+    "c. XXVIIv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 11, cc. 235-246, 337-334, 346; AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIIv",
+   "notes": null
+  },
+  {
+   "no": 2,
+   "page": 48,
+   "title": "Madonna della Salve",
+   "location_as_given": "Italy, Piedmont, Alessandria, cathedral of San Pietro.",
+   "crowned_as_given": "Crowned May 28, 1843",
+   "coronation_dates": [
+    "1843-05-28"
+   ],
+   "locality": "Alessandria",
+   "church_or_sanctuary": "Cattedrale di San Pietro",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "14, cc. 217-243"
+   ],
+   "afsp_refs": [
+    "c. XXVIIIv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 14, cc. 217-243 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIIIv",
+   "notes": null
+  },
+  {
+   "no": 3,
+   "page": 50,
+   "title": "Vergine del Sacro Monte",
+   "location_as_given": "Italy, Piedmont, Varallo – Sacro Monte (province of Novara), basilica of the Assunta.",
+   "crowned_as_given": "Crowned August 20, 1857 and again August 17, 1862",
+   "coronation_dates": [
+    "1857-08-20",
+    "1862-08-17"
+   ],
+   "locality": "Varallo (Sacro Monte)",
+   "church_or_sanctuary": "Basilica dell'Assunta, Sacro Monte di Varallo",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "16, cc. 29-140",
+    "17, cc. 134-153"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 16, cc. 29-140 BAV, ACSP, Madonne Coronate, Vol. 17, cc. 134-153",
+   "notes": null
+  },
+  {
+   "no": 4,
+   "page": 52,
+   "title": "Madonna del Pasco",
+   "location_as_given": "Italy, Piedmont, Mondovì – Villanova (province of Cuneo), church of the Madonna del Pasco.",
+   "crowned_as_given": "Crowned August 15, 1900",
+   "coronation_dates": [
+    "1900-08-15"
+   ],
+   "locality": "Villanova Mondovì",
+   "church_or_sanctuary": "Chiesa della Madonna del Pasco",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "19, cc. 1145-1161"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 19, cc. 1145-1161",
+   "notes": null
+  },
+  {
+   "no": 5,
+   "page": 54,
+   "title": "Madonna delle Grazie di Valle",
+   "location_as_given": "Italy, Piedmont, Gavi - Valle (province of Alessandria), shrine of Nostra Signora delle Grazie.",
+   "crowned_as_given": "Crowned September 8, 1904",
+   "coronation_dates": [
+    "1904-09-08"
+   ],
+   "locality": "Gavi (Valle)",
+   "church_or_sanctuary": "Santuario di Nostra Signora delle Grazie della Valle",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "20, cc. 1215-1224"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 20, cc. 1215-1224",
+   "notes": null
+  },
+  {
+   "no": 6,
+   "page": 56,
+   "title": "Santa Maria Lagrimosa",
+   "location_as_given": "Italy, Piemonte, Novi Ligure (province of Alessandria) collegiate church of Santa Maria Maggiore.",
+   "crowned_as_given": "Crowned [?] 1905",
+   "coronation_dates": [
+    "1905"
+   ],
+   "locality": "Novi Ligure",
+   "church_or_sanctuary": "Collegiata di Santa Maria Maggiore",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "21, cc. 524-547",
+    "31, cc. 249-283"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 21, cc. 524-547 BAV, ACSP, Madonne Coronate, Vol. 31, cc. 249-283",
+   "notes": "Day and month not given in the catalogue ('[?] 1905')."
+  },
+  {
+   "no": 7,
+   "page": 58,
+   "title": "Madonna delle Grazie",
+   "location_as_given": "Italy, Piedmont, Orta San Giulio - Orta Novarese (province of Novara), church of San Nicolao al Sacro Monte d’Orta.",
+   "crowned_as_given": "Crowned September 2, 1906",
+   "coronation_dates": [
+    "1906-09-02"
+   ],
+   "locality": "Orta San Giulio",
+   "church_or_sanctuary": "San Nicolao",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "21, cc. 712-731"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 21, cc. 712-731; F. Mattioli Carcano, La madre del Redentore venerata nella chiesa di San Nicolao al Monte d’Orta fra storia e religione popolare, Novara 1992",
+   "notes": null
+  },
+  {
+   "no": 8,
+   "page": 60,
+   "title": "Madonna del Castello, Regina degli Apostoli",
+   "location_as_given": "Italy, Piedmont, Caraglio (province of Cuneo) shrine of the Madonna del Castello.",
+   "crowned_as_given": "Crowned May 22, 1910",
+   "coronation_dates": [
+    "1910-05-22"
+   ],
+   "locality": "Caraglio",
+   "church_or_sanctuary": "Santuario della Madonna del Castello",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "22, cc. 488-499"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 22, cc. 488-499",
+   "notes": null
+  },
+  {
+   "no": 9,
+   "page": 62,
+   "title": "Nostra Signora dei Miracoli",
+   "location_as_given": "Italy, Liguria, Cicagna, (province of Genoa), shrine of Nostra Signora dei Miracoli at the parish of San Giovanni Battista.",
+   "crowned_as_given": "Crowned September 14, 1790 and again September 14,",
+   "coronation_dates": [
+    "1790-09-14",
+    "1814-09-14"
+   ],
+   "locality": "Cicagna",
+   "church_or_sanctuary": "Santuario di Nostra Signora dei Miracoli",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "12, cc. 7-12"
+   ],
+   "afsp_refs": [
+    "c. XXVIIv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 12, cc. 7-12 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIIv",
+   "notes": "Crowned 14 September 1790 and again 14 September 1814."
+  },
+  {
+   "no": 10,
+   "page": 64,
+   "title": "Madonna della Rovere",
+   "location_as_given": "Italy, Liguria, San Bartolomeo al Mare (province of Imperia), shrine of Nostra Signora della Rovere.",
+   "crowned_as_given": "Crowned September 8, 1821",
+   "coronation_dates": [
+    "1821-09-08"
+   ],
+   "locality": "San Bartolomeo al Mare",
+   "church_or_sanctuary": "Santuario di Nostra Signora della Rovere",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "13, cc. 7-12"
+   ],
+   "afsp_refs": [
+    "c. XXVIIIr"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 13, cc. 7-12 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIIIr",
+   "notes": null
+  },
+  {
+   "no": 11,
+   "page": 66,
+   "title": "Santa Maria dell’Eremita, Nostra Signora della Misericordia",
+   "location_as_given": "Italy, Liguria, Mallare – Eremita, (province of Savona), shrine of Nostra Signora della Misericordia (Our Lady of Mercy) at Eremita.",
+   "crowned_as_given": "Crowned September 10, 1876",
+   "coronation_dates": [
+    "1876-09-10"
+   ],
+   "locality": "Mallare (Eremita)",
+   "church_or_sanctuary": "Santuario di Nostra Signora della Misericordia all'Eremita",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "17, cc. 1145-1162"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 17, cc. 1145-1162",
+   "notes": null
+  },
+  {
+   "no": 12,
+   "page": 68,
+   "title": "Nostra Signora dell’Annunziata delle Olivette",
+   "location_as_given": "Italy, Liguria, Arenzano (province of Genoa), shrine of Nostra Signora Annunziata delle Olivette.",
+   "crowned_as_given": "Crowned in 1890 or 1891",
+   "coronation_dates": [
+    "1890"
+   ],
+   "locality": "Arenzano",
+   "church_or_sanctuary": "Santuario di Nostra Signora Annunziata delle Olivette",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "19, cc. 21-49"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 19, cc. 21-49",
+   "notes": "Catalogue: 'Crowned in 1890 or 1891'."
+  },
+  {
+   "no": 13,
+   "page": 70,
+   "title": "Madonna di Loreto, Oregina",
+   "location_as_given": "Italy, Liguria, Genoa, shrine of Nostra Signora di Loreto in Oregina.",
+   "crowned_as_given": "Crowned June 1, 1905",
+   "coronation_dates": [
+    "1905-06-01"
+   ],
+   "locality": "Genoa (Oregina)",
+   "church_or_sanctuary": "Santuario di Nostra Signora di Loreto in Oregina",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "21, cc. 443-448"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 21, cc. 443-448",
+   "notes": null
+  },
+  {
+   "no": 14,
+   "page": 72,
+   "title": "Santa Maria dell’Orto",
+   "location_as_given": "Italy, Liguria, Genoa – Cremeno church of San Pietro Apostolo.",
+   "crowned_as_given": "Crowned August 22, 1909",
+   "coronation_dates": [
+    "1909-08-22"
+   ],
+   "locality": "Genoa (Cremeno)",
+   "church_or_sanctuary": "San Pietro Apostolo, Cremeno",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "22, cc. 195-217"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 22, cc. 195-217",
+   "notes": null
+  },
+  {
+   "no": 15,
+   "page": 74,
+   "title": "La Madonnetta",
+   "location_as_given": "Italy, Liguria, Genoa, shrine of Nostra Signora Assunta di Carbonara or della Madonnetta.",
+   "crowned_as_given": "Crowned June 27, 1920",
+   "coronation_dates": [
+    "1920-06-27"
+   ],
+   "locality": "Genoa (Carbonara)",
+   "church_or_sanctuary": "Santuario della Madonnetta (N. S. Assunta di Carbonara)",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "24, cc. 454-502"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 24, cc. 454-502 (researched by Simona Turrizziani) Il Ven. P. Carlo Giacinto fondatore del Santuario della Madonnetta, Genoa 1917",
+   "notes": null
+  },
+  {
+   "no": 16,
+   "page": 76,
+   "title": "Beata Vergine Lauretana",
+   "location_as_given": "Italy, Lombardy, Cremona, shrine of the Beata Vergine Lauretana in the Parish of Sant’Abbondio dei Padri Teatini.",
+   "crowned_as_given": "Crowned August 17, 1732",
+   "coronation_dates": [
+    "1732-08-17"
+   ],
+   "locality": "Cremona",
+   "church_or_sanctuary": "Sant'Abbondio (Beata Vergine Lauretana)",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "5, cc. 233-259"
+   ],
+   "afsp_refs": [
+    "cc. XIIIv, XXIVv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 5, cc. 233-259 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, cc. XIIIv, XXIVv",
+   "notes": null
+  },
+  {
+   "no": 17,
+   "page": 78,
+   "title": "Madonna di Gallivaggio, Madre della Misericordia",
+   "location_as_given": "Italy, Lombardy, Gallivaggio (province of Sondrio) shrine of l’Apparizione di Maria Vergine.",
+   "crowned_as_given": "Crowned June 23, 1742",
+   "coronation_dates": [
+    "1742-06-23"
+   ],
+   "locality": "Gallivaggio (Valle Spluga), diocese of Como",
+   "church_or_sanctuary": "Santuario dell'Apparizione di Maria Vergine",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "7, cc. 8899v"
+   ],
+   "afsp_refs": [
+    "cc. XIVv, XXVr"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 7, cc. 8899v AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, cc. XIVv, XXVr",
+   "notes": null
+  },
+  {
+   "no": 18,
+   "page": 80,
+   "title": "Madonna Santissima del Salvatore, Madonna dei Cappuccini",
+   "location_as_given": "Italy, Lombardy, Casalpusterlengo (province of Lodi) church of the Santissima Maria Madre del Salvatore (Madonna dei Cappuccini).",
+   "crowned_as_given": "Crowned September 3, 1780",
+   "coronation_dates": [
+    "1780-09-03"
+   ],
+   "locality": "Casalpusterlengo",
+   "church_or_sanctuary": "Santissima Maria Madre del Salvatore (Madonna dei Cappuccini)",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "11, cc. 132-137"
+   ],
+   "afsp_refs": [
+    "c. XXVIIr"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 11, cc. 132-137 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIIr",
+   "notes": null
+  },
+  {
+   "no": 19,
+   "page": 82,
+   "title": "Madonna delle Grazie",
+   "location_as_given": "Italy, Lombardy, Ardesio (province of Bergamo) shrine of the Madonna delle Grazie.",
+   "crowned_as_given": "Crowned June 24, 1872",
+   "coronation_dates": [
+    "1872-06-24"
+   ],
+   "locality": "Ardesio",
+   "church_or_sanctuary": "Santuario della Madonna delle Grazie",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "17, cc. 611-913"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 17, cc. 611-913",
+   "notes": null
+  },
+  {
+   "no": 20,
+   "page": 84,
+   "title": "Santa Maria della Misericordia",
+   "location_as_given": "Italy, Lombardy, Castelleone (province of Cremona) shrine of the Beata Vergine della Misericordia.",
+   "crowned_as_given": "Crowned September 12, 1886",
+   "coronation_dates": [
+    "1886-09-12"
+   ],
+   "locality": "Castelleone",
+   "church_or_sanctuary": "Santuario della Beata Vergine della Misericordia",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "18, cc. 834-848"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 18, cc. 834-848 Instrumentum de coronae impositione... B.V.M.... , Cremonae 1886",
+   "notes": null
+  },
+  {
+   "no": 21,
+   "page": 86,
+   "title": "Madonna dei Campi, Nostra Signora della Preghiera",
+   "location_as_given": "Italy, Lombardy, Stezzano, (province of Bergamo) shrine of the Madonna dei Campi.",
+   "crowned_as_given": "Crowned September 5, 1896",
+   "coronation_dates": [
+    "1896-09-05"
+   ],
+   "locality": "Stezzano",
+   "church_or_sanctuary": "Santuario della Madonna dei Campi",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "18, cc. 433-833"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 18, cc. 433-833",
+   "notes": null
+  },
+  {
+   "no": 22,
+   "page": 88,
+   "title": "Madonna di Altino",
+   "location_as_given": "Italy, Lombardy, Vall’Alta di Albino (province of Bergamo) shrine of La Beata Vergine del Monte Altino.",
+   "crowned_as_given": "Crowned July 23, 1919",
+   "coronation_dates": [
+    "1919-07-23"
+   ],
+   "locality": "Vall'Alta di Albino",
+   "church_or_sanctuary": "Santuario della Beata Vergine di Altino",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "23, cc. 1215-1264"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 23, cc. 1215-1264",
+   "notes": null
+  },
+  {
+   "no": 23,
+   "page": 90,
+   "title": "Madonna del Pianto",
+   "location_as_given": "Italy, Lombardy, Albino, (province of Bergamo) shrine of the Madonna del Pianto.",
+   "crowned_as_given": "Crowned September 21, 1919",
+   "coronation_dates": [
+    "1919-09-21"
+   ],
+   "locality": "Albino",
+   "church_or_sanctuary": "Santuario della Madonna del Pianto",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "23, cc. 1145-1214",
+    "23, cc. 1215-1264"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 23, cc. 1145-1214 BAV, ACSP, Madonne Coronate, Vol. 23, cc. 1215-1264 (on the Madonna of Altino) Dal sacrificio alla gloria. Ricordo delle feste albinesi per l’incoronazione della Madonna del Pianto, Bergamo 1919",
+   "notes": null
+  },
+  {
+   "no": 24,
+   "page": 92,
+   "title": "Madonna di Piné",
+   "location_as_given": "Italy, Trentino Alto Adige, Montagnaga di Piné (province of Trent), shrine of the Madonna di Piné.",
+   "crowned_as_given": "Crowned August 11, 1894",
+   "coronation_dates": [
+    "1894-08-11"
+   ],
+   "locality": "Montagnaga di Piné",
+   "church_or_sanctuary": "Santuario della Madonna di Piné",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "19, cc. 448-457"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 19, cc. 448-457",
+   "notes": null
+  },
+  {
+   "no": 25,
+   "page": 94,
+   "title": "Madonna di Barbana",
+   "location_as_given": "Italy, Friuli Venezia Giulia, Grado - Island of Barbana (province of Gorizia), shrine of the Madonna di Barbana.",
+   "crowned_as_given": "Crowned August 15, 1863",
+   "coronation_dates": [
+    "1863-08-15"
+   ],
+   "locality": "Grado (Isola di Barbana)",
+   "church_or_sanctuary": "Santuario di Barbana",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "17, cc. 169-193"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 17, cc. 169-193 Historia veridica della chiesa dedicata a Maria Vergine Santissima Immacolata di Barbana, che fu negli anni del Signore CLXXXII, Udine 1859 A Maria Immacolata coronandosi solennemente nella festa dell’Assunzione la Sua miracolosa immagine di Barbana. Ode saffica, Udine 1863",
+   "notes": null
+  },
+  {
+   "no": 26,
+   "page": 96,
+   "title": "Madonna della Quercia",
+   "location_as_given": "Italy, Emilia Romagna, Bettola (province of Piacenza) shrine of the Beata Vergine della Quercia.",
+   "crowned_as_given": "Crowned September 5, 1920",
+   "coronation_dates": [
+    "1920-09-05"
+   ],
+   "locality": "Bettola",
+   "church_or_sanctuary": "Santuario della Beata Vergine della Quercia",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "24, cc. 770-832"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 24, cc. 770-832 P.A. Corna, Cenni storici della Madonna della Quercia in San Giovanni di Bettola (Piacenza), Piacenza 1911 Manuale dei devoti della Beata Vergine della Quercia in Bettola - Cenni storici, Unione Tipografica Piacentina, Piacenza, 1912",
+   "notes": null
+  },
+  {
+   "no": 27,
+   "page": 98,
+   "title": "Beata Vergine della Salute",
+   "location_as_given": "Italy, Marches, Macerata, church of San Giorgio.",
+   "crowned_as_given": "Crowned May 11, 1749",
+   "coronation_dates": [
+    "1749-05-11"
+   ],
+   "locality": "Macerata",
+   "church_or_sanctuary": "San Giorgio",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": "",
+   "notes": "No archival citation in the catalogue entry."
+  },
+  {
+   "no": 28,
+   "page": 100,
+   "title": "Santa Maria Addolorata",
+   "location_as_given": "Italy, Marche, Senigallia (province of Ancona) church of San Martino.",
+   "crowned_as_given": "Crowned September 18, 1921",
+   "coronation_dates": [
+    "1921-09-18"
+   ],
+   "locality": "Senigallia",
+   "church_or_sanctuary": "San Martino",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "25 (1), cc. 112-126"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 25 (1), cc. 112-126 La Voce Misena, XIII, 29, 17 settembre 1821",
+   "notes": null
+  },
+  {
+   "no": 29,
+   "page": 102,
+   "title": "Madonna del Sasso",
+   "location_as_given": "Italy, Tuscany, Lucca, church of Sant’Agostino.",
+   "crowned_as_given": "Crowned April 30, 1690",
+   "coronation_dates": [
+    "1690-04-30"
+   ],
+   "locality": "Lucca",
+   "church_or_sanctuary": "Sant'Agostino (Madonna del Sasso)",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "3, cc. 208-221"
+   ],
+   "afsp_refs": [
+    "c. XXIIIv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 3, cc. 208-221 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXIIIv",
+   "notes": null
+  },
+  {
+   "no": 30,
+   "page": 104,
+   "title": "Madonna delle Grazie",
+   "location_as_given": "Italy, Tuscany, Montepulciano (province of Siena) church of Santa Maria delle Grazie.",
+   "crowned_as_given": "Crowned September 24, 1741",
+   "coronation_dates": [
+    "1741-09-24"
+   ],
+   "locality": "Montepulciano",
+   "church_or_sanctuary": "Santa Maria delle Grazie",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "7, cc. 8-32",
+    "31, cc. 61-68"
+   ],
+   "afsp_refs": [
+    "cc. XIVr, XXVr"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 7, cc. 8-32 BAV, ACSP, Madonne Coronate, Vol. 31, cc. 61-68 AFSP, Arm. 12, F, 11, no. 10, catalogo delle immagini, cc. XIVr, XXVr Relazione della incoronazione della prodigiosa imagine della SS.ma Vergine detta delle Grazie di Montepulciano, Rome 1742",
+   "notes": null
+  },
+  {
+   "no": 31,
+   "page": 106,
+   "title": "Madonna della Consolazione, Madonna di Valle Prata",
+   "location_as_given": "Italy, Tuscany, Monticello Amiata (province of Grosseto) Shrine of the Madonna di Val di Prata.",
+   "crowned_as_given": "Crowned June 4, 1747",
+   "coronation_dates": [
+    "1747-06-04"
+   ],
+   "locality": "Monticello Amiata",
+   "church_or_sanctuary": "Santuario della Madonna di Val di Prata",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "7, cc. 293-294"
+   ],
+   "afsp_refs": [
+    "cc. XIVv, XXVr"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 7, cc. 293-294 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, cc. XIVv, XXVr",
+   "notes": null
+  },
+  {
+   "no": 32,
+   "page": 108,
+   "title": "Madonna dei Miracoli",
+   "location_as_given": "Italy, Tuscany, Lucca, church of San Tommaso in Pelleria.",
+   "crowned_as_given": "Crowned September 27, 1797",
+   "coronation_dates": [
+    "1797-09-27"
+   ],
+   "locality": "Lucca (San Tommaso in Pelleria)",
+   "church_or_sanctuary": "San Tommaso in Pelleria",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "12, cc. 136-148"
+   ],
+   "afsp_refs": [
+    "c. XXVIIv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 12, cc. 136-148 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIIv Relazione di un prodigioso risanamento operato in Lucca nella notte dei 3 venendo il 4 di ottobre del corrente anno 1796 nella persona di suor Maria Luisa Biagini […] ad intercessione della SS. Vergine Madre di Dio, ricavata dal processo giuridico, esaminata, ed approvata, in Lucca 1796",
+   "notes": null
+  },
+  {
+   "no": 33,
+   "page": 110,
+   "title": "Maria Santissima Addolorata",
+   "location_as_given": "Italy, Tuscany, Viareggio (province of Lucca) church of Sant’Andrea Apostolo.",
+   "crowned_as_given": "Crowned May 9, 1920",
+   "coronation_dates": [
+    "1920-05-09"
+   ],
+   "locality": "Viareggio",
+   "church_or_sanctuary": "Sant'Andrea Apostolo",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "25, cc. 564-627"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 25, cc. 564-627",
+   "notes": null
+  },
+  {
+   "no": 34,
+   "page": 112,
+   "title": "Madonna del Ponte",
+   "location_as_given": "Italy, Umbria, Narni Scalo (province of Terni) shrine of Santa Maria del Ponte.",
+   "crowned_as_given": "Crowned May 5, 1754",
+   "coronation_dates": [
+    "1754-05-05"
+   ],
+   "locality": "Narni",
+   "church_or_sanctuary": "Santuario di Santa Maria del Ponte",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "6, cc. 8-41"
+   ],
+   "afsp_refs": [
+    "c. XXVv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 6, cc. 8-41 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVv Distinto ragguaglio della solenne coronazione della miracolosa immagine di Maria SS. detta del Ponte fuori dalla città di Narni, fatta dall’em.o e r.mo principe, il signor cardinale Carlo Maria Sacripante colle corone d’oro donate dalla sacrosanta Basilica Vaticana nel mese di maggio MDCCLIV, in Terni MDCCLIV G.M. Eroli, Narrazione storica sopra il Santuario della Madonna del Ponte di Narni,",
+   "notes": null
+  },
+  {
+   "no": 35,
+   "page": 114,
+   "title": "Madonna delle Grazie",
+   "location_as_given": "Italy, Lazio, Acquapendente (province of Viterbo) church of Sant’Agostino.",
+   "crowned_as_given": "Crowned May 20, 1742",
+   "coronation_dates": [
+    "1742-05-20"
+   ],
+   "locality": "Acquapendente",
+   "church_or_sanctuary": "Sant'Agostino (Madonna delle Grazie)",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "7, cc. 33-52"
+   ],
+   "afsp_refs": [
+    "cc. XXIVv, XXVr"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 7, cc. 33-52 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, cc. XXIVv, XXVr",
+   "notes": null
+  },
+  {
+   "no": 36,
+   "page": 116,
+   "title": "Nostra Signora delle Grazie",
+   "location_as_given": "Italy, Lazio, Nettuno (province of Roma) shrine of Nostra Signora delle Grazie e di Santa Maria Goretti.",
+   "crowned_as_given": "Crowned May 28, 1881",
+   "coronation_dates": [
+    "1881-05-28"
+   ],
+   "locality": "Nettuno",
+   "church_or_sanctuary": "Santuario di Nostra Signora delle Grazie e di Santa Maria Goretti",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "18, cc. 83-90"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 18, cc. 83-90",
+   "notes": null
+  },
+  {
+   "no": 37,
+   "page": 118,
+   "title": "Madonna dell’Olmo",
+   "location_as_given": "Italy, Campania, Cava dei Tirreni (province of Salerno) basilica of Maria Santissima Incoronata dell’Olmo.",
+   "crowned_as_given": "Crowned June 15, 1766 and again in 1924",
+   "coronation_dates": [
+    "1766-06-15",
+    "1924"
+   ],
+   "locality": "Cava de' Tirreni",
+   "church_or_sanctuary": "Basilica di Maria Santissima Incoronata dell'Olmo",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "9, cc. 298-307",
+    "26 (2), cc. 442-445"
+   ],
+   "afsp_refs": [
+    "cc. XVIIr, XXVIr"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 9, cc. 298-307 BAV, ACSP, Madonne Coronate, Vol. 26 (2), cc. 442-445 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, cc. XVIIr, XXVIr",
+   "notes": null
+  },
+  {
+   "no": 38,
+   "page": 120,
+   "title": "Santa Maria del Principio",
+   "location_as_given": "Italy, Campania, Naples, basilica of Santa Restituta chapel of Santa Maria del Principio.",
+   "crowned_as_given": "Crowned January 8, 1773",
+   "coronation_dates": [
+    "1773-01-08"
+   ],
+   "locality": "Napoli (Santa Restituta)",
+   "church_or_sanctuary": "Basilica di Santa Restituta, cappella di Santa Maria del Principio",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "6, cc. 290-312"
+   ],
+   "afsp_refs": [
+    "c. XXVIv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 6, cc. 290-312 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIv",
+   "notes": null
+  },
+  {
+   "no": 39,
+   "page": 122,
+   "title": "Madonna della Libera",
+   "location_as_given": "Italy, Campania, Naples church of Santa Maria di Donnaregina.",
+   "crowned_as_given": "Crowned November 15, 1885",
+   "coronation_dates": [
+    "1885-11-15"
+   ],
+   "locality": "Napoli (Donnaregina)",
+   "church_or_sanctuary": "Santa Maria di Donnaregina",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "18, cc. 299-312, 989-1070"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 18, cc. 299-312, 989-1070",
+   "notes": null
+  },
+  {
+   "no": 40,
+   "page": 124,
+   "title": "Madonna della Neve",
+   "location_as_given": "Italy, Campania, Naples - Ponticelli shrine of Maria Santissima della Neve.",
+   "crowned_as_given": "Crowned August 2, 1914",
+   "coronation_dates": [
+    "1914-08-02"
+   ],
+   "locality": "Napoli (Ponticelli)",
+   "church_or_sanctuary": "Santuario di Maria Santissima della Neve",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "23, cc. 4364"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 23, cc. 4364",
+   "notes": null
+  },
+  {
+   "no": 41,
+   "page": 126,
+   "title": "Vergine Annunziata",
+   "location_as_given": "Italy, Campania, Naples, basilica of l’Annunziata Maggiore.",
+   "crowned_as_given": "Crowned April 18, 1915",
+   "coronation_dates": [
+    "1915-04-18"
+   ],
+   "locality": "Napoli (Annunziata Maggiore)",
+   "church_or_sanctuary": "Basilica dell'Annunziata Maggiore",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "23, cc. 438-456"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 23, cc. 438-456",
+   "notes": null
+  },
+  {
+   "no": 42,
+   "page": 128,
+   "title": "Madonna del Rosario",
+   "location_as_given": "Italy, Campania, Piano di Sorrento (province of Naples) basilica of Santissima Trinità del Piano.",
+   "crowned_as_given": "Crowned September 26, 1773",
+   "coronation_dates": [
+    "1773-09-26"
+   ],
+   "locality": "Piano di Sorrento",
+   "church_or_sanctuary": "Basilica della Santissima Trinità",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "10, cc. 230-237"
+   ],
+   "afsp_refs": [
+    "c. XXVIr"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 10, cc. 230-237 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIr",
+   "notes": null
+  },
+  {
+   "no": 43,
+   "page": 130,
+   "title": "Madonna della Lobra",
+   "location_as_given": "Italy, Campania, Massa Lubrense (province of Naples) shrine of Santa Maria della Lobra.",
+   "crowned_as_given": "Crowned August 12, 1804",
+   "coronation_dates": [
+    "1804-08-12"
+   ],
+   "locality": "Massa Lubrense",
+   "church_or_sanctuary": "Santuario di Santa Maria della Lobra",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "12, cc. 215-221"
+   ],
+   "afsp_refs": [
+    "c. XXVIIv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 12, cc. 215-221 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIIv",
+   "notes": null
+  },
+  {
+   "no": 44,
+   "page": 132,
+   "title": "Santa Maria di Pozzano",
+   "location_as_given": "Italy, Campania, Castellammare di Stabia - Pozzano (province of Naples), church of Santa Maria di Pozzano.",
+   "crowned_as_given": "Crowned July 2, 1874",
+   "coronation_dates": [
+    "1874-07-02"
+   ],
+   "locality": "Castellammare di Stabia (Pozzano)",
+   "church_or_sanctuary": "Santa Maria di Pozzano",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "17, cc. 918-940"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 17, cc. 918-940",
+   "notes": null
+  },
+  {
+   "no": 45,
+   "page": 134,
+   "title": "Santa Maria di Portosalvo",
+   "location_as_given": "Italy, Campania, Castellammare di Stabia (province of Naples), church of Santa Maria di Porto Salvo (currently in the cathedral).",
+   "crowned_as_given": "Crowned August 8, 1897",
+   "coronation_dates": [
+    "1897-08-08"
+   ],
+   "locality": "Castellammare di Stabia (Portosalvo)",
+   "church_or_sanctuary": "Santa Maria di Portosalvo",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "19, cc. 739-759"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 19, cc. 739-759",
+   "notes": null
+  },
+  {
+   "no": 46,
+   "page": 136,
+   "title": "Beata Vergine della Sanità",
+   "location_as_given": "Italy, Campania, Castellammare di Stabia – Quisisana province of Naples, shrine of Santa Maria della Sanità.",
+   "crowned_as_given": "Crowned April 21, 1912",
+   "coronation_dates": [
+    "1912-04-21"
+   ],
+   "locality": "Castellammare di Stabia (Quisisana)",
+   "church_or_sanctuary": "Santuario di Santa Maria della Sanità",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "22, cc. 881-922"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 22, cc. 881-922",
+   "notes": null
+  },
+  {
+   "no": 47,
+   "page": 138,
+   "title": "Santa Maria del Carmine",
+   "location_as_given": "Italy, Campania, Sorrento (province of Naples) church of Santa Maria del Carmine.",
+   "crowned_as_given": "Crowned July 11, 1880, and again in 1980",
+   "coronation_dates": [
+    "1880-07-11",
+    "1980"
+   ],
+   "locality": "Sorrento",
+   "church_or_sanctuary": "Santa Maria del Carmine",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "17, cc. 1274-1284"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 17, cc. 1274-1284",
+   "notes": null
+  },
+  {
+   "no": 48,
+   "page": 140,
+   "title": "Madonna Avvocata del Popolo",
+   "location_as_given": "Italy, Campagna, Sessa Aurunca (province of Caserta) cathedral of Santi Pietro e Paolo.",
+   "crowned_as_given": "Crowned September 11, 1904",
+   "coronation_dates": [
+    "1904-09-11"
+   ],
+   "locality": "Sessa Aurunca",
+   "church_or_sanctuary": "Cattedrale dei Santi Pietro e Paolo",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "21, cc. 12-26"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 21, cc. 12-26",
+   "notes": null
+  },
+  {
+   "no": 49,
+   "page": 142,
+   "title": "Santa Maria Preziosa",
+   "location_as_given": "Italy, Campania, Casal di Principe (province of Caserta) church of the Santissimo Salvatore and church of Maria Santissima Preziosa.",
+   "crowned_as_given": "Crowned September 8, 1908, and again in 1958",
+   "coronation_dates": [
+    "1908-09-08",
+    "1958"
+   ],
+   "locality": "Casal di Principe",
+   "church_or_sanctuary": "Santissimo Salvatore",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "22, cc. 1-25",
+    "31, cc. 856-904"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 22, cc. 1-25 BAV, ACSP, Madonne Coronate, Vol. 31, cc. 856-904 Il santuario della Preziosa, bollettino annuale delle grazie elargite dalla miracolosa immagine Maria SS. Preziosa, Aversa 1907",
+   "notes": null
+  },
+  {
+   "no": 50,
+   "page": 144,
+   "title": "Santa Maria Annunziata",
+   "location_as_given": "Italy, Campania, Sant’Agnello di Sorrento – Angri (province of Naples), shrine of Santa Maria Annunziata in Angri.",
+   "crowned_as_given": "Crowned August 17, 1919",
+   "coronation_dates": [
+    "1919-08-17"
+   ],
+   "locality": "Sant'Agnello di Sorrento (Angri)",
+   "church_or_sanctuary": "Santuario di Santa Maria Annunziata",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "23, cc. 1064-1143"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 23, cc. 1064-1143 R.M. Castellano, Affezioniamoci a Lei! Cenno storico della chiesa e prodigiosa immagine della SS. Annunziata in S. Agnello di Sorrento, Naples 1907",
+   "notes": null
+  },
+  {
+   "no": 51,
+   "page": 146,
+   "title": "Santa Maria Addolorata, Santa Maria della Pietà",
+   "location_as_given": "Italy, Campania, Eboli (province of Salerno) collegiate church of Santa Maria della Pietà.",
+   "crowned_as_given": "Crowned May 30, 1920",
+   "coronation_dates": [
+    "1920-05-30"
+   ],
+   "locality": "Eboli",
+   "church_or_sanctuary": "Collegiata di Santa Maria della Pietà",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "24, cc. 754-767"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 24, cc. 754-767;",
+   "notes": null
+  },
+  {
+   "no": 52,
+   "page": 148,
+   "title": "Madonna del Monte di Viggiano",
+   "location_as_given": "Italia, Basilicata, Viggiano (province of Potenza) chapel of Santa Maria del Monte and shrine of Santa Maria alle Mura or del Deposito.",
+   "crowned_as_given": "Crowned September 4, 1892, and again April 28, 1991",
+   "coronation_dates": [
+    "1892-09-04",
+    "1991-04-28"
+   ],
+   "locality": "Viggiano",
+   "church_or_sanctuary": "Santa Maria del Monte / Santa Maria alle Mura (del Deposito)",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "14, cc. 28-43",
+    "19, cc. 186-191"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 14, cc. 28-43 BAV, ACSP, Madonne Coronate, Vol. 19, cc. 186-191",
+   "notes": null
+  },
+  {
+   "no": 53,
+   "page": 150,
+   "title": "Madonna di Otranto",
+   "location_as_given": "Italy, Puglia, Otranto (province of Lecce) cathedral of Vergine Annunziata.",
+   "crowned_as_given": "Crowned March 7, 1705",
+   "coronation_dates": [
+    "1705-03-07"
+   ],
+   "locality": "Otranto",
+   "church_or_sanctuary": "Cattedrale (Vergine Annunziata)",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "4, cc. 83-89"
+   ],
+   "afsp_refs": [
+    "cc. Xv, XXIIIv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 4, cc. 83-89 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, cc. Xv, XXIIIv",
+   "notes": null
+  },
+  {
+   "no": 54,
+   "page": 152,
+   "title": "Madonna del Pozzo",
+   "location_as_given": "Italy, Puglia, Capurso, (province of Bari) basilica of Santa Maria del Pozzo.",
+   "crowned_as_given": "Crowned May 20, 1852",
+   "coronation_dates": [
+    "1852-05-20"
+   ],
+   "locality": "Capurso",
+   "church_or_sanctuary": "Basilica di Santa Maria del Pozzo",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "15, cc. 170-249",
+    "17, cc. 86-128"
+   ],
+   "afsp_refs": [
+    "c. XXVIIIv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 15, cc. 170-249 BAV, ACSP, Madonne Coronate, Vol. 17, cc. 86-128 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIIIv Documenti autentici per la solenne coronazione della sacra prodigiosissima immagine di Maria Santissima della Misericordia volgarmente detta la Madonna del Pozzo che si venera nella real chiesa de’ RR. PP. Alcantarini in Capurso, provincia e arcidiocesi di Bari..., Naples 1850",
+   "notes": null
+  },
+  {
+   "no": 55,
+   "page": 154,
+   "title": "Madonna di Valleverde",
+   "location_as_given": "Italy, Puglia, Bovino (province of Foggia) church of Santa Maria di Valleverde and San Lorenzo.",
+   "crowned_as_given": "Crowned August 29, 1876",
+   "coronation_dates": [
+    "1876-08-29"
+   ],
+   "locality": "Bovino",
+   "church_or_sanctuary": "Santa Maria di Valleverde e San Lorenzo",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "17, cc. 1163-1179"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 17, cc. 1163-1179",
+   "notes": null
+  },
+  {
+   "no": 56,
+   "page": 156,
+   "title": "Mater Domini",
+   "location_as_given": "Italy, Puglia, Laterza (province of Taranto) diocesan shrine of Maria Santissima Mater Domini.",
+   "crowned_as_given": "Crowned May 20, 1888",
+   "coronation_dates": [
+    "1888-05-20"
+   ],
+   "locality": "Laterza",
+   "church_or_sanctuary": "Santuario diocesano di Maria Santissima Mater Domini",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "18, cc. 2000-2016"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 18, cc. 2000-2016",
+   "notes": null
+  },
+  {
+   "no": 57,
+   "page": 158,
+   "title": "Madonna della Catena",
+   "location_as_given": "Italy, Calabria, Dipignano - Laurignano (province of Cosenza), shrine of the Madonna della Catena.",
+   "crowned_as_given": "Crowned on September 11, 1921, and again in 1984",
+   "coronation_dates": [
+    "1921-09-11",
+    "1984"
+   ],
+   "locality": "Dipignano (Laurignano)",
+   "church_or_sanctuary": "Santuario della Madonna della Catena",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "17, cc. 1026-1048"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 17, cc. 1026-1048",
+   "notes": null
+  },
+  {
+   "no": 58,
+   "page": 162,
+   "title": "Nostra Signora di Bonaria",
+   "location_as_given": "Italy, Sardinia, Cagliari shrine of Nostra Signora di Bonaria.",
+   "crowned_as_given": "Crowned April 24, 1870 and again April 24, 1926",
+   "coronation_dates": [
+    "1870-04-24",
+    "1926-04-24"
+   ],
+   "locality": "Cagliari (Calaris)",
+   "church_or_sanctuary": "Santuario di Nostra Signora di Bonaria",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": "",
+   "notes": "No archival citation in the catalogue entry."
+  },
+  {
+   "no": 59,
+   "page": 164,
+   "title": "Santa Maria della Neve, Sancta Maria ad Nives",
+   "location_as_given": "Italy, Sardinia, Cuglieri (province of Oristano) basilica and collegiate church of Santa Maria ad Nives.",
+   "crowned_as_given": "Crowned August 5, 1893",
+   "coronation_dates": [
+    "1893-08-05"
+   ],
+   "locality": "Cuglieri",
+   "church_or_sanctuary": "Basilica di Santa Maria della Neve",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "19, cc. 305-363",
+    "31, cc. 373-576"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 19, cc. 305-363 BAV, ACSP, Madonne Coronate, Vol. 31, cc. 373-576 Relazione delle solenni feste per l’incoronazione della SS.ma Vergine della Neve, titolare e patrona dell’insigne collegiata di Cuglieri, 1893, Cagliari 1894",
+   "notes": null
+  },
+  {
+   "no": 60,
+   "page": 166,
+   "title": "Madonna delle Grazie",
+   "location_as_given": "Italy, Sardegna, Sassari, church of San Pietro in Silki.",
+   "crowned_as_given": "Crowned May 9, 1909",
+   "coronation_dates": [
+    "1909-05-09"
+   ],
+   "locality": "Sassari",
+   "church_or_sanctuary": "San Pietro in Silki",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "22, cc. 308-323"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 22, cc. 308-323",
+   "notes": null
+  },
+  {
+   "no": 61,
+   "page": 168,
+   "title": "Sancta Maria Cabuabbas, Nostra Signora di Corte",
+   "location_as_given": "Italy, Sardinia, Sindia (province of Nuoro) abbey church of Nostra Signora di Corte or Cabuabbas.",
+   "crowned_as_given": "Crowned on September 4, 1948, and again September",
+   "coronation_dates": [
+    "1948-09-04",
+    "1998-09-04"
+   ],
+   "locality": "Sindia",
+   "church_or_sanctuary": "Abbazia di Nostra Signora di Corte (Cabuabbas)",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": "",
+   "notes": "No archival citation in the catalogue entry. Crowned 4 September 1948 and again 4 September 1998."
+  },
+  {
+   "no": 62,
+   "page": 170,
+   "title": "Madonna del Presepio",
+   "location_as_given": "Italy, Sicily, Palermo oratory of the monastery of Sant’Antonio di Padova.",
+   "crowned_as_given": "Crowned October 29, 1784",
+   "coronation_dates": [
+    "1784-10-29"
+   ],
+   "locality": "Palermo (Sant'Antonio di Padova)",
+   "church_or_sanctuary": "Oratorio del monastero di Sant'Antonio di Padova",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "11, cc. 144-155"
+   ],
+   "afsp_refs": [
+    "c. XXVIIr"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 11, cc. 144-155 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, c. XXVIIr",
+   "notes": null
+  },
+  {
+   "no": 63,
+   "page": 174,
+   "title": "Nuestra Señora de Montserrat, La Moreneta",
+   "location_as_given": "Spain, Montserrat, church of the monastery.",
+   "crowned_as_given": "Crowned September 11, 1881",
+   "coronation_dates": [
+    "1881-09-11"
+   ],
+   "locality": "Montserrat",
+   "church_or_sanctuary": "Monestir de Montserrat",
+   "country": "Spain",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "18, cc. 51-59"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 18, cc. 51-59",
+   "notes": null
+  },
+  {
+   "no": 64,
+   "page": 176,
+   "title": "Virgen de Aránzazu",
+   "location_as_given": "Spain, Basque Country, Oñate shrine of Nuestra Señora de Aránzazu.",
+   "crowned_as_given": "Crowned June 6, 1886",
+   "coronation_dates": [
+    "1886-06-06"
+   ],
+   "locality": "Oñati (Oñate)",
+   "church_or_sanctuary": "Santuario de Nuestra Señora de Aránzazu",
+   "country": "Spain",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "18, cc. 263-298"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 18, cc. 263-298 Victorien officii et missae propriae in honorem B.M. Virginis de Rubo vulgo de Aranzazu, cujus festum celebrabitur in dominica infra octava nativitatis ejusdem B.M.V. si placuerit Sacrae rituum congregationi, Romae 1883",
+   "notes": null
+  },
+  {
+   "no": 65,
+   "page": 178,
+   "title": "Virgen de Begoña",
+   "location_as_given": "Spain, Bilbao, basilica Andra Mari de Begoña.",
+   "crowned_as_given": "Crowned September 8, 1900",
+   "coronation_dates": [
+    "1900-09-08"
+   ],
+   "locality": "Bilbao",
+   "church_or_sanctuary": "Basílica de Begoña",
+   "country": "Spain",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "19, cc. 1213-1226"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 19, cc. 1213-1226",
+   "notes": null
+  },
+  {
+   "no": 66,
+   "page": 180,
+   "title": "Virgen de Los Ojos Grandes",
+   "location_as_given": "Spain, Lugo, cathedral of Santa Maria de los Ojos Grandes.",
+   "crowned_as_given": "Crowned August 15, 1904",
+   "coronation_dates": [
+    "1904-08-15"
+   ],
+   "locality": "Lugo",
+   "church_or_sanctuary": "Catedral de Santa María (Ojos Grandes)",
+   "country": "Spain",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "21, cc. 241-261"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 21, cc. 241-261 M.D. Vila Jato, La capilla de la Virgen de los Ojos Grandes de la catedral de Lugo, un espacio de exaltación mariana, in “Ars Longa, Cuadernos de Arte”, 2, 1991, pp. 29-34",
+   "notes": null
+  },
+  {
+   "no": 67,
+   "page": 182,
+   "title": "Mare de Déu de La Misericòrdia",
+   "location_as_given": "Spain, Reus, shrine of the Virgen de la Misericòrdia.",
+   "crowned_as_given": "Crowned October 9, 1904",
+   "coronation_dates": [
+    "1904-10-09"
+   ],
+   "locality": "Reus",
+   "church_or_sanctuary": "Santuari de la Mare de Déu de Misericòrdia",
+   "country": "Spain",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "21, cc. 216-239",
+    "31, cc. 697-712"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 21, cc. 216-239 BAV, ACSP, Madonne Coronate, Vol. 31, cc. 697-712 “A su excelsa Reina y Patrona la Virgen de la Misericòrdia,” Seminario Catòlico de Reus, V, 17, 28 April 1900 h t t p : / / m e d j u g o r j e 1 . s p l i n d e r. c o m / archive/2007-09",
+   "notes": null
+  },
+  {
+   "no": 68,
+   "page": 184,
+   "title": "Nuestra Señora del Pino",
+   "location_as_given": "Spain, Grand Canary, Teror shrine of Nuestra Señora del Pino.",
+   "crowned_as_given": "Crowned September 7, 1905",
+   "coronation_dates": [
+    "1905-09-07"
+   ],
+   "locality": "Teror (Gran Canaria)",
+   "church_or_sanctuary": "Basílica de Nuestra Señora del Pino",
+   "country": "Spain",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "21, cc. 284-392"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 21, cc. 284-392",
+   "notes": null
+  },
+  {
+   "no": 69,
+   "page": 186,
+   "title": "Nuestra Señora De La Encina, Virgen De La Encina",
+   "location_as_given": "Spain, Ponferrada, shrine of Nuestra Señora de la Encina.",
+   "crowned_as_given": "Crowned September 8, 1908",
+   "coronation_dates": [
+    "1908-09-08"
+   ],
+   "locality": "Ponferrada",
+   "church_or_sanctuary": "Basílica de Nuestra Señora de la Encina",
+   "country": "Spain",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "22, cc. 231-251"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 22, cc. 231-251",
+   "notes": null
+  },
+  {
+   "no": 70,
+   "page": 188,
+   "title": "Virgen De La Cabeza",
+   "location_as_given": "Spain, Andujar, shrine of Nuestra Señora de la Cabeza.",
+   "crowned_as_given": "Crowned April 23, 1909, and again in 1960",
+   "coronation_dates": [
+    "1909-04-23",
+    "1960"
+   ],
+   "locality": "Andújar",
+   "church_or_sanctuary": "Santuario de Nuestra Señora de la Cabeza",
+   "country": "Spain",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "21, cc. 1141-1153"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 21, cc. 1141-1153",
+   "notes": null
+  },
+  {
+   "no": 71,
+   "page": 190,
+   "title": "Nuestra Señore De Monserrate",
+   "location_as_given": "Spain, Orihuela, shrine of Nuestra Señora de Monserrate.",
+   "crowned_as_given": "Crowned on May 31, 1920 and again in 1959",
+   "coronation_dates": [
+    "1920-05-31",
+    "1959"
+   ],
+   "locality": "Orihuela",
+   "church_or_sanctuary": "Santuario de Nuestra Señora de Monserrate",
+   "country": "Spain",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "24, cc. 740-752"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 24, cc. 740-752",
+   "notes": null
+  },
+  {
+   "no": 72,
+   "page": 192,
+   "title": "Mare de Déu de la Salut, Virgen de la Salud",
+   "location_as_given": "Spain, Balearic Isles, Palma de Mallorca church of San Miguel.",
+   "crowned_as_given": "Crowned September 13, 1931",
+   "coronation_dates": [
+    "1931-09-13"
+   ],
+   "locality": "Palma de Mallorca",
+   "church_or_sanctuary": "Sant Miquel",
+   "country": "Spain",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": "Palma de Mallorca, Archivio Diocesano, J.B. Jordi, Libre en que van apuntats alguns dels miracles que ha fets lo Sr. per la intercessio y invocacio de nostra Sra. de la Salut en la parroquia de Sant Miquel desta Ciutat de Mallorca comensant de 21 de Nbre. añy 1645 J.M. Bover, Biblioteca de escritores baleares, 1, Palma de Mallorca 1863",
+   "notes": "No ACSP citation: the entry cites the Palma diocesan archive."
+  },
+  {
+   "no": 73,
+   "page": 194,
+   "title": "Notre Dame De La Délivrande",
+   "location_as_given": "France, Douvres-la-Délivrande basilica Notre Dame de la Délivrande.",
+   "crowned_as_given": "Crowned August 22, 1872",
+   "coronation_dates": [
+    "1872-08-22"
+   ],
+   "locality": "Douvres-la-Délivrande",
+   "church_or_sanctuary": "Basilique Notre-Dame de la Délivrande",
+   "country": "France",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "17, cc. 463-493"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 17, cc. 463-493",
+   "notes": null
+  },
+  {
+   "no": 74,
+   "page": 196,
+   "title": "Notre Dame Du Grand Pouvoir",
+   "location_as_given": "France, Périgueux, church of the convent of Sainte-Ursule.",
+   "crowned_as_given": "Crowned May 24, 1892",
+   "coronation_dates": [
+    "1892-05-24"
+   ],
+   "locality": "Périgueux",
+   "church_or_sanctuary": "Couvent de Sainte-Ursule",
+   "country": "France",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "19, cc. 166-173"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 19, cc. 166-173",
+   "notes": null
+  },
+  {
+   "no": 75,
+   "page": 198,
+   "title": "Notre Dame Du Chêne",
+   "location_as_given": "Vion, France, basilica of Notre-Dame du Chêne.",
+   "crowned_as_given": "Crowned October 6, 1908",
+   "coronation_dates": [
+    "1908-10-06"
+   ],
+   "locality": "Vion",
+   "church_or_sanctuary": "Basilique Notre-Dame du Chêne",
+   "country": "France",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": "",
+   "notes": "No archival citation in the catalogue entry."
+  },
+  {
+   "no": 76,
+   "page": 200,
+   "title": "Notre Dame Du Guet, Reine De La Paix",
+   "location_as_given": "France, Bar-Le-Duc church of Saint Pierre and Saint Étienne.",
+   "crowned_as_given": "Crowned July 4, 1920",
+   "coronation_dates": [
+    "1920-07-04"
+   ],
+   "locality": "Bar-le-Duc",
+   "church_or_sanctuary": "Saint-Pierre et Saint-Étienne",
+   "country": "France",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "24, cc. 366-395"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 24, cc. 366-395 Notre-Dame du Guet, protectrice de Bar-LeDuc, Saint Paul 1920",
+   "notes": null
+  },
+  {
+   "no": 77,
+   "page": 202,
+   "title": "Virga Jesse",
+   "location_as_given": "Belgium, Hasselt, basilica of the Virga Iesse.",
+   "crowned_as_given": "Crowned August 15, 1867",
+   "coronation_dates": [
+    "1867-08-15"
+   ],
+   "locality": "Hasselt",
+   "church_or_sanctuary": "Basiliek Virga Jesse",
+   "country": "Belgium",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "17, cc. 347-356"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 17, cc. 347-356",
+   "notes": null
+  },
+  {
+   "no": 78,
+   "page": 204,
+   "title": "Notre Dame De La Sarte",
+   "location_as_given": "Belgium, Huy, shrine of Notre Dame de la Sarte.",
+   "crowned_as_given": "Crowned [?] 1900",
+   "coronation_dates": [
+    "1900"
+   ],
+   "locality": "Huy",
+   "church_or_sanctuary": "Notre-Dame de la Sarte",
+   "country": "Belgium",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "19, cc. 688-700"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 19, cc. 688-700 P.C. Th. Halflants, Histoire de Notre-Dame de la Sarte lez Huy, Liége 1864",
+   "notes": "Day and month not given in the catalogue ('[?] 1900')."
+  },
+  {
+   "no": 79,
+   "page": 206,
+   "title": "Notre Dame Reine de la Paix, Notre Dame d’Arlon",
+   "location_as_given": "Belgium, Arlon, church of Saint Donat.",
+   "crowned_as_given": "Crowned September 14, 1904",
+   "coronation_dates": [
+    "1904-09-14"
+   ],
+   "locality": "Arlon",
+   "church_or_sanctuary": "Saint-Donat",
+   "country": "Belgium",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "21, cc. 340-360"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 21, cc. 340-360 Le couronnement de la statue miraculeuse de Notre-Dame d’Arlon à Arlon le 14 Septembre 1904, Arlon s.d. Histoire du culte de Notre Dame d’Arlon, Arlon 1905",
+   "notes": null
+  },
+  {
+   "no": 80,
+   "page": 208,
+   "title": "Madonna Nera della Misericordia, Sancta Maria Mater Misericordiae",
+   "location_as_given": "Germany, Cologne, Parish church of Sancta Maria in der Kupfergasse.",
+   "crowned_as_given": "Crowned April 3, 1925",
+   "coronation_dates": [
+    "1925-04-03"
+   ],
+   "locality": "Cologne (Köln)",
+   "church_or_sanctuary": "Sankt Maria in der Kupfergasse",
+   "country": "Germany",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": "",
+   "notes": "No archival citation in the catalogue entry."
+  },
+  {
+   "no": 81,
+   "page": 210,
+   "title": "Holy Family",
+   "location_as_given": "Poland, Miedniewice, church of the Visitation of the Blessed Virgin Mary and St. Joseph.",
+   "crowned_as_given": "Crowned June 7, 1767",
+   "coronation_dates": [
+    "1767-06-07"
+   ],
+   "locality": "Miedniewice",
+   "church_or_sanctuary": "Church of the Visitation (Reformed Franciscans)",
+   "country": "Poland",
+   "subject": "Holy Family",
+   "refs": [],
+   "afsp_refs": [
+    "cc. XVIr, XXVIr"
+   ],
+   "sources_as_given": "AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, cc. XVIr, XXVIr",
+   "notes": "No ACSP citation; the entry cites the Fabbrica's catalogo delle immagini and the copy's inscription, which dates the Chapter's decree 8 July 1764."
+  },
+  {
+   "no": 82,
+   "page": 212,
+   "title": "Nostra Signora di Piasek",
+   "location_as_given": "Poland, Cracow, church of the Visitation of the Blessed Virgin Mary in Arenis.",
+   "crowned_as_given": "Crowned September 8, 1883",
+   "coronation_dates": [
+    "1883-09-08"
+   ],
+   "locality": "Kraków (Na Piasku)",
+   "church_or_sanctuary": "Church of the Visitation 'in Arenis' (Carmelites, Na Piasku)",
+   "country": "Poland",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "10, cc. 16-21",
+    "18, cc. 158-162"
+   ],
+   "afsp_refs": [
+    "cc. XVIv, XXVIr"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 10, cc. 16-21 BAV, ACSP, Madonne Coronate, Vol. 18, cc. 158-162 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, cc. XVIv, XXVIr",
+   "notes": null
+  },
+  {
+   "no": 83,
+   "page": 214,
+   "title": "Nostra Signora di Svatá Hora",
+   "location_as_given": "Czech Republic, Příbram, shrine of Svatá Hora.",
+   "crowned_as_given": "Crowned June 22, 1732",
+   "coronation_dates": [
+    "1732-06-22"
+   ],
+   "locality": "Svatá Hora, Příbram",
+   "church_or_sanctuary": "Svatá Hora",
+   "country": "Czech Republic",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "6, cc. 184-191"
+   ],
+   "afsp_refs": [
+    "cc. XIIIv, XXIVv"
+   ],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 6, cc. 184-191 AFSP, Arm. 12, F, 11, nr. 10, catalogo delle immagini, cc. XIIIv, XXIVv",
+   "notes": null
+  },
+  {
+   "no": 84,
+   "page": 216,
+   "title": "Nostra Signora di Chelm",
+   "location_as_given": "Ukraine, Lutsk, formerly in Poland, Chelm, Cathedral of the Nativity of the Virgin.",
+   "crowned_as_given": "Crowned on September 15, 1765 or September 17, 1767",
+   "coronation_dates": [
+    "1765-09-15"
+   ],
+   "locality": "Chełm",
+   "church_or_sanctuary": "Cathedral of the Nativity of the Virgin",
+   "country": "Poland",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "10, cc. 119-142"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 10, cc. 119-142",
+   "notes": "Catalogue: 'Crowned on September 15, 1765 or September 17, 1767'. Chełm is today in Poland; the catalogue files it under Lutsk (Łuck), the diocese."
+  },
+  {
+   "no": 85,
+   "page": 218,
+   "title": "Our Lady of Mount Carmel",
+   "location_as_given": "Republic of Malta, La Valletta, Shrine of Our Lady of Mount Carmel.",
+   "crowned_as_given": "Crowned July 15, 1881",
+   "coronation_dates": [
+    "1881-07-15"
+   ],
+   "locality": "Valletta",
+   "church_or_sanctuary": "Shrine of Our Lady of Mount Carmel",
+   "country": "Malta",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "18, cc. 94-102"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 18, cc. 94-102",
+   "notes": null
+  },
+  {
+   "no": 86,
+   "page": 220,
+   "title": "Santa Maria Draperis",
+   "location_as_given": "Turkey, Istanbul church of the convent of Santa Maria Draperis.",
+   "crowned_as_given": "Crowned March 25, 1911",
+   "coronation_dates": [
+    "1911-03-25"
+   ],
+   "locality": "Istanbul",
+   "church_or_sanctuary": "Santa Maria Draperis",
+   "country": "Turkey",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "22, cc. 635-651"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 22, cc. 635-651",
+   "notes": null
+  },
+  {
+   "no": 87,
+   "page": 224,
+   "title": "Virgen del Valle",
+   "location_as_given": "Venezuela, Isola Margarita, El Valle del Espirítu Santo minor basilica of Nuestra Señora del Valle.",
+   "crowned_as_given": "Crowned September 8, 1911",
+   "coronation_dates": [
+    "1911-09-08"
+   ],
+   "locality": "El Valle del Espíritu Santo (Isla Margarita)",
+   "church_or_sanctuary": "Basílica menor de Nuestra Señora del Valle",
+   "country": "Venezuela",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "22, cc. 712-738"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 22, cc. 712-738",
+   "notes": null
+  },
+  {
+   "no": 88,
+   "page": 226,
+   "title": "Nuestra Señora de la Merced",
+   "location_as_given": "Perù, Lima, basilica of Nuestra Señora de la Merced.",
+   "crowned_as_given": "Crowned September 24, 1921",
+   "coronation_dates": [
+    "1921-09-24"
+   ],
+   "locality": "Lima",
+   "church_or_sanctuary": "Basílica de Nuestra Señora de la Merced",
+   "country": "Peru",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "25 (1), cc. 98-109"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 25 (1), cc. 98-109",
+   "notes": null
+  },
+  {
+   "no": 89,
+   "page": 228,
+   "title": "Nuestra Señora de Aparecida",
+   "location_as_given": "Brazil, Aparecida, national shrine of Nuestra Señora de Aparecida.",
+   "crowned_as_given": "Crowned September 8, 1904",
+   "coronation_dates": [
+    "1904-09-08"
+   ],
+   "locality": "Aparecida",
+   "church_or_sanctuary": "Santuário Nacional de Nossa Senhora Aparecida",
+   "country": "Brazil",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "20, cc. 1265-1276"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": "BAV, ACSP, Madonne Coronate, Vol. 20, cc. 1265-1276",
+   "notes": null
+  },
+  {
+   "no": "V1",
+   "page": 25,
+   "title": "Madonna della Febbre",
+   "location_as_given": null,
+   "crowned_as_given": null,
+   "coronation_dates": [
+    "1631-08-27"
+   ],
+   "locality": "Rome, Vatican Basilica (sacristy)",
+   "church_or_sanctuary": "Sagrestia Vaticana, Cappella dei Beneficiati",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": null,
+   "notes": "First image crowned by the Chapter; the essay gives the day (27 August 1631) but no folio."
+  },
+  {
+   "no": "V2",
+   "page": 26,
+   "title": "Madonna della Pietà (Michelangelo's Pietà)",
+   "location_as_given": null,
+   "crowned_as_given": null,
+   "coronation_dates": [
+    "1637-08-31"
+   ],
+   "locality": "Rome, Vatican Basilica (Pietà)",
+   "church_or_sanctuary": "Basilica Vaticana",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [
+    "1, c. 69r",
+    "1, c. 4r"
+   ],
+   "afsp_refs": [],
+   "sources_as_given": null,
+   "notes": "Crowned 31 August 1637 while still in the seventeenth-century Choir Chapel; crown donated by Count Sforza and consigned to Canon Ugo Ubaldini for the crowning (BAV, ACSP, Madonne Coronate, vol. 1, c. 4r); listed among the thirteen crowns granted in Sforza's lifetime (vol. 1, c. LXIXr)."
+  },
+  {
+   "no": "V3",
+   "page": 28,
+   "title": "Madonna del Soccorso",
+   "location_as_given": null,
+   "crowned_as_given": null,
+   "coronation_dates": [
+    "1643-11-17"
+   ],
+   "locality": "Rome, Vatican Basilica (Cappella Gregoriana)",
+   "church_or_sanctuary": "Cappella Gregoriana, Basilica Vaticana",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": null,
+   "notes": null
+  },
+  {
+   "no": "V4",
+   "page": 30,
+   "title": "Madonna della Colonna (Mater Ecclesiae)",
+   "location_as_given": null,
+   "crowned_as_given": null,
+   "coronation_dates": [
+    "1645-01-01"
+   ],
+   "locality": "Rome, Vatican Basilica (Madonna della Colonna)",
+   "church_or_sanctuary": "Cappella della Madonna della Colonna, Basilica Vaticana",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": null,
+   "notes": null
+  },
+  {
+   "no": "V5",
+   "page": 32,
+   "title": "Madonna Immacolata",
+   "location_as_given": null,
+   "crowned_as_given": null,
+   "coronation_dates": [
+    "1854-12-08"
+   ],
+   "locality": "Rome, Vatican Basilica (Cappella del Coro)",
+   "church_or_sanctuary": "Cappella del Coro, Basilica Vaticana",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": null,
+   "notes": "Crowned by Pius IX on the day of the definition of the Immaculate Conception."
+  },
+  {
+   "no": "V6",
+   "page": 34,
+   "title": "Madonna Regina degli Apostoli",
+   "location_as_given": null,
+   "crowned_as_given": null,
+   "coronation_dates": [
+    "1950-11-04"
+   ],
+   "locality": "Rome, Vatican Grottoes (Regina Apostolorum)",
+   "church_or_sanctuary": "Grotte Vaticane",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": null,
+   "notes": null
+  },
+  {
+   "no": "V7",
+   "page": 35,
+   "title": "Nostra Signora di Częstochowa (copy)",
+   "location_as_given": null,
+   "crowned_as_given": null,
+   "coronation_dates": [
+    "2005-04-02"
+   ],
+   "locality": "Rome, Vatican Grottoes (Chapel of the Polish Nation)",
+   "church_or_sanctuary": "Grotte Vaticane, cappella della Nazione Polacca",
+   "country": "Italy",
+   "subject": "Blessed Virgin Mary",
+   "refs": [],
+   "afsp_refs": [],
+   "sources_as_given": null,
+   "notes": "Copy of the Jasna Góra image in the Vatican Grottoes, crowned 2 April 2005 — the day of John Paul II's death."
+  }
+ ]
+}

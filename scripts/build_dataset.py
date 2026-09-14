@@ -60,8 +60,9 @@ doc={'metadata':{
    'documents what ASS and AAS attest — a well-defined and citable subset.',
    'The archives of the Chapter of St Peter’s Basilica are a separate source and only fractionally '
    'online. The dedicated series is “Madonne coronate” (cited BAV, ACSP, Madonne coronate, tomo I, '
-   'foglio N (mecc. N)); exactly one volume is digitized, Arch.Cap.S.Pietro.Madonne.coron.4 (726 images, '
-   'not OCR’d). Everything else must be consulted at the Vatican Library or the Archivio Capitolare. '
+   'foglio N (mecc. N)); one volume is digitized in full, Arch.Cap.S.Pietro.Madonne.coron.4 (726 images, '
+   'not OCR’d), and ten folios of vol. 19. Everything else must be consulted at the Vatican Library or '
+   'the Archivio Capitolare, or reached through the registers and catalogues that cite it. '
    'See docs/CHAPTER-ARCHIVES.md.',
    'The 25 March 1973 Normae (AAS 65, 276) reshaped the practice; from 1974 the acts appear as Litterae '
    'Apostolicae granting the faculty to crown, and they are numerous.',

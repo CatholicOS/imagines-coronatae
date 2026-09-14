@@ -3,8 +3,10 @@
 A machine-readable catalogue of **sacred images crowned under papal authority**, compiled from a
 complete sweep of the official gazettes of the Holy See — *Acta Sanctae Sedis* (ASS, 1865–1908) and
 *Acta Apostolicae Sedis* (AAS, 1909– ) — and from the one digitized volume of the Vatican Chapter's
-own coronation dossiers, *Madonne coronate*, tomo IV (1689–1714) — plus, kept visibly distinct, thirty
-coronations reported by Vrabelová's 2013 study of the same archive.
+own coronation dossiers, *Madonne coronate*, tomo IV (1689–1714) — plus, kept visibly distinct, the
+coronations reported by four secondary works on the same archive: Briccolani's printed register of
+1800, the Zander/Magister catalogue of the Fabbrica's painted copies (2011), Vrabelová's study of
+Central Europe (2013) and Balzamo's of Italy (2023).
 
 | Where | What |
 |---|---|
@@ -15,52 +17,63 @@ coronations reported by Vrabelová's 2013 study of the same archive.
 | [`data/attestations.json`](data/attestations.json) | The evidence layer — one record per *act* in ASS/AAS |
 | [`data/attestations-acsp.json`](data/attestations-acsp.json) | The evidence layer for the Chapter archive — one record per *dossier* in Madonne coronate IV |
 | [`data/attestations-lit.json`](data/attestations-lit.json) | Secondary literature — coronations *reported*, not read at first hand, each with the author's archival citation |
+| [`data/briccolani-1800-serie.json`](data/briccolani-1800-serie.json) | Transcription of Briccolani's 1800 *Serie* — the earliest printed register, 256 entries 1631–1793 |
+| [`data/zander-magister-2011-catalogue.json`](data/zander-magister-2011-catalogue.json) | The 96 entries of the Zander/Magister 2011 catalogue, each with its dossier citation |
+| [`data/basilici-bigliazzi-2025-db.json`](data/basilici-bigliazzi-2025-db.json) | The Basilici–Bigliazzi database of 1,737 crownings, 1631–1981 — **not merged**, used for the cross-match |
+| [`docs/CROSSMATCH-BASILICI.md`](docs/CROSSMATCH-BASILICI.md) | The cross-match: what they record that this catalogue lacks, and the reverse (`data/crossmatch-basilici.csv` row by row) |
 | [`data/sources.csv`](data/sources.csv) | One row per (image, source) pair |
 
 ## What is in it
 
-**416 crowned images** in **42 countries**, documented by **495 source citations**:
+**671 crowned images** in **43 countries**, documented by **858 source citations**:
 400 from **147,576 pages** of the two gazettes (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026);
 34 from the **713 transcribed folios** of *Madonne coronate* IV — the Chapter's dossiers for
 34 images crowned between 1689 and 1716, only three of which the gazettes ever mention; and
-61 from **secondary literature** — Vrabelová 2013 on Central Europe 1717–1786 and Balzamo 2023 on Italy
-and Rome 1631–1798 — reporting coronations from volumes of the same archive that are not online.
+424 from **secondary literature** reporting coronations from volumes of the same archive that are
+not online — 256 from Briccolani's register of 1800 (every Chapter coronation to 1791, by year),
+107 from the Zander/Magister catalogue of 2011 (89 images with the day of crowning and the volume
+and folios of the dossier), 30 from Vrabelová 2013 on Central Europe 1717–1786 and 31 from Balzamo
+2023 on Italy and Rome 1631–1798.
 
-53 images are attested by more than one act — the most-cited is Our Lady of Guadalupe, with seven.
-Crownings run from **1645 to 2001**, far earlier than the gazettes themselves,
-because a later act often recites when an image was first crowned.
+137 images are attested by more than one source — the most-cited is Our Lady of Guadalupe, with
+eight. Crownings run from **1500 to 2005**, far earlier than the gazettes themselves, because a
+later act often recites when an image was first crowned. 304 images rest on secondary literature
+alone; 178 of them on Briccolani's bare year and nothing else.
 
 By strongest evidence available for each image:
 
 | Type | Images |
 |---|---|
-| `retrospective_attestation` | 181 |
+| `chapter_decree` | 362 |
+| `retrospective_attestation` | 163 |
 | `papal_coronation_act` | 101 |
-| `chapter_decree` | 88 |
 | `papal_personal_coronation` | 28 |
-| `papal_legate_deputation` | 15 |
+| `papal_legate_deputation` | 14 |
 | `norms` | 2 |
+| `petition_not_conceded` | 1 |
 
 Most-represented countries:
 
 | Country | Images |
 |---|---|
-| Italy | 99 |
-| Poland | 64 |
-| Spain | 24 |
+| Italy | 387 |
+| Poland | 73 |
+| Spain | 31 |
+| France | 24 |
 | Mexico | 23 |
-| France | 21 |
+| Belgium | 12 |
 | Colombia | 11 |
-| Belgium | 9 |
+| Ukraine | 11 |
 | Argentina | 7 |
 | Philippines | 7 |
 | Brazil | 6 |
-| Ecuador | 5 |
-| Peru | 5 |
+| Malta | 6 |
 
-Confidence: 215 high, 119 medium, 5 low.
-`medium` usually means the country was inferred from the Latin name of the diocese rather than
-stated outright; every such case says so in the source's `notes`.
+Confidence: 235 high, 216 medium, 220 low.
+`medium` usually means either that the country was inferred from the Latin name of the diocese
+rather than stated outright (every such case says so in the source's `notes`), or that the only
+source is a secondary work citing the dossier by folio; `low` is almost always a register that
+gives a year and nothing else.
 
 ## One record per image, not per act
 
@@ -68,25 +81,41 @@ An image crowned once may be mentioned in a dozen later acts. **Nossa Senhora da
 Aparecida** is recited in AAS 23 (1931), AAS 46 (1954) and AAS 59 (1967) — that is one image with
 three sources, not three crowned images. So each record here is an **image**, and every act
 attesting it is kept in that record's `sources` array. Nothing is discarded by consolidation:
-400 source citations sit inside 339 image records, and `data/attestations.json` still holds
-the flat act-level layer if you want it.
+858 source citations sit inside 671 image records, and `data/attestations.json`,
+`data/attestations-acsp.json` and `data/attestations-lit.json` still hold the flat record-level
+layers if you want them.
 
 **Images crowned more than once.** `coronation_dates` is an array, and where it holds more than
 one date the image really was crowned again — typically a Vatican Chapter crowning later renewed by
-a Pope. 6 images in the catalogue were crowned more than once:
+a Pope. 24 images in the catalogue were crowned more than once, among them:
 
 | Image | Crowned |
 |---|---|
+| Madonna della Febbre — Rome, Vatican sacristy | 1631-08-27, 1697-08-15 |
+| Salus Populi Romani — Rome, Santa Maria Maggiore | 1597, 1954-11-01 |
 | Madonna del Rosario di Fontanellato — Fontanellato, Italy | 1660, 1925 |
-| Nostra Signora di Bonaria — Cagliari (Calaris), Italy | 1870-04-24, 1926 |
+| Nostra Signora della Misericordia — Savona, Italy | 1770, 1815-05-10 |
+| Nostra Signora dei Miracoli — Cicagna, Italy | 1790-09-14, 1814-09-14 |
+| Vergine del Sacro Monte — Varallo, Italy | 1857-08-20, 1862-08-17 |
+| Nostra Signora di Bonaria — Cagliari (Calaris), Italy | 1870-04-24, 1926-04-24 |
 | Onze-Lieve-Vrouw van Scherpenheuvel (Notre-Dame de Montaigu) — Scherpenheuvel (Aspricollis), near Leuven, Belgium | 1872, 1927 |
 | Nuestra Señora de Guadalupe — Mexicopolis (Mexico City), Mexico | 1895-10-12, 1945-10-12, 1979-01-27 |
 | Notre-Dame du Cap — Cap-de-la-Madeleine, Canada | 1904, 1954 |
 | Nuestra Señora de Coromoto — Guanare, Venezuela | 1952-09-12, 1985-01-27 |
 
 Dates are collapsed by precision first: one source giving `1954` and another `1954-08-29` is a
-single crowning recorded at two levels of detail, not two, so only the fuller form is kept. Distinct
-years stay distinct — which is what makes a multi-entry list mean something.
+single crowning recorded at two levels of detail, not two, so only the fuller form is kept. A bare
+year from a register that is one year off a full date from a dossier is treated the same way —
+a register often gives the year of the decree, the dossier the day of the ceremony (Lucca: decree
+1689, crowned 30 April 1690). Distinct years otherwise stay distinct — which is what makes a
+multi-entry list mean something. A crown for the **Child** of an image already crowned (Briccolani
+lists twelve such *Bambino Gesù* concessions) is kept as a source on the image, linked to it by
+`parent_act`, but is not counted as a re-crowning. Three entries in the table are source
+disagreements rather than two ceremonies: Sant'Agostino in Rome (Briccolani 1641, Balzamo 1643),
+Jarosław (Briccolani 1732, Vrabelová 1755-09-08) and Lima, where the act of 1925 prints *die XXIV
+mensis septembris anno MDCCXXI* and Zander/Magister, citing the dossier in vol. 25, give 24 September
+1921 — the same day a century apart, and the dossier's century is the likelier. They are left as
+the sources give them.
 
 **How images are identified.** By **place first**, then title. Marian titles repeat all over the
 world — there are seven distinct *Nuestra Señora de Guadalupe* here, in Mexico, Spain, Venezuela and
@@ -104,6 +133,29 @@ crowned in 1904 and again in 1954. Where an act's title reduces to nothing but p
 locality and subject carry the identification, and a record is merged only if exactly one cluster at
 that place fits. Subjects never cross: a St Joseph is never merged into a Marian image.
 
+Three further rules came in with the registers, which name a hundred and more images in one city:
+
+- **A place-word inside a title is not identity.** *Santa Maria della Neve di Frosinone* is
+  identified by *Neve*; the locality already carries *Frosinone*, and matching on it fused
+  Acquapendente's Madonna delle Grazie (1742) with its cathedral's Concezione (1778). Words for
+  kinds of building (*cattedrale*, *chiesa*, *monastero*) are dropped too, so *Santa Maria nella
+  Cattedrale di Verona* has no title at all and the place and the year must carry it — and then a
+  year-only register never merges with another register's entry at the same place on the year
+  alone (Benevento 1723 is two images: Balzamo's Incoronata of the Camaldolese and Briccolani's
+  Madonna delle Grazie), unless one of them gives the day.
+- **Rome is not a place.** Over a hundred distinct images were crowned there, so two Roman records
+  match only when their **church** signatures agree — *Rome, Sant'Agostino* with *Rome, S.
+  Agostino*, never *San Giovanni in Fonte* with *San Giovanni dei Fiorentini* — and a Roman record
+  never matches one from anywhere else, however many saints' names the two churches share (San
+  Giovanni in Fonte is not San Giovanni Valdarno). A record that says only *Rome* reaches a church
+  through its title (*Madonna del Nome di Maria* → *Rome, Santissimo Nome di Maria*).
+- **Two full dates that differ are two crownings.** Genoa's Madonnetta (27 June 1920) and Nostra
+  Signora delle Vigne (21 November 1920) are not one image because both were crowned in 1920.
+
+One earlier merge was undone by these rules and is left undone on purpose: Julius II's crowning of
+the Loreto statue in 1500 (Balzamo) and the 1922 crowning at Loreto are now two records — the acts
+of 1922 crown a *nova Virginis effigies*, the statue that replaced the one burned in 1921.
+
 Residual duplicates are possible where a source names no locality at all, or where two acts
 describe one image in words too different to match. One such pair is left open deliberately:
 **Piekary Śląskie** ([issue #1](https://github.com/CatholicOS/imagines-coronatae/issues/1)), where
@@ -116,19 +168,38 @@ It waits on the Chapter archives.
 
 Every source carries a `series`: **ASS** and **AAS** (the gazettes) and **ACSP** (the Chapter's
 dossiers) were **read at first hand** for this catalogue. **LIT** is different: it marks a coronation
-**reported by a scholarly work** and not read here — at present Dana Vrabelová's 2013 dissertation
-(thirty Chapter coronations in Central Europe, 1717–1786, § XXI) and Nicolas Balzamo's 2023 article
-(Roman and Italian coronations 1631–1798), each row cited to *BAV, ACSP, Madonne coronate, volume,
-folio* where the author gives one. Those citations are carried in `register_refs`, so
-every LIT row can be taken back to the primary dossier; until it is, its confidence is capped at
-`medium` (`low` where she cites no folio). The rows are in `data/vrabelova-2013-table-xxi.json` and
-`data/balzamo-2023-crownings.json`. Rows that name only a town and a year are kept **standalone** —
-they are not merged into any named image, because a town and a year do not identify one.
+**reported by a scholarly work or a printed register** and not read here. Four works so far:
 
-Why keep the distinction visible: in the one place her account could be checked against a dossier
-read here, it was wrong — she dates Trsat to 21 March 1715; the instrument says 14 September, the
-letters say 8 September. Secondary reports are valuable and mostly right, but they are not the
-same kind of evidence.
+| Work | LIT records | What it is | Citation it carries |
+|---|---|---|---|
+| Vincenzo **Briccolani**, *Descrizione della sacrosanta Basilica Vaticana*, Rome 1800, pp. 144–161 | 256 | The earliest printed register: every Chapter coronation 1631–1791, year by year, Rome first and then all Italy and abroad | none — a year only; confidence `low` |
+| Pietro **Zander** and Sara **Magister**, *Full of Grace: Crowned Madonnas from the Vatican Basilica*, New Haven 2011 | 107 (96 entries; a reported re-crowning is a second record) | Catalogue of the Fabbrica's painted copies of 89 crowned images, with the day of crowning | *BAV, ACSP, Madonne Coronate, vol., cc.* for 83 of them, and the Fabbrica's *catalogo delle immagini* (AFSP, Arm. 12, F, 11, nr. 10) |
+| Dana **Vrabelová**, *Imago gratiosa*, Prague 2013, § XXI | 30 | Thirty Chapter coronations in Central Europe, 1717–1786 | *sv., fol.* for most |
+| Nicolas **Balzamo**, « Uniformisation ou distinction ? », *RHR* 97 (2023) | 31 | Roman and Italian coronations 1631–1798 named in the text | *volume, folio* where given; town-and-year lists without |
+
+A fifth work is kept outside the catalogue altogether. Massimo Basilici and Rita Bigliazzi's
+*Le Madonne Coronate* (2025) and its database of **1,737 crownings 1631–1981** is the fullest list
+there is, but it is compiled from Anselmo da Reno Centese's 1933 catalogue and the internet rather
+than from the archive, so it is used as a yardstick: [`docs/CROSSMATCH-BASILICI.md`](docs/CROSSMATCH-BASILICI.md)
+matches it against the catalogue in both directions — 467 of their schede correspond to an image
+here, 981 verified crownings (almost all after 1800) do not, and 258 images here (the gazettes'
+papal acts, above all) are not in their list.
+
+Each row is cited to *BAV, ACSP, Madonne coronate, volume, folio* where the author gives one, and
+those citations are carried in `register_refs`, so a LIT row can be taken back to the primary
+dossier; until it is, its confidence is capped at `medium` (`low` where no folio is cited). The
+rows are in `data/vrabelova-2013-table-xxi.json`, `data/balzamo-2023-crownings.json`,
+`data/zander-magister-2011-catalogue.json` and `data/briccolani-1800-serie.json`. Rows that name
+only a town and a year are kept **standalone** — they are not merged into any named image on place
+and year, only on a shared title word, because a town and a year do not identify one.
+
+Why keep the distinction visible: where the literature can be checked against the dossiers read
+here, it is mostly right and sometimes not. Vrabelová dates Trsat to 21 March 1715; the instrument
+says 14 September, the letters say 8 September. Where Briccolani and a tomo IV dossier meet (twenty-seven
+images), his year is the dossier's in all but three, and those are one year off (Bertinoro and
+Otranto a year early, Frascati a year late); where Zander/Magister meet
+a dossier or a gazette act (Otranto, Cuglieri, Narni, Bonaria) the day agrees exactly. Secondary
+reports are valuable, but they are not the same kind of evidence.
 
 ## What "crowned under papal authority" means here
 
@@ -155,11 +226,14 @@ carries an `evidence_type` so you can filter to exactly the sense you need:
    centuries the crowning of an image was granted by decree of the **Chapter of St Peter's
    Basilica**, under the 1636 Sforza Pallavicino legacy, and those decrees were never gazetted. The
    dedicated series is **`Madonne coronate`**, cited as *BAV, ACSP, Madonne coronate, tomo I, foglio
-   N (mecc. N)*. Exactly **one volume of it is digitized** —
+   N (mecc. N)*. Exactly **one volume of it is digitized in full** —
    [`Arch.Cap.S.Pietro.Madonne.coron.4`](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4),
-   726 images, not OCR'd. Everything else must be consulted at the Vatican Library or at the
+   726 images, not OCR'd — and ten folios of
+   [vol. 19](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.19) (the Capocolonna
+   dossier of 1892). Everything else must be consulted at the Vatican Library or at the
    Archivio Capitolare. **That one volume has now been transcribed and swept** (`chapter_decree`
-   records, cited by folio); the other tomes remain the largest unexamined source. See
+   records, cited by folio); the other tomes remain the largest unexamined source, reached here
+   only through the registers and catalogues that cite them. See
    [`docs/CHAPTER-ARCHIVES.md`](docs/CHAPTER-ARCHIVES.md) for the series layout, the citation form,
    the petition procedure and what each coronation deposited.
 

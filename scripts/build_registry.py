@@ -1,7 +1,7 @@
 import json,collections,datetime,os,re,pathlib,unicodedata as U
 REPO=str(pathlib.Path(__file__).resolve().parent.parent)
 I=json.load(open(os.path.join(REPO,'data','imagines-coronatae.json'),encoding='utf-8'))['images']
-EV={'papal_coronation_act':'act','papal_legate_deputation':'legate','papal_personal_coronation':'by pope',
+EV={'papal_coronation_act':'act','papal_legate_deputation':'legate','papal_personal_coronation':'by pope','chapter_decree':'chapter',
     'retrospective_attestation':'retro','norms':'norms','petition_not_conceded':'NOT conceded'}
 CONF={'high':'●●●','medium':'●●○','low':'●○○'}
 def esc(s): return re.sub(r'\s+',' ',str(s or '')).replace('|','\\|').strip()

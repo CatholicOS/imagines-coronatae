@@ -38,7 +38,7 @@
     },
     "caveats": [
       "NOT A GLOBAL CENSUS. For most of the period covered, the crowning of an image was decreed by the Chapter of St Peter’s Basilica (Capitulum Vaticanum) and was never published in either gazette. This dataset documents what ASS and AAS attest — a well-defined and citable subset.",
-      "The archives of the Chapter of St Peter’s Basilica are not published online and were NOT consulted. They remain the principal unexamined source for coronations before 1909 and for many after it.",
+      "The archives of the Chapter of St Peter’s Basilica are a separate source and only fractionally online. The dedicated series is “Madonne coronate” (cited BAV, ACSP, Madonne coronate, tomo I, foglio N (mecc. N)); one volume is digitized in full, Arch.Cap.S.Pietro.Madonne.coron.4 (726 images, not OCR’d), and ten folios of vol. 19. Everything else must be consulted at the Vatican Library or the Archivio Capitolare, or reached through the registers and catalogues that cite it. See docs/CHAPTER-ARCHIVES.md.",
       "The 25 March 1973 Normae (AAS 65, 276) reshaped the practice; from 1974 the acts appear as Litterae Apostolicae granting the faculty to crown, and they are numerous.",
       "Sources are OCR scans and ASS is markedly rougher than AAS. Place names are frequently mangled. Every record keeps the verbatim Latin rubric and incipit and carries a confidence value; records marked \"low\", or carrying a note, should be checked against the printed page before being treated as authoritative.",
       "Several ASS volumes span two calendar years; `year` is the first year of the volume."
