@@ -45,7 +45,7 @@
     ],
     "statistics": {
       "images": 671,
-      "source_records": 858,
+      "source_records": 939,
       "by_country": {
         "Italy": 387,
         "Poland": 73,
@@ -93,8 +93,8 @@
       },
       "by_strongest_evidence": {
         "retrospective_attestation": 163,
-        "papal_coronation_act": 101,
-        "chapter_decree": 362,
+        "papal_coronation_act": 100,
+        "chapter_decree": 363,
         "papal_legate_deputation": 15,
         "papal_personal_coronation": 27,
         "petition_not_conceded": 1,
@@ -105,7 +105,7 @@
         "medium": 216,
         "low": 220
       },
-      "multi_source_images": 137
+      "multi_source_images": 194
     },
     "license": "Underlying ASS and AAS texts are © Libreria Editrice Vaticana. This compilation is provided for research use.",
     "structure": "One record per CROWNED IMAGE. Every ASS/AAS act that attests it is kept in that image’s `sources` array, so an image cited in several volumes is ONE record with several sources, not several records. Images are identified by locality first, since Marian titles repeat worldwide; a distinctive title can also unite an image crowned away from its shrine."
@@ -19460,15 +19460,15 @@
       "image_title_vernacular": "Santa Maria nelle Stanze di S. Ignazio al Gesù",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Stanze di S. Ignazio al Gesù",
+      "church_or_sanctuary": "Chiesa del Gesù, cappellette di S. Ignazio",
       "locality": "Rome, Chiesa del Gesù (Stanze di Sant'Ignazio)",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1676"
+        "1676-03-03"
       ],
-      "first_coronation": "1676",
+      "first_coronation": "1676-03-03",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -19476,7 +19476,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -19505,6 +19505,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1676,
+          "page": 573,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 61",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo73",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1675-12-02",
+          "coronation_date": "1676-03-03",
+          "legate": null,
+          "deputy": "Canonici Giulio Ricci e Ludovico Palagi",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna nella interior Cappella di S. Ignazio al Gesù",
+          "incipit_latin": "Il Capitolo a' 2. decembre 1675. decretò che i Canonici Palagi, e Ricci ne facesser visita, e relazione. Il rapporto fu favorevole; onde a' tre di Marzo dell'anno accanto gli stessi Canonici Giulio Ricci, e Ludovico Palagi recarono alle cappellette del Gesù il dono a Maria, ed al Santo Bambino",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 4 x 3, crowned 1676. Deputed: Canonici Giulio Ricci e Ludovico Palagi.",
+          "parent_act": null
         }
       ]
     },
@@ -19513,15 +19541,15 @@
       "image_title_vernacular": "Santa Maria della Prima primaria Congregazione nel Collegio Romano",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Congregazione Prima Primaria, Collegio Romano",
+      "church_or_sanctuary": "Collegio Romano, Congregazione Prima Primaria (SS. Annunziata)",
       "locality": "Rome, Collegio Romano (Prima Primaria)",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1765"
+        "1765-05"
       ],
-      "first_coronation": "1765",
+      "first_coronation": "1765-05",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -19529,8 +19557,36 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1765,
+          "page": 574,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 67",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo74",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1765-04-24",
+          "coronation_date": "1765-05",
+          "legate": null,
+          "deputy": "Card. Enrico Duca di York; Canonici Petrucci e Marcolini; notaio Lorenzini",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Immagine di Maria Vergine nella Congregazione prima primaria del Collegio Romano",
+          "incipit_latin": "A' 24. Aprile del 1765. si ottenne la grazia dal Reverendissimo Capitolo. Nel mese di Maggio, in un Sabato precedente alla funzione fu riccamente adornata la Congregazione ... La mattina della seguente Domenica venne S. A. R. Ema il Cardinale denominato Duca di York in Collegio Romano ... Fu rogato nelle forme l'atto della consegnazione della corona pel Notaro Lorenzini.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3 x 2, crowned 1765. Deputed: Card. Enrico Duca di York; Canonici Petrucci e Marcolini; notaio Lorenzini. Crowned on a Sunday in May 1765 by Cardinal Henry Benedict Stuart, Duke of York; the inscription in the oratory dates the Chapter's decree 26 July 1762.",
+          "parent_act": null
+        },
         {
           "series": "LIT",
           "volume": 0,
@@ -19741,7 +19797,7 @@
       "popes": [],
       "legates": [],
       "confidence": "medium",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "LIT",
@@ -19800,6 +19856,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1673,
+          "page": 507,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 49",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo7",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1673-04-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna nella Chiesa di S. Aniceto Papa e Martire nel Palazzo del Duca Altemps",
+          "incipit_latin": "il dì 15. Aprile 1673 i Canonici deputati recarono le corone per Gesù, e Maria al Sig. Duca Pietro Altemps ... il sagro rito, che si eseguì alla presenza de' Canonici stessi",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 5 x 4, crowned 1673. Printed '2673' and corrected to 1673 in the errata. Balzamo 2023 gives 12 April 1673; Bombelli, citing the 'Atti capitol.', the 15th.",
+          "parent_act": null
         }
       ]
     },
@@ -19814,9 +19898,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1652"
+        "1652-09-08"
       ],
-      "first_coronation": "1652",
+      "first_coronation": "1652-09-08",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -19824,7 +19908,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -19852,6 +19936,34 @@
           "incipit_latin": "Santa Maria ad Martires, detta la Rotonda",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1652,
+          "page": 536,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 23",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo36",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1652",
+          "coronation_date": "1652-09-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna di S. Maria ad Martyres ossia la Rotonda",
+          "incipit_latin": "mossero i Canonici di quella Collegiata a far istanza per la corona nel 1652. ... Scelse il Capitolo vaticano un dì memorabile per compiacer la richiesta; e mandò la corona agli 8. settembre dell'anno stesso.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 5 x 3, crowned 1652.",
           "parent_act": null
         }
       ]
@@ -19920,9 +20032,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1671"
+        "1671-01-31"
       ],
-      "first_coronation": "1671",
+      "first_coronation": "1671-01-31",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -19930,7 +20042,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -19958,6 +20070,34 @@
           "incipit_latin": "Santa Maria in S. Biagio della Pagnotta",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1671,
+          "page": 556,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 137",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo56",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1671-01-31",
+          "legate": null,
+          "deputy": "due Canonici",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna delle Grazie in S. Biagio della Pagnotta",
+          "incipit_latin": "il Capitolo vaticano, il quale per mezzo di due Canonici offerse le corone a Gesù, e a Maria a 31. gennaro 1671.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 4 x 3, crowned 1671. Deputed: due Canonici.",
           "parent_act": null
         }
       ]
@@ -20054,9 +20194,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1662"
+        "1662-10-07"
       ],
-      "first_coronation": "1662",
+      "first_coronation": "1662-10-07",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -20064,7 +20204,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20093,6 +20233,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1662,
+          "page": 564,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 13",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo64",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1662",
+          "coronation_date": "1662-10-07",
+          "legate": null,
+          "deputy": "Mario Maffei Decano e Bernardino Casali",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna del Carmine nella Chiesa di S. Grisogono",
+          "incipit_latin": "Il Reverendo Capitolo a' 7. ottobre 1662. per mezzo di due Deputati, Mario Maffei Decano, e Bernardino Casali fece la legal consegnazione delle corone a' detti Signori, e al P. Emilio Boino Prior del Convento. Così nell'istromento rogato dall'Abinante.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in mosaico, pal. 9 x 6, crowned 1662. Deputed: Mario Maffei Decano e Bernardino Casali.",
+          "parent_act": null
         }
       ]
     },
@@ -20107,9 +20275,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1667"
+        "1667-09-07"
       ],
-      "first_coronation": "1667",
+      "first_coronation": "1667-09-07",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -20117,7 +20285,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20146,6 +20314,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1667,
+          "page": 558,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 147",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo58",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1667-09-07",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna del Rimedio in S. Dionigi alle quattro Fontane",
+          "incipit_latin": "A' 7. settembre 1667. ebber le corone per Gesù, e per Maria, e nel dì stesso seguì la coronazione (1). — (1) MM.SS. del Capitolo.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 5 x 4, crowned 1667.",
+          "parent_act": null
         }
       ]
     },
@@ -20170,7 +20366,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20198,6 +20394,34 @@
           "incipit_latin": "Santa Maria in S. Giacomo Scosciacavalli",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1664,
+          "page": 553,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 119",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo53",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1664",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna sopra l'Altar maggiore in S. Giacomo Scossacavalli",
+          "incipit_latin": "La coronazione seguì con solennità nel 1664.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 5 x 3, crowned 1664. Carried to S. Giacomo on 29 June 1662 after a dispute with the Chapter, which wanted it in the Vatican Basilica.",
           "parent_act": null
         }
       ]
@@ -20260,15 +20484,15 @@
       "image_title_vernacular": "Santa Maria in S. Giovanni Calabita all'Isola",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "San Giovanni Calibita, Isola Tiberina",
+      "church_or_sanctuary": "S. Giovanni Calibita (Fatebenefratelli)",
       "locality": "Rome, San Giovanni Calibita",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1664"
+        "1664-03-19"
       ],
-      "first_coronation": "1664",
+      "first_coronation": "1664-03-19",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -20276,7 +20500,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20305,6 +20529,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1664,
+          "page": 516,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 97",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo16",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1664-01-14",
+          "coronation_date": "1664-03-19",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna nella Chiesa di S. Gio. Calibita all'Isola detta de' Benfratelli",
+          "incipit_latin": "fu decretata la Corona a' 14. Gennaro 1664., ed eseguita la coronazione a' 19. Marzo dell'anno stesso.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 5 x 4, crowned 1664.",
+          "parent_act": null
         }
       ]
     },
@@ -20319,9 +20571,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1661"
+        "1661-11-06"
       ],
-      "first_coronation": "1661",
+      "first_coronation": "1661-11-06",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -20329,7 +20581,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20357,6 +20609,34 @@
           "incipit_latin": "Santa Maria in S. Giovanni decollato",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1661,
+          "page": 566,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 25",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo66",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1661-11-06",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna della Misericordia in S. Giovan Decollato",
+          "incipit_latin": "Il Reverendo Capitolo condiscese alle loro istanze, e diè lor le Corone per la divina Madre, e per Gesù Bambino. Seguì la coronazione a 6. Novembre 1661.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 6 x 4, crowned 1661. The confraternity's papers 'si conservano nell'archivio capitolare di San Pietro n. 5'.",
           "parent_act": null
         }
       ]
@@ -20435,7 +20715,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20464,6 +20744,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1647,
+          "page": 503,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 13",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo3",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1647",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna del Fonte presso la Basilica di S. Giovanni",
+          "incipit_latin": "Nel 1647. seguì con giubilo comune la coronazione della divina Madre, e del S. Bambino.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3 x 2, crowned 1647. Mother and Child crowned together.",
+          "parent_act": null
         }
       ]
     },
@@ -20472,15 +20780,15 @@
       "image_title_vernacular": "Santa Maria del Transito in S. Giovanni Laterano",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "San Giovanni in Laterano",
+      "church_or_sanctuary": "Basilica di S. Giovanni in Laterano",
       "locality": "Rome, San Giovanni in Laterano",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1684"
+        "1684-08-10"
       ],
-      "first_coronation": "1684",
+      "first_coronation": "1684-08-10",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -20488,8 +20796,36 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1684,
+          "page": 502,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 7",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo2",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1683-12",
+          "coronation_date": "1684-08-10",
+          "legate": null,
+          "deputy": "Canonici Angelo Paracciani e Giuseppe Baldo (Vaticano); Bottini e Casali (Lateranense)",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna del Transito, e del Riposo in S. Giovanni in Laterano",
+          "incipit_latin": "nel Decembre del 1683. formarono il decreto, che si eseguì a' 10. Agosto del 1684., impiegandovi la somma di Scudi 97. 85.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 4 x 7, crowned 1684. Crown cost sc. 97.85. Deputed: Canonici Angelo Paracciani e Giuseppe Baldo (Vaticano); Bottini e Casali (Lateranense).",
+          "parent_act": null
+        },
         {
           "series": "LIT",
           "volume": 0,
@@ -20525,15 +20861,15 @@
       "image_title_vernacular": "Santa Maria in S. Giovannino in Campo Marzo de' PP. della Mercede",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "San Giovannino in Campo Marzio",
+      "church_or_sanctuary": "S. Giovannino in Campo Marzio (Mercedari)",
       "locality": "Rome, San Giovannino in Campo Marzio (Mercedarians)",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1650"
+        "1650-06-03"
       ],
-      "first_coronation": "1650",
+      "first_coronation": "1650-06-03",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -20541,7 +20877,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20570,6 +20906,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1650,
+          "page": 514,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 85",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo14",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1649",
+          "coronation_date": "1650-06-03",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna di S. Giovannino a Campo Marzo",
+          "incipit_latin": "Chieserla que' Religiosi nel 1649., e ai 3. di giugno 1650. appagati della richiesta la coronarono con divota solennità.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 5 x 4, crowned 1650.",
+          "parent_act": null
         }
       ]
     },
@@ -20584,9 +20948,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1658"
+        "1658-09-14"
       ],
-      "first_coronation": "1658",
+      "first_coronation": "1658-09-14",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -20594,7 +20958,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20623,6 +20987,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1658,
+          "page": 513,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 79",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo13",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1656",
+          "coronation_date": "1658-09-14",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna di S. Gregorio a Monte Celio",
+          "incipit_latin": "Il dì 14 settembre del 1658. ebber que' Religiosi la richiesta corona, e nel dì medesimo fu coronata la rispettabile Immagine",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 4 x 3, crowned 1658. Petition of the Camaldolese in 1656.",
+          "parent_act": null
         }
       ]
     },
@@ -20630,16 +21022,16 @@
       "id": "madonna-e-suo-bambino-nella-chiesa-di-s-lorenzo",
       "image_title_vernacular": "Madonna e suo Bambino nella Chiesa di S. Lorenzo nelle Scuole Pie di Borgo",
       "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary with Child",
+      "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Chiesa di S. Lorenzo nelle Scuole Pie di Borgo",
       "locality": "Rome, San Lorenzo in Borgo (Scuole Pie)",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1696"
+        "1696-12-06"
       ],
-      "first_coronation": "1696",
+      "first_coronation": "1696-12-06",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -20647,7 +21039,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "ACSP",
@@ -20706,6 +21098,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1696,
+          "page": 545,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 79",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo45",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1696",
+          "coronation_date": "1696-12-06",
+          "legate": null,
+          "deputy": "due Canonici deputati",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna di S. Lorenzolo in Borgo vecchio",
+          "incipit_latin": "a' 6. decembre 1696. fece eseguire la coronazione alla presenza di due Canonici deputati. Il titolo consolante di questa Effigie detta della Salute ...",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 5 x 4, crowned 1696. Deputed: due Canonici deputati.",
+          "parent_act": null
         }
       ]
     },
@@ -20730,7 +21150,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20759,6 +21179,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1635,
+          "page": 532,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 5",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo32",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1635",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Immagine di Maria sotto il titolo della SS.ma Concezione nella insigne Collegiata di S. Lorenzo in Damaso",
+          "incipit_latin": "La coronazione seguì nel predetto anno 1635., vivendo ancora il pio istitutore delle corone il Conte Sforza.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 4 x 3, crowned 1635. Moved to its chapel by Pietro da Cortona on 20 August 1635.",
+          "parent_act": null
         }
       ]
     },
@@ -20767,7 +21215,7 @@
       "image_title_vernacular": "Santa Maria della Salute in S. Lorenzo in Lucina",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "San Lorenzo in Lucina",
+      "church_or_sanctuary": "S. Lorenzo in Lucina, altare maggiore",
       "locality": "Rome, San Lorenzo in Lucina",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -20783,7 +21231,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20812,6 +21260,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1648,
+          "page": 537,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 35",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo37",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1648",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna della Sanità in S. Lorenzo in Lucina",
+          "incipit_latin": "Il pubblico testimonio della corona fu dal Rmo Capitolo offerto alla divina Signora e al Santo Bambino nel 1648.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 4 x 4, crowned 1648. Briccolani calls it 'della Salute'.",
+          "parent_act": null
         }
       ]
     },
@@ -20820,15 +21296,15 @@
       "image_title_vernacular": "Santa Maria delle Grazie in S. Lorenzo in Lucina",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "San Lorenzo in Lucina",
+      "church_or_sanctuary": "S. Lorenzo in Lucina, cappella del Purgatorio",
       "locality": "Rome, San Lorenzo in Lucina (Madonna delle Grazie)",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1678"
+        "1678-07-28"
       ],
-      "first_coronation": "1678",
+      "first_coronation": "1678-07-28",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -20836,7 +21312,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -20865,6 +21341,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1678,
+          "page": 538,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 41",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo38",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1678-07-28",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna del Rifugio in S. Lorenzo in Lucina",
+          "incipit_latin": "il Rev. Capitolo a' 28. luglio del 1678. offerse le corone d'oro a Lei, e al divin Figliuolo.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 4 x 4, crowned 1678. Discovered on 24 July 1651. Briccolani lists it as 'delle Grazie'.",
+          "parent_act": null
         }
       ]
     },
@@ -20879,9 +21383,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1695"
+        "1695-04-17"
       ],
-      "first_coronation": "1695",
+      "first_coronation": "1695-04-17",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -20889,7 +21393,7 @@
       "popes": [],
       "legates": [],
       "confidence": "high",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "ACSP",
@@ -20949,6 +21453,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1695,
+          "page": 535,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 19",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo35",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1695-04-17",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Immagine di Maria Vergine nella Chiesa di S. Marcello",
+          "incipit_latin": "supplicando per la corona, che fu lor consegnata a' 17. aprile 1695., e nel dì medesimo seguì la coronazione",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 10 x 7, crowned 1695. Venerated 'sotto l'Immagine de' dolori'; a miracle of November 1692 preceded the petition.",
+          "parent_act": null
         }
       ]
     },
@@ -20973,7 +21505,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -21002,6 +21534,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1659,
+          "page": 524,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 139",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo24",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1659",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna di S. Martino a' Monti",
+          "incipit_latin": "la corona che accordarono meritamente alla divina Madre, e al S. Bambino, impiegandovi la somma Sc. 140. Cadde la coronazione l'anno 1659.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 5 x 4, crowned 1659. Crown cost sc. 140.",
+          "parent_act": null
         }
       ]
     },
@@ -21010,15 +21570,15 @@
       "image_title_vernacular": "Santa Maria del Rosario nella Chiesa di S. Michele a Ripa",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "San Michele a Ripa",
+      "church_or_sanctuary": "S. Michele a Ripa Grande (Ospizio Apostolico)",
       "locality": "Rome, San Michele a Ripa",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1668"
+        "1668-07-06"
       ],
-      "first_coronation": "1668",
+      "first_coronation": "1668-07-06",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -21026,7 +21586,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -21055,6 +21615,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1668,
+          "page": 567,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 29",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo67",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1668-03-14",
+          "coronation_date": "1668-07-06",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna del Rosario nell'Ospizio Apostolico degli Invalidi di Ripa",
+          "incipit_latin": "a supplicare per la corona nel 1668. Il ven. Capitolo, esaminata la supplica, e trovatala ragionevole, a' 14. marzo del predetto anno segnò la grazia, e a 6. luglio fu eseguita con pubblico istromento. Il prezzo della corona fu di Sc. 131. 90.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 9 x 4, crowned 1668. Crown cost sc. 131.90.",
+          "parent_act": null
         }
       ]
     },
@@ -21081,7 +21669,7 @@
         "Michele Angelo Mattei and Camillo Mugiara, canons of the Basilica, delivered the crowns (f. 99r); account approved by 'Palmieri d'Annunzia Can. Decano Deputato' (f. 98v, name garbled)"
       ],
       "confidence": "high",
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
         {
           "series": "ACSP",
@@ -21145,6 +21733,34 @@
           "parent_act": null
         },
         {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1694,
+          "page": 544,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 73",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo44",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1694-03-25",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna di S. Pantaleo",
+          "incipit_latin": "le corone, che furon date a Gianfrancesco di S. Pietro lor Generale a' 25. di marzo 1694.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 3 x 2, crowned 1694. The day is the dossier's (Madonne coronate IV). Given to the church by legal instrument of donation on 4 December 1688.",
+          "parent_act": null
+        },
+        {
           "series": "ACSP",
           "volume": 4,
           "year": null,
@@ -21179,7 +21795,7 @@
       "image_title_vernacular": "Santa Maria in S. Paolino alla Regola",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "San Paolino alla Regola",
+      "church_or_sanctuary": "S. Paolo alla Regola (Terz'Ordine, Siciliani)",
       "locality": "Rome, San Paolino alla Regola",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -21195,7 +21811,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -21224,6 +21840,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1651,
+          "page": 551,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 109",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo51",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1651",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna delle Grazie in S. Paolo alla Regola",
+          "incipit_latin": "il reverendo Capitolo nel 1651. impiegò sc. 130 per le corone a Gesù, ed a Maria delle Grazie.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 7 x 4, crowned 1651. Crown cost sc. 130. Sources cited: 'MM. SS. del Capitolo vatic.'",
+          "parent_act": null
         }
       ]
     },
@@ -21238,9 +21882,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1717"
+        "1717-05-02"
       ],
-      "first_coronation": "1717",
+      "first_coronation": "1717-05-02",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -21248,8 +21892,36 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1717,
+          "page": 511,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 69",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo11",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1716",
+          "coronation_date": "1717-05-02",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna di S. Pier Montorio",
+          "incipit_latin": "fecero istanza per la corona a' 9. Agosto 1716. Furon dal Capitolo vaticano accordate le corone a Maria, ed al S. Bambino; ma la coronazione si differì a 2. Maggio 1717. per celebrarla con sontuosità di apparato",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 10 x 7, crowned 1717. The wall painting was cut from its wall and carried to the church on 9 August 1714.",
+          "parent_act": null
+        },
         {
           "series": "LIT",
           "volume": 0,
@@ -21291,9 +21963,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1658"
+        "1658-01-21"
       ],
-      "first_coronation": "1658",
+      "first_coronation": "1658-01-21",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -21301,7 +21973,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -21330,6 +22002,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1658,
+          "page": 542,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 65",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo42",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1654",
+          "coronation_date": "1658-01-21",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna nella Chiesa di S. Rocco",
+          "incipit_latin": "fecero istanza per lo fregio della corona nel 1654. Il reverendo Capitolo non solo condiscese alla richiesta, donando le corone a' 21. di gennaro 1658., ma ... conserva nelle stanze capitolari una copia di questa Madonna col Santo Bambino",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3 x 2, crowned 1658. The Chapter keeps a painted copy 'nelle stanze capitolari' — the series later catalogued by Zander/Magister.",
+          "parent_act": null
         }
       ]
     },
@@ -21354,7 +22054,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -21383,6 +22083,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1675,
+          "page": 570,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 50",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo70",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1675",
+          "legate": null,
+          "deputy": "Canonici Ludovico Palagi e Giulio Ricci",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna di S. Salvatore alle Coppelle",
+          "incipit_latin": "Nel 1675. i Canonici Ludovico Palagi, e Giulio Ricci recarono il tributo a Maria, e nella loro presenza seguì la coronazione con le consuete formalità.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3 x 2, crowned 1675. Deputed: Canonici Ludovico Palagi e Giulio Ricci.",
+          "parent_act": null
         }
       ]
     },
@@ -21391,7 +22119,7 @@
       "image_title_vernacular": "Santa Maria di Loreto in S. Salvator in Lauro",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "San Salvatore in Lauro",
+      "church_or_sanctuary": "S. Salvatore in Lauro (Arciconfraternita dei Marchigiani)",
       "locality": "Rome, San Salvatore in Lauro",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -21407,7 +22135,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 2,
+      "source_count": 4,
       "sources": [
         {
           "series": "LIT",
@@ -21440,6 +22168,34 @@
         {
           "series": "LIT",
           "volume": 0,
+          "year": 1644,
+          "page": 517,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 101",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo17",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1644",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna di Loreto nell'Archiconfraternita de' Marchegiani",
+          "incipit_latin": "fu coronata dal Capitolo vaticano nel 1644. e due anni accanto fu offerta ancor la corona al S. Bambino.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in legno, pal. 5½, crowned 1644. Then in S. Michele a Ripetta; the confraternity acquired S. Salvatore in Lauro on 5 April 1656.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
           "year": 1646,
           "page": 435,
           "folio": null,
@@ -21464,6 +22220,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Crown for the Child (Bambino Gesù) of an image already crowned, listed as a separate concession. Crown for the Child (image crowned 1644).",
           "parent_act": "Br25"
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1646,
+          "page": 517,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 101",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo17c",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1646",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna di Loreto nell'Archiconfraternita de' Marchegiani",
+          "incipit_latin": "fu coronata dal Capitolo vaticano nel 1644. e due anni accanto fu offerta ancor la corona al S. Bambino.",
+          "confidence": "low",
+          "notes": "Crown for the Child (Bambino Gesù) of the image crowned 1644, reported by Bombelli 1792 (tomo II, p. 101).",
+          "parent_act": "Bo17"
         }
       ]
     },
@@ -21488,7 +22272,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -21516,6 +22300,34 @@
           "incipit_latin": "Santa Maria delle Grazie in S. Salvator in Lauro",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1654,
+          "page": 518,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 105",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo18",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1654",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna delle Grazie in S. Salvatore in Lauro",
+          "incipit_latin": "si ottenne la corona dal reverendo Capitolo Vaticano l'anno 1654.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 6 x 4, crowned 1654.",
           "parent_act": null
         }
       ]
@@ -21578,15 +22390,15 @@
       "image_title_vernacular": "Santa Maria in S. Adriano in Campo Vaccino",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Sant'Adriano in Campo Vaccino",
+      "church_or_sanctuary": "S. Adriano al Foro (Mercedari)",
       "locality": "Rome, Sant'Adriano al Foro",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1677"
+        "1677-12-01"
       ],
-      "first_coronation": "1677",
+      "first_coronation": "1677-12-01",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -21594,7 +22406,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -21623,6 +22435,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1677,
+          "page": 568,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 35",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo68",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1677-12-01",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna di S. Adriano a Campo Vaccino",
+          "incipit_latin": "i Sig. Canonici Vaticani contraddistinser con le corone Gesù e Maria, a tenor della supplica de' Religiosi della mercede. La coronazione seguì il dì 1. decembre 1677.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, crowned 1677. Uncovered on 7 April 1589. The two crowns were stolen on 26 November 1769 and recovered in Naples.",
+          "parent_act": null
         }
       ]
     },
@@ -21637,9 +22477,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1729"
+        "1729-07-31"
       ],
-      "first_coronation": "1729",
+      "first_coronation": "1729-07-31",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -21647,8 +22487,36 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1729,
+          "page": 569,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 45",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo69",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1729-07-31",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna degli Angeli in S. Agata de' Tessitori",
+          "incipit_latin": "il Capitolo Vaticano, attesa la supplica, e la pienissima relazione de' miracoli presentata dalla Compagnia de' Tessitori, a' 31. luglio 1729. consegnò loro le solite corone d'oro.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 8 x 6, crowned 1729. Earlier crowned with silver crowns, then with gold ones given by a devotee, before the Chapter's.",
+          "parent_act": null
+        },
         {
           "series": "LIT",
           "volume": 0,
@@ -21821,7 +22689,7 @@
       "image_title_vernacular": "Santa Maria in S. Ambrogio della Massima a Piazza Mattei",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Sant'Ambrogio della Massima",
+      "church_or_sanctuary": "S. Ambrogio della Massima (monache)",
       "locality": "Rome, Sant'Ambrogio della Massima",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -21837,7 +22705,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -21865,6 +22733,34 @@
           "incipit_latin": "Santa Maria in S. Ambrogio della Massima a Piazza Mattei",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1674,
+          "page": 550,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 105",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo50",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1674",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna delle Monache di S. Ambrogio",
+          "incipit_latin": "Per supplica delle Madri all'Illustrissimo Capitolo vaticano, fu decorata della corona l'anno 1674.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 4 x 3, crowned 1674.",
           "parent_act": null
         }
       ]
@@ -21927,7 +22823,7 @@
       "image_title_vernacular": "Santa Maria nella Chiesa di S. Anna alli Falegnami",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Sant'Anna dei Falegnami",
+      "church_or_sanctuary": "S. Anna dei Funari (Falegnami), monache benedettine",
       "locality": "Rome, Sant'Anna dei Falegnami",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -21943,7 +22839,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -21971,6 +22867,34 @@
           "incipit_latin": "Santa Maria nella Chiesa di S. Anna alli Falegnami",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1652,
+          "page": 515,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 91",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo15",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1651-12-13",
+          "coronation_date": "1652",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna nella Chiesa delle Monache di S. Anna a' Funari",
+          "incipit_latin": "fu accordata la corona sotto il dì 13 decembre 1651., seguitone l'atto nel 1652.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3 x 3, crowned 1652.",
           "parent_act": null
         }
       ]
@@ -22092,9 +23016,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1666"
+        "1666-04-30"
       ],
-      "first_coronation": "1666",
+      "first_coronation": "1666-04-30",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -22102,7 +23026,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -22131,6 +23055,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1666,
+          "page": 572,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 57",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo72",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1666-01-11",
+          "coronation_date": "1666-04-30",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna in S. Lucia del Gonfalone",
+          "incipit_latin": "So dall'archivio capitolar di S. Pietro che agli 11. di Gennaro del 1666 fu data a' Signori Canonici la supplica per le corone, che a' 30. di aprile furon consegnate per la divina Madre, e pel S. Bambino, che nel dì medesimo seguì con pompa, ed applauso de' divoti la coronazione.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 6 x 4, crowned 1666.",
+          "parent_act": null
         }
       ]
     },
@@ -22139,7 +23091,7 @@
       "image_title_vernacular": "Santa Maria in S. Lucia della Tinta",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Lucia della Tinta",
+      "church_or_sanctuary": "S. Lucia della Tinta (Cocchieri)",
       "locality": "Rome, Santa Lucia della Tinta",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -22155,7 +23107,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -22183,6 +23135,34 @@
           "incipit_latin": "Santa Maria in S. Lucia della Tinta",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": null,
+          "page": 559,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 155",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo59",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna degli Angeli in S. Lucia della Tinta",
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 9 x 7. The notice gives no date, and the plate's caption was left unfinished: 'Coronata dal R.mo Capitolo di S. Pietro in Vatic. nel 16'. Briccolani gives 1667.",
           "parent_act": null
         }
       ]
@@ -22245,7 +23225,7 @@
       "image_title_vernacular": "Santa Maria della Salute nella Chiesa della Madalena",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria Maddalena",
+      "church_or_sanctuary": "S. Maria Maddalena (Ministri degli Infermi)",
       "locality": "Rome, Santa Maria Maddalena",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -22261,7 +23241,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -22290,6 +23270,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1668,
+          "page": 546,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 83",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo46",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1668",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna nella Chiesa della Maddalena de' Ministri degl'Infermi",
+          "incipit_latin": "ne ottennero la coronazione nel 1668. Impiegò il reverendo Capitolo per le due corone la somma di scudi 162. 50.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 4 x 3. Crown cost sc. 162.50. Two crowns, Mother and Child. The plate's year is cut off in the scan. Briccolani calls it 'della Salute'.",
+          "parent_act": null
         }
       ]
     },
@@ -22298,15 +23306,15 @@
       "image_title_vernacular": "Santa Maria Porta Paradisi in S. Giacomo degli Incurabili",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria Porta Paradisi (San Giacomo degli Incurabili)",
+      "church_or_sanctuary": "S. Maria Porta Paradisi (Ospedale di S. Giacomo degli Incurabili)",
       "locality": "Rome, Santa Maria Porta Paradisi",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1676"
+        "1676-07-29"
       ],
-      "first_coronation": "1676",
+      "first_coronation": "1676-07-29",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -22314,7 +23322,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -22342,6 +23350,34 @@
           "incipit_latin": "Santa Maria Porta Paradisi in S. Giacomo degli Incurabili",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1676,
+          "page": 509,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 61",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo9",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1676-07-29",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna detta Porta Paradisi",
+          "incipit_latin": "decretarono le corone a Gesù, e a Maria. Seguì la coronazione a' 29 luglio 1676.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 3 x 2, crowned 1676.",
           "parent_act": null
         }
       ]
@@ -22582,7 +23618,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 2,
+      "source_count": 4,
       "sources": [
         {
           "series": "LIT",
@@ -22615,6 +23651,34 @@
         {
           "series": "LIT",
           "volume": 0,
+          "year": 1634,
+          "page": 508,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 53",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo8",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1634",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna del Popolo",
+          "incipit_latin": "ebbe la sorte di offerir la corona d'oro del valore di sc. 151. quel suo diletto Divoto il Conte Sforza nel 1634. ... Lasciò al venerando Capitolo vaticano l'onore di coronare il S. Bambino con corona pur d'oro del valore di scudi 67. 39. il dì 6. settembre 1667.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 5 x 3, crowned 1634. Crown cost sc. 151 (Mother); 67.39 (Child). Crowned by Count Sforza himself in 1634; the Child by the Chapter on 6 September 1667.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
           "year": 1667,
           "page": 484,
           "folio": null,
@@ -22639,6 +23703,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Crown for the Child (Bambino Gesù) of an image already crowned, listed as a separate concession. Crown for the Child (image crowned 1634).",
           "parent_act": "Br6"
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1667,
+          "page": 508,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 53",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo8c",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1667-09-06",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna del Popolo",
+          "incipit_latin": "ebbe la sorte di offerir la corona d'oro del valore di sc. 151. quel suo diletto Divoto il Conte Sforza nel 1634. ... Lasciò al venerando Capitolo vaticano l'onore di coronare il S. Bambino con corona pur d'oro del valore di scudi 67. 39. il dì 6. settembre 1667.",
+          "confidence": "low",
+          "notes": "Crown for the Child (Bambino Gesù) of the image crowned 1634, reported by Bombelli 1792 (tomo II, p. 53).",
+          "parent_act": "Bo8"
         }
       ]
     },
@@ -22647,13 +23739,14 @@
       "image_title_vernacular": "Santa Maria del Sole incontro alla Bocca della Verità",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria del Sole (Tempio di Vesta)",
+      "church_or_sanctuary": "S. Maria del Sole, incontro la Bocca della Verità (Tempio di Vesta)",
       "locality": "Rome, Santa Maria del Sole",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1665"
+        "1665",
+        "1669-05-18"
       ],
       "first_coronation": "1665",
       "strongest_evidence": "chapter_decree",
@@ -22663,7 +23756,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -22692,6 +23785,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1669,
+          "page": 510,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 65",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo10",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1669-05-18",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna nella Chiesa volgarmente detta Tempio del Sole",
+          "incipit_latin": "il Rndo Capitolo a' 18. di maggio 1669. diè le due corone per Maria, e Gesù a D. Giuseppe Papini deputato del Card. ...",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3½ x 2½, crowned 1665. The notice says 18 May 1669; the plate says 1665, as does Briccolani. Left as the notice gives it.",
+          "parent_act": null
         }
       ]
     },
@@ -22716,7 +23837,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -22744,6 +23865,34 @@
           "incipit_latin": "Santa Maria nella Chiesa del Suffraggio",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1666,
+          "page": 555,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 135",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo55",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1666-01-11",
+          "coronation_date": "1666",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Santa Maria del Suffragio",
+          "incipit_latin": "I Canonici vaticani dopo le consuete legali formalità, nel 1666. 11. gennaro accordarono la grazia. I Fratelli, affin di celebrare con magnificenza il sagro rito, eseguiron la coronazione qualche tempo dappoi. Le due corone a Gesù, e Maria ascesero al valore di sc. 117. 20.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 5 x 4, crowned 1666. Crown cost sc. 117.20.",
           "parent_act": null
         }
       ]
@@ -22812,9 +23961,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1657"
+        "1657-08-19"
       ],
-      "first_coronation": "1657",
+      "first_coronation": "1657-08-19",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -22822,7 +23971,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -22850,6 +23999,34 @@
           "incipit_latin": "Santa Maria dell'Orto in Trastevere",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1657,
+          "page": 554,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 127",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo54",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1657",
+          "coronation_date": "1657-08-19",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna dell'Orto",
+          "incipit_latin": "Nel 1657. i Custodi della Chiesa porser supplica per la corona alla Divina Madre, e al S. Bambino. A' 19. di agosto dell'anno stesso furono pienamente compiaciuti",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 6 x 5, crowned 1657.",
           "parent_act": null
         }
       ]
@@ -22908,8 +24085,8 @@
       ]
     },
     {
-      "id": "santa-maria-della-pace-rome-santa-maria-della-pa",
-      "image_title_vernacular": "Santa Maria della Pace",
+      "id": "madonna-della-pace-rome-santa-maria-della-pace",
+      "image_title_vernacular": "Madonna della Pace",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Santa Maria della Pace",
@@ -22918,9 +24095,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1634"
+        "1634-07-29"
       ],
-      "first_coronation": "1634",
+      "first_coronation": "1634-07-29",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -22928,7 +24105,7 @@
       "popes": [],
       "legates": [],
       "confidence": "medium",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "LIT",
@@ -22956,6 +24133,34 @@
           "incipit_latin": "Santa Maria della Pace",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1634,
+          "page": 528,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 165",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo28",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1634-07-29",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna della Pace",
+          "incipit_latin": "La Corona le fu offerta dal medesimo Istitutore il Conte Sforza a' 29. Luglio 1634., ed importò Scudi 152.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 5 x 4, crowned 1634. Crown cost sc. 152. Crowned by Count Sforza himself.",
           "parent_act": null
         },
         {
@@ -22995,15 +24200,15 @@
       "image_title_vernacular": "Santa Maria della Purità in Borgo",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria della Purità in Borgo",
+      "church_or_sanctuary": "S. Maria della Purità in Borgo (Caudatari)",
       "locality": "Rome, Santa Maria della Purità in Borgo",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1646"
+        "1646-04-16"
       ],
-      "first_coronation": "1646",
+      "first_coronation": "1646-04-16",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -23011,7 +24216,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "LIT",
@@ -23039,6 +24244,34 @@
           "incipit_latin": "Santa Maria della Purità in Borgo",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1646,
+          "page": 548,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 93",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo48",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1646-04-16",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna della Purità nella Chiesa de' RR. Caudatari in Borgo",
+          "incipit_latin": "Si fecer le istanze per la corona d'oro, che nell'anno 1646 a' 16. aprile l'Illustrissimo Capitolo vaticano ragionevolmente le offerse.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 4 x 3, crowned 1646.",
           "parent_act": null
         },
         {
@@ -23076,7 +24309,7 @@
       "image_title_vernacular": "Santa Maria della Quercia",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria della Quercia",
+      "church_or_sanctuary": "S. Maria della Quercia (Università dei Macellari)",
       "locality": "Rome, Santa Maria della Quercia",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -23092,7 +24325,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23121,6 +24354,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1670,
+          "page": 557,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 141",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo57",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1670",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna della Quercia",
+          "incipit_latin": "Il Reverendo Capitolo vaticano autenticò la celebrità del culto, e delle grazie con la corona, che le offerse l'anno 1670.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 6 x 3, crowned 1670.",
+          "parent_act": null
         }
       ]
     },
@@ -23135,9 +24396,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1646"
+        "1646-10-10"
       ],
-      "first_coronation": "1646",
+      "first_coronation": "1646-10-10",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -23145,7 +24406,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23174,6 +24435,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1646,
+          "page": 534,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 15",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo34",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1646-10-10",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna della Scala",
+          "incipit_latin": "a' 10. ottobre 1646. seguì la coronazione della divina Madre, e del S. Bambino.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 4 x 2, crowned 1646. Mother and Child crowned together.",
+          "parent_act": null
         }
       ]
     },
@@ -23188,9 +24477,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1633"
+        "1635-07-06"
       ],
-      "first_coronation": "1633",
+      "first_coronation": "1635-07-06",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -23198,7 +24487,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23227,6 +24516,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1635,
+          "page": 530,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 185",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo30",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1635-07-06",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna della Vittoria",
+          "incipit_latin": "La solenne coronazione di questa Santa Imagine seguì a' 6. Luglio 1635. vivendo il Conte Alessandro Sforza, il quale impiegò nella corona 144. scudi.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 1½ x 1, crowned 1633. Crown cost sc. 144. The notice says 6 July 1635; the plate says 1633, as does Briccolani. Crowned by Count Sforza himself.",
+          "parent_act": null
         }
       ]
     },
@@ -23241,9 +24558,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1644"
+        "1644-06-09"
       ],
-      "first_coronation": "1644",
+      "first_coronation": "1644-06-09",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -23251,7 +24568,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23279,6 +24596,34 @@
           "incipit_latin": "Santa Maria delle Grazie a Porta Angelica",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1644,
+          "page": 520,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 117",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo20",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1644-06-09",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna delle Grazie a Porta Angelica",
+          "incipit_latin": "indussero il Capitolo vaticano alla coronazione, che seguì a 9. giugno 1644. coll'impiego di sc. 65.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 1 x 0.7, crowned 1644. Crown cost sc. 65.",
           "parent_act": null
         }
       ]
@@ -23396,15 +24741,15 @@
       "image_title_vernacular": "Santa Maria di Costantinopoli a capo le Case",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria di Costantinopoli a Capo le Case",
+      "church_or_sanctuary": "S. Maria di Costantinopoli (Siciliani), a Capo le Case",
       "locality": "Rome, Santa Maria di Costantinopoli a Capo le Case",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1651"
+        "1651-01-26"
       ],
-      "first_coronation": "1651",
+      "first_coronation": "1651-01-26",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -23412,7 +24757,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23441,6 +24786,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1651,
+          "page": 549,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 97",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo49",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1649",
+          "coronation_date": "1651-01-26",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna di Costantinopoli",
+          "incipit_latin": "quando nel 1649. fecer supplica per la corona. Il rapporto convalidato da testimonj con giuramento si conserva nell'archivio de' Canonici, i quali a' 26. gennaro 1651. condiscesero alla richiesta, e consegnarono la corona, della quale lo stesso giorno fu solennemente fregiata",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 3 x 2, crowned 1651.",
+          "parent_act": null
         }
       ]
     },
@@ -23449,7 +24822,7 @@
       "image_title_vernacular": "Santa Maria di Loreto a Colonna Trajana",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria di Loreto al Foro Traiano",
+      "church_or_sanctuary": "S. Maria di Loreto dei Fornari (Colonna Traiana)",
       "locality": "Rome, Santa Maria di Loreto (Colonna Traiana)",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -23465,7 +24838,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23494,6 +24867,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1660,
+          "page": 519,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 111",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo19",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1660",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna di Loreto a Colonna Trajana",
+          "incipit_latin": "la corona d'oro offertale dal Capitolo vaticano per istanza dell'Università nel 1760.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 7 x 4, crowned 1660. The notice prints '1760', a misprint: the plate says 1660, as does Briccolani, and the notice itself sets the crown among seventeenth-century events. Petition of the Università dei Fornari.",
+          "parent_act": null
         }
       ]
     },
@@ -23502,15 +24903,15 @@
       "image_title_vernacular": "Santa Maria di Monserrato",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria di Monserrato",
+      "church_or_sanctuary": "S. Maria di Monserrato (Spagnoli)",
       "locality": "Rome, Santa Maria di Monserrato",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1656"
+        "1656-04-08"
       ],
-      "first_coronation": "1656",
+      "first_coronation": "1656-04-08",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -23518,7 +24919,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23546,6 +24947,34 @@
           "incipit_latin": "Santa Maria di Monserrato",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1656,
+          "page": 560,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 161",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo60",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1656-04-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna di Monserrato",
+          "incipit_latin": "impiegarono cenventi, e più scudi per coronare la Madre divina, e il divin Figliuolo. Cadde l'esecuzione agli 8. di aprile del 1656.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in marmo, pal. 7, crowned 1656. Crown cost sc. 120+.",
           "parent_act": null
         }
       ]
@@ -23624,7 +25053,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23653,6 +25082,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1636,
+          "page": 512,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 75",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo12",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1636",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna d'Araceli",
+          "incipit_latin": "Questa veneranda effigie fu coronata vivendo il Conte Alessandro Sforza nel 1636., e s'impiegaron per la corona scudi 150.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 5 x 4, crowned 1636. Crown cost sc. 150.",
+          "parent_act": null
         }
       ]
     },
@@ -23661,15 +25118,15 @@
       "image_title_vernacular": "Santa Maria nel Monastero delle Monache di Campo Marzo",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Monastero delle Monache di Campo Marzio",
+      "church_or_sanctuary": "S. Maria in Campo Marzio, chiesa interiore del monastero",
       "locality": "Rome, Santa Maria in Campo Marzio (monastery)",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1688"
+        "1688-09-12"
       ],
-      "first_coronation": "1688",
+      "first_coronation": "1688-09-12",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -23677,7 +25134,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23706,6 +25163,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1688,
+          "page": 523,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 135",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo23",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1688",
+          "coronation_date": "1688-09-12",
+          "legate": null,
+          "deputy": "Canonici Mattei e Ricci (esaminatori)",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna nella Chiesa interiore del Monistero di Campo Marzo",
+          "incipit_latin": "porser supplica nel 1688. al Rmo Capitolo per la Corona. I Canonici Mattei, e Ricci furon gli Esaminatori ... spedirono il decreto, e a' 12. settembre dell'anno stesso, con pubblico strumento fecero all'Abadessa, ed alle Monache la consegnazione della Corona, per la quale s'impiegò la somma di sc. 76.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 4 x 2, crowned 1688. Crown cost sc. 76. Deputed: Canonici Mattei e Ricci (esaminatori). The nuns' memoriale is 'nell'archivio del capitolo vaticano'.",
+          "parent_act": null
         }
       ]
     },
@@ -23714,7 +25199,7 @@
       "image_title_vernacular": "Santa Maria nella Chiesa delle Monache di Campo Marzo",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Chiesa delle Monache di Campo Marzio",
+      "church_or_sanctuary": "S. Maria della Concezione in Campo Marzio (monache benedettine), chiesa",
       "locality": "Rome, Santa Maria in Campo Marzio (nuns)",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -23730,7 +25215,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23758,6 +25243,34 @@
           "incipit_latin": "Santa Maria nella Chiesa delle Monache di Campo Marzo",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1655,
+          "page": 522,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 129",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo22",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1655",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna in Campo Marzo",
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 4 x 3, crowned 1655. The notice tells the image's history (the fire, the well, Michelangelo's frame) but gives no date for the crowning; the year is the plate's.",
           "parent_act": null
         }
       ]
@@ -23826,9 +25339,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1676"
+        "1676-05-06"
       ],
-      "first_coronation": "1676",
+      "first_coronation": "1676-05-06",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -23836,7 +25349,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -23864,6 +25377,34 @@
           "incipit_latin": "Santa Maria in Monterone",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1676,
+          "page": 571,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 53",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo71",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1676-05-06",
+          "legate": null,
+          "deputy": "due Deputati del Capitolo",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna di S. Maria in Monterone",
+          "incipit_latin": "La corona d'oro per le istanze ben esaminate da due Deputati del Capitolo, furono offerte a Gesù, ed a Maria a' 6. maggio 1676.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 4 x 2, crowned 1676. Deputed: due Deputati del Capitolo.",
           "parent_act": null
         }
       ]
@@ -23985,9 +25526,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1641"
+        "1641-06-15"
       ],
-      "first_coronation": "1641",
+      "first_coronation": "1641-06-15",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -23995,7 +25536,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 2,
+      "source_count": 4,
       "sources": [
         {
           "series": "LIT",
@@ -24028,6 +25569,34 @@
         {
           "series": "LIT",
           "volume": 0,
+          "year": 1641,
+          "page": 533,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 11",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo33",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1641-06-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna della Traspontina",
+          "incipit_latin": "Dalle memorie dell'archivio della Basilica Vaticana rilevo che l'anno 1641. il P. Teodoro Straccio Maestro Generale de' Carmelitani fece istanza per la corona ... a 15. giugno 1641. seguì l'offerta della corona valutata Sc. 104. 50. Successivamente nell'aprile del 1651. il S. Bambino fu fregiato della medesima del valore di scudi 34.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 3 x 2, crowned 1651. Crown cost sc. 104.50 (Mother); 34 (Child). The plate reads 1651, the year of the Child's crown. The memoriale 'si conserva nell'archivio del Capitolo'.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
           "year": 1651,
           "page": 447,
           "folio": null,
@@ -24052,6 +25621,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Crown for the Child (Bambino Gesù) of an image already crowned, listed as a separate concession. Crown for the Child (image crowned 1641).",
           "parent_act": "Br17"
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1651,
+          "page": 533,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 11",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo33c",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1651-04",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna della Traspontina",
+          "incipit_latin": "Dalle memorie dell'archivio della Basilica Vaticana rilevo che l'anno 1641. il P. Teodoro Straccio Maestro Generale de' Carmelitani fece istanza per la corona ... a 15. giugno 1641. seguì l'offerta della corona valutata Sc. 104. 50. Successivamente nell'aprile del 1651. il S. Bambino fu fregiato della medesima del valore di scudi 34.",
+          "confidence": "low",
+          "notes": "Crown for the Child (Bambino Gesù) of the image crowned 1641-06-15, reported by Bombelli 1792 (tomo III, p. 11).",
+          "parent_act": "Bo33"
         }
       ]
     },
@@ -24060,15 +25657,15 @@
       "image_title_vernacular": "Santa Maria col Bambino Gesù di via Cupa in Santa Maria in Trastevere",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria in Trastevere (Madonna di Strada Cupa)",
+      "church_or_sanctuary": "Basilica di S. Maria in Trastevere (cappella Cecchini / d'Aste)",
       "locality": "Rome, Santa Maria in Trastevere",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1634"
+        "1634-04-05"
       ],
-      "first_coronation": "1634",
+      "first_coronation": "1634-04-05",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -24076,7 +25673,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -24105,6 +25702,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1634,
+          "page": 506,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 39",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo6",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1634-04-05",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna di Strada Cupa venerata nella Basilica di S. Maria in Trastevere",
+          "incipit_latin": "questa miracolosa Immagine coronata con quella del Bambino il dì 5. aprile 1634.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 4 x 3, crowned 1634. Mother and Child crowned together; the image was found in 1624 and carried to the basilica on 27 June 1624.",
+          "parent_act": null
         }
       ]
     },
@@ -24113,15 +25738,15 @@
       "image_title_vernacular": "Santa Maria della Clemenza in Santa Maria in Trastevere",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria in Trastevere",
+      "church_or_sanctuary": "Basilica di S. Maria in Trastevere",
       "locality": "Rome, Santa Maria in Trastevere (Madonna della Clemenza)",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1659"
+        "1659-11-02"
       ],
-      "first_coronation": "1659",
+      "first_coronation": "1659-11-02",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -24129,7 +25754,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -24158,6 +25783,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1659,
+          "page": 505,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 29",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo5",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1659-11-02",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna della Clemenza nella Basilica di S. Maria in Trastevere",
+          "incipit_latin": "La solenne coronazione decretata dal Rmo Capitolo di S. Pietro seguì il dì 2. novembre del 1659.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 10 x 7, crowned 1659.",
+          "parent_act": null
         }
       ]
     },
@@ -24166,15 +25819,15 @@
       "image_title_vernacular": "S. Maria in Trevi detta li Crociferi",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria in Trivio",
+      "church_or_sanctuary": "S. Maria in Trivio (Crociferi)",
       "locality": "Rome, Santa Maria in Trivio (Crociferi)",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1677"
+        "1677-05-29"
       ],
-      "first_coronation": "1677",
+      "first_coronation": "1677-05-29",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -24182,7 +25835,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -24210,6 +25863,34 @@
           "incipit_latin": "S. Maria in Trevi detta li Crociferi",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1677,
+          "page": 547,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 87",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo47",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1677-05-29",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "S. Maria in Trivio a Fontana di Trevi",
+          "incipit_latin": "Il dì 29. maggio 1677. seguì la coronazione di quest'antichissima, e memorabile Imagine di Maria.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 3½ x 2½, crowned 1677.",
           "parent_act": null
         }
       ]
@@ -24384,7 +26065,8 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1640"
+        "1640",
+        "1644-08-28"
       ],
       "first_coronation": "1640",
       "strongest_evidence": "chapter_decree",
@@ -24394,7 +26076,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 2,
+      "source_count": 4,
       "sources": [
         {
           "series": "LIT",
@@ -24427,6 +26109,34 @@
         {
           "series": "LIT",
           "volume": 0,
+          "year": 1644,
+          "page": 552,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 113",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo52",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1644-08-28",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La SS. Vergine del Rosario nella Chiesa della Minerva",
+          "incipit_latin": "que' Religiosi furono i primi a chieder la corona alla loro Imagine. Il Capitolo a' 28. di agosto 1644. vi condiscese colla spesa di 213. scudi. Nell'anno 1654. i Signori Canonici decretarono la corona al Santo Bambino, e celebrossi questa seconda coronazione a' 15. decembre dell'anno stesso.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 7 x 5, crowned 1640. Crown cost sc. 213. The notice says 28 August 1644 and calls the Dominicans the first to petition after the legacy; the plate says 1640, as does Briccolani. Left as the notice gives it.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
           "year": 1654,
           "page": 460,
           "folio": null,
@@ -24451,6 +26161,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Crown for the Child (Bambino Gesù) of an image already crowned, listed as a separate concession. Crown for the Child (image crowned 1640).",
           "parent_act": "Br14"
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1654,
+          "page": 552,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 113",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo52c",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1654-12-15",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La SS. Vergine del Rosario nella Chiesa della Minerva",
+          "incipit_latin": "que' Religiosi furono i primi a chieder la corona alla loro Imagine. Il Capitolo a' 28. di agosto 1644. vi condiscese colla spesa di 213. scudi. Nell'anno 1654. i Signori Canonici decretarono la corona al Santo Bambino, e celebrossi questa seconda coronazione a' 15. decembre dell'anno stesso.",
+          "confidence": "low",
+          "notes": "Crown for the Child (Bambino Gesù) of the image crowned 1644-08-28, reported by Bombelli 1792 (tomo III, p. 113).",
+          "parent_act": "Bo52"
         }
       ]
     },
@@ -24465,9 +26203,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1645"
+        "1645-11-20"
       ],
-      "first_coronation": "1645",
+      "first_coronation": "1645-11-20",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -24475,7 +26213,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 2,
+      "source_count": 4,
       "sources": [
         {
           "series": "LIT",
@@ -24508,6 +26246,34 @@
         {
           "series": "LIT",
           "volume": 0,
+          "year": 1645,
+          "page": 527,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 159",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo27",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1645-11-20",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna che si venera dentro il Monistero di S. Marta",
+          "incipit_latin": "il Ven. Capitolo per mezzo de' due Canonici deputati incoronò la divina Signora a' 20. novembre del 1645. Fecero le Religiose nuova istanza per la corona al Santo Bambino, e nell'anno seguente al primo dì di settembre furono compiaciute",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 6 x 4, crowned 1646. The plate reads 1646, the year of the Child's crown.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
           "year": 1646,
           "page": 433,
           "folio": null,
@@ -24532,6 +26298,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Crown for the Child (Bambino Gesù) of an image already crowned, listed as a separate concession. Crown for the Child (image crowned 1645).",
           "parent_act": "Br29"
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1646,
+          "page": 527,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 159",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo27c",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1646-09-01",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna che si venera dentro il Monistero di S. Marta",
+          "incipit_latin": "il Ven. Capitolo per mezzo de' due Canonici deputati incoronò la divina Signora a' 20. novembre del 1645. Fecero le Religiose nuova istanza per la corona al Santo Bambino, e nell'anno seguente al primo dì di settembre furono compiaciute",
+          "confidence": "low",
+          "notes": "Crown for the Child (Bambino Gesù) of the image crowned 1645-11-20, reported by Bombelli 1792 (tomo II, p. 159).",
+          "parent_act": "Bo27"
         }
       ]
     },
@@ -24540,7 +26334,7 @@
       "image_title_vernacular": "Santa Maria in S. Prasede",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Prassede",
+      "church_or_sanctuary": "S. Prassede (detta Orto Paradisi)",
       "locality": "Rome, Santa Prassede",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -24556,7 +26350,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -24585,6 +26379,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1655,
+          "page": 525,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 145",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo25",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1655",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna in S. Prassede",
+          "incipit_latin": "Il merito dell'Immagine mosse ancora il venerabile Capitolo vaticano a coronarla, siccome fece l'anno 1655.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in musaico, pal. 5 x 4, crowned 1665. The plate reads 1665; the notice says 1655, as does Briccolani. A Polish bishop had left two gold crowns to the image in 1650.",
+          "parent_act": null
         }
       ]
     },
@@ -24593,15 +26415,15 @@
       "image_title_vernacular": "Santa Maria in Santa Teresa alle quattro Fontane",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Teresa alle Quattro Fontane",
+      "church_or_sanctuary": "S. Teresa alle Quattro Fontane (Carmelitane)",
       "locality": "Rome, Santa Teresa alle Quattro Fontane",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1638"
+        "1638-09-16"
       ],
-      "first_coronation": "1638",
+      "first_coronation": "1638-09-16",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -24609,7 +26431,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -24638,6 +26460,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Briccolani adds after this entry: 'Le suriferite Coronazioni seguirono ancor vivente il Pio Testatore, la morte del quale seguì alli 20. d'Agosto del 1638.'",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1638,
+          "page": 565,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 19",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo65",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1638-09-16",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna nella Chiesa delle Monache Teresiane alle quattro Fontane",
+          "incipit_latin": "nel 1638 il giorno sedici settembre il pio Istitutore delle corone il Conte Alessandro volle fregiare questa divota effigie di ricca corona, che oltrapassa il peso di dieci once.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 14 x 7, crowned 1638. Crowned by Count Sforza himself; the crown weighed over ten ounces.",
+          "parent_act": null
         }
       ]
     },
@@ -24646,15 +26496,15 @@
       "image_title_vernacular": "Santa Maria in S. Celso in Banchi",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "San Celso in Banchi",
+      "church_or_sanctuary": "SS. Celso e Giuliano in Banchi",
       "locality": "Rome, Santi Celso e Giuliano",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1665"
+        "1665-05-17"
       ],
-      "first_coronation": "1665",
+      "first_coronation": "1665-05-17",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -24662,7 +26512,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -24690,6 +26540,34 @@
           "incipit_latin": "Santa Maria in S. Celso in Banchi",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1665,
+          "page": 543,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 71",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo43",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1665-05-17",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna delle Grazie in S. Celso, e Giuliano in Banchi",
+          "incipit_latin": "Gl'Illmi Canonici di S. Pietro per supplica della rispettabile Collegiata, fregiarono delle corone Maria, e il divin Figliuolo a' 17. maggio 1665.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in legno, pal. 6 x 4, crowned 1665.",
           "parent_act": null
         }
       ]
@@ -24752,7 +26630,7 @@
       "image_title_vernacular": "Santa Maria nel Monastero de' SS. Domenico, e Sisto",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Monastero de' SS. Domenico e Sisto",
+      "church_or_sanctuary": "SS. Domenico e Sisto, coro superiore",
       "locality": "Rome, Santi Domenico e Sisto (Magnanapoli), inner monastery",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -24768,7 +26646,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -24797,6 +26675,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. A second entry for the same community, six years after the church's image of 1641: an image inside the monastery.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1647,
+          "page": 541,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 59",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo41",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1647",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna delle Grotte in S. Domenico, e Sisto",
+          "incipit_latin": "l'illustre Capitolo vaticano la coronò nel 1647.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 4 x 2, crowned 1647. Found in a grotto of the old S. Sisto in 1570 and removed on 20 September 1577.",
+          "parent_act": null
         }
       ]
     },
@@ -24811,9 +26717,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1679"
+        "1679-03-13"
       ],
-      "first_coronation": "1679",
+      "first_coronation": "1679-03-13",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -24821,7 +26727,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -24850,6 +26756,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. A printer's ornament follows this entry; from 1681 the list includes images outside Rome.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1679,
+          "page": 539,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 45",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo39",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1679",
+          "coronation_date": "1679-03-13",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna delle Grazie, o del Suffragio nella Chiesa de' SS. Vincenzo, ed Anastasio a Trevi",
+          "incipit_latin": "La corona d'oro, a petizion de' Religiosi, le fu data nel 1679., e a' 13. di marzo dell'anno indicato seguì con divota pompa la coronazione.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3 x 2, crowned 1679.",
+          "parent_act": null
         }
       ]
     },
@@ -24864,9 +26798,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1654"
+        "1654-06-21"
       ],
-      "first_coronation": "1654",
+      "first_coronation": "1654-06-21",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -24874,7 +26808,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -24903,6 +26837,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1654,
+          "page": 521,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 123",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo21",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1654-06-21",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna nella Chiesa della SS. Trinità de' Pellegrini",
+          "incipit_latin": "Il Capitolo Vaticano le destinò la Corona, di cui fu fregiata a' 21. Giugno 1654.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3 x 2, crowned 1654.",
+          "parent_act": null
         }
       ]
     },
@@ -24910,7 +26872,7 @@
       "id": "santa-maria-nella-chiesa-del-nome-di-maria-rome",
       "image_title_vernacular": "Santa Maria nella Chiesa del Nome di Maria",
       "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary with Child",
+      "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Chiesa del Nome di Maria (S. Bernardo alla Colonna Traiana)",
       "locality": "Rome, Santissimo Nome di Maria",
       "diocese_latin": null,
@@ -24927,7 +26889,7 @@
       "popes": [],
       "legates": [],
       "confidence": "medium",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "ACSP",
@@ -24958,6 +26920,34 @@
           "incipit_latin": null,
           "confidence": "medium",
           "notes": "Crowns: two (Virgin and Child). Only a silversmith's account (undated, total 177.99 scudi; margin 'B 9') on f.186r, with its wrapper label on f.187v 'Dell R.mo Capitolo di S. Pietro della Corona d'oro - Con Gio Giardini Arfe.º' carrying the margin note 'Decr. 19 aug. 1703 Donat. coronat. abina u. L. XXI. f.º 318.' The concession date and register reference are taken from that wrapper note on the assumption that ff.186-187 form one bifolium; the same note could conceivably belong to the following Montepulciano dossier (crowned 1707). 'abina u.' is garbled (perhaps 'ibidem').",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1703,
+          "page": 529,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 171",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo29",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1703",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna nella Chiesa del Nome di Maria a Colonna Trajana",
+          "incipit_latin": "il venerando Capitolo di S. Pietro coronò la divina madre, e 'l S. Bambino nel 1703.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 4 x 3, crowned 1703. Bombelli writes in 'il corrente 1792'.",
           "parent_act": null
         },
         {
@@ -25001,9 +26991,9 @@
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1686"
+        "1686-11-28"
       ],
-      "first_coronation": "1686",
+      "first_coronation": "1686-11-28",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -25011,7 +27001,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -25039,6 +27029,34 @@
           "incipit_latin": "Santa Maria nella Chiesa delle Monache dello Spirito Santo di Roma",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1686,
+          "page": 526,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 151",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo26",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1686",
+          "coronation_date": "1686-11-28",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna della Misericordia nella Chiesa delle Monache dello Spirito Santo",
+          "incipit_latin": "Monsig. Albani, poi Papa Clemente XI. ... si fece postulatore della corona, e ne fece istanza nel predetto anno 1686. Il Rmo Capitolo vi condiscese, e la coronazione seguì a' 28. novembre dell'anno accennato.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 6 x 5, crowned 1686. The relazione, before the notary Anton Cimarroni on 15 June 1686, 'si conserva nell'archivio capitolar di S. Pietro'.",
           "parent_act": null
         }
       ]
@@ -25101,7 +27119,7 @@
       "image_title_vernacular": "Santa Maria nell'Oratorio vicino alla Scala Santa",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Oratorio presso la Scala Santa",
+      "church_or_sanctuary": "Oratorio del SS. Sacramento alla Scala Santa",
       "locality": "Rome, Scala Santa",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -25117,7 +27135,7 @@
       "popes": [],
       "legates": [],
       "confidence": "medium",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "LIT",
@@ -25176,6 +27194,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1679,
+          "page": 504,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 21",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo4",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1679-07-08",
+          "legate": null,
+          "deputy": "Canonici Lodovico Palagi e Giulio Ricci",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna nell'Oratorio del SS.mo Sagramento contiguo alla Scala Santa",
+          "incipit_latin": "furono decretate le corone del prezzo di Scudi 190. Lodovico Palagi, e Giulio Ricci Canonici della Vaticana recarono il dono, ed alla loro presenza seguì la coronazione agli 8. Luglio 1679.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 3 x 2, crowned 1679. Crown cost sc. 190. Deputed: Canonici Lodovico Palagi e Giulio Ricci. Crowns for Mother and Child. Balzamo 2023 gives the same day.",
+          "parent_act": null
         }
       ]
     },
@@ -25184,15 +27230,15 @@
       "image_title_vernacular": "Santa Maria Annunziata in Tor de' Specchi",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Tor de' Specchi (Oblate di S. Francesca Romana)",
+      "church_or_sanctuary": "Tor de' Specchi (Oblate di S. Francesca Romana), chiesa",
       "locality": "Rome, Tor de' Specchi",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1635"
+        "1635-12-30"
       ],
-      "first_coronation": "1635",
+      "first_coronation": "1635-12-30",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -25200,7 +27246,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -25229,6 +27275,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1635,
+          "page": 562,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 5",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo62",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1635-12-30",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Madonna della SS. Annunziata in Torre di Specchi",
+          "incipit_latin": "egli stesso lo Sforza a' 30. decembre 1635. impiegò la somma di sc. 150. per coronare l'Annunziata delle oblate di Tor di Specchi",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 14 x 7, crowned 1635. Crown cost sc. 150. Sforza's will names it expressly among the images to be crowned first.",
+          "parent_act": null
         }
       ]
     },
@@ -25237,15 +27311,15 @@
       "image_title_vernacular": "Santa Maria nel Monastero di Tor de' Specchi",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Monastero di Tor de' Specchi",
+      "church_or_sanctuary": "Tor de' Specchi, chiesa antica interiore",
       "locality": "Rome, Tor de' Specchi (monastery)",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
-        "1687"
+        "1687-06-17"
       ],
-      "first_coronation": "1687",
+      "first_coronation": "1687-06-17",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree"
@@ -25253,7 +27327,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -25282,12 +27356,40 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1687,
+          "page": 563,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 9",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo63",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1687-06-17",
+          "legate": null,
+          "deputy": "Canonici Mattei e Ricci",
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "Imagine di Maria nella Chiesa antica di Tor di Specchi",
+          "incipit_latin": "Condiscese il Capitolo vaticano; e il 17. Giugno 1687. seguì la funzione alla presenza de' Canonici Mattei, e Ricci.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 9 x 4, crowned 1687. Deputed: Canonici Mattei e Ricci.",
+          "parent_act": null
         }
       ]
     },
     {
-      "id": "santa-maria-del-soccorso-nella-cappella-gregoria",
-      "image_title_vernacular": "Santa Maria del Soccorso nella Cappella Gregoriana della Basilica Vaticana",
+      "id": "madonna-del-soccorso-rome-vatican-basilica-cappe",
+      "image_title_vernacular": "Madonna del Soccorso",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Cappella Gregoriana della Basilica Vaticana",
@@ -25306,7 +27408,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 3,
+      "source_count": 5,
       "sources": [
         {
           "series": "LIT",
@@ -25367,6 +27469,34 @@
         {
           "series": "LIT",
           "volume": 0,
+          "year": 1643,
+          "page": 501,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 1",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo1",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1643-11-17",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna del Soccorso in S. Pietro in Vaticano",
+          "incipit_latin": "il Capitolo Vaticano coronò la Divina Madre a' 17. Novembre 1643., e quattro anni dappoi il divin Figliuolo",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3 x 2, crowned 1643. Placed in the Cappella Gregoriana by Gregory XIII on 12 February 1578.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
           "year": 1647,
           "page": 436,
           "folio": null,
@@ -25391,6 +27521,34 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Crown for the Child (Bambino Gesù) of an image already crowned, listed as a separate concession. Crown for the Child of the Madonna del Soccorso (image crowned 1643).",
           "parent_act": "Br22"
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1647,
+          "page": 501,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo II, p. 1",
+          "source_pdf_url": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
+          "act_number": "Bo1c",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1647",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna del Soccorso in S. Pietro in Vaticano",
+          "incipit_latin": "il Capitolo Vaticano coronò la Divina Madre a' 17. Novembre 1643., e quattro anni dappoi il divin Figliuolo",
+          "confidence": "low",
+          "notes": "Crown for the Child (Bambino Gesù) of the image crowned 1643-11-17, reported by Bombelli 1792 (tomo II, p. 1).",
+          "parent_act": "Bo1"
         }
       ]
     },
@@ -25452,7 +27610,7 @@
       "image_title_vernacular": "Santa Maria della Colonna nella Basilica Vaticana",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Cappella della Madonna della Colonna, Basilica Vaticana",
+      "church_or_sanctuary": "Basilica Vaticana",
       "locality": "Rome, Vatican Basilica (Madonna della Colonna)",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -25468,7 +27626,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 3,
+      "source_count": 5,
       "sources": [
         {
           "series": "LIT",
@@ -25553,6 +27711,62 @@
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Crown for the Child (Bambino Gesù) of an image already crowned, listed as a separate concession. Crown for the Child (image crowned the same year).",
           "parent_act": "Br26"
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1645,
+          "page": 531,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 1",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo31",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1645-02-07",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna della Colonna nella Basilica Vaticana",
+          "incipit_latin": "Il Reverendo Capitolo ornò di corona la divina Madre a' 7. febrajo 1645, e agli 11. ottobre dell'anno stesso il divin Figliuolo.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in marmo, pal. 4 x 3, crowned 1645. Zander/Magister 2011 give 1 January 1645. Translated to its altar on 2 February 1607 (Grimaldi, Istromenti delle Traslazioni, fol. 98).",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1645,
+          "page": 531,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 1",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo31c",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1645-10-11",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna della Colonna nella Basilica Vaticana",
+          "incipit_latin": "Il Reverendo Capitolo ornò di corona la divina Madre a' 7. febrajo 1645, e agli 11. ottobre dell'anno stesso il divin Figliuolo.",
+          "confidence": "low",
+          "notes": "Crown for the Child (Bambino Gesù) of the image crowned 1645-02-07, reported by Bombelli 1792 (tomo III, p. 1).",
+          "parent_act": "Bo31"
         }
       ]
     },
@@ -25561,7 +27775,7 @@
       "image_title_vernacular": "Madonna della Pietà (Michelangelo's Pietà)",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica Vaticana (Michelangelo's Pietà)",
+      "church_or_sanctuary": "Basilica Vaticana (Pietà di Michelangelo)",
       "locality": "Rome, Vatican Basilica (Pietà)",
       "diocese_latin": null,
       "diocese_modern": null,
@@ -25577,7 +27791,7 @@
       "popes": [],
       "legates": [],
       "confidence": "medium",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "LIT",
@@ -25636,6 +27850,34 @@
           "incipit_latin": "Santa Maria della Pietà in S. Pietro",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1637,
+          "page": 561,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo IV, p. 1",
+          "source_pdf_url": "https://archive.org/details/bub_gb_9vADu01fhEAC",
+          "act_number": "Bo61",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1637-08-31",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Statua della Pietà nella Basilica Vaticana",
+          "incipit_latin": "il Conte Sforza a' 31. agosto 1637. fece coronare il divoto simolacro di Maria addolorata, che ha in seno il morto divin figliuolo. La corona fu di ben inteso lavoro, e del prezzo di scudi 564.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in marmo, pal. 12, crowned 1637. Crown cost sc. 564.",
           "parent_act": null
         }
       ]
@@ -25942,7 +28184,7 @@
       "popes": [],
       "legates": [],
       "confidence": "medium",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "LIT",
@@ -26000,6 +28242,34 @@
           "incipit_latin": "Santa Maria nella Chiesa de' SS. Domenico, e Sisto a Monte Magnanapoli",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1641,
+          "page": 540,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Bombelli 1792, tomo III, p. 51",
+          "source_pdf_url": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
+          "act_number": "Bo40",
+          "act_type": "Coronation reported in a printed collection of notices",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1641",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed notice"
+          ],
+          "rubric_latin": "La Madonna di S. Domenico, e Sisto",
+          "incipit_latin": "ben si dovea la corona d'oro, che le donò l'Illustre Capitolo vaticano l'anno 1641.",
+          "confidence": "low",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 3½ x 2, crowned 1641. Balzamo 2023 gives 14 January 1641. The nuns moved from S. Sisto vecchio in 1575 and into the new church on 30 July 1640.",
           "parent_act": null
         }
       ]
@@ -39744,10 +42014,10 @@
         "1756-07-16"
       ],
       "first_coronation": "1756-07-16",
-      "strongest_evidence": "papal_coronation_act",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
-        "papal_coronation_act",
-        "chapter_decree"
+        "chapter_decree",
+        "papal_coronation_act"
       ],
       "popes": [
         "Ioannes Paulus PP. II"
