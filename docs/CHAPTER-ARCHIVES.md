@@ -199,11 +199,55 @@ Ponferrada, Andújar, Orihuela, Palma), France (Délivrande 1872, Périgueux, Vi
 Belgium (Hasselt 1867, Huy 1900, Arlon 1904), Cologne 1925, Valletta 1881, Istanbul 1911, and
 Aparecida 1904, Isla Margarita 1911 and Lima 1921 overseas. Where the catalogue meets the gazettes
 they agree (Cuglieri 5 Aug 1893, Narni 5 May 1754, Bonaria 24 Apr 1870 and 1926); where it meets
-a tomo IV dossier (Otranto, 7 March 1705) the day agrees too.
+Briccolani the year agrees, and the catalogue supplies the day (Montepulciano 24 Sep 1741, Cremona
+17 Aug 1732, Piano di Sorrento 26 Sep 1773, Palermo 29 Oct 1784).
 
 Two cautions. Its dates are the ceremony's, and it sometimes reports alternatives (Chełm "September
 15, 1765 or September 17, 1767"; Arenzano "1890 or 1891"). And it files Chełm under "Ukraine, Lutsk"
 — the diocese — although the town is in Poland; the catalogue keeps Poland.
+
+### Briccolani (1800) — the earliest printed register
+
+Vincenzo Briccolani, *Descrizione della sacrosanta Basilica Vaticana … con l'Elenco delle
+Consagrazioni degli Altari, Catalogo delle Reliquie, e Serie delle Coronazioni delle Immagini di
+Maria Vergine fatte dal reverendissimo Capitolo Vaticano*, 2nd ed., Rome, Salomoni, 1800. The Getty
+copy is on the Internet Archive (`gri_33125011212400`, with OCR) and HathiTrust (`ucm.5322468201`);
+the **1816 third edition drops the list**, so the 1800 printing is the one to use.
+
+Pp. 144–161, *Serie delle Sagre Immagini di Maria Vergine coronate con la Corona d'Oro dal Rmo
+Capitolo di S. Pietro in Vaticano, secondo il Pio Legato del Conte Alessandro Sforza Piacentino*, is
+a year-by-year list of every image the Chapter had crowned: **256 entries, 1631–1791** (plus San
+Benedetto in Piscinula, 15 September 1793, added at the end with the crowning prelate, Cardinal
+York). Rome only until 1679; after a printer's ornament, from 1681, the whole of Italy and abroad —
+Trsat 1715, Częstochowa and Monte Santo 1717, Jarosław 1732, Svatý Kopeček ("de Premostratensi di
+Moravia diocesi di Olmitz") 1732, Brno 1736, Guadalupe 1740, Poczajów 1773. Twelve entries are
+separate crowns for the **Bambino Gesù** of an image already crowned (the Febre's Child in 1643,
+the Colonna's the same year as the image, the Popolo's and the Miracoli's in 1667). Briccolani knew
+the Basilica's papers, and for Rome his numbers match Balzamo's counts from the fond — 13 images in
+Sforza's lifetime (13), 80 Roman images 1640–1681 (Balzamo: 82), 93 by the Scala Santa crowning of
+1679 (Balzamo: the 95th). Outside Rome he is thinner: 139 images 1681–1791 against Balzamo's
+"about 203 by 1798" — Reggio Calabria 1722, for one, is missing. He gives
+**years only, no day or folio**, he has no entry at all for 1697–1702, and where a dossier or catalogue
+read here gives the day, his year is occasionally one off — usually the year before, presumably
+the decree's (Lucca 1689 for a crowning of 30 April 1690; Otranto 1704 for 7 March 1705; Bertinoro
+1704 for 9 August 1705), once the year after (Frascati 1714 for 28 October 1713). Two
+misprints are kept as printed and noted: "1688" for 1788 (Valperga) and "Monte Cassoli" for
+Carsoli (the Madonna dei Bisognosi).
+
+The transcription, made page by page against the scan, is `data/briccolani-1800-serie.json`
+(`scripts/transcribe_briccolani.py`); the rows are in the catalogue as series **LIT**, confidence
+`low` (no folio), a Child's crown linked to its image by `parent_act` and not counted as a
+re-crowning. Because the list carries so many Roman images, it is what forced the matcher to treat
+Rome differently from every other place — see the README.
+
+Of the other repertories: Bombelli's *Raccolta* of 1792 (104 crowned Roman images with engravings)
+is on the Internet Archive in tomi II–IV (`bub_gb_JhP2LAUmGjUC`, `bub_gb_rHbfIRvNjxkC`,
+`bub_gb_9vADu01fhEAC`); Mazzolari's *Diario sagro* (3rd ed. 1819, vol. 3, pp. 112–116: 102 Roman
+images "trascritto da quello che si conserva nell'Archivio del Revmo Capitolo Vaticano") and
+Mansi–Persichini's *Le incoronate* (1853, Google Books `7fcYSwOXFJAC`) are online but add nothing
+Briccolani lacks; Anselmo da Reno Centese's catalogue in *L'Italia francescana* 8 (1933) — the
+source of every twentieth-century list, and drawn from the Chapter's registers only for 1905
+onwards — is not online (the BNCR emeroteca has the journal from 1934).
 
 ### One place the primary source and the thesis disagree
 
@@ -254,9 +298,9 @@ in Ecclesiastica dignitate constitutum, nomine Nostro capiti Imaginis, de qua su
 coronam auream imponas, et coronationis caeremoniam exequaris iuxta ritum praescriptum ad usum
 Basilicae Nostrae ac typis vulgatum in libello cui titulus = Ordo servandus etc. = et cuius exemplar
 ad Te mittimus"* — which is the concession formula in its late-nineteenth-century form. Ten folios
-for one coronation, so vol. 19 as a whole must run to well over a thousand folios; the Zander/Magister
-catalogue below cites it at cc. 21–49, 166–173, 186–191, 305–363, 448–457, 688–700, 739–759,
-1145–1161 and 1213–1226, i.e. it covers roughly 1890–1900.
+for one coronation, so vol. 19 as a whole must run to well over a thousand folios; the Zander/Magister catalogue below cites it at
+cc. 21–49, 166–173, 186–191, 305–363, 448–457, 688–700, 739–759, 1145–1161 and 1213–1226, i.e. it
+covers roughly 1890–1900.
 
 ### What tomo 4 actually contains
 
@@ -319,7 +363,8 @@ To confirm a coronation not recorded in ASS/AAS, the route is:
 
 1. Check whether the image's dossier falls in **tomo 4** (online, browsable by marginal place-name),
    or is the one Capocolonna dossier online from **tomo 19**.
-2. Check the **catalogue of painted copies** below: Zander/Magister (2011) gives the day and the
+2. Check the **printed register and the catalogue of painted copies** below: Briccolani (1800)
+   gives the year of every Chapter coronation to 1791; Zander/Magister (2011) gives the day and the
    volume and folios of the dossier for 83 images across the whole run of the fond.
 3. Otherwise apply to the **BAV** for the relevant `Madonne coronate` volume, or to the **Archivio
    Capitolare** at the Palazzo della Canonica for administrative records
@@ -344,6 +389,9 @@ volume — though it should be in vol. 25 or 26, which Zander/Magister cite for 
 - Pietro Zander (ed.) and Sara Magister, *Full of Grace: Crowned Madonnas from the Vatican Basilica*,
   Knights of Columbus Museum, New Haven, 2011:
   <https://www.kofc.it/pdf/E-Book-Full_of_Grace_Crowend_Madonnas_from_the_Vatican_Basilica/>
+
+- Vincenzo Briccolani, *Descrizione della sacrosanta Basilica Vaticana …*, 2nd ed., Rome, 1800, pp. 144–161:
+  <https://archive.org/details/gri_33125011212400>
 
 - DigiVatLib, archives section: <https://digi.vatlib.it/arc/Arch.Cap.S.Pietro>
 - DigiVatLib, manuscripts section: <https://digi.vatlib.it/mss/Arch.Cap.S.Pietro>

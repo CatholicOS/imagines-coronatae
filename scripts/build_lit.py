@@ -1,7 +1,7 @@
 """Secondary-literature layer: coronations reported by scholarly works that cite the Chapter archive.
 
 Inputs : data/vrabelova-2013-table-xxi.json, data/balzamo-2023-crownings.json,
-         data/zander-magister-2011-catalogue.json
+         data/zander-magister-2011-catalogue.json, data/briccolani-1800-serie.json
 Output : data/attestations-lit.json   (act-level records, series "LIT")
 
 These records are NOT read at first hand. Each carries the work and locus as its citation and the
@@ -68,8 +68,29 @@ for i,r in enumerate(Z['rows']):
         recs.append({**recs[-1],'year':year(d),'coronation_date':d,'act_number':f"Z{r['no']}b",
           'notes':f"Re-crowning reported by Zander/Magister 2011 (cat. {r['no']}): crowned again {d}."})
 
+# --- Briccolani 1800 (the earliest printed register: year by year, 1631-1793, no folio) ---
+Bc=json.load(open(REPO/'data/briccolani-1800-serie.json',encoding='utf-8'))
+for r in Bc['rows']:
+    child=r['kind']=='child'
+    guad=r['country']=='Mexico'
+    notes='Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. '
+    if child: notes+='Crown for the Child (Bambino Gesù) of an image already crowned, listed as a separate concession. '
+    notes+=(r['notes'] or '')
+    recs.append({'series':'LIT','volume':0,'year':r['year'],'page':400+r['no'],'folio':None,'folio_to':None,
+      'citation':f"Briccolani 1800, p. {r['page']}",'source_pdf_url':'https://archive.org/details/gri_33125011212400',
+      'act_number':f"Br{r['no']}",'act_type':'Coronation listed in a printed register','pope':None,
+      'evidence_type':'chapter_decree','act_date':None,
+      'concession_date':str(r['year']) if guad else None,'coronation_date':None if guad else str(r['year']),
+      'legate':None,'deputy':None,'register_refs':[],'documents':['printed register'],
+      'rubric_latin':None,'incipit_latin':r['text_as_printed'],
+      'image_title_vernacular':r['title'],'image_title_latin':None,
+      'image_subject':'Blessed Virgin Mary with Child' if child else 'Blessed Virgin Mary',
+      'church_or_sanctuary':r['church_or_place'],'locality':r['locality'],'diocese_latin':None,'diocese_modern':None,
+      'country':r['country'],'confidence':'low','notes':notes.strip(),
+      'parent_act':f"Br{r['parent_no']}" if r.get('parent_no') else None})
+
 out={'metadata':{'layer':'attestations-lit — coronations reported by secondary literature, each with the author’s own citation of the Chapter archive where given',
-  'sources':[V['source'],B['source'],Z['source']],'generated':datetime.date.today().isoformat(),'record_count':len(recs),
+  'sources':[V['source'],B['source'],Z['source'],Bc['source']],'generated':datetime.date.today().isoformat(),'record_count':len(recs),
   'caveats':['Secondary evidence: none of these records was read at first hand; confidence is capped at medium.',
              'Where the author cites no folio, confidence is low and the record says so.']},
   'records':recs}
