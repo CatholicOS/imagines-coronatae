@@ -7,7 +7,7 @@
       "AAS": "https://www.vatican.va/archive/aas/index_sp.htm"
     },
     "generated": "2026-09-14",
-    "record_count": 670,
+    "record_count": 671,
     "layer": "attestations — one record per ACT that attests a crowning; see imagines-coronatae.json for one record per IMAGE",
     "coverage": {
       "series": [
@@ -44,13 +44,13 @@
       "Several ASS volumes span two calendar years; `year` is the first year of the volume."
     ],
     "statistics": {
-      "images": 670,
+      "images": 671,
       "source_records": 939,
       "by_country": {
         "Italy": 387,
         "Poland": 72,
         "Spain": 31,
-        "France": 24,
+        "France": 25,
         "Mexico": 23,
         "Belgium": 12,
         "Colombia": 11,
@@ -92,7 +92,7 @@
         "Vatican City": 1
       },
       "by_strongest_evidence": {
-        "retrospective_attestation": 162,
+        "retrospective_attestation": 163,
         "papal_coronation_act": 100,
         "chapter_decree": 363,
         "papal_legate_deputation": 15,
@@ -102,10 +102,10 @@
       },
       "by_confidence": {
         "high": 235,
-        "medium": 216,
+        "medium": 217,
         "low": 219
       },
-      "multi_source_images": 195
+      "multi_source_images": 194
     },
     "license": "Underlying ASS and AAS texts are © Libreria Editrice Vaticana. This compilation is provided for research use.",
     "structure": "One record per CROWNED IMAGE. Every ASS/AAS act that attests it is kept in that image’s `sources` array, so an image cited in several volumes is ONE record with several sources, not several records. Images are identified by locality first, since Marian titles repeat worldwide; a distinctive title can also unite an image crowned away from its shrine."
@@ -4282,6 +4282,57 @@
       ]
     },
     {
+      "id": "sainte-anne-d-auray-auray-sainte-anne-d-auray",
+      "image_title_vernacular": "Sainte-Anne d'Auray",
+      "image_title_latin": "Statua Sanctae Annae",
+      "image_subject": "other (St Anne, mother of the Blessed Virgin Mary)",
+      "church_or_sanctuary": "Sanctuarium Beatae Annae, vulgo d'Auray",
+      "locality": "Auray (Sainte-Anne-d'Auray)",
+      "diocese_latin": "Venetensis",
+      "diocese_modern": "Vannes",
+      "country": "France",
+      "coronation_dates": [],
+      "first_coronation": null,
+      "strongest_evidence": "retrospective_attestation",
+      "evidence_types": [
+        "retrospective_attestation"
+      ],
+      "popes": [
+        "Pius PP. XI"
+      ],
+      "legates": [],
+      "confidence": "high",
+      "source_count": 1,
+      "sources": [
+        {
+          "series": "AAS",
+          "volume": 16,
+          "year": 1924,
+          "page": 284,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 16 (1924), p. 284",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf",
+          "act_number": "X",
+          "act_type": "Epistola",
+          "pope": "Pius PP. XI",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1924-06-14",
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "AD R. P. D. ALCIMUM GOURAUD, EPISCOPUM VENETENSEM: TERTIO PLENO SAECULO AB APPARITIONE SANCTAE ANNAE, PROPE AURAY.",
+          "incipit_latin": "Tertium affers completum iri proximo mense saeculum, ex quo, haud procul ab urbe vulgo Auray nuncupata, quae intra dioecesis istius tuae fines sita est, Sancta Anna",
+          "confidence": "high",
+          "notes": "'praeterquam quod Pius IX et statuam corona aurea redimiri suo nomine iussit'. No year of the crowning is given. Rubric taken from p. 284 of the volume text (OCR 'ALCTMTJM GOURAUD ... AURAT'); the addressee is the Bishop of Vannes (Venetensis).",
+          "parent_act": null
+        }
+      ]
+    },
+    {
       "id": "notre-dame-du-guet-reine-de-la-paix-bar-le-duc",
       "image_title_vernacular": "Notre Dame Du Guet, Reine De La Paix",
       "image_title_latin": null,
@@ -5510,10 +5561,10 @@
       ]
     },
     {
-      "id": "sainte-anne-d-auray-le-bourg-de-sainte-anne-pari",
-      "image_title_vernacular": "Sainte-Anne d'Auray",
-      "image_title_latin": "Statua Sanctae Annae",
-      "image_subject": "other (St Anne, mother of the Blessed Virgin Mary)",
+      "id": "simulacrum-virginis-mariae-le-bourg-de-sainte-an",
+      "image_title_vernacular": null,
+      "image_title_latin": "Simulacrum Virginis Mariae",
+      "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Sanctuarium S. Annae (later raised to Basilica Minor)",
       "locality": "le Bourg de Sainte-Anne, parish of Pluneret, near Auray, Brittany",
       "diocese_latin": "Venetensis",
@@ -5526,12 +5577,11 @@
         "retrospective_attestation"
       ],
       "popes": [
-        "Pius PP. IX",
-        "Pius PP. XI"
+        "Pius PP. IX"
       ],
       "legates": [],
-      "confidence": "high",
-      "source_count": 2,
+      "confidence": "medium",
+      "source_count": 1,
       "sources": [
         {
           "series": "ASS",
@@ -5557,32 +5607,6 @@
           "incipit_latin": "Intra fines cuiusdam paroeciae Pluneret nuncupatae, Dioecesis Venetensis, extat oppidum quoddam a S. Anna nomen habens",
           "confidence": "medium",
           "notes": "Retrospective mention on printed p. 381: 'instanti Episcopo Venetensi sub die 22 maii 1868 Breve edidit quo nimirum tum Virginis Mariae, tum Annae simulacro corona imponi liceret.' The granting Brief of Pius IX is dated 22 May 1868; that is not the date of the document being reported, so act_date is null. The text does not say when (or whether) the crowning was actually carried out, so coronation_date is null. This record covers the image of the Virgin Mary; a companion record covers the image of St Anne. The passage does not state explicitly that the Marian image stands in the same sanctuary of St Anne - inferred from context, hence medium confidence. Page set to 373, where the item 'VENETEN. ...' begins (statement on p. 381); locality/diocese details taken from p. 373 of the same volume. Country: Brittany ('apud Britones', 'Britannia Armorica ... pars Galliae').",
-          "parent_act": null
-        },
-        {
-          "series": "AAS",
-          "volume": 16,
-          "year": 1924,
-          "page": 284,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 16 (1924), p. 284",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf",
-          "act_number": "X",
-          "act_type": "Epistola",
-          "pope": "Pius PP. XI",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1924-06-14",
-          "concession_date": null,
-          "coronation_date": null,
-          "legate": null,
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "AD R. P. D. ALCIMUM GOURAUD, EPISCOPUM VENETENSEM: TERTIO PLENO SAECULO AB APPARITIONE SANCTAE ANNAE, PROPE AURAY.",
-          "incipit_latin": "Tertium affers completum iri proximo mense saeculum, ex quo, haud procul ab urbe vulgo Auray nuncupata, quae intra dioecesis istius tuae fines sita est, Sancta Anna",
-          "confidence": "high",
-          "notes": "'praeterquam quod Pius IX et statuam corona aurea redimiri suo nomine iussit'. No year of the crowning is given. Rubric taken from p. 284 of the volume text (OCR 'ALCTMTJM GOURAUD ... AURAT'); the addressee is the Bishop of Vannes (Venetensis).",
           "parent_act": null
         }
       ]

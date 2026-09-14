@@ -3,7 +3,7 @@
 
 # Registry of crowned images — by country
 
-**670 images** · 43 countries · 939 source citations · generated 2026-09-14
+**671 images** · 43 countries · 939 source citations · generated 2026-09-14
 
 Each row is **one crowned image**. The *Sources* column lists every act in
 *Acta Sanctae Sedis* (ASS, 1865–1908) or *Acta Apostolicae Sedis* (AAS, 1909– ) that attests it,
@@ -217,11 +217,12 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## France
 
-*24 images*
+*25 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
 | Notre-Dame d'Arcachon | Arcachon, Bordeaux | 1870 | retro | [AAS 45 (1953), p. 714](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *retro* | ●●● |
+| Sainte-Anne d'Auray | Auray (Sainte-Anne-d'Auray), Vannes |  | retro | [AAS 16 (1924), p. 284](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
 | Notre Dame Du Guet, Reine De La Paix | Bar-le-Duc | 1920-07-04 | chapter | Zander/Magister 2011, cat. 76, p. 200 *chapter* | ●●○ |
 | Notre-Dame d'Esperance | Briconium (Saint-Brieuc), Brittany | 1865 | retro | [ASS 36 (1903), p. 400](https://www.vatican.va/archive/ass/documents/ASS-36-1903-4-ocr.pdf) *retro* | ●●○ |
 | Notre-Dame du Beau Rameau | Bétharram, Bayonne | 1912 | act | [AAS 4 (1912), p. 490](https://www.vatican.va/archive/aas/documents/AAS-04-1912-ocr.pdf) *act* | ●●● |
@@ -231,7 +232,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Notre-Dame du Sacre-Coeur | Issoudun, Bourges | 1869 | retro | [ASS 11 (1878), p. 618](https://www.vatican.va/archive/ass/documents/ASS-11-1878-ocr.pdf) *retro*<br>[AAS 11 (1919), p. 344](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
 | Notre-Dame de la Guerche | La Guerche-de-Bretagne, Rennes | 1937 | retro | [AAS 43 (1951), p. 724](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●○ |
 | Notre-Dame de Bon Secours | Lablachère, Viviers | 1880 | retro | [AAS 23 (1931), p. 153](https://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf) *retro* | ●●● |
-| Sainte-Anne d'Auray | le Bourg de Sainte-Anne, parish of Pluneret, near Auray, Brittany, Vannes |  | retro | [ASS 9 (1876), p. 373](https://www.vatican.va/archive/ass/documents/ASS-09-1876-ocr.pdf) *retro*<br>[AAS 16 (1924), p. 284](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
+| Simulacrum Virginis Mariae | le Bourg de Sainte-Anne, parish of Pluneret, near Auray, Brittany, Vannes |  | retro | [ASS 9 (1876), p. 373](https://www.vatican.va/archive/ass/documents/ASS-09-1876-ocr.pdf) *retro* | ●●○ |
 | Notre-Dame de Lourdes | Lourdes |  | retro | [AAS 75 (1983), p. 1076](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *retro* | ●○○ |
 | Notre-Dame des Miracles | Mauriac, Saint-Flour | 1855 | retro | [AAS 13 (1921), p. 493](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 | Notre-Dame de Sion | Mons Sion (Sion-Vaudémont), Lotharingia, Nancy-Toul | 1873 | retro | [AAS 27 (1935), p. 328](https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf) *retro* | ●●● |

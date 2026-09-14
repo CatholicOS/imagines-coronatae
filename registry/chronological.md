@@ -3,7 +3,7 @@
 
 # Registry of crowned images — chronological
 
-**670 images** · 939 source citations · generated 2026-09-14
+**671 images** · 939 source citations · generated 2026-09-14
 
 Ordered by the date the image was crowned where a source gives it, otherwise by the earliest act attesting it.
 
@@ -478,7 +478,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | 1875 | Madonna del Carmine, «la Bruna» | Naples (Neapolis) | Italy | retro | [AAS 10 (1918), p. 12](https://www.vatican.va/archive/aas/documents/AAS-10-1918-ocr.pdf) *retro* | ●●● |
 | 1875 | signum Beatae Mariae Virginis, durateum, argento obductum, arte « Romanica » conspicuum | Walcourt, Namur | Belgium | retro | [AAS 43 (1951), p. 268](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●○ |
 | 1875-08-15 | Beata Maria Virgo cum Divino puero Iesu, a Victoria dicta | Bologna (Bononia) | Italy | act | [ASS 9 (1876), p. 167](https://www.vatican.va/archive/ass/documents/ASS-09-1876-ocr.pdf) *act* | ●●● |
-|  | Sainte-Anne d'Auray | le Bourg de Sainte-Anne, parish of Pluneret, near Auray, Brittany, Vannes | France | retro | [ASS 9 (1876), p. 373](https://www.vatican.va/archive/ass/documents/ASS-09-1876-ocr.pdf) *retro*<br>[AAS 16 (1924), p. 284](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
+|  | Simulacrum Virginis Mariae | le Bourg de Sainte-Anne, parish of Pluneret, near Auray, Brittany, Vannes | France | retro | [ASS 9 (1876), p. 373](https://www.vatican.va/archive/ass/documents/ASS-09-1876-ocr.pdf) *retro* | ●●○ |
 | 1876 | Notre-Dame d'Afrique | Icosium (Algiers) | Algeria | retro | [AAS 53 (1961), p. 356](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●● |
 | 1876-07-30 | Onze-Lieve-Vrouw van Hanswijk / Notre-Dame de Hanswijk | Mechelen (Malines) | Belgium | retro | [AAS 79 (1987), p. 1377](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *retro* | ●●● |
 | 1876-08-29 | Madonna di Valleverde | Bovino | Italy | chapter | Zander/Magister 2011, cat. 55, p. 154 *chapter* | ●●○ |
@@ -630,6 +630,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | 1923 | Nuestra Señora de los Desamparados / Mare de Déu dels Desamparats | Valencia | Spain | retro | [AAS 40 (1948), p. 540](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro* | ●●● |
 | 1923 | Nuestra Señora del Rosario de Talpa | Talpa (Talpa de Allende), Tepic | Mexico | retro | [AAS 40 (1948), p. 362](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro*<br>[AAS 40 (1948), p. 363](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro* | ●●● |
 |  | Madonna delle Grazie (Este) | Este, Padua (Padova) | Italy | retro | [AAS 16 (1924), p. 85](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
+|  | Sainte-Anne d'Auray | Auray (Sainte-Anne-d'Auray), Vannes | France | retro | [AAS 16 (1924), p. 284](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
 | 1924 | Beata Maria Virgo ab Angelis, Angelorum Regina | Cartago, San Jose de Costa Rica | Costa Rica | retro | [AAS 28 (1936), p. 155](https://www.vatican.va/archive/aas/documents/AAS-28-1936-ocr.pdf) *retro* | ●●● |
 | 1924-02-24 | Sacra Infantis Pragensis effigies | Arenzano, Genoa | Italy | retro | [AAS 20 (1928), p. 320](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●● |
 | 1925 | Nuestra Señora del Carmen | Jerez de la Frontera, Seville | Spain | retro | [AAS 59 (1967), p. 1119](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●○ |

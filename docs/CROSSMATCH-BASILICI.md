@@ -105,12 +105,12 @@ through Anselmo's 1933 list and its continuators.
 
 ### Gaps in the database: images here that they do not record
 
-250 of the catalogue's 670 images found no scheda. By evidence and by the series that attest them:
+251 of the catalogue's 671 images found no scheda. By evidence and by the series that attest them:
 
 | Strongest evidence | Images |
 |---|---|
 | `papal_coronation_act` | 91 |
-| `retrospective_attestation` | 69 |
+| `retrospective_attestation` | 70 |
 | `chapter_decree` | 57 |
 | `papal_personal_coronation` | 24 |
 | `papal_legate_deputation` | 7 |
@@ -118,13 +118,13 @@ through Anselmo's 1933 list and its continuators.
 
 | Series | Images |
 |---|---|
-| AAS | 186 |
+| AAS | 187 |
 | LIT | 45 |
 | AAS+LIT | 6 |
 | ACSP | 5 |
-| ASS | 3 |
-| AAS+ASS | 2 |
+| ASS | 4 |
 | ACSP+LIT | 2 |
+| AAS+ASS | 1 |
 | ASS+LIT | 1 |
 
 | Country | Images |
@@ -135,15 +135,15 @@ through Anselmo's 1933 list and its continuators.
 | Spain | 15 |
 | Colombia | 8 |
 | Philippines | 7 |
+| France | 6 |
 | Ukraine | 6 |
-| France | 5 |
 | None | 5 |
 | Belgium | 4 |
 | Peru | 4 |
 | Belarus | 3 |
 
 Two kinds of image sit here. First, and most of them, the **papal crownings the gazettes record**
-— 191 images attested only by ASS/AAS: a Legate's coronation in Colombia or the Philippines, the
+— 192 images attested only by ASS/AAS: a Legate's coronation in Colombia or the Philippines, the
 *Litterae Apostolicae* of the 1980s and 1990s (they stop at 1981), and the 63 Polish images most of
 which John Paul II crowned. Their database follows the Chapter and Anselmo, and the papal acts of
 the gazettes are largely outside it — which is the catalogue's own contribution. Second, a few

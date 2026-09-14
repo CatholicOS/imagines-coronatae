@@ -162,8 +162,9 @@ for r in R:
 def subj(x):
     s=norm(x.get('image_subject'))
     if not s: return None
-    if 'virgin' in s or 'mary' in s or 'maria' in s: return 'bvm'
-    for k in ('joseph','sacred heart','cord','infant','nino','family','famili','crucifi','christ','anne','nichol'):
+    # 'other (St Anne, mother of the Blessed Virgin Mary)' names Mary without being her
+    if ('virgin' in s or 'mary' in s or 'maria' in s) and not s.startswith(('other','saint','st ','st.','sant')): return 'bvm'
+    for k in ('joseph','sacred heart','cord','infant','nino','family','famili','crucifi','christ','anne','anna','nichol'):
         if k in s: return k
     return s[:12]
 def subj_ok(g,r):
