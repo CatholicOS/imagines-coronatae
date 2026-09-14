@@ -19,6 +19,8 @@ Central Europe (2013) and Balzamo's of Italy (2023).
 | [`data/attestations-lit.json`](data/attestations-lit.json) | Secondary literature — coronations *reported*, not read at first hand, each with the author's archival citation |
 | [`data/briccolani-1800-serie.json`](data/briccolani-1800-serie.json) | Transcription of Briccolani's 1800 *Serie* — the earliest printed register, 256 entries 1631–1793 |
 | [`data/zander-magister-2011-catalogue.json`](data/zander-magister-2011-catalogue.json) | The 96 entries of the Zander/Magister 2011 catalogue, each with its dossier citation |
+| [`data/basilici-bigliazzi-2025-db.json`](data/basilici-bigliazzi-2025-db.json) | The Basilici–Bigliazzi database of 1,737 crownings, 1631–1981 — **not merged**, used for the cross-match |
+| [`docs/CROSSMATCH-BASILICI.md`](docs/CROSSMATCH-BASILICI.md) | The cross-match: what they record that this catalogue lacks, and the reverse (`data/crossmatch-basilici.csv` row by row) |
 | [`data/sources.csv`](data/sources.csv) | One row per (image, source) pair |
 
 ## What is in it
@@ -174,6 +176,14 @@ dossiers) were **read at first hand** for this catalogue. **LIT** is different: 
 | Pietro **Zander** and Sara **Magister**, *Full of Grace: Crowned Madonnas from the Vatican Basilica*, New Haven 2011 | 107 | Catalogue of the Fabbrica's painted copies of 89 crowned images, with the day of crowning | *BAV, ACSP, Madonne Coronate, vol., cc.* for 83 of them, and the Fabbrica's *catalogo delle immagini* (AFSP, Arm. 12, F, 11, nr. 10) |
 | Dana **Vrabelová**, *Imago gratiosa*, Prague 2013, § XXI | 30 | Thirty Chapter coronations in Central Europe, 1717–1786 | *sv., fol.* for most |
 | Nicolas **Balzamo**, « Uniformisation ou distinction ? », *RHR* 97 (2023) | 31 | Roman and Italian coronations 1631–1798 named in the text | *volume, folio* where given; town-and-year lists without |
+
+A fifth work is kept outside the catalogue altogether. Massimo Basilici and Rita Bigliazzi's
+*Le Madonne Coronate* (2025) and its database of **1,737 crownings 1631–1981** is the fullest list
+there is, but it is compiled from Anselmo da Reno Centese's 1933 catalogue and the internet rather
+than from the archive, so it is used as a yardstick: [`docs/CROSSMATCH-BASILICI.md`](docs/CROSSMATCH-BASILICI.md)
+matches it against the catalogue in both directions — 467 of their schede correspond to an image
+here, 981 verified crownings (almost all after 1800) do not, and 258 images here (the gazettes'
+papal acts, above all) are not in their list.
 
 Each row is cited to *BAV, ACSP, Madonne coronate, volume, folio* where the author gives one, and
 those citations are carried in `register_refs`, so a LIT row can be taken back to the primary

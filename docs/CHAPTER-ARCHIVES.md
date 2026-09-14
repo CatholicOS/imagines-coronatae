@@ -226,7 +226,7 @@ the Colonna's the same year as the image, the Popolo's and the Miracoli's in 166
 the Basilica's papers, and for Rome his numbers match Balzamo's counts from the fond — 13 images in
 Sforza's lifetime (13), 80 Roman images 1640–1681 (Balzamo: 82), 93 by the Scala Santa crowning of
 1679 (Balzamo: the 95th). Outside Rome he is thinner: 139 images 1681–1791 against Balzamo's
-"about 203 by 1798" — Reggio Calabria 1722, for one, is missing. He gives
+"about 203 by 1798", and Basilici–Bigliazzi note omissions such as Reggio Calabria 1722. He gives
 **years only, no day or folio**, he has no entry at all for 1697–1702, and where a dossier or catalogue
 read here gives the day, his year is occasionally one off — usually the year before, presumably
 the decree's (Lucca 1689 for a crowning of 30 April 1690; Otranto 1704 for 7 March 1705; Bertinoro
@@ -248,6 +248,32 @@ Mansi–Persichini's *Le incoronate* (1853, Google Books `7fcYSwOXFJAC`) are onl
 Briccolani lacks; Anselmo da Reno Centese's catalogue in *L'Italia francescana* 8 (1933) — the
 source of every twentieth-century list, and drawn from the Chapter's registers only for 1905
 onwards — is not online (the BNCR emeroteca has the journal from 1934).
+
+### Basilici–Bigliazzi (2025) — the fullest list, and what they add about the fond
+
+Massimo Basilici and Rita Bigliazzi, *Le Madonne Coronate: anni 1631–1750; 1751–1900; 1901–1931;
+1932–1981* (four self-published volumes, 2025; Kindle editions on amazon.it), with a searchable
+companion database at <https://www.pereto.org/madonne_coronate/> — 1,737 schede, one per crowning,
+each with locality, church, title, date, decree date, authorising body and their verdict on whether
+the crowning was really the Chapter's, a papal brief's or the Pope's. The database is in
+`data/basilici-bigliazzi-2025-db.json` and is compared with the catalogue in
+`docs/CROSSMATCH-BASILICI.md`; it is **not** merged, because by their own account (the first
+volume's introduction, *La ricerca*, free as a PDF on the site) it was compiled from Anselmo da Reno
+Centese's 1933 catalogue, the printed repertories, the internet and correspondence, with the archive
+consulted for particular cases — Anselmo's own list being transcribed from the Chapter's registers
+only from 1905 onwards.
+
+What their introduction adds about the fond itself, from their reading of vol. 1 and the decree
+registers: the fond runs to **36 manuscript volumes**, which they date 1634–1924 (Vrabelová:
+1631–1931), unordered within a volume; vol. 1 opens with the Sforza correspondence of 1634–48 and
+Debellini's preface of 6 March 1863, which records that the documents had lain loose in the
+*casselle delle pergamene*, that they were bound into sixteen volumes, and that 28 originals on
+Sforza's own coronations were found among the papers of his Roman procurator Ercole Bajardi in the
+archive of the Arcispedale di San Giacomo and added then. The Chapter's **decree registers**
+(*BAV, ACSP, Decreti*) record each concession — they quote vol. 21, p. 96, for the Bisognosi
+crown of 22 November 1717 — but the register for **1739–1744 is missing** from the BAV. Sindone's
+1756 *Elenco* runs to several manuscript volumes "raccolti in Madonne coronate a partire dal volume
+XXVII". And, first noticed by them, **vol. 19 is partly online** (see above).
 
 ### One place the primary source and the thesis disagree
 
@@ -298,7 +324,8 @@ in Ecclesiastica dignitate constitutum, nomine Nostro capiti Imaginis, de qua su
 coronam auream imponas, et coronationis caeremoniam exequaris iuxta ritum praescriptum ad usum
 Basilicae Nostrae ac typis vulgatum in libello cui titulus = Ordo servandus etc. = et cuius exemplar
 ad Te mittimus"* — which is the concession formula in its late-nineteenth-century form. Ten folios
-for one coronation, so vol. 19 as a whole must run to well over a thousand folios; the Zander/Magister catalogue below cites it at
+for one coronation, so vol. 19 as a whole (Basilici–Bigliazzi count 1,300 coronations across the
+fond) must run to well over a thousand folios; the Zander/Magister catalogue below cites it at
 cc. 21–49, 166–173, 186–191, 305–363, 448–457, 688–700, 739–759, 1145–1161 and 1213–1226, i.e. it
 covers roughly 1890–1900.
 
@@ -363,9 +390,10 @@ To confirm a coronation not recorded in ASS/AAS, the route is:
 
 1. Check whether the image's dossier falls in **tomo 4** (online, browsable by marginal place-name),
    or is the one Capocolonna dossier online from **tomo 19**.
-2. Check the **printed register and the catalogue of painted copies** below: Briccolani (1800)
+2. Check the **printed registers and the catalogue of painted copies** below: Briccolani (1800)
    gives the year of every Chapter coronation to 1791; Zander/Magister (2011) gives the day and the
-   volume and folios of the dossier for 83 images across the whole run of the fond.
+   volume and folios of the dossier for 83 images across the whole run of the fond; the
+   Basilici–Bigliazzi database gives a date and a decree date for 1,737 entries, 1631–1981.
 3. Otherwise apply to the **BAV** for the relevant `Madonne coronate` volume, or to the **Archivio
    Capitolare** at the Palazzo della Canonica for administrative records
    (`amministrazione@capitolosp.va`).
