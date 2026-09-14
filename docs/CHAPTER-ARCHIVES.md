@@ -1,6 +1,6 @@
 # The Vatican Chapter archives and where coronation concessions are recorded
 
-Research note. Everything below was verified against the live sources on 10–11 September 2026;
+Research note. Everything below was verified against the live sources on 10–14 September 2026;
 URLs and shelfmarks are given so each claim can be rechecked.
 
 ## Why this matters for this catalogue
@@ -190,14 +190,35 @@ DigiVatLib splits the fond across **two different sections**, which is easy to m
 Coronation concessions are in the **archives** section, not the manuscripts section. Searching
 `/mss/` for them — the obvious first move — finds nothing.
 
-**Of the `Madonne coronate` volumes, exactly one is digitized:**
+**Of the `Madonne coronate` volumes, one is digitized in full and one in part:**
 
-> **`Arch.Cap.S.Pietro.Madonne.coron.4`** — 726 images
+> **`Arch.Cap.S.Pietro.Madonne.coron.4`** — 726 images, the whole volume (1689–1714)
 > Viewer: <https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4>
 > IIIF manifest: `https://digi.vatlib.it/iiif/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/manifest.json`
+>
+> **`Arch.Cap.S.Pietro.Madonne.coron.19`** — **13 images only**: ff. 293–302 of a volume of the 1890s
+> Viewer: <https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.19>
+> IIIF manifest: `https://digi.vatlib.it/iiif/ARC_Arch.Cap.S.Pietro.Madonne.coron.19/manifest.json`
 
-Tomes 1, 2, 3, 5 and 6 return 404 — they are **not** online. Note the IIIF prefix for this section is
-**`ARC_`**, not the `MSS_` used for the codices.
+All other manifests (1–3, 5–18, 20–36) return 404 (probed 14 September 2026) — they are **not**
+online. Note the IIIF prefix for this section is **`ARC_`**, not the `MSS_` used for the codices.
+The vol. 19 manifest's `/res/imgNNNN` resource URLs themselves 404; the images are served by the
+IIIF Image API endpoint given in each canvas's `service.@id`, e.g.
+`https://digi.vatlib.it/iiifimage/ARC_Arch.Cap.S.Pietro.Madonne.coron.19/Arch.Cap.S.Pietro.Madonne.coron.19_0002.jp2/full/1000,/0/default.jpg`.
+
+### What the vol. 19 fragment contains
+
+A single dossier: the coronation of **Maria SS. di Capo Colonna** (Capocolonna, Crotone). Image 2
+(f. 293) is a letter of 1 July 1892 from the Roman studio of Cav. Filippo Della Noce, via Condotti 42,
+to Mons. Agapito Panici, Secretary of the Chapter, forwarding the Bishop of Cotrone's commendation
+*"per la Coronazione di Maria SSma del Capo delle Colonne"* with a *sunto delle grazie* and a
+book; image 12 (f. 302) is the Chapter's Latin letter of concession — *"Ut vero solemnis coronatio
+quamprimum fieri possit et valeat, Tibi ... concedimus ... quatenus vel per Teipsum, vel per virum
+in Ecclesiastica dignitate constitutum, nomine Nostro capiti Imaginis, de qua supra, cum Puero Jesu,
+coronam auream imponas, et coronationis caeremoniam exequaris iuxta ritum praescriptum ad usum
+Basilicae Nostrae ac typis vulgatum in libello cui titulus = Ordo servandus etc. = et cuius exemplar
+ad Te mittimus"* — which is the concession formula in its late-nineteenth-century form. Ten folios
+for one coronation, at a foliation near 300 for a dossier of 1892: the volume covers the 1890s.
 
 ### What tomo 4 actually contains
 
@@ -236,8 +257,9 @@ canon, Camillo Mugiasca, who performed it.
 - **Not OCR'd.** These are page images only; there is no text layer, so the volume cannot be swept
   the way ASS and AAS were. Identification means reading the marginal place-names page by page, or
   working from a IIIF viewer.
-- **Only one volume of the series is online.** The Sforza legacy runs from 1636 to the present, so
-  the great majority of concessions are in tomes that are not digitized.
+- **Only one volume of the series is online in full, and ten folios of another.** The Sforza legacy
+  runs from 1636 to the present, so the great majority of concessions are in tomes that are not
+  digitized.
 - `robots.txt` on digi.vatlib.it disallows `/search`, `/*/search`, `/*/index-search` and `/*/detail/*`,
   and sets `Crawl-delay: 10`. The listing pages and IIIF endpoints used here are permitted; any
   future harvesting should stay within those limits.
@@ -257,7 +279,8 @@ None of these had a digitized item under the shelfmarks probed.
 
 To confirm a coronation not recorded in ASS/AAS, the route is:
 
-1. Check whether the image's dossier falls in **tomo 4** (online, browsable by marginal place-name).
+1. Check whether the image's dossier falls in **tomo 4** (online, browsable by marginal place-name),
+   or is the one Capocolonna dossier online from **tomo 19**.
 2. Otherwise apply to the **BAV** for the relevant `Madonne coronate` volume, or to the **Archivio
    Capitolare** at the Palazzo della Canonica for administrative records
    (`amministrazione@capitolosp.va`).

@@ -155,9 +155,11 @@ carries an `evidence_type` so you can filter to exactly the sense you need:
    centuries the crowning of an image was granted by decree of the **Chapter of St Peter's
    Basilica**, under the 1636 Sforza Pallavicino legacy, and those decrees were never gazetted. The
    dedicated series is **`Madonne coronate`**, cited as *BAV, ACSP, Madonne coronate, tomo I, foglio
-   N (mecc. N)*. Exactly **one volume of it is digitized** —
+   N (mecc. N)*. Exactly **one volume of it is digitized in full** —
    [`Arch.Cap.S.Pietro.Madonne.coron.4`](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4),
-   726 images, not OCR'd. Everything else must be consulted at the Vatican Library or at the
+   726 images, not OCR'd — and ten folios of
+   [vol. 19](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.19) (the Capocolonna
+   dossier of 1892). Everything else must be consulted at the Vatican Library or at the
    Archivio Capitolare. **That one volume has now been transcribed and swept** (`chapter_decree`
    records, cited by folio); the other tomes remain the largest unexamined source. See
    [`docs/CHAPTER-ARCHIVES.md`](docs/CHAPTER-ARCHIVES.md) for the series layout, the citation form,
