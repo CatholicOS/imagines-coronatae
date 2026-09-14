@@ -1,7 +1,7 @@
 {
  "source": "Massimo Basilici and Rita Bigliazzi, Le Madonne Coronate (anni 1631-1750; 1751-1900; 1901-1931; 1932-1981), 2025 — companion database 'Le Madonne Coronate, a cura di Massimo Basilici e Rita Bigliazzi, anni 1631-1981', https://www.pereto.org/madonne_coronate/ , one scheda per crowning.",
  "fetched": "2026-09-14",
- "note": "SECONDARY and not read at first hand: the authors' own conclusions, compiled (their introduction, 'La ricerca') from Anselmo da Reno Centese 1933, the printed repertories (Bombelli, Mazzolari, Briccolani, Mansi, Bonci), the internet and correspondence, with the archive consulted for particular cases; the `autorizza` field is taken 'principalmente dalla pubblicazione di frate Anselmo'. Fields are theirs; `coronation_date` and `decree_date` are ISO renderings of `data_incoronazione` and `data_decreto`. Not merged into the catalogue: see docs/CROSSMATCH-BASILICI.md for the comparison.",
+ "note": "SECONDARY and not read at first hand: the authors' own conclusions, compiled (their introduction, 'La ricerca') from Anselmo da Reno Centese 1933, the printed repertories (Bombelli, Mazzolari, Briccolani, Mansi, Bonci), the internet and correspondence, with the archive consulted for particular cases; the `autorizza` field is taken 'principalmente dalla pubblicazione di frate Anselmo'. Fields are theirs; `coronation_date` and `decree_date` are ISO renderings of `data_incoronazione` and `data_decreto`. The schede marked 'data_verificata: sì' with 'incoronazione' 1, 2 or 3 enter the catalogue as LIT records (scripts/build_lit.py); see docs/BASILICI-BIGLIAZZI.md.",
  "row_count": 1737,
  "missing_rows": [],
  "rows": [

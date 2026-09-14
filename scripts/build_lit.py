@@ -2,7 +2,7 @@
 
 Inputs : data/vrabelova-2013-table-xxi.json, data/balzamo-2023-crownings.json,
          data/zander-magister-2011-catalogue.json, data/briccolani-1800-serie.json,
-         data/bombelli-1792-raccolta.json
+         data/bombelli-1792-raccolta.json, data/basilici-bigliazzi-2025-db.json
 Output : data/attestations-lit.json   (act-level records, series "LIT")
 
 These records are NOT read at first hand. Each carries the work and locus as its citation and the
@@ -118,8 +118,64 @@ for r in Bo['rows']:
           'act_number':f"Bo{r['no']}c",'image_subject':'Blessed Virgin Mary with Child','parent_act':f"Bo{r['no']}",
           'notes':f"Crown for the Child (Bambino Gesù) of the image crowned {r['coronation_date']}, reported by Bombelli 1792 (tomo {r['tomo']}, p. {r['page']})."})
 
+# --- Basilici-Bigliazzi 2025 (the database of their four volumes: one scheda per crowning, 1631-1981) ---
+# Only the schede they themselves vouch for: `data_verificata` = sì and `incoronazione` = 1, 2 or 3. The
+# 318 they mark '#' (uncertain, or a petition the Chapter refused) or 'no' are left out.
+import sys; sys.path.insert(0,str(REPO/'scripts')); from names import NATION
+BB=json.load(open(REPO/'data/basilici-bigliazzi-2025-db.json',encoding='utf-8'))
+ROME=json.load(open(REPO/'data/basilici-rome-alignment.json',encoding='utf-8'))['rows']   # scripts/align_basilici_rome.py
+def bb_subject(title):
+    t=title.lower()
+    if 'famiglia' in t: return 'Holy Family'
+    if 'bambino' in t and not t.startswith(('madonna','santa maria','nostra','vergine','maria')): return 'Infant Jesus'
+    if "sant'anna" in t: return 'Saint Anne'
+    return 'Blessed Virgin Mary'
+def bb_evidence(s):
+    a=(s['autorizza'] or '').strip().rstrip('.'); off=(s['officia'] or '').strip()
+    if a in ('Capitolo','Capitolo assenso','Conte Sforza'): return 'chapter_decree'
+    if a=='B.P': return 'papal_coronation_act'
+    if a.startswith(('Papa ','Pio ')):
+        return 'papal_personal_coronation' if off.startswith('Papa') else 'papal_coronation_act'
+    return 'retrospective_attestation'          # '#': crowned, by an authority they could not establish
+def bb_locality(s):
+    loc=s['localita'] or ''
+    if str(s['row']) in ROME: return ROME[str(s['row'])]['locality']     # the catalogue's own church string
+    if s['nation']=='Città del Vaticano': return 'Rome, Vatican Basilica'
+    if s['nation']=='Italia' and s['region']=='Lazio' and loc.lower().startswith('roma'):
+        return 'Rome, '+(s['luogo_di_culto'] or '')
+    return loc
+nbb=0
+for s in BB['rows']:
+    # row 0, the Madonna della Febbre of 1631, is the one scheda the site's API never returned: kept from the date index
+    if s['row']!=0 and (s['data_verificata']!='sì' or s['incoronazione'] not in ('1','2','3')): continue
+    a=(s['autorizza'] or '').strip() or ('Conte Sforza' if s['row']==0 else '#')
+    child=ROME.get(str(s['row']),{}).get('child_of')
+    notes=(f"Listed by Basilici–Bigliazzi 2025 (scheda {s['row']}, their id {s['id']}), a modern compilation from Anselmo da Reno "
+           f"Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority "
+           f"('autorizza'): {a}"+(f"; officiated by {s['officia']}" if s['officia'] else '')+
+           (f"; their decree date {s['data_decreto']}" if s['decree_date'] else '')+
+           (f"; {s['incoronazione']}{'nd' if s['incoronazione']=='2' else 'rd'} crowning of the image" if s['incoronazione'] in ('2','3') else '')+'. ')
+    if a=='#': notes+="They could not establish who authorised it. "
+    if child is not None: notes+=f"A separate crown for the Child (Bambino Gesù) of the image of scheda {child}, which they file as a first crowning. "
+    if s['annotazioni']: notes+=f"Their annotazioni: {s['annotazioni']} "
+    if s['note']: notes+=f"Their note: {s['note']}"
+    title=s['titolo']+(f" ({s['altro_titolo']})" if s['altro_titolo'] else '')
+    recs.append({'series':'LIT','volume':0,'year':year(s['coronation_date']),'page':1000+s['row'],'folio':None,'folio_to':None,
+      'citation':f"Basilici–Bigliazzi 2025, scheda {s['row']}",'source_pdf_url':'https://www.pereto.org/madonne_coronate/',
+      'act_number':f"BB{s['row']}",'act_type':'Crowning listed in a modern compilation of the printed catalogues','pope':None,
+      'evidence_type':'chapter_decree' if s['row']==0 else bb_evidence(s),'act_date':None,'concession_date':s['decree_date'],'coronation_date':s['coronation_date'],
+      'legate':None,'deputy':s['officia'],'register_refs':[],'documents':['secondary compilation'],
+      'rubric_latin':None,'incipit_latin':None,
+      'image_title_vernacular':title,'image_title_latin':None,
+      'image_subject':('Blessed Virgin Mary with Child' if child is not None else bb_subject(title)),
+      'church_or_sanctuary':s['luogo_di_culto'],'locality':bb_locality(s),'diocese_latin':None,'diocese_modern':s['diocesi'],
+      'country':NATION.get(s['nation']) or ('Italy' if s['row']==0 else None),'confidence':'low','notes':notes.strip(),
+      'parent_act':f"BB{child}" if child is not None else None,'aligned':str(s['row']) in ROME})
+    nbb+=1
+print('Basilici-Bigliazzi rows taken:',nbb)
+
 out={'metadata':{'layer':'attestations-lit — coronations reported by secondary literature, each with the author’s own citation of the Chapter archive where given',
-  'sources':[V['source'],B['source'],Z['source'],Bc['source'],Bo['source']],'generated':datetime.date.today().isoformat(),'record_count':len(recs),
+  'sources':[V['source'],B['source'],Z['source'],Bc['source'],Bo['source'],BB['source']],'generated':datetime.date.today().isoformat(),'record_count':len(recs),
   'caveats':['Secondary evidence: none of these records was read at first hand; confidence is capped at medium.',
              'Where the author cites no folio, confidence is low and the record says so.']},
   'records':recs}
