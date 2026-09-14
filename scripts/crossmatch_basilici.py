@@ -92,8 +92,10 @@ for s in B['rows']:
         # a title-only or year-only match between records that name DIFFERENT churches is no match
         # (Naples' Madonna delle Grazie of 1726 is not the one at Pietra del Pesce of 1786)
         if score==2:
-            ci=church_toks(ir)|{t for t in il if t not in lt}
-            if ct and ci and not (ct&ci) and not ({t[:7] for t in ct if len(t)>=7}&{t[:7] for t in ci if len(t)>=7}): continue
+            # church words on both sides, less the place itself: 'ecclesia paroecialis urbis Piekary' names no church
+            cs={t for t in ct if t.isalpha() and t not in lt}
+            ci={t for t in church_toks(ir)|{t for t in il if t not in lt} if t.isalpha() and t not in lt}
+            if cs and ci and not (cs&ci) and not ({t[:7] for t in cs if len(t)>=7}&{t[:7] for t in ci if len(t)>=7}): continue
         if best is None or score>best[0]: best=(score,k,place,('title+year' if score==3 else 'title' if score==2 else 'year'))
     if best:
         _,k,place,h=best; how=f"{place}+{h}"; matched_images[k].append(s['row'])

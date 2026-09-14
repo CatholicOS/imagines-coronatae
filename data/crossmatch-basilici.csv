@@ -862,7 +862,7 @@ row,id,nation,localita,titolo,data_incoronazione,autorizza,data_verificata,incor
 860,886,Italia,Mugnano del Cardinale,Madonna delle Grazie,5-4-1908,#,no,#,,,,,,,,Frate Anselmo: data l'incoronazione 5 aprile 1908. Nessun riferimento in internet.
 861,825,Francia,Cuiseaux,Nostra Signora del Noce,22-4-1908,Capitolo,sì,1,,,,,,,,ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione.
 862,799,Belgio,Lebbeke,Nostra Signora della Natività,26-4-1908,B.P.,sì,1,,,,,,,,ERR - Frate Anselmo: non la cita.
-863,750,Messico,Guanajuato,Nostra Signora di Guanajuato,31-5-1908,Capitolo,sì,1,,,,,,,,ERR - Frate Anselmo: non la cita.
+863,750,Messico,Guanajuato,Nostra Signora di Guanajuato,31-5-1908,Capitolo,sì,1,place+title,nuestra-senora-de-guanajuato-santa-fe-de-guanaju,Santa Fe de Guanajuato,Nuestra Señora de Guanajuato,,AAS,,ERR - Frate Anselmo: non la cita.
 864,936,Italia,Scafati,Madonna dei Bagni,5-7-1908,Capitolo,sì,1,,,,,,,,Frate Anselmo: la colloca a Angri. ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione.
 865,823,Francia,Jouhe,Nostra Signora del Mont Roland,30-8-1908,Capitolo,sì,1,,,,,,,,ERR - Frate Anselmo: data l'incoronazione 10 novembre 1907 e la colloca a Jouhe.
 866,791,Austria,Mariazell,Magna Mater Austriae,8-9-1908,Capitolo,sì,1,,,,,,,,ERR - Frate Anselmo: data l'incoronazione 10 novembre 1907 è la colloca nel Santuario presso dell'Abbazia di S. Maberto.
@@ -898,7 +898,7 @@ row,id,nation,localita,titolo,data_incoronazione,autorizza,data_verificata,incor
 896,1128,Malta,Birkirkara,Santa Maria Tal Herba,7-8-1910,Capitolo,sì,1,,,,,,,,"ERR - Frate Anselmo: scambia la data del decreto con quella di incoronazione, la colloca a Birchircara e la titola: Santa Maria Tal Herba, cioè della Fuga."
 897,1054,Italia,San Ginesio,Madonna della Misericordia,18-8-1910,Capitolo,sì,1,,,,,,,,ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione.
 898,797,Belgio,Montaigu-Zichem,Nostra Signora del Sacro Cuore,21-8-1910,B.P.,sì,1,,,,,,,,ERR - Frate Anselmo: non la cita.
-899,1196,Spagna,"Morella, frazione di Vallivana",Vergine di Vallivana,28-8-1910,Capitolo,sì,1,,,,,,,,ERR - Frate Anselmo: data l'incoronazione 2 luglio 1910.
+899,1196,Spagna,"Morella, frazione di Vallivana",Vergine di Vallivana,28-8-1910,Capitolo,sì,1,place+title,virgen-de-vallivana-morella,Morella,Virgen de Vallivana,,AAS,,ERR - Frate Anselmo: data l'incoronazione 2 luglio 1910.
 900,782,Venezuela,Valencia,Nostra Signora del Soccorso,13-11-1910,Capitolo,sì,1,place+title+year,nuestra-senora-del-socorro-valentia-valencia,Valentia (Valencia),Nuestra Señora del Socorro,1910,AAS,yes,ERR - Frate Anselmo: data l'incoronazione 5 aprile 1908.
 901,1190,Spagna,Valls,Vergine della Candela,2-2-1911,Capitolo,sì,1,,,,,,,,Frate Anselmo: la titola: Santa Maria de la Candela. ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione.
 902,1225,Turchia,Istanbul,Santa Maria Drapéris,25-3-1911,Capitolo,sì,1,place+title+year,santa-maria-draperis-istanbul,Istanbul,Santa Maria Draperis,1911-03-25,LIT,yes,ERR - Frate Anselmo: data l'incoronazione 20 luglio 1910 e la colloca a Pera di Costantinopoli.
@@ -1084,8 +1084,8 @@ row,id,nation,localita,titolo,data_incoronazione,autorizza,data_verificata,incor
 1082,928,Italia,Cava de' Tirreni,Madonna dell'Olmo,17-6-1924,Capitolo,sì,2,place+title+year,madonna-dell-olmo-cava-de-tirreni,Cava de' Tirreni,Madonna dell’Olmo,1766-06-15; 1924,LIT,yes,Frate Anselmo: data l'incoronazione 17 giugno 1924
 1083,1096,Italia,"Leni, frazione di Valdichiesa",Madonna del Terzito,17-6-1924,#,no,#,,,,,,,,ERR - Frate Anselmo: la colloca a Valle di Chiesa. Frate Anselmo: data l'incoronazione 17 giugno 1924. Nessun riferimento in internet.
 1084,1050,Italia,Cingoli,Madonna del Rosario,18-6-1924,#,no,#,,,,,,,,Frate Anselmo: data l'incoronazione 18 giugno 1924. Nessun riferimento in internet.
-1085,979,Italia,Roma,Madonna delle Grazie,22-6-1924,Capitolo,sì,2,church+title,santa-maria-delle-grazie-a-porta-angelica-rome-s,"Rome, Santa Maria delle Grazie a Porta Angelica",Santa Maria delle Grazie a Porta Angelica,1644-06-09,LIT,no,ERR - Frate Anselmo: data l'incoronazione 2 febbraio 1924.
-1086,980,Italia,Roma,Madonna delle Grazie,22-6-1924,Capitolo,sì,2,church+title,santa-maria-delle-grazie-a-porta-angelica-rome-s,"Rome, Santa Maria delle Grazie a Porta Angelica",Santa Maria delle Grazie a Porta Angelica,1644-06-09,LIT,no,ERR - Frate Anselmo: non la cita.
+1085,979,Italia,Roma,Madonna delle Grazie,22-6-1924,Capitolo,sì,2,church+title,santa-maria-delle-grazie-in-s-lorenzo-in-lucina,"Rome, San Lorenzo in Lucina (Madonna delle Grazie)",Santa Maria delle Grazie in S. Lorenzo in Lucina,1678-07-28,LIT,no,ERR - Frate Anselmo: data l'incoronazione 2 febbraio 1924.
+1086,980,Italia,Roma,Madonna delle Grazie,22-6-1924,Capitolo,sì,2,church+title,santa-maria-delle-grazie-in-s-lorenzo-in-lucina,"Rome, San Lorenzo in Lucina (Madonna delle Grazie)",Santa Maria delle Grazie in S. Lorenzo in Lucina,1678-07-28,LIT,no,ERR - Frate Anselmo: non la cita.
 1087,788,Sri Lanka,Madhu,Nostra Signora del Rosario,2-7-1924,B.P.,sì,1,,,,,,,,ERR - Frate Anselmo: non la cita.
 1088,919,Italia,Procida,Madonna delle Grazie,10-8-1924,Capitolo,sì,1,,,,,,,,ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione e nell'elenco per date la colloca a Progida.
 1089,798,Belgio,Overijse,Nostra Signora nel Bosco,15-8-1924,Capitolo,sì,1,,,,,,,,"ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione; la colloca a Bruxelle e la titola: Santa Maria ""Mater Divinae Gratiae"" o Iesu Quercu in Sylva Zonia. Nell'elenco per località la data 5 luglio 1922."
@@ -1165,7 +1165,7 @@ row,id,nation,localita,titolo,data_incoronazione,autorizza,data_verificata,incor
 1163,881,Italia,Ariano Irpino,Madonna del Carmine,16-7-1927,Capitolo,sì,1,,,,,,,,Frate Anselmo: la colloca a Ariano di Puglia nell'elenco per date e ad Ariano nell'elenco per località. ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione.
 1164,1223,Svizzera,Morbio Inferiore,Santa Maria dei Miracoli,29-7-1927,Capitolo,sì,1,place+year,beata-maria-virgo-a-miraculis-morbio-inferiore,Morbio Inferiore,Beata Maria Virgo « a Miraculis »,1927,AAS,yes,ERR - Frate Anselmo: data l'incoronazione 21 settembre 1926. ERR - Bonci: data l'incoronazione 31 luglio 1927.
 1165,1081,Italia,Accadia,Madonna del Carmine,21-8-1927,Capitolo,sì,1,,,,,,,,ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione.
-1166,1091,Italia,Montalbano Elicona,Madonna della Provvidenza,24-8-1927,Capitolo,sì,1,,,,,,,,ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione.
+1166,1091,Italia,Montalbano Elicona,Madonna della Provvidenza,24-8-1927,Capitolo,sì,1,place+title,maria-santissima-della-divina-provvidenza-montal,Montalbano Elicona,Maria Santissima della Divina Provvidenza,,AAS,,ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione.
 1167,855,Germania,Aquisgrana,"Santa Maria ""Auxilium Christianorum""",4-9-1927,Capitolo,sì,1,,,,,,,,"Frate Anselmo: data l'incoronazione 8 maggio 1927 e la titola Santa Maria ""Auxilium Christianorum"". ERR - la colloca nella Prussia ed in particolare nella Collegiata."
 1168,780,Perù,Lima,Nostra Signora del Rosario,2-10-1927,Capitolo,sì,1,,,,,,,,"ERR - Frate Anselmo: data l'incoronazione 31 maggio 1932 nell'elenco per date, mentre 31 maggio 1922 nell'elenco per località."
 1169,1112,Italia,Padova,Madonna dei Lumini,16-10-1927,Capitolo,sì,1,,,,,,,,Frate Anselmo: la titola: Santa Maria dei Lumi. ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione.
@@ -1577,7 +1577,7 @@ row,id,nation,localita,titolo,data_incoronazione,autorizza,data_verificata,incor
 1575,1707,Spagna,Guía de Isora,Vergine della Luce,16-9-1956,B.P.,sì,1,,,,,,,,ERR - Bonci: non la cita.
 1576,1442,Italia,Bonito,Madonna dell'Assunta,29-9-1956,Capitolo,sì,1,,,,,,,,ERR - Bonci: non la cita.
 1577,1622,Spagna,Villanueva del Arzobispo,Nostra Signora della Fuensanta,29-9-1956,B.P.,sì,1,,,,,,,,ERR - Bonci: non la cita.
-1578,1487,Italia,Roma,Madonna delle Grazie delle Fornaci,10-10-1956,B.P.,sì,1,church+title,santa-maria-delle-grazie-a-porta-angelica-rome-s,"Rome, Santa Maria delle Grazie a Porta Angelica",Santa Maria delle Grazie a Porta Angelica,1644-06-09,LIT,no,ERR - Bonci: non la cita.
+1578,1487,Italia,Roma,Madonna delle Grazie delle Fornaci,10-10-1956,B.P.,sì,1,church+title,santa-maria-delle-grazie-in-s-lorenzo-in-lucina,"Rome, San Lorenzo in Lucina (Madonna delle Grazie)",Santa Maria delle Grazie in S. Lorenzo in Lucina,1678-07-28,LIT,no,ERR - Bonci: non la cita.
 1579,1281,Messico,Santiago de Querétaro,Nostra Signora di Guadalupe,10-1-1957,Capitolo,sì,1,,,,,,,,ERR - Bonci: non la cita.
 1580,1665,Spagna,Talavera de la Reina,Nostra Signora del Prado,30-5-1957,B.P.,sì,1,,,,,,,,ERR - Bonci: scambia la data del decreto con la data di incoronazione e la colloca a Toledo
 1581,1657,Spagna,Cuenca,Vergine Addolorata,31-5-1957,B.P.,sì,1,,,,,,,,ERR - Bonci: non la cita.
@@ -1645,7 +1645,7 @@ row,id,nation,localita,titolo,data_incoronazione,autorizza,data_verificata,incor
 1643,1664,Spagna,Ocaña,Nostra Signora dei Rimedi,11-6-1961,B.P.,sì,1,,,,,,,,ERR - Bonci: non la cita.
 1644,1644,Spagna,"Santibáñez de la Peña, località Villafría de la Peña",Nostra Signora dell'Erica,21-9-1961,B.P.,sì,1,,,,,,,,ERR - Bonci: non la cita.
 1645,1303,Argentina,Mendoza,Nostra Signora del Rosario,20-10-1961,Capitolo,sì,1,,,,,,,,ERR - Bonci: data l'incoronazione 10 maggio 1954.
-1646,1296,Argentina,Morón,Immacolata Concezione del Buon Viaggio,19-11-1961,B.P,sì,1,,,,,,,,ERR - Bonci: non la cita.
+1646,1296,Argentina,Morón,Immacolata Concezione del Buon Viaggio,19-11-1961,B.P,sì,1,place+title,nuestra-senora-del-buen-viaje-moron,Morón,Nuestra Señora del Buen Viaje,,AAS,,ERR - Bonci: non la cita.
 1647,1314,Brasile,Ubá,Nostra Signora del Rosario,7-12-1961,B.P.,sì,1,,,,,,,,ERR - Bonci: non la cita.
 1648,1302,Argentina,Maipú,Nostra Signora della Misericordia,17-12-1961,B.P,sì,1,,,,,,,,ERR - Bonci: non la cita.
 1649,1258,Messico,Tulancingo de Bravo,Nostra Signora degli Angeli,26-1-1962,B.P.,sì,1,,,,,,,,ERR - Bonci: tralascia.
@@ -1653,7 +1653,7 @@ row,id,nation,localita,titolo,data_incoronazione,autorizza,data_verificata,incor
 1651,1660,Spagna,Tarancón,Nostra Signora di Riánsares,7-9-1962,B.P.,sì,1,,,,,,,,ERR - Bonci: tralascia.
 1652,1634,Spagna,Luna,Nostra Signora di Monlora,26-9-1962,B.P.,sì,1,,,,,,,,ERR - Bonci: tralascia.
 1653,1511,Italia,Loreto,Madonna di Loreto,4-10-1962,Capitolo,sì,3,,,,,,,,ERR - Bonci: tralascia.
-1654,1351,Uruguay,Florida,Nostra Signora dei Trentatré,12-11-1962,B.P.,sì,1,,,,,,,,ERR - Bonci: tralascia.
+1654,1351,Uruguay,Florida,Nostra Signora dei Trentatré,12-11-1962,B.P.,sì,1,place+title,la-virgen-de-los-treinta-y-tres-florida,Florida,la Virgen de los Treinta y Tres,,AAS,,ERR - Bonci: tralascia.
 1655,1658,Spagna,Garaballa,Nostra Signora di Tejeda,26-5-1963,B.P.,sì,1,,,,,,,,ERR - Bonci: tralascia.
 1656,1312,Brasile,Ouro Preto,Nostra Signora del Pilar,8-7-1963,B.P.,sì,1,,,,,,,,ERR - Bonci: tralascia.
 1657,1697,Spagna,A Cañiza,Nostra Signora de la Franqueira,21-7-1963,B.P.,sì,1,,,,,,,,ERR - Bonci: data l'incoronazione 18 maggio 1958 e la colloca a Tuy.

@@ -217,11 +217,12 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## France
 
-*24 images*
+*25 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
 | Notre-Dame d'Arcachon | Arcachon, Bordeaux | 1870 | retro | [AAS 45 (1953), p. 714](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *retro* | ●●● |
+| Sainte-Anne d'Auray | Auray (Sainte-Anne-d'Auray), Vannes |  | retro | [AAS 16 (1924), p. 284](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
 | Notre Dame Du Guet, Reine De La Paix | Bar-le-Duc | 1920-07-04 | chapter | Zander/Magister 2011, cat. 76, p. 200 *chapter* | ●●○ |
 | Notre-Dame d'Esperance | Briconium (Saint-Brieuc), Brittany | 1865 | retro | [ASS 36 (1903), p. 400](https://www.vatican.va/archive/ass/documents/ASS-36-1903-4-ocr.pdf) *retro* | ●●○ |
 | Notre-Dame du Beau Rameau | Bétharram, Bayonne | 1912 | act | [AAS 4 (1912), p. 490](https://www.vatican.va/archive/aas/documents/AAS-04-1912-ocr.pdf) *act* | ●●● |
@@ -231,7 +232,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Notre-Dame du Sacre-Coeur | Issoudun, Bourges | 1869 | retro | [ASS 11 (1878), p. 618](https://www.vatican.va/archive/ass/documents/ASS-11-1878-ocr.pdf) *retro*<br>[AAS 11 (1919), p. 344](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
 | Notre-Dame de la Guerche | La Guerche-de-Bretagne, Rennes | 1937 | retro | [AAS 43 (1951), p. 724](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●○ |
 | Notre-Dame de Bon Secours | Lablachère, Viviers | 1880 | retro | [AAS 23 (1931), p. 153](https://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf) *retro* | ●●● |
-| Sainte-Anne d'Auray | le Bourg de Sainte-Anne, parish of Pluneret, near Auray, Brittany, Vannes |  | retro | [ASS 9 (1876), p. 373](https://www.vatican.va/archive/ass/documents/ASS-09-1876-ocr.pdf) *retro*<br>[AAS 16 (1924), p. 284](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●● |
+| Simulacrum Virginis Mariae | le Bourg de Sainte-Anne, parish of Pluneret, near Auray, Brittany, Vannes |  | retro | [ASS 9 (1876), p. 373](https://www.vatican.va/archive/ass/documents/ASS-09-1876-ocr.pdf) *retro* | ●●○ |
 | Notre-Dame de Lourdes | Lourdes |  | retro | [AAS 75 (1983), p. 1076](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *retro* | ●○○ |
 | Notre-Dame des Miracles | Mauriac, Saint-Flour | 1855 | retro | [AAS 13 (1921), p. 493](https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf) *retro* | ●●● |
 | Notre-Dame de Sion | Mons Sion (Sion-Vaudémont), Lotharingia, Nancy-Toul | 1873 | retro | [AAS 27 (1935), p. 328](https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf) *retro* | ●●● |
@@ -766,7 +767,7 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Poland
 
-*73 images*
+*72 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
@@ -810,8 +811,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Matka Boża Kujawska (Ostrowąs) | Ostrowąs, Włocławek |  | act | [AAS 74 (1982), p. 679](https://www.vatican.va/archive/aas/documents/AAS-74-1982-ocr.pdf) *act* | ●●● |
 | Imago B. M. V. Ostrozanensis | Ostrożany, Pinsk (Polish part, administered from Drohiczyn) |  | act | [AAS 79 (1987), p. 13](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *act* | ●●○ |
 | Matka Boża Pocieszenia | Pasierbiec, Tarnów |  | act | [AAS 85 (1993), p. 20](https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf) *act* | ●●● |
-| Matka Boża Piekarska | Piekary Śląskie |  | retro | [AAS 111 (2019), p. 1342](https://www.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf) *retro* | ●○○ |
-| mirifica Beatissimae Mariae Virginis imago | Piekary, Silesia, Katowice |  | retro | [AAS 55 (1963), p. 225](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
+| Matka Boża Piekarska | Piekary Śląskie, Katowice |  | retro | [AAS 55 (1963), p. 225](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro*<br>[AAS 111 (2019), p. 1342](https://www.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf) *retro* | ●●○ |
 | Matka Boża Mirowska | Pińczów, Kielce |  | act | [AAS 83 (1991), p. 1018](https://www.vatican.va/archive/aas/documents/AAS-83-1991-ocr.pdf) *act* | ●●● |
 | Matka Boża of Płoki | Ploki, Kraków |  | act | [AAS 74 (1982), p. 764](https://www.vatican.va/archive/aas/documents/AAS-74-1982-ocr.pdf) *act* | ●●● |
 | Matka Boża Tęskniąca (Matka Boza Teskniaca), Powsin | Powsin (Warszawa) |  | act | [AAS 90 (1998), p. 251](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *act* | ●●● |

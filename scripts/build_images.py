@@ -12,7 +12,7 @@ STOP=set('''nuestra senora nossa senhora notre dame madonna matka boza bozej pan
 mariam marii virgo virgen vergine virginis virgin imago imaginem imagen simulacrum simulacro effigies effigie
 statua statue icon iconem sacra sacrae sacro sacrum santa sancta sanctae santo san sao our lady domina dominae
 nostra nostrae della delle del dei los las sub titulo vulgo appellata appellatae invocatae dicta dictae
-deipara deiparae genetricis the and que pie colitur servatur templo ecclesia templi loco urbe oppido dioecesis
+deipara deiparae genetricis the and que pie colitur servatur templo ecclesia templi loco urbe urbis oppido dioecesis built
 archidioecesis fines intra quae cum divino puero iesu christi mater matris madre nuncupata nuncupatae
 antiqua antiquum vetus vetusta miraculis clara insignis titulus
 bambino gesu puero pueri iesu child figlio divin vergine santissima ssma sma miracolosa effigie vera suo sua detta holy swieta
@@ -25,7 +25,7 @@ chiesa nella nelle receipt imagines jesu roma rome esistente chiesa ordine congr
 # Latin/vernacular DESCRIPTIVE adjectives. These praise an image, they do not identify it, and if
 # left in they block real merges: Notre-Dame du Cap reduced to {rosario} in one act and
 # {perinsigne} in another, so two records for one shrine survived side by side.
-perinsigne perinsignis insigne insignem praeclara praeclarum praeclarus veneranda venerandum
+perinsigne perinsignis mirifica mirificam insigne insignem praeclara praeclarum praeclarus veneranda venerandum
 venerabilis veneratio venerata miraculosa miraculoso thaumaturga thaumaturgum prodigiosa prodigioso
 antiquissima antiquissimum celeberrima celeberrimum celebris augustum augusta augustae pretiosa
 pretiosum sacratissima sacratissimum sanctissima sanctissimum mirabilis admirabilis egregia egregium
@@ -132,6 +132,7 @@ SYN={ # cross-language equivalents of the commonest Marian titles, mapped to one
 TITLE_STOP=ECCL_STOP|{'cattedrale','catedrale','collegiata','metropolitana','monastero','oratorio','eremo','ritiro',
  'monache','chierici','regolari','teatini','carmelitani','cappucini','cappuccini','benedettini','domenicani',
  'camaldolesi','camandolesi','basiliani','premostratensi','bernabiti','riformati','osservanti','minori','parrochiale',
+ 'benedictine','coenobium','coenobio','monasterium','monasterii','territoriale','territorial',
  'citta','regno','diocesi','provincia','vicino','fuori','presso','dentro','sopra','sulla','sul','incontro','detta',
  'della','delle','degli','alla','alle','nella','nell','stanze','cappella','portico','congregazione','madre','madri',
  'chapel','shrine','sanctuary','cathedral','collegiate','monastery','convent','church','abbey','abbazia','parish',
@@ -161,8 +162,9 @@ for r in R:
 def subj(x):
     s=norm(x.get('image_subject'))
     if not s: return None
-    if 'virgin' in s or 'mary' in s or 'maria' in s: return 'bvm'
-    for k in ('joseph','sacred heart','cord','infant','nino','family','famili','crucifi','christ','anne','nichol'):
+    # 'other (St Anne, mother of the Blessed Virgin Mary)' names Mary without being her
+    if ('virgin' in s or 'mary' in s or 'maria' in s) and not s.startswith(('other','saint','st ','st.','sant')): return 'bvm'
+    for k in ('joseph','sacred heart','cord','infant','nino','family','famili','crucifi','christ','anne','anna','nichol'):
         if k in s: return k
     return s[:12]
 def subj_ok(g,r):
@@ -331,7 +333,10 @@ def best(g,f):
     vals=[x.get(f) for x in own if x.get(f)]
     if not vals: return None
     c=collections.Counter(vals)
-    return sorted(vals,key=lambda v:(c[v],len(str(v))),reverse=True)[0]
+    # on a tie a title that is nothing but praise ('mirifica Beatissimae Mariae Virginis imago') loses
+    # to one with an identifying word ('Antiquissima imago mariana loci Piekary'); then the longer wins
+    ident=(lambda v:any(t not in TITLE_STOP for t in toks(v))) if f.startswith('image_title') else (lambda v:0)
+    return sorted(vals,key=lambda v:(c[v],ident(v),len(str(v))),reverse=True)[0]
 def slug(s,n=48):
     s=re.sub(r'[^a-z0-9]+','-',norm(s)).strip('-')
     return s[:n].rstrip('-') or 'image'
