@@ -10,8 +10,9 @@ cc. — and often the Fabbrica's own *catalogo delle immagini* (AFSP, Arm. 12, F
 Seven further images in the Vatican Basilica itself are treated in an essay (pp. 24-36).
 
 Input : data/zander-magister-2011-extraction.json — the entry headers and sources blocks parsed
-        from the PDF text layer (title, location line, "Crowned ..." line, sources, dates, ACSP/AFSP
-        citations), checked by hand against the printed entries.
+        from the PDF text layer (title, location line, "Crowned ..." line, sources block, dates),
+        checked by hand against the printed entries. The ACSP and AFSP citations are re-parsed
+        here from the sources block, cut at the end of the folio list.
 Output: data/zander-magister-2011-catalogue.json
 
 The locality/church/country for each entry is set here by hand from the location line, so that the
@@ -117,6 +118,20 @@ L={
 # Chełm: keep the earlier alternative as the date, note the other
 DATE_OVERRIDE={84:['1765-09-15'],12:['1890'],9:['1790-09-14','1814-09-14'],61:['1948-09-04','1998-09-04']}
 
+import re
+FOLIOS=re.compile(r'^(\d+(?: \(\d\))?), (cc?\.\s*\d[0-9rv\-–, ]*\d[rv]?)')
+def acsp_refs(sources):
+    """Every 'BAV, ACSP, Madonne Coronate, Vol. N, cc. ...' in the sources block, cut at the end of the
+    folio list: the bibliography that follows it in the printed entry is not part of the citation."""
+    out=[]
+    for m in re.finditer(r'BAV, ACSP, Madonne Coronate, Vol\. (.*?)(?=BAV, ACSP|AFSP,|$)',sources or ''):
+        f=FOLIOS.match(m.group(1).strip())
+        if f: out.append(f"{f.group(1)}, {f.group(2).strip()}")
+    return out
+def afsp_refs(sources):
+    """The Fabbrica's catalogo delle immagini, cited as 'AFSP, Arm. 12, F, 11, nr. 10' (once 'no. 10')."""
+    return [m.group(1).strip() for m in re.finditer(
+        r'AFSP, Arm\. 12, F, 11, n[ro]\. 10, catalogo delle immagini, (cc?\.\s*[IVXLC]+[rv]?(?:,\s*[IVXLC]+[rv]?)*)',sources or '')]
 rows=[]
 for n in sorted(E):
     e=E[n]; loc,church,country,subject,notes=L[n]
@@ -125,7 +140,7 @@ for n in sorted(E):
       'crowned_as_given':e['crowned'],'coronation_dates':dates,
       'locality':loc,'church_or_sanctuary':church,'country':country,
       'subject':subject or 'Blessed Virgin Mary',
-      'refs':e['acsp'],'afsp_refs':e['afsp'],'sources_as_given':e['sources'],'notes':notes})
+      'refs':acsp_refs(e['sources']),'afsp_refs':afsp_refs(e['sources']),'sources_as_given':e['sources'],'notes':notes})
 
 # The seven images in the Vatican Basilica itself (essay, pp. 24-36)
 VAT=[

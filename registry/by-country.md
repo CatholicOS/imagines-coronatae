@@ -949,7 +949,7 @@ Vatican Chapter crowning later renewed by a Pope.
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
-| Matka Boża Berdyczowska (Berdychiv) | Berdyczów (Berdychiv), Zhytomyr | 1756-07-16 | chapter | Vrabelová 2013, § XXI no. 18 (§ 13.5.4) *chapter*<br>[AAS 89 (1997), p. 532](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
+| Matka Boża Berdyczowska (Berdychiv) | Berdyczów (Berdychiv), Zhytomyr | 1756-07-16 | act | Vrabelová 2013, § XXI no. 18 (§ 13.5.4) *chapter*<br>[AAS 89 (1997), p. 532](https://www.vatican.va/archive/aas/documents/AAS-89-1997-ocr.pdf) *act* | ●●● |
 | Matka Boża Bołszowiecka | Bołszowce (Bilshivtsi) | 1777-08-15 | chapter | Vrabelová 2013, § XXI no. 26 (§ 17.2) *chapter* | ●●○ |
 | Matka Boża Latyczowska | Latyczów (Letychiv) | 1778-10-04 | chapter | Vrabelová 2013, § XXI no. 28 (§ 13.5.2) *chapter* | ●●○ |
 | vetustissima Deiparae Imago | Leopolis (Lviv) | 1762 | retro | [AAS 2 (1910), p. 570](https://www.vatican.va/archive/aas/documents/AAS-02-1910-ocr.pdf) *retro* | ●●○ |

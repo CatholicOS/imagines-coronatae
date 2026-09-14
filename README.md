@@ -170,10 +170,10 @@ Every source carries a `series`: **ASS** and **AAS** (the gazettes) and **ACSP**
 dossiers) were **read at first hand** for this catalogue. **LIT** is different: it marks a coronation
 **reported by a scholarly work or a printed register** and not read here. Four works so far:
 
-| Work | Rows | What it is | Citation it carries |
+| Work | LIT records | What it is | Citation it carries |
 |---|---|---|---|
 | Vincenzo **Briccolani**, *Descrizione della sacrosanta Basilica Vaticana*, Rome 1800, pp. 144–161 | 256 | The earliest printed register: every Chapter coronation 1631–1791, year by year, Rome first and then all Italy and abroad | none — a year only; confidence `low` |
-| Pietro **Zander** and Sara **Magister**, *Full of Grace: Crowned Madonnas from the Vatican Basilica*, New Haven 2011 | 107 | Catalogue of the Fabbrica's painted copies of 89 crowned images, with the day of crowning | *BAV, ACSP, Madonne Coronate, vol., cc.* for 83 of them, and the Fabbrica's *catalogo delle immagini* (AFSP, Arm. 12, F, 11, nr. 10) |
+| Pietro **Zander** and Sara **Magister**, *Full of Grace: Crowned Madonnas from the Vatican Basilica*, New Haven 2011 | 107 (96 entries; a reported re-crowning is a second record) | Catalogue of the Fabbrica's painted copies of 89 crowned images, with the day of crowning | *BAV, ACSP, Madonne Coronate, vol., cc.* for 83 of them, and the Fabbrica's *catalogo delle immagini* (AFSP, Arm. 12, F, 11, nr. 10) |
 | Dana **Vrabelová**, *Imago gratiosa*, Prague 2013, § XXI | 30 | Thirty Chapter coronations in Central Europe, 1717–1786 | *sv., fol.* for most |
 | Nicolas **Balzamo**, « Uniformisation ou distinction ? », *RHR* 97 (2023) | 31 | Roman and Italian coronations 1631–1798 named in the text | *volume, folio* where given; town-and-year lists without |
 
