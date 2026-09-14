@@ -7,7 +7,7 @@
       "AAS": "https://www.vatican.va/archive/aas/index_sp.htm"
     },
     "generated": "2026-09-14",
-    "record_count": 671,
+    "record_count": 670,
     "layer": "attestations — one record per ACT that attests a crowning; see imagines-coronatae.json for one record per IMAGE",
     "coverage": {
       "series": [
@@ -44,11 +44,11 @@
       "Several ASS volumes span two calendar years; `year` is the first year of the volume."
     ],
     "statistics": {
-      "images": 671,
+      "images": 670,
       "source_records": 939,
       "by_country": {
         "Italy": 387,
-        "Poland": 73,
+        "Poland": 72,
         "Spain": 31,
         "France": 24,
         "Mexico": 23,
@@ -92,7 +92,7 @@
         "Vatican City": 1
       },
       "by_strongest_evidence": {
-        "retrospective_attestation": 163,
+        "retrospective_attestation": 162,
         "papal_coronation_act": 100,
         "chapter_decree": 363,
         "papal_legate_deputation": 15,
@@ -103,9 +103,9 @@
       "by_confidence": {
         "high": 235,
         "medium": 216,
-        "low": 220
+        "low": 219
       },
-      "multi_source_images": 194
+      "multi_source_images": 195
     },
     "license": "Underlying ASS and AAS texts are © Libreria Editrice Vaticana. This compilation is provided for research use.",
     "structure": "One record per CROWNED IMAGE. Every ASS/AAS act that attests it is kept in that image’s `sources` array, so an image cited in several volumes is ONE record with several sources, not several records. Images are identified by locality first, since Marian titles repeat worldwide; a distinctive title can also unite an image crowned away from its shrine."
@@ -2241,7 +2241,7 @@
     {
       "id": "notre-dame-du-cap-cap-de-la-madeleine",
       "image_title_vernacular": "Notre-Dame du Cap",
-      "image_title_latin": "perinsigne Virginis simulacrum, Nostrae Dominae de Cap",
+      "image_title_latin": "Simulacrum Beatae Mariae Virginis a Rosario",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Sanctuarium/ecclesia « Notre-Dame-du-Cap » apud oppidum « Cap-de-la-Madeleine »",
       "locality": "Cap-de-la-Madeleine",
@@ -5512,7 +5512,7 @@
     {
       "id": "sainte-anne-d-auray-le-bourg-de-sainte-anne-pari",
       "image_title_vernacular": "Sainte-Anne d'Auray",
-      "image_title_latin": "Simulacrum Virginis Mariae",
+      "image_title_latin": "Statua Sanctae Annae",
       "image_subject": "other (St Anne, mother of the Blessed Virgin Mary)",
       "church_or_sanctuary": "Sanctuarium S. Annae (later raised to Basilica Minor)",
       "locality": "le Bourg de Sainte-Anne, parish of Pluneret, near Auray, Brittany",
@@ -37600,59 +37600,8 @@
       "image_title_vernacular": "Matka Boża Piekarska",
       "image_title_latin": "Antiquissima imago mariana loci Piekary",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
-      "locality": "Piekary Śląskie",
-      "diocese_latin": null,
-      "diocese_modern": null,
-      "country": "Poland",
-      "coronation_dates": [],
-      "first_coronation": null,
-      "strongest_evidence": "retrospective_attestation",
-      "evidence_types": [
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Franciscus PP."
-      ],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "AAS",
-          "volume": 111,
-          "year": 2019,
-          "page": 1342,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 111 (2019), p. 1342",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf",
-          "act_number": null,
-          "act_type": "Decretum super virtutibus (Congregatio de Causis Sanctorum)",
-          "pope": "Franciscus PP.",
-          "evidence_type": "retrospective_attestation",
-          "act_date": null,
-          "concession_date": null,
-          "coronation_date": null,
-          "legate": null,
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "VARSAVIENSIS. Beatificationis et Canonizationis Servi Dei Augusti Iosephi Hlond, e Societate S. Francisci Salesii, S.R.E. Cardinalis Archiepiscopi Gnesnensis et Varsaviensis ac Fundatoris Societatis Christi pro Emigrantibus Polonis (1881-1948). DECRETUM SUPER VIRTUTIBUS",
-          "incipit_latin": "Antiquissimam imaginem marianam, per saecula veneratam in loco Piekary in Alta Silesia, coronavit.",
-          "confidence": "low",
-          "notes": "WEAK / needs human check. Decree on the heroic virtues of August Hlond states that he crowned the ancient Marian image at Piekary in Upper Silesia while Apostolic Administrator. The decree opens on printed p. 1342; the coronation clause falls on p. 1343 — aas_page is the act's start page as instructed. Papal authority for the crowning is NOT stated in the passage, and no date is given (the decree's own Datum is not in the retrieved excerpt). Vernacular title and country are supplied from context ('in Polonia', Alta Silesia).",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "mirifica-beatissimae-mariae-virginis-imago-pieka",
-      "image_title_vernacular": null,
-      "image_title_latin": "mirifica Beatissimae Mariae Virginis imago",
-      "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "ecclesia paroecialis urbis Piekary (built 1846)",
-      "locality": "Piekary, Silesia",
+      "locality": "Piekary Śląskie",
       "diocese_latin": "Katovicensis",
       "diocese_modern": "Katowice",
       "country": "Poland",
@@ -37663,11 +37612,12 @@
         "retrospective_attestation"
       ],
       "popes": [
+        "Franciscus PP.",
         "Ioannes PP. XXIII"
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "AAS",
@@ -37692,7 +37642,33 @@
           "rubric_latin": "Ecclesia paroecialis urbis v. d. « Piekary » ad dignitatem Basilicae Minoris evehitur.",
           "incipit_latin": "Augustissimis Poloniae templis iure meritoque videtur esse accensenda ecclesia paroecialis, quae in urbe v. Piekary, intra Silesiae fines, exsurgit",
           "confidence": "medium",
-          "notes": "Basilica Minor elevation stating 'Nostra demum aetate, Pii Pp. XI permissu ... imago, quam diximus, aureo diademate est redimita'. No year given; only that it was by permission of Pius XI (1922-1939). The act also recalls King John Sobieski praying before the image on his way to Vienna.",
+          "notes": "Basilica Minor elevation stating 'Nostra demum aetate, Pii Pp. XI permissu ... imago, quam diximus, aureo diademate est redimita'. No year given; only that it was by permission of Pius XI (1922-1939). The act also recalls King John Sobieski praying before the image on his way to Vienna. The crowning is dated by Basilici–Bigliazzi 2025 (scheda 1121, following Anselmo 1933, who for post-1905 crownings worked from the Chapter's registers) to 15 August 1925: by papal brief, with crowns given and blessed by Pius XI, the rite performed by the Apostolic Nuncio Lorenzo Lauri; Anselmo has 21 December 1924 (the brief?) and 'solen. 6-I-925'. They record no other crowning at Piekary. This is the one event that AAS 55 (1963), 225 and AAS 111 (2019), 1343 both recite, so the two acts are held to one image (issue #1); the date is not entered in coronation_date because neither act states it and Basilici–Bigliazzi is not read as a source.",
+          "parent_act": null
+        },
+        {
+          "series": "AAS",
+          "volume": 111,
+          "year": 2019,
+          "page": 1342,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 111 (2019), p. 1342",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf",
+          "act_number": null,
+          "act_type": "Decretum super virtutibus (Congregatio de Causis Sanctorum)",
+          "pope": "Franciscus PP.",
+          "evidence_type": "retrospective_attestation",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "VARSAVIENSIS. Beatificationis et Canonizationis Servi Dei Augusti Iosephi Hlond, e Societate S. Francisci Salesii, S.R.E. Cardinalis Archiepiscopi Gnesnensis et Varsaviensis ac Fundatoris Societatis Christi pro Emigrantibus Polonis (1881-1948). DECRETUM SUPER VIRTUTIBUS",
+          "incipit_latin": "Antiquissimam imaginem marianam, per saecula veneratam in loco Piekary in Alta Silesia, coronavit.",
+          "confidence": "low",
+          "notes": "WEAK / needs human check. Decree on the heroic virtues of August Hlond states that he crowned the ancient Marian image at Piekary in Upper Silesia while Apostolic Administrator. The decree opens on printed p. 1342; the coronation clause falls on p. 1343 — aas_page is the act's start page as instructed. Papal authority for the crowning is NOT stated in the passage, and no date is given (the decree's own Datum is not in the retrieved excerpt). Vernacular title and country are supplied from context ('in Polonia', Alta Silesia). The crowning is dated by Basilici–Bigliazzi 2025 (scheda 1121, following Anselmo 1933, who for post-1905 crownings worked from the Chapter's registers) to 15 August 1925: by papal brief, with crowns given and blessed by Pius XI, the rite performed by the Apostolic Nuncio Lorenzo Lauri; Anselmo has 21 December 1924 (the brief?) and 'solen. 6-I-925'. They record no other crowning at Piekary. This is the one event that AAS 55 (1963), 225 and AAS 111 (2019), 1343 both recite, so the two acts are held to one image (issue #1); the date is not entered in coronation_date because neither act states it and Basilici–Bigliazzi is not read as a source.",
           "parent_act": null
         }
       ]

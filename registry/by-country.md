@@ -3,7 +3,7 @@
 
 # Registry of crowned images — by country
 
-**671 images** · 43 countries · 939 source citations · generated 2026-09-14
+**670 images** · 43 countries · 939 source citations · generated 2026-09-14
 
 Each row is **one crowned image**. The *Sources* column lists every act in
 *Acta Sanctae Sedis* (ASS, 1865–1908) or *Acta Apostolicae Sedis* (AAS, 1909– ) that attests it,
@@ -766,7 +766,7 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Poland
 
-*73 images*
+*72 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
@@ -810,8 +810,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Matka Boża Kujawska (Ostrowąs) | Ostrowąs, Włocławek |  | act | [AAS 74 (1982), p. 679](https://www.vatican.va/archive/aas/documents/AAS-74-1982-ocr.pdf) *act* | ●●● |
 | Imago B. M. V. Ostrozanensis | Ostrożany, Pinsk (Polish part, administered from Drohiczyn) |  | act | [AAS 79 (1987), p. 13](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *act* | ●●○ |
 | Matka Boża Pocieszenia | Pasierbiec, Tarnów |  | act | [AAS 85 (1993), p. 20](https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf) *act* | ●●● |
-| Matka Boża Piekarska | Piekary Śląskie |  | retro | [AAS 111 (2019), p. 1342](https://www.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf) *retro* | ●○○ |
-| mirifica Beatissimae Mariae Virginis imago | Piekary, Silesia, Katowice |  | retro | [AAS 55 (1963), p. 225](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
+| Matka Boża Piekarska | Piekary Śląskie, Katowice |  | retro | [AAS 55 (1963), p. 225](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro*<br>[AAS 111 (2019), p. 1342](https://www.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf) *retro* | ●●○ |
 | Matka Boża Mirowska | Pińczów, Kielce |  | act | [AAS 83 (1991), p. 1018](https://www.vatican.va/archive/aas/documents/AAS-83-1991-ocr.pdf) *act* | ●●● |
 | Matka Boża of Płoki | Ploki, Kraków |  | act | [AAS 74 (1982), p. 764](https://www.vatican.va/archive/aas/documents/AAS-74-1982-ocr.pdf) *act* | ●●● |
 | Matka Boża Tęskniąca (Matka Boza Teskniaca), Powsin | Powsin (Warszawa) |  | act | [AAS 90 (1998), p. 251](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *act* | ●●● |

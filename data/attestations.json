@@ -6093,7 +6093,7 @@
       "image_title_vernacular": null,
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "ecclesia paroecialis urbis Piekary (built 1846)",
-      "locality": "Piekary, Silesia",
+      "locality": "Piekary Śląskie",
       "diocese_latin": "Katovicensis",
       "diocese_modern": "Katowice",
       "country": "Poland",
@@ -6101,7 +6101,7 @@
       "coronation_date": null,
       "legate": null,
       "confidence": "medium",
-      "notes": "Basilica Minor elevation stating 'Nostra demum aetate, Pii Pp. XI permissu ... imago, quam diximus, aureo diademate est redimita'. No year given; only that it was by permission of Pius XI (1922-1939). The act also recalls King John Sobieski praying before the image on his way to Vienna."
+      "notes": "Basilica Minor elevation stating 'Nostra demum aetate, Pii Pp. XI permissu ... imago, quam diximus, aureo diademate est redimita'. No year given; only that it was by permission of Pius XI (1922-1939). The act also recalls King John Sobieski praying before the image on his way to Vienna. The crowning is dated by Basilici–Bigliazzi 2025 (scheda 1121, following Anselmo 1933, who for post-1905 crownings worked from the Chapter's registers) to 15 August 1925: by papal brief, with crowns given and blessed by Pius XI, the rite performed by the Apostolic Nuncio Lorenzo Lauri; Anselmo has 21 December 1924 (the brief?) and 'solen. 6-I-925'. They record no other crowning at Piekary. This is the one event that AAS 55 (1963), 225 and AAS 111 (2019), 1343 both recite, so the two acts are held to one image (issue #1); the date is not entered in coronation_date because neither act states it and Basilici–Bigliazzi is not read as a source."
     },
     {
       "series": "AAS",
@@ -10934,7 +10934,7 @@
       "coronation_date": null,
       "legate": null,
       "confidence": "low",
-      "notes": "WEAK / needs human check. Decree on the heroic virtues of August Hlond states that he crowned the ancient Marian image at Piekary in Upper Silesia while Apostolic Administrator. The decree opens on printed p. 1342; the coronation clause falls on p. 1343 — aas_page is the act's start page as instructed. Papal authority for the crowning is NOT stated in the passage, and no date is given (the decree's own Datum is not in the retrieved excerpt). Vernacular title and country are supplied from context ('in Polonia', Alta Silesia)."
+      "notes": "WEAK / needs human check. Decree on the heroic virtues of August Hlond states that he crowned the ancient Marian image at Piekary in Upper Silesia while Apostolic Administrator. The decree opens on printed p. 1342; the coronation clause falls on p. 1343 — aas_page is the act's start page as instructed. Papal authority for the crowning is NOT stated in the passage, and no date is given (the decree's own Datum is not in the retrieved excerpt). Vernacular title and country are supplied from context ('in Polonia', Alta Silesia). The crowning is dated by Basilici–Bigliazzi 2025 (scheda 1121, following Anselmo 1933, who for post-1905 crownings worked from the Chapter's registers) to 15 August 1925: by papal brief, with crowns given and blessed by Pius XI, the rite performed by the Apostolic Nuncio Lorenzo Lauri; Anselmo has 21 December 1924 (the brief?) and 'solen. 6-I-925'. They record no other crowning at Piekary. This is the one event that AAS 55 (1963), 225 and AAS 111 (2019), 1343 both recite, so the two acts are held to one image (issue #1); the date is not entered in coronation_date because neither act states it and Basilici–Bigliazzi is not read as a source."
     }
   ]
 }

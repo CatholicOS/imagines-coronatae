@@ -27,7 +27,7 @@ Balzamo's of Italy (2023).
 
 ## What is in it
 
-**671 crowned images** in **43 countries**, documented by **939 source citations**:
+**670 crowned images** in **43 countries**, documented by **939 source citations**:
 400 from **147,576 pages** of the two gazettes (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026);
 34 from the **713 transcribed folios** of *Madonne coronate* IV — the Chapter's dossiers for
 34 images crowned between 1689 and 1716, only three of which the gazettes ever mention; and
@@ -38,7 +38,7 @@ separate crowns for the Child), 107 from the Zander/Magister catalogue of 2011 (
 and folios of the dossier), 30 from Vrabelová 2013 on Central Europe 1717–1786 and 31 from Balzamo
 2023 on Italy and Rome 1631–1798.
 
-194 images are attested by more than one source — the most-cited is Our Lady of Guadalupe, with
+195 images are attested by more than one source — the most-cited is Our Lady of Guadalupe, with
 eight. Crownings run from **1500 to 2005**, far earlier than the gazettes themselves, because a
 later act often recites when an image was first crowned. 304 images rest on secondary literature
 alone; 115 of them on Briccolani's bare year and nothing else, and 63 more on Briccolani's year and
@@ -49,7 +49,7 @@ By strongest evidence available for each image:
 | Type | Images |
 |---|---|
 | `chapter_decree` | 363 |
-| `retrospective_attestation` | 163 |
+| `retrospective_attestation` | 162 |
 | `papal_coronation_act` | 100 |
 | `papal_personal_coronation` | 27 |
 | `papal_legate_deputation` | 15 |
@@ -73,7 +73,7 @@ Most-represented countries:
 | Brazil | 6 |
 | Malta | 6 |
 
-Confidence: 235 high, 216 medium, 220 low.
+Confidence: 235 high, 216 medium, 219 low.
 `medium` usually means either that the country was inferred from the Latin name of the diocese
 rather than stated outright (every such case says so in the source's `notes`), or that the only
 source is a secondary work citing the dossier by folio; `low` is almost always a register that
@@ -85,7 +85,7 @@ An image crowned once may be mentioned in a dozen later acts. **Nossa Senhora da
 Aparecida** is recited in AAS 23 (1931), AAS 46 (1954) and AAS 59 (1967) — that is one image with
 three sources, not three crowned images. So each record here is an **image**, and every act
 attesting it is kept in that record's `sources` array. Nothing is discarded by consolidation:
-939 source citations sit inside 671 image records, and `data/attestations.json`,
+939 source citations sit inside 670 image records, and `data/attestations.json`,
 `data/attestations-acsp.json` and `data/attestations-lit.json` still hold the flat record-level
 layers if you want them.
 
@@ -166,12 +166,15 @@ the Loreto statue in 1500 (Balzamo) and the 1922 crowning at Loreto are now two 
 of 1922 crown a *nova Virginis effigies*, the statue that replaced the one burned in 1921.
 
 Residual duplicates are possible where a source names no locality at all, or where two acts
-describe one image in words too different to match. One such pair is left open deliberately:
+describe one image in words too different to match. One such pair was left open for a while:
 **Piekary Śląskie** ([issue #1](https://github.com/CatholicOS/imagines-coronatae/issues/1)), where
 AAS 55 (1963), 225 records a crowning *Pii Pp. XI permissu* and AAS 111 (2019), 1343 records August
-Hlond crowning the Piekary image as Apostolic Administrator — almost certainly the same event, but
-neither act gives a date or names the other, so the merge would be inference rather than evidence.
-It waits on the Chapter archives.
+Hlond crowning the Piekary image as Apostolic Administrator, neither act giving a date or naming
+the other. Basilici–Bigliazzi (after Anselmo 1933) record exactly one crowning at Piekary, on 15
+August 1925 by papal brief, with Pius XI's crowns and the Nuncio Lorenzo Lauri officiating — inside
+both acts' windows — so the two are now held to be one image, with that date in the acts' `notes`
+rather than in `coronation_dates`, since neither act states it. The word that had kept them apart,
+*mirifica*, was praise leaking into a title, and is now on the descriptive stop-list.
 
 ## Primary and secondary sources are kept apart
 
@@ -191,8 +194,8 @@ A fifth work is kept outside the catalogue altogether. Massimo Basilici and Rita
 *Le Madonne Coronate* (2025) and its database of **1,737 crownings 1631–1981** is the fullest list
 there is, but it is compiled from Anselmo da Reno Centese's 1933 catalogue and the internet rather
 than from the archive, so it is used as a yardstick: [`docs/CROSSMATCH-BASILICI.md`](docs/CROSSMATCH-BASILICI.md)
-matches it against the catalogue in both directions — 469 of their schede correspond to an image
-here, 979 verified crownings (almost all after 1800) do not, and 256 images here (the gazettes'
+matches it against the catalogue in both directions — 474 of their schede correspond to an image
+here, 974 verified crownings (almost all after 1800) do not, and 250 images here (the gazettes'
 papal acts, above all) are not in their list.
 
 Each row is cited to *BAV, ACSP, Madonne coronate, volume, folio* where the author gives one, and

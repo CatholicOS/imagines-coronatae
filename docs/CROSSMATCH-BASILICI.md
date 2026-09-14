@@ -25,33 +25,33 @@ own matching. The rule is deliberately no fuzzier than that.
 | | schede |
 |---|---|
 | in the database | 1,737 |
-| matched to a catalogue image | 469 (27%) |
+| matched to a catalogue image | 474 (27%) |
 | — on title and year | 302 |
-| — on title only | 68 |
+| — on title only | 73 |
 | — on year only | 99 |
-| not in the catalogue | 1,268 (73%) |
-| — of which they mark *verificata: sì* and a real crowning (1st/2nd) | 979 |
+| not in the catalogue | 1,263 (73%) |
+| — of which they mark *verificata: sì* and a real crowning (1st/2nd) | 974 |
 
-Of the 469 matches, the year agrees exactly in 380, is one off in 21,
-differs in 50, and cannot be compared in 18.
+Of the 474 matches, the year agrees exactly in 380, is one off in 21,
+differs in 50, and cannot be compared in 23.
 
 ### Gaps in the catalogue: crownings they record that this catalogue lacks
 
-979 schede that they mark as verified crownings have no counterpart here. By period, authority and country:
+974 schede that they mark as verified crownings have no counterpart here. By period, authority and country:
 
 | Century | Schede |
 |---|---|
 | 1600s | 4 |
 | 1700s | 39 |
 | 1800s | 227 |
-| 1900s | 709 |
+| 1900s | 704 |
 
 | Authority (their `Autorizza`) | Schede |
 |---|---|
-| Capitolo | 568 |
-| B.P. | 371 |
+| Capitolo | 565 |
+| B.P. | 370 |
 | # | 9 |
-| B.P | 9 |
+| B.P | 8 |
 | Papa Pio VII | 6 |
 | Pio VII | 4 |
 | Papa Pio IX | 3 |
@@ -64,14 +64,14 @@ differs in 50, and cannot be compared in 18.
 
 | Country | Schede |
 |---|---|
-| Italia | 434 |
-| Spagna | 178 |
+| Italia | 433 |
+| Spagna | 177 |
 | Francia | 108 |
-| Messico | 51 |
+| Messico | 50 |
 | Polonia | 23 |
 | Belgio | 23 |
-| Argentina | 18 |
 | Filippine | 18 |
+| Argentina | 17 |
 | Perù | 12 |
 | Malta | 10 |
 | Ucraina | 9 |
@@ -98,19 +98,19 @@ Popolo 1770, Paternopoli 1774, Cesena 1782 (by Pius VI), Roccadaspide 1786, Sina
 Catanzaro 1797, and a few Roman and Neapolitan images (Costantinopoli 1651, Gioie 1679, Naples'
 Grazie 1726 and Addolorata 1761). After 1800 the
 catalogue has only what a gazette or Zander/Magister happened to record, and that is what the
-other 936 rows are: the Chapter's Italian coronations of the nineteenth century and the
+other 931 rows are: the Chapter's Italian coronations of the nineteenth century and the
 Chapter and papal-brief coronations of 1900–1981 in Italy, Spain, France and Latin America — the
 volumes 12–36 of *Madonne coronate* and the *Madonne incoronate* of the Archivio Capitolare, seen
 through Anselmo's 1933 list and its continuators.
 
 ### Gaps in the database: images here that they do not record
 
-256 of the catalogue's 671 images found no scheda. By evidence and by the series that attest them:
+250 of the catalogue's 670 images found no scheda. By evidence and by the series that attest them:
 
 | Strongest evidence | Images |
 |---|---|
-| `papal_coronation_act` | 92 |
-| `retrospective_attestation` | 74 |
+| `papal_coronation_act` | 91 |
+| `retrospective_attestation` | 69 |
 | `chapter_decree` | 57 |
 | `papal_personal_coronation` | 24 |
 | `papal_legate_deputation` | 7 |
@@ -118,7 +118,7 @@ through Anselmo's 1933 list and its continuators.
 
 | Series | Images |
 |---|---|
-| AAS | 192 |
+| AAS | 186 |
 | LIT | 45 |
 | AAS+LIT | 6 |
 | ACSP | 5 |
@@ -129,10 +129,10 @@ through Anselmo's 1933 list and its continuators.
 
 | Country | Images |
 |---|---|
-| Italy | 78 |
-| Poland | 64 |
-| Mexico | 17 |
-| Spain | 16 |
+| Italy | 77 |
+| Poland | 63 |
+| Mexico | 16 |
+| Spain | 15 |
 | Colombia | 8 |
 | Philippines | 7 |
 | Ukraine | 6 |
@@ -140,11 +140,11 @@ through Anselmo's 1933 list and its continuators.
 | None | 5 |
 | Belgium | 4 |
 | Peru | 4 |
-| Argentina | 3 |
+| Belarus | 3 |
 
 Two kinds of image sit here. First, and most of them, the **papal crownings the gazettes record**
-— 197 images attested only by ASS/AAS: a Legate's coronation in Colombia or the Philippines, the
-*Litterae Apostolicae* of the 1980s and 1990s (they stop at 1981), and the 64 Polish images most of
+— 191 images attested only by ASS/AAS: a Legate's coronation in Colombia or the Philippines, the
+*Litterae Apostolicae* of the 1980s and 1990s (they stop at 1981), and the 63 Polish images most of
 which John Paul II crowned. Their database follows the Chapter and Anselmo, and the papal acts of
 the gazettes are largely outside it — which is the catalogue's own contribution. Second, a few
 dozen images from the literature layer — Briccolani's Roman entries that their Rome schede name by
@@ -216,7 +216,7 @@ Read down the list and three things separate out.
 
 ## How to use this
 
-- To **extend the catalogue**, the 979 unmatched verified schede are the work-list: each names
+- To **extend the catalogue**, the 974 unmatched verified schede are the work-list: each names
   a locality, a church and a year, which is enough to find the dossier in the right volume of
   *Madonne coronate* (Zander/Magister's citations give the volume for each decade) and, for 1865
   onwards, to search the gazettes for a retrospective mention.

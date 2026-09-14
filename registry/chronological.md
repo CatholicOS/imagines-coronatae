@@ -3,7 +3,7 @@
 
 # Registry of crowned images — chronological
 
-**671 images** · 939 source citations · generated 2026-09-14
+**670 images** · 939 source citations · generated 2026-09-14
 
 Ordered by the date the image was crowned where a source gives it, otherwise by the earliest act attesting it.
 
@@ -738,7 +738,7 @@ Vatican Chapter crowning later renewed by a Pope.
 |  | Beata Maria Virgo « de Lluch » | Lluc, Mallorca (Majorca) | Spain | retro | [AAS 55 (1963), p. 323](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
 |  | la Virgen de los Treinta y Tres | Florida | Uruguay | retro | [AAS 55 (1963), p. 946](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro*<br>[AAS 55 (1963), p. 956](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●● |
 |  | Madonna di Conadomini (Madonna del Monte) | Caltagirone | Italy | retro | [AAS 55 (1963), p. 911](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
-|  | mirifica Beatissimae Mariae Virginis imago | Piekary, Silesia, Katowice | Poland | retro | [AAS 55 (1963), p. 225](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
+|  | Matka Boża Piekarska | Piekary Śląskie, Katowice | Poland | retro | [AAS 55 (1963), p. 225](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro*<br>[AAS 111 (2019), p. 1342](https://www.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf) *retro* | ●●○ |
 |  | Nuestra Señora del Buen Viaje | Morón | Argentina | retro | [AAS 55 (1963), p. 442](https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf) *retro* | ●●○ |
 |  | vetus nobilisque imago Beatae Mariae Virginis, quae est « decor Carmeli » | Mariana (Minas Gerais) | Brazil | retro | [AAS 56 (1964), p. 516](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro* | ●●○ |
 | 1964-05-31 | Nuestra Señora de la Esperanza (Esperanza de Triana) | Seville (Hispalis) | Spain | act | [AAS 56 (1964), p. 598](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro*<br>[AAS 75 (1983), p. 607](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *act* | ●●● |
@@ -880,12 +880,6 @@ Vatican Chapter crowning later renewed by a Pope.
 |---|---|---|---|---|---|---|
 | 2000-09-20 | Maria Santissima della Neve del Monte Sirino | Lagonegro | Italy | by pope | [AAS 92 (2000), p. 848](https://www.vatican.va/archive/aas/documents/AAS-92-2000-ocr.pdf) *by pope* | ●●○ |
 | 2005-04-02 | Nostra Signora di Częstochowa (copy) | Rome, Vatican Grottoes (Chapel of the Polish Nation) | Italy | chapter | Zander/Magister 2011, cat. V7, p. 35 *chapter* | ●○○ |
-
-## 2010s
-
-| Crowned | Image | Place | Country | Evidence | Sources | Conf. |
-|---|---|---|---|---|---|---|
-|  | Matka Boża Piekarska | Piekary Śląskie | Poland | retro | [AAS 111 (2019), p. 1342](https://www.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf) *retro* | ●○○ |
 
 ## Undated
 
