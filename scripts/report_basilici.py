@@ -71,8 +71,8 @@ where known, the authorising body (`Autorizza`: the Chapter, a papal brief, Coun
 a verdict (`Data verificata: sì/no`) on whether they found evidence that the crowning really took
 place under that authority. By their own account the list was built from Anselmo da Reno Centese's
 catalogue of 1933, the printed repertories (Briccolani, Bonci) and the internet, with the archive
-consulted for particular cases; so it is a **secondary compilation citing no folio**, and every row
-of it enters the catalogue as series `LIT`, confidence `low`, with their authority, officiant,
+consulted for particular cases; so it is a **secondary compilation citing no folio**, and the rows
+taken from it enter the catalogue as series `LIT`, confidence `low`, with their authority, officiant,
 decree date and notes carried in the source's `notes`.
 
 ## What was taken
@@ -98,14 +98,15 @@ and which are linked to their image by `parent_act` and not counted as re-crowni
 
 ## What they add
 
-{len(bb_only):,} images rest on their database alone. By century, authority and country:
+{len(bb_only):,} images rest on their database alone ({len(alone):,} schede, an image crowned more than
+once having a scheda per crowning). Those schede by century, authority and country:
 
-| Century | Images |
+| Century | Schede |
 |---|---|""")
 for c,v in sorted((k,v) for k,v in by_cent.items() if k): L.append(f"| {c}s | {v} |")
 L.append("\n| Authority (their `Autorizza`) | Schede |\n|---|---|")
 for a,v in by_auth.most_common(): L.append(f"| {a} | {v} |")
-L.append("\n| Country | Schede |\n|---|---|")
+L.append("\n| Country (the twenty most frequent) | Schede |\n|---|---|")
 for a,v in by_nation.most_common(20): L.append(f"| {a} | {v} |")
 L.append(f"""
 The shape is what the sources predict: the catalogue's primary layers are the two gazettes and one
@@ -140,7 +141,7 @@ dell'incoronazione").
 for a,v in ns_ev.most_common(): L.append(f"| `{a}` | {v} |")
 L.append("\n| Series | Images |\n|---|---|")
 for a,v in ns_series.most_common(): L.append(f"| {a} | {v} |")
-L.append("\n| Country | Images |\n|---|---|")
+L.append("\n| Country (the twelve most frequent) | Images |\n|---|---|")
 for a,v in ns_country.most_common(12): L.append(f"| {a} | {v} |")
 L.append("""
 These are, above all, the gazettes' papal acts — coronations by Legate or by the Pope in person,

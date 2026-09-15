@@ -92,7 +92,7 @@ An image crowned once may be mentioned in a dozen later acts. **Nossa Senhora da
 Aparecida** is recited in AAS 23 (1931), AAS 46 (1954) and AAS 59 (1967) — that is one image with
 three sources, not three crowned images. So each record here is an **image**, and every act
 attesting it is kept in that record's `sources` array. Nothing is discarded by consolidation:
-939 source citations sit inside 671 image records, and `data/attestations.json`,
+2,359 source citations sit inside 1,605 image records, and `data/attestations.json`,
 `data/attestations-acsp.json` and `data/attestations-lit.json` still hold the flat record-level
 layers if you want them.
 

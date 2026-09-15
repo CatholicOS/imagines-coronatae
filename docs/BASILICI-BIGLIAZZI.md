@@ -1,6 +1,6 @@
 # The Basilici–Bigliazzi database in the catalogue
 
-Generated 2026-09-14 by `scripts/report_basilici.py`; the row-level result is
+Generated 2026-09-15 by `scripts/report_basilici.py`; the row-level result is
 `data/basilici-in-catalogue.csv`, the database itself `data/basilici-bigliazzi-2025-db.json`.
 
 ## What it is
@@ -12,8 +12,8 @@ where known, the authorising body (`Autorizza`: the Chapter, a papal brief, Coun
 a verdict (`Data verificata: sì/no`) on whether they found evidence that the crowning really took
 place under that authority. By their own account the list was built from Anselmo da Reno Centese's
 catalogue of 1933, the printed repertories (Briccolani, Bonci) and the internet, with the archive
-consulted for particular cases; so it is a **secondary compilation citing no folio**, and every row
-of it enters the catalogue as series `LIT`, confidence `low`, with their authority, officiant,
+consulted for particular cases; so it is a **secondary compilation citing no folio**, and the rows
+taken from it enter the catalogue as series `LIT`, confidence `low`, with their authority, officiant,
 decree date and notes carried in the source's `notes`.
 
 ## What was taken
@@ -39,9 +39,10 @@ and which are linked to their image by `parent_act` and not counted as re-crowni
 
 ## What they add
 
-934 images rest on their database alone. By century, authority and country:
+934 images rest on their database alone (948 schede, an image crowned more than
+once having a scheda per crowning). Those schede by century, authority and country:
 
-| Century | Images |
+| Century | Schede |
 |---|---|
 | 1600s | 2 |
 | 1700s | 33 |
@@ -62,7 +63,7 @@ and which are linked to their image by `parent_act` and not counted as re-crowni
 | Papa Paolo VI | 1 |
 | Papa Giovanni Paolo II | 1 |
 
-| Country | Schede |
+| Country (the twenty most frequent) | Schede |
 |---|---|
 | Italia | 416 |
 | Spagna | 175 |
@@ -159,7 +160,7 @@ dell'incoronazione").
 | AAS+ASS | 1 |
 | ASS+LIT | 1 |
 
-| Country | Images |
+| Country (the twelve most frequent) | Images |
 |---|---|
 | Italy | 80 |
 | Poland | 64 |

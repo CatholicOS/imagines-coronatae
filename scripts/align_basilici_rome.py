@@ -14,12 +14,18 @@ The table was built on 14 September 2026 against the catalogue as it stood befor
 within two years of its date were listed; where exactly one shared a church word it was taken
 (AUTO), the rest were decided by eye (PICK, the dict below). Rows absent from the table keep
 their own church string: images the catalogue did not yet have (the Divino Amore, the Madonna
-dell'Archetto, the Perpetuo Soccorso ...). Re-run only to regenerate after checking the PICKs.
+dell'Archetto, the Perpetuo Soccorso ...). Re-run only to regenerate after checking the PICKs, and
+only against a catalogue built without the BB layer — the one on `main` before this ingest
+(`git show d347b3a:data/imagines-coronatae.json`), or a build with the block removed from build_lit.py;
+the script refuses a catalogue that already contains BB records.
 """
 import json,pathlib,sys
 REPO=pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0,str(REPO/'scripts'))
-BASE=sys.argv[1] if len(sys.argv)>1 else str(REPO/'data/imagines-coronatae.json')   # a catalogue WITHOUT the BB layer
+if len(sys.argv)<2:
+    sys.exit('usage: align_basilici_rome.py <catalogue built WITHOUT the BB layer>\n'
+             '  e.g.  git show d347b3a:data/imagines-coronatae.json > /tmp/base.json && python3 scripts/align_basilici_rome.py /tmp/base.json')
+BASE=sys.argv[1]
 src=open(REPO/'scripts/build_images.py',encoding='utf-8').read()
 head=src.split('for c,rs in bycountry.items():')[0].replace('pathlib.Path(__file__).resolve().parent.parent','pathlib.Path(%r).parent.parent'%str(REPO/'scripts/x'))
 _ns={}; exec(head,_ns)
