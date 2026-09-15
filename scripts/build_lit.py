@@ -159,7 +159,9 @@ for s in BB['rows']:
     if child is not None: notes+=f"A separate crown for the Child (Bambino Gesù) of the image of scheda {child}, which they file as a first crowning. "
     if s['annotazioni']: notes+=f"Their annotazioni: {s['annotazioni']} "
     if s['note']: notes+=f"Their note: {s['note']}"
-    title=s['titolo']+(f" ({s['altro_titolo']})" if s['altro_titolo'] else '')
+    # row 898 is Averbode Abbey's Our Lady of the Sacred Heart; their 'altro titolo' for it, 'Notre Dame de
+    # Montaigu', is the town, and would carry it onto Scherpenheuvel's image
+    title=s['titolo']+(f" ({s['altro_titolo']})" if s['altro_titolo'] and s['row']!=898 else '')
     recs.append({'series':'LIT','volume':0,'year':year(s['coronation_date']),'page':1000+s['row'],'folio':None,'folio_to':None,
       'citation':f"Basilici–Bigliazzi 2025, scheda {s['row']}",'source_pdf_url':'https://www.pereto.org/madonne_coronate/',
       'act_number':f"BB{s['row']}",'act_type':'Crowning listed in a modern compilation of the printed catalogues','pope':None,

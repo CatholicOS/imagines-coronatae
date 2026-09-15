@@ -16,7 +16,7 @@ deipara deiparae genetricis the and que pie colitur servatur templo ecclesia tem
 archidioecesis fines intra quae cum divino puero iesu christi mater matris madre nuncupata nuncupatae
 antiqua antiquum vetus vetusta miraculis clara insignis titulus
 bambino gesu puero pueri iesu child figlio divin vergine santissima ssma sma miracolosa effigie vera suo sua detta holy swieta
-majka bozja matki obraz bozej bozi boze mother dievo motina gottes mutter signora signore copy madonnina
+majka bozja matki obraz bozej bozi boze mother dievo motina gottes mutter signora signore copy madonnina mare deu senyora
 dell nell sull dall coll degli alla alle nella nel
 existentes existente loci reformatorum francisci dipinta luca fratrum minorum dalmatia
 scuole schole pie padri frati monaci teatini cappuccini agostiniani domenicani francescani gesuiti serviti
@@ -70,7 +70,13 @@ CITY={'naples':'napoli','neapolis':'napoli','neapolim':'napoli','genoa':'genova'
  'florence':'firenze','florentia':'firenze','milan':'milano','mediolanum':'milano','turin':'torino','padua':'padova','patavium':'padova',
  'mantua':'mantova','syracuse':'siracusa','leghorn':'livorno','lucerne':'luzern','cologne':'koln','vienna':'wien','prague':'praha',
  'cracow':'krakow','warsaw':'warszawa','lisbon':'lisboa','seville':'sevilla','saragossa':'zaragoza','antwerp':'antwerpen',
- 'brussels':'bruxelles','geneva':'geneve','mexicopolis':'mexico'}
+ 'brussels':'bruxelles','geneva':'geneve','mexicopolis':'mexico',
+ # the Italian exonyms of Basilici-Bigliazzi, and a sanctuary's village against the city or diocese another source names
+ 'messico':'mexico','cracovia':'krakow','siviglia':'sevilla','ginevra':'geneve','colonia':'koln','gorica':'gorizia',
+ 'bologhine':'algiers','icosium':'algiers','algeri':'algiers','alger':'algiers','ourem':'fatima','orselina':'locarno',
+ 'tongre':'chievres','chevremont':'chaudfontaine','lajas':'ipiales','rivieres':'madeleine','bergheim':'plain',
+ 'montaigu':'scherpenheuvel','zichem':'scherpenheuvel','bonsecours':'peruwelz','mompantero':'rocciamelone',
+ 'laghi':'lagos','tlaxcalensis':'tlaxcala'}
 def loc_toks(r):
     """Place signature: the LOCALITY only, keeping any parenthetical gloss (usually the Latin or
     modern equivalent of the same place, e.g. 'Mexicopolis (Mexico City)'). Sanctuary names were
@@ -296,10 +302,15 @@ for r in noloc:
     tr=title_full(r); dr=distinctive(tr); tgt=None
     # never a Roman cluster: Rome holds a hundred crowned images, and a Roman act says 'Romae' or
     # 'in Urbe' — the Madonna del Rimedio of Arborea (Sardinia) is not the one in S. Dionigi
+    # a cluster known only from Basilici-Bigliazzi is reached only on a distinctive word AND the year
+    # (the Caysasay act of 1954 finds their Taal, a Fátima act finds none of their copies)
+    y0=str(r.get('coronation_date') or '')[:4]
     cands=[g for g in clusters if g[0].get('country')==r.get('country')
            and (tr & set().union(*[title_full(x) for x in g]))
            and not any('rome' in loc_toks(x) for x in g)
-           and any(work(x)!='BB' for x in g)]     # never a cluster known only from Basilici-Bigliazzi
+           and (any(work(x)!='BB' for x in g)
+                or (y0 and (dr & distinctive(set().union(*[title_full(x) for x in g])))
+                    and any(str(x.get('coronation_date') or '')[:4]==y0 for x in g)))]
     # a shared DISTINCTIVE title word settles it ('Lattani', 'Coromoto')
     if dr:
         for g in cands:
@@ -349,8 +360,10 @@ CONF={'high':3,'medium':2,'low':1}
 def best(g,f):
     # a Child's-crown entry names the image by its parent, and a Basilici-Bigliazzi row gives Italian
     # exonyms ('Santiago del Cile'): let the image's own records name it where there are any
-    own=[x for x in g if not x.get('parent_act') and work(x)!='BB'] or [x for x in g if not x.get('parent_act')] or g
-    vals=[x.get(f) for x in own if x.get(f)]
+    vals=[]
+    for own in ([x for x in g if not x.get('parent_act') and work(x)!='BB'],[x for x in g if not x.get('parent_act')],g):
+        vals=[x.get(f) for x in own if x.get(f)]
+        if vals: break      # a placeless act keeps the place its Basilici-Bigliazzi row gives (Caysasay: Taal)
     if not vals: return None
     c=collections.Counter(vals)
     # on a tie a title that is nothing but praise ('mirifica Beatissimae Mariae Virginis imago') loses
@@ -365,7 +378,9 @@ images=[];seen=collections.Counter()
 for g in clusters:
     g=sorted(g,key=lambda r:(r.get('year') or 9999,{'ACSP':0,'LIT':1,'ASS':2,'AAS':3}.get(r.get('series'),4),r.get('page') or 0))
     # a crown for the Child of an image already crowned (a register's 'Bambino Gesù' entry) is not a re-crowning of the image
-    cds=collapse_dates([x['coronation_date'] for x in g if x.get('coronation_date') and not x.get('parent_act')])
+    # first-hand sources first, so that where two full dates fall in one year (Coromoto: the act's 12
+    # September 1952, Basilici-Bigliazzi's 11th) the one read at first hand is the one kept
+    cds=collapse_dates([x['coronation_date'] for x in sorted(g,key=lambda x:x.get('series')=='LIT') if x.get('coronation_date') and not x.get('parent_act')])
     ev=sorted({x['evidence_type'] for x in g},key=lambda e:(-RANK.get(e,0),e))   # tie-break by name: set order is not stable across runs
     base=slug((best(g,'image_title_vernacular') or best(g,'image_title_latin') or 'image')+'-'+(best(g,'locality') or best(g,'country') or ''))
     seen[base]+=1; iid=base if seen[base]==1 else f'{base}-{seen[base]}'
