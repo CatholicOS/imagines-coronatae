@@ -1,0 +1,670 @@
+{
+ "note": "Align the Roman schede of Basilici-Bigliazzi with the catalogue's church strings.\n\nRome is matched by church, and Basilici-Bigliazzi describe a church at length (\"Basilica di Santa\nMaria in Trastevere nella Cappella Altemps\", \"Oratorio del Santissimo Sacramento in Laterano\" for\nthe Scala Santa, \"Tempio di Ercole Vincitore\" for Santa Maria del Sole), so their Roman rows would\nnot reach the images Briccolani and Bombelli already put there. This script writes a frozen table,\ndata/basilici-rome-alignment.json, giving for each verified Roman scheda the catalogue's own\nlocality string, and — for the twelve schede that are in fact the separate crown for the Child of\nan image crowned earlier (Briccolani's twelve Bambino Gesù concessions, which they file as first\ncrownings) — the row of the parent scheda.\n\nThe table was built on 14 September 2026 against the catalogue as it stood before the ingest\n(commit d347b3a): for each Roman scheda the Roman images sharing a church word or a title word\nwithin two years of its date were listed; where exactly one shared a church word it was taken\n(AUTO), the rest were decided by eye (PICK, the dict below). Rows absent from the table keep\ntheir own church string: images the catalogue did not yet have (the Divino Amore, the Madonna\ndell'Archetto, the Perpetuo Soccorso ...). Re-run only to regenerate after checking the PICKs, and\nonly against a catalogue built without the BB layer — the one on `main` before this ingest\n(`git show d347b3a:data/imagines-coronatae.json`), or a build with the block removed from build_lit.py;\nthe script refuses a catalogue that already contains BB records.",
+ "rows": {
+  "0": {
+   "locality": "Rome, Vatican Basilica (sacristy)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "1": {
+   "locality": "Rome, Santa Maria ai Monti",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "2": {
+   "locality": "Rome, Santa Maria della Vittoria",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "3": {
+   "locality": "Rome, Santa Maria in Trastevere",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "4": {
+   "locality": "Rome, Santa Maria del Popolo",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "5": {
+   "locality": "Rome, Santa Maria della Pace",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "6": {
+   "locality": "Rome, Santa Maria della Consolazione",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "7": {
+   "locality": "Rome, San Lorenzo in Damaso",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "8": {
+   "locality": "Rome, Tor de' Specchi",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "9": {
+   "locality": "Rome, Santa Maria in Aracoeli",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "10": {
+   "locality": "Rome, Vatican Basilica (Pietà)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "11": {
+   "locality": "Rome, Chiesa del Gesù",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "12": {
+   "locality": "Rome, Santa Teresa alle Quattro Fontane",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "13": {
+   "locality": "Rome, Santa Maria sopra Minerva",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "14": {
+   "locality": "Rome, Sant'Agostino",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "15": {
+   "locality": "Rome, monastery of the Dominican nuns of San Sisto (Santi Domenico e Sisto, Magnanapoli)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "16": {
+   "locality": "Rome, Santa Maria in Traspontina",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "17": {
+   "locality": "Rome, San Cosimato in Trastevere",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "18": {
+   "locality": "Rome, Vatican Basilica (sacristy)",
+   "child_of": 0,
+   "how": "PICK"
+  },
+  "19": {
+   "locality": "Rome, Santa Maria in Via Lata",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "20": {
+   "locality": "Rome, Santa Maria del Pianto",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "21": {
+   "locality": "Rome, Vatican Basilica (Cappella Gregoriana)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "22": {
+   "locality": "Rome, Santa Maria delle Grazie a Porta Angelica",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "23": {
+   "locality": "Rome, San Salvatore in Lauro",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "24": {
+   "locality": "Rome, San Cosimato in Trastevere",
+   "child_of": 17,
+   "how": "PICK"
+  },
+  "25": {
+   "locality": "Rome, Vatican Basilica (Madonna della Colonna)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "26": {
+   "locality": "Rome, Sant'Alessio",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "27": {
+   "locality": "Rome, Vatican Basilica (Madonna della Colonna)",
+   "child_of": 25,
+   "how": "PICK"
+  },
+  "28": {
+   "locality": "Rome, Santa Marta al Collegio Romano",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "29": {
+   "locality": "Rome, Santa Maria dei Miracoli",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "30": {
+   "locality": "Rome, Santa Maria in Via",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "31": {
+   "locality": "Rome, Santa Maria della Purità in Borgo",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "32": {
+   "locality": "Rome, Santa Marta al Collegio Romano",
+   "child_of": 28,
+   "how": "PICK"
+  },
+  "33": {
+   "locality": "Rome, Santa Maria della Scala (Trastevere)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "34": {
+   "locality": "Rome, San Salvatore in Lauro",
+   "child_of": 23,
+   "how": "PICK"
+  },
+  "35": {
+   "locality": "Rome, San Giovanni in Fonte (Lateran baptistery)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "36": {
+   "locality": "Rome, Santa Maria delle Grazie al Foro Romano",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "37": {
+   "locality": "Rome, Santi Domenico e Sisto (Magnanapoli), inner monastery",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "38": {
+   "locality": "Rome, Vatican Basilica (Cappella Gregoriana)",
+   "child_of": 21,
+   "how": "PICK"
+  },
+  "40": {
+   "locality": "Rome, San Giovanni dei Fiorentini",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "41": {
+   "locality": "Rome, San Lorenzo in Lucina",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "42": {
+   "locality": "Rome, Santa Maria in Vallicella",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "43": {
+   "locality": "Rome, San Silvestro al Quirinale",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "44": {
+   "locality": "Rome, San Giovannino in Campo Marzio (Mercedarians)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "45": {
+   "locality": "Rome, Santa Maria in Portico in Campitelli",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "46": {
+   "locality": "Rome, Santa Maria di Costantinopoli a Capo le Case",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "47": {
+   "locality": "Rome, San Paolino alla Regola",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "48": {
+   "locality": "Rome, Oratorio di Campitelli",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "49": {
+   "locality": "Rome, Santi Cosma e Damiano",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "50": {
+   "locality": "Rome, Santa Maria del Pianto",
+   "child_of": 20,
+   "how": "PICK"
+  },
+  "51": {
+   "locality": "Rome, Santa Maria della Purità in Borgo",
+   "child_of": 31,
+   "how": "PICK"
+  },
+  "52": {
+   "locality": "Rome, Santa Maria in Traspontina",
+   "child_of": 16,
+   "how": "PICK"
+  },
+  "53": {
+   "locality": "Rome, Sant'Anna dei Falegnami",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "55": {
+   "locality": "Rome, Pantheon (Santa Maria ad Martyres)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "56": {
+   "locality": "Rome, Santa Maria in Posterula",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "57": {
+   "locality": "Rome, Santa Maria Liberatrice",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "58": {
+   "locality": "Rome, Sant'Apollinare (portico)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "60": {
+   "locality": "Rome, Santissima Trinità dei Pellegrini",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "61": {
+   "locality": "Rome, Santa Maria sopra Minerva",
+   "child_of": 13,
+   "how": "PICK"
+  },
+  "62": {
+   "locality": "Rome, San Salvatore in Lauro",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "63": {
+   "locality": "Rome, Santo Spirito in Sassia",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "64": {
+   "locality": "Rome, Santa Maria in Campo Marzio (nuns)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "65": {
+   "locality": "Rome, Santa Prassede",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "66": {
+   "locality": "Rome, Santa Maria di Monserrato",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "67": {
+   "locality": "Rome, Santa Maria dell'Orto",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "68": {
+   "locality": "Rome, San Rocco a Ripetta",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "69": {
+   "locality": "Rome, San Gregorio al Celio (Cappella Salviati)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "70": {
+   "locality": "Rome, Oratorio del Crocifisso di San Marcello",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "71": {
+   "locality": "Rome, San Martino ai Monti",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "72": {
+   "locality": "Rome, Santa Maria in Trastevere (Madonna della Clemenza)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "73": {
+   "locality": "Rome, Santa Maria di Montesanto",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "74": {
+   "locality": "Rome, San Giacomo degli Incurabili",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "76": {
+   "locality": "Rome, Santa Maria di Loreto (Colonna Traiana)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "77": {
+   "locality": "Rome, San Giovanni Decollato",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "78": {
+   "locality": "Rome, Santa Maria dell'Orazione e Morte",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "80": {
+   "locality": "Rome, Santa Francesca Romana",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "81": {
+   "locality": "Rome, San Crisogono",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "82": {
+   "locality": "Rome, San Giacomo Scossacavalli",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "83": {
+   "locality": "Rome, San Giovanni Calibita",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "84": {
+   "locality": "Rome, Santi Celso e Giuliano",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "85": {
+   "locality": "Rome, Santa Maria del Sole",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "86": {
+   "locality": "Rome, Santa Maria del Suffragio",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "87": {
+   "locality": "Rome, Santa Lucia del Gonfalone",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "88": {
+   "locality": "Rome, Santa Maria del Popolo",
+   "child_of": 4,
+   "how": "PICK"
+  },
+  "89": {
+   "locality": "Rome, San Dionigi alle Quattro Fontane",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "90": {
+   "locality": "Rome, Santa Lucia della Tinta",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "91": {
+   "locality": "Rome, Santa Maria dei Miracoli",
+   "child_of": 29,
+   "how": "PICK"
+  },
+  "92": {
+   "locality": "Rome, San Michele a Ripa",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "93": {
+   "locality": "Rome, Santa Maria Maddalena",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "95": {
+   "locality": "Rome, Santa Maria della Quercia",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "96": {
+   "locality": "Rome, San Biagio della Pagnotta",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "97": {
+   "locality": "Rome, Santa Maria in Cosmedin",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "99": {
+   "locality": "Rome, Palazzo Altemps, chapel of Sant'Aniceto",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "101": {
+   "locality": "Rome, Sant'Ambrogio della Massima",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "102": {
+   "locality": "Rome, San Salvatore alle Coppelle",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "103": {
+   "locality": "Rome, Chiesa del Gesù (Stanze di Sant'Ignazio)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "104": {
+   "locality": "Rome, Santa Maria in Monterone",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "105": {
+   "locality": "Rome, Santa Maria Porta Paradisi",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "106": {
+   "locality": "Rome, Oratorio del Caravita",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "107": {
+   "locality": "Rome, Santa Maria in Trivio (Crociferi)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "108": {
+   "locality": "Rome, Sant'Adriano al Foro",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "109": {
+   "locality": "Rome, San Lorenzo in Lucina (Madonna delle Grazie)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "110": {
+   "locality": "Rome, Sant'Andrea della Valle",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "111": {
+   "locality": "Rome, Santi Vincenzo e Anastasio a Trevi",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "112": {
+   "locality": "Rome, Scala Santa",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "122": {
+   "locality": "Rome, San Giovanni in Laterano",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "124": {
+   "locality": "Rome, Santo Spirito (nuns)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "126": {
+   "locality": "Rome, Tor de' Specchi (monastery)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "131": {
+   "locality": "Rome, Santa Maria in Campo Marzio (monastery)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "138": {
+   "locality": "Rome, San Pantaleo",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "140": {
+   "locality": "Rome, San Marcello al Corso",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "143": {
+   "locality": "Rome, San Lorenzo in Borgo (Scuole Pie)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "144": {
+   "locality": "Rome, Vatican Basilica (sacristy)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "145": {
+   "locality": "Rome, Santissimo Nome di Maria",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "168": {
+   "locality": "Rome, San Pietro in Montorio",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "193": {
+   "locality": "Rome, Sant'Agata dei Tessitori",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "253": {
+   "locality": "Rome, Collegio Romano (Prima Primaria)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "324": {
+   "locality": "Rome, San Benedetto in Piscinula",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "385": {
+   "locality": "Rome, San Salvatore in Lauro",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "387": {
+   "locality": "Rome (ceremony in the Vatican Basilica)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "407": {
+   "locality": "Rome, Sant'Agostino (Madonna del Parto)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "416": {
+   "locality": "Rome, San Lorenzo in Damaso",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "417": {
+   "locality": "Rome, Vatican Basilica (Cappella del Coro)",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "477": {
+   "locality": "Rome, Santa Maria Maddalena",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "588": {
+   "locality": "Rome, Chiesa del Gesù",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "715": {
+   "locality": "Rome, Santa Maria in Portico in Campitelli",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "767": {
+   "locality": "Rome, Santissimo Nome di Maria",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "807": {
+   "locality": "Rome, Vatican Basilica (Cappella del Coro)",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "992": {
+   "locality": "Rome, Santa Maria in Cosmedin",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "993": {
+   "locality": "Rome",
+   "child_of": null,
+   "how": "AUTO"
+  },
+  "1085": {
+   "locality": "Rome, Santa Maria delle Grazie a Porta Angelica",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "1086": {
+   "locality": "Rome, Santa Maria delle Grazie a Porta Angelica",
+   "child_of": null,
+   "how": "PICK"
+  },
+  "1175": {
+   "locality": "Rome, Santa Maria in Traspontina",
+   "child_of": null,
+   "how": "PICK"
+  }
+ }
+}

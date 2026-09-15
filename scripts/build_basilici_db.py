@@ -17,8 +17,9 @@ Conte Sforza / B.P (papal brief) / the Pope's name; `data_verificata` = whether 
 that the crowning was by Sforza, the Chapter, a brief or the Pope; `incoronazione` = 1 (first),
 2 (second) or # (uncertain, or refused by the Chapter). NOT read at first hand and, by their own
 account, compiled from Anselmo da Reno Centese's 1933 catalogue, the printed repertories and the
-internet, with the archive consulted for particular cases; so this is a SECONDARY layer and is kept
-outside the catalogue, used for the cross-match in docs/CROSSMATCH-BASILICI.md.
+internet, with the archive consulted for particular cases; so this is a SECONDARY layer. The schede they
+mark as verified crownings go into the catalogue through build_lit.py as series LIT, confidence low; the
+report on what they add is docs/BASILICI-BIGLIAZZI.md.
 """
 import json,re,sys,pathlib,html,datetime
 REPO=pathlib.Path(__file__).resolve().parent.parent
@@ -79,8 +80,8 @@ doc={'source':("Massimo Basilici and Rita Bigliazzi, Le Madonne Coronate (anni 1
   "from Anselmo da Reno Centese 1933, the printed repertories (Bombelli, Mazzolari, Briccolani, Mansi, Bonci), the "
   "internet and correspondence, with the archive consulted for particular cases; the `autorizza` field is taken "
   "'principalmente dalla pubblicazione di frate Anselmo'. Fields are theirs; `coronation_date` and `decree_date` are "
-  "ISO renderings of `data_incoronazione` and `data_decreto`. Not merged into the catalogue: see "
-  "docs/CROSSMATCH-BASILICI.md for the comparison."),
+  "ISO renderings of `data_incoronazione` and `data_decreto`. The schede marked 'data_verificata: sì' with "
+  "'incoronazione' 1, 2 or 3 enter the catalogue as LIT records (scripts/build_lit.py); see docs/BASILICI-BIGLIAZZI.md."),
  'row_count':len(out),'missing_rows':missing,'rows':out}
 json.dump(doc,open(REPO/'data/basilici-bigliazzi-2025-db.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
 import collections

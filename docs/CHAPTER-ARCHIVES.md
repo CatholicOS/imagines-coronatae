@@ -290,12 +290,17 @@ Massimo Basilici and Rita Bigliazzi, *Le Madonne Coronate: anni 1631–1750; 175
 companion database at <https://www.pereto.org/madonne_coronate/> — 1,737 schede, one per crowning,
 each with locality, church, title, date, decree date, authorising body and their verdict on whether
 the crowning was really the Chapter's, a papal brief's or the Pope's. The database is in
-`data/basilici-bigliazzi-2025-db.json` and is compared with the catalogue in
-`docs/CROSSMATCH-BASILICI.md`; it is **not** merged, because by their own account (the first
+`data/basilici-bigliazzi-2025-db.json`, and the 1,420 schede they themselves mark as verified
+crownings are in the catalogue as series **LIT**, confidence `low` — the only coverage here of the
+Chapter's and the briefs' coronations after 1800, and, for 934 images, the only source. It was kept
+outside the catalogue at first and used only as a yardstick, because by their own account (the first
 volume's introduction, *La ricerca*, free as a PDF on the site) it was compiled from Anselmo da Reno
 Centese's 1933 catalogue, the printed repertories, the internet and correspondence, with the archive
 consulted for particular cases — Anselmo's own list being transcribed from the Chapter's registers
-only from 1905 onwards.
+only from 1905 onwards. It was taken in on 14 September 2026 as the layer of leads it is: each row
+says in its notes what it rests on, and `docs/BASILICI-BIGLIAZZI.md` reports what it adds and where
+its dates disagree with the sources read here. Their Roman schede, which describe a church at
+length, are aligned to the catalogue's church strings by hand (`data/basilici-rome-alignment.json`).
 
 What their introduction adds about the fond itself, from their reading of vol. 1 and the decree
 registers: the fond runs to **36 manuscript volumes**, which they date 1634–1924 (Vrabelová:

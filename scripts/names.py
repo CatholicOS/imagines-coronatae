@@ -1,0 +1,16 @@
+"""Shared name tables: the Italian nation names of the Basilici-Bigliazzi database in English."""
+NATION={'Italia':'Italy','Francia':'France','Polonia':'Poland','Belgio':'Belgium','Ucraina':'Ukraine','Spagna':'Spain',
+ 'Città del Vaticano':'Italy','Lituania':'Lithuania','Austria':'Austria','Repubblica Ceca':'Czech Republic','Messico':'Mexico',
+ 'Olanda':'Netherlands','Argentina':'Argentina','Bielorussia':'Belarus','Svizzera':'Switzerland','Croazia':'Croatia',
+ 'Slovenia':'Slovenia','Germania':'Germany','Malta':'Malta','Portogallo':'Portugal','Brasile':'Brazil','Perù':'Peru',
+ 'Colombia':'Colombia','Venezuela':'Venezuela','Ecuador':'Ecuador','Cile':'Chile','Filippine':'Philippines','Canada':'Canada',
+ 'Stati Uniti':'United States','Turchia':'Turkey','Ungheria':'Hungary','Slovacchia':'Slovakia','Lettonia':'Latvia',
+ 'Regno Unito':'United Kingdom','Inghilterra':'United Kingdom','Irlanda':'Ireland','Algeria':'Algeria','Uruguay':'Uruguay',
+ 'Bolivia':'Bolivia','Paraguay':'Paraguay','Cuba':'Cuba','Guatemala':'Guatemala','Nicaragua':'Nicaragua','Costa Rica':'Costa Rica',
+ 'El Salvador':'El Salvador','Honduras':'Honduras','Panama':'Panama','Repubblica Dominicana':'Dominican Republic',
+ 'Porto Rico':'Puerto Rico','India':'India','Sri Lanka':'Sri Lanka','Libano':'Lebanon','Australia':'Australia','Romania':'Romania',
+ 'Bosnia ed Erzegovina':'Bosnia and Herzegovina','Serbia':'Serbia','Montenegro':'Montenegro','Albania':'Albania','Grecia':'Greece',
+ 'Lussemburgo':'Luxembourg','Egitto':'Egypt','Giappone':'Japan','Cina':'China','Vietnam':'Vietnam','Indonesia':'Indonesia',
+ 'Sud Africa':'South Africa','Marocco':'Morocco','Tunisia':'Tunisia','Siria':'Syria','Israele':'Israel','Palestina':'Palestine',
+ "Stati Uniti d'America":'United States','Paesi Bassi':'Netherlands','Andorra':'Andorra','Repubblica di San Marino':'San Marino','Kuwait':'Kuwait',
+ 'Russia':'Russia','Moldavia':'Moldova','Danimarca':'Denmark','Svezia':'Sweden','Norvegia':'Norway','Finlandia':'Finland'}

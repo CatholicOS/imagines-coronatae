@@ -39,6 +39,8 @@ def toks(*ss):
             if len(t)>3 and t not in STOP: out.add(t)
     return out
 GEO_STOP={'near','prope','the','del','de','di','da','of','city','urbe','urbs','urbem','oppidum','oppido',
+ 'frazione','frazioen','quartiere','villaggio','sobborgo','zona','distretto','comune','localita','contrada',
+ 'les','des','juarez',
  'villa','villae','dioecesi','dioecesis','archidioecesi','san','santa','sant','sao','saint','sankt','nueva',
  'nuevo','alta','baja','los','las','and','sur','norte','provincia','region','regione','isola','island',
  # REGIONS and qualifiers: shared by unrelated shrines, so they must never establish identity.
@@ -76,8 +78,11 @@ def loc_toks(r):
     raw=norm(r.get('locality')).replace('romae','rome').replace('roma','rome')   # one token for the city
     for a,b in CITY.items(): raw=re.sub(r'\b'+a+r'\b',b,raw)
     raw=raw.replace('(',' ').replace(')',' ').replace(';',' ').replace('/',' ')
-    return {p for p in re.sub(r'[^a-z0-9 ]',' ',raw).split()
+    out={p for p in re.sub(r'[^a-z0-9 ]',' ',raw).split()
             if len(p)>2 and p not in GEO_STOP and p not in ECCL_STOP}
+    if not out:   # 'Re' (Val Vigezzo) is a place, not a missing locality
+        out={p for p in re.sub(r'[^a-z0-9 ]',' ',raw).split() if len(p)==2 and p.isalpha()}
+    return out
 def _ed1(a,b):
     if a==b: return True
     if abs(len(a)-len(b))>1 or min(len(a),len(b))<6: return False   # 'Enna'/'Penna' are different places
@@ -110,8 +115,16 @@ def place_match(A,B):
     if ra and rb:
         A2,B2=rome_sig(A),rome_sig(B)
         return _sub(A2,B2) or _sub(B2,A2)
-    if A & B: return True
+    if A & B:
+        # a saint's name is not a place: San Giovanni Rotondo is not San Giovanni Valdarno — unless a
+        # side has nothing else ('San Sebastian')
+        if (A & B) <= SAINTS and (A-SAINTS) and (B-SAINTS): return False
+        return True
     return any(_ed1(a,b) for a in A for b in B)
+SAINTS={'giovanni','pietro','paolo','martino','giorgio','michele','nicola','nicolo','lorenzo','stefano','giacomo','andrea',
+ 'antonio','francesco','salvatore','vito','marco','angelo','benedetto','severino','miniato','gennaro','felice','vincenzo',
+ 'sebastian','sebastiano','juan','pedro','pablo','jose','miguel','francisco','antonio','martin','jean','pierre','paul',
+ 'martin','georges','michel','nicolas','laurent','etienne','jacques','andre','sebastien'}
 def loc_key(r):
     t=loc_toks(r)
     return min(t)[:7] if t else None
@@ -128,7 +141,7 @@ SYN={ # cross-language equivalents of the commonest Marian titles, mapped to one
  'krolowa':'regina','regina':'regina','reina':'regina','queen':'regina','regine':'regina',
  'milosierdzia':'misericord',
  'rodzina':'family','famiglia':'family','familia':'family','famille':'family','familiae':'family','family':'family',
- 'febre':'febbre','febbre':'febbre','sanita':'salute','salute':'salute','misericordiae':'misericord','misericordia':'misericord','mercy':'misericord','merced':'misericord'}
+ 'febre':'febbre','febbre':'febbre','sanita':'salute','salute':'salute','anna':'anne','annae':'anne','anne':'anne','lapurdi':'lourdes','lapurdensis':'lourdes','misericordiae':'misericord','misericordia':'misericord','mercy':'misericord','merced':'misericord'}
 TITLE_STOP=ECCL_STOP|{'cattedrale','catedrale','collegiata','metropolitana','monastero','oratorio','eremo','ritiro',
  'monache','chierici','regolari','teatini','carmelitani','cappucini','cappuccini','benedettini','domenicani',
  'camaldolesi','camandolesi','basiliani','premostratensi','bernabiti','riformati','osservanti','minori','parrochiale',
@@ -152,6 +165,7 @@ def title(r):
 
 tokloc=collections.defaultdict(set)
 for r in R:
+    if str(r.get('act_number') or '').startswith('BB'): continue    # their thousand copies of Fátima and Lourdes would make no title distinctive
     for t in title_full(r): tokloc[t].add(loc_key(r) or '?')
 def distinctive(ts): return {t for t in ts if len(tokloc[t])<=2}
 
@@ -232,6 +246,9 @@ for c,rs in bycountry.items():
         lr=loc_toks(r)
         if r.get('standalone'):            # insufficient identity to merge (e.g. a town and a year only)
             groups.append([r]); continue
+        if r.get('aligned'):               # its locality string was aligned by hand to the catalogue's (Basilici-Bigliazzi, Rome)
+            same=[g for g in groups if any(x.get('locality')==r['locality'] for x in g) and subj_ok(g,r)]
+            if len(same)==1: same[0].append(r); continue
         if r.get('parent_act'):            # a second crown on an image listed just above (the Child's)
             par=[g for g in groups if any(x.get('act_number')==r['parent_act'] and work(x)==work(r) for x in g)]
             if len(par)==1: par[0].append(r); continue
@@ -255,6 +272,7 @@ for c,rs in bycountry.items():
             def precise(x): return len(str(x.get('coronation_date') or ''))==10
             same=[g for g in groups if place_match(set().union(*[loc_toks(x) for x in g]),lr) and subj_ok(g,r)
                   and any(same_day(x) for x in g)
+                  and not (r.get('series')=='LIT' and any(work(x)==work(r) for x in g))   # a register lists distinct images (Caldarola, 17 May 1814: two)
                   and (r.get('series')!='LIT' or any(x.get('series')!='LIT' for x in g)
                        or precise(r) or any(precise(x) and same_day(x) for x in g))]
             if len(same)==1: cands=same
@@ -280,7 +298,8 @@ for r in noloc:
     # 'in Urbe' — the Madonna del Rimedio of Arborea (Sardinia) is not the one in S. Dionigi
     cands=[g for g in clusters if g[0].get('country')==r.get('country')
            and (tr & set().union(*[title_full(x) for x in g]))
-           and not any('rome' in loc_toks(x) for x in g)]
+           and not any('rome' in loc_toks(x) for x in g)
+           and any(work(x)!='BB' for x in g)]     # never a cluster known only from Basilici-Bigliazzi
     # a shared DISTINCTIVE title word settles it ('Lattani', 'Coromoto')
     if dr:
         for g in cands:
@@ -328,8 +347,9 @@ RANK={'papal_coronation_act':4,'chapter_decree':4,'papal_legate_deputation':3,'p
       'retrospective_attestation':1,'norms':0,'petition_not_conceded':-1}
 CONF={'high':3,'medium':2,'low':1}
 def best(g,f):
-    # a Child's-crown entry names the image by its parent; let the image's own records name it
-    own=[x for x in g if not x.get('parent_act')] or g
+    # a Child's-crown entry names the image by its parent, and a Basilici-Bigliazzi row gives Italian
+    # exonyms ('Santiago del Cile'): let the image's own records name it where there are any
+    own=[x for x in g if not x.get('parent_act') and work(x)!='BB'] or [x for x in g if not x.get('parent_act')] or g
     vals=[x.get(f) for x in own if x.get(f)]
     if not vals: return None
     c=collections.Counter(vals)
