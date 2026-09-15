@@ -16,7 +16,7 @@ deipara deiparae genetricis the and que pie colitur servatur templo ecclesia tem
 archidioecesis fines intra quae cum divino puero iesu christi mater matris madre nuncupata nuncupatae
 antiqua antiquum vetus vetusta miraculis clara insignis titulus
 bambino gesu puero pueri iesu child figlio divin vergine santissima ssma sma miracolosa effigie vera suo sua detta holy swieta
-majka bozja matki obraz bozej bozi boze mother dievo motina gottes mutter signora signore copy madonnina
+majka bozja matki obraz bozej bozi boze mother dievo motina gottes mutter signora signore copy madonnina mare deu senyora
 dell nell sull dall coll degli alla alle nella nel
 existentes existente loci reformatorum francisci dipinta luca fratrum minorum dalmatia
 scuole schole pie padri frati monaci teatini cappuccini agostiniani domenicani francescani gesuiti serviti
@@ -70,7 +70,13 @@ CITY={'naples':'napoli','neapolis':'napoli','neapolim':'napoli','genoa':'genova'
  'florence':'firenze','florentia':'firenze','milan':'milano','mediolanum':'milano','turin':'torino','padua':'padova','patavium':'padova',
  'mantua':'mantova','syracuse':'siracusa','leghorn':'livorno','lucerne':'luzern','cologne':'koln','vienna':'wien','prague':'praha',
  'cracow':'krakow','warsaw':'warszawa','lisbon':'lisboa','seville':'sevilla','saragossa':'zaragoza','antwerp':'antwerpen',
- 'brussels':'bruxelles','geneva':'geneve','mexicopolis':'mexico'}
+ 'brussels':'bruxelles','geneva':'geneve','mexicopolis':'mexico',
+ # the Italian exonyms of Basilici-Bigliazzi, and a sanctuary's village against the city or diocese another source names
+ 'messico':'mexico','cracovia':'krakow','siviglia':'sevilla','ginevra':'geneve','colonia':'koln','gorica':'gorizia',
+ 'bologhine':'algiers','icosium':'algiers','algeri':'algiers','alger':'algiers','ourem':'fatima','orselina':'locarno',
+ 'tongre':'chievres','chevremont':'chaudfontaine','lajas':'ipiales','rivieres':'madeleine','bergheim':'plain',
+ 'montaigu':'scherpenheuvel','zichem':'scherpenheuvel','bonsecours':'peruwelz','mompantero':'rocciamelone',
+ 'laghi':'lagos','tlaxcalensis':'tlaxcala'}
 def loc_toks(r):
     """Place signature: the LOCALITY only, keeping any parenthetical gloss (usually the Latin or
     modern equivalent of the same place, e.g. 'Mexicopolis (Mexico City)'). Sanctuary names were
@@ -296,10 +302,15 @@ for r in noloc:
     tr=title_full(r); dr=distinctive(tr); tgt=None
     # never a Roman cluster: Rome holds a hundred crowned images, and a Roman act says 'Romae' or
     # 'in Urbe' — the Madonna del Rimedio of Arborea (Sardinia) is not the one in S. Dionigi
+    # a cluster known only from Basilici-Bigliazzi is reached only on a distinctive word AND the year
+    # (the Caysasay act of 1954 finds their Taal, a Fátima act finds none of their copies)
+    y0=str(r.get('coronation_date') or '')[:4]
     cands=[g for g in clusters if g[0].get('country')==r.get('country')
            and (tr & set().union(*[title_full(x) for x in g]))
            and not any('rome' in loc_toks(x) for x in g)
-           and any(work(x)!='BB' for x in g)]     # never a cluster known only from Basilici-Bigliazzi
+           and (any(work(x)!='BB' for x in g)
+                or (y0 and (dr & distinctive(set().union(*[title_full(x) for x in g])))
+                    and any(str(x.get('coronation_date') or '')[:4]==y0 for x in g)))]
     # a shared DISTINCTIVE title word settles it ('Lattani', 'Coromoto')
     if dr:
         for g in cands:

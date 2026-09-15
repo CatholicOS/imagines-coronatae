@@ -9,7 +9,7 @@
       "[Pietro Bombelli, incisore], Raccolta delle immagini della Beatissima Vergine ornate della corona d'oro dal R.mo Capitolo di S. Pietro, con una breve ed esatta notizia di ciascuna immagine, 4 tomi, Roma, Salomoni, 1792 (plates dated 1791-1793). Tomi II-IV: 74 of the 104 crowned images.",
       "Massimo Basilici and Rita Bigliazzi, Le Madonne Coronate (anni 1631-1750; 1751-1900; 1901-1931; 1932-1981), 2025 — companion database 'Le Madonne Coronate, a cura di Massimo Basilici e Rita Bigliazzi, anni 1631-1981', https://www.pereto.org/madonne_coronate/ , one scheda per crowning."
     ],
-    "generated": "2026-09-14",
+    "generated": "2026-09-15",
     "record_count": 1925,
     "caveats": [
       "Secondary evidence: none of these records was read at first hand; confidence is capped at medium.",
@@ -1495,13 +1495,13 @@
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": null,
-      "locality": "Benevento, church of the Camaldolese",
+      "locality": "Sant'Angelo a Scala, Camaldolese hermitage of the Incoronata",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "confidence": "medium",
       "standalone": false,
-      "notes": "Reported by Balzamo 2023, not read at first hand. A shrine of purely local reach, absent even from Montorio's Zodiaco di Maria (1715)."
+      "notes": "Reported by Balzamo 2023, not read at first hand. A shrine of purely local reach, absent even from Montorio's Zodiaco di Maria (1715). Balzamo places it at Benevento, the archdiocese; the Camaldolese hermitage of the Incoronata is at Sant'Angelo a Scala."
     },
     {
       "series": "LIT",
@@ -12130,12 +12130,12 @@
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Eremo dei Camaldolesi (Madonna Incoronata)",
-      "locality": "Benevento, church of the Camaldolese",
+      "locality": "Sant'Angelo a Scala, Camaldolese hermitage of the Incoronata",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "confidence": "low",
-      "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+      "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. 'Vicino a Benevento': the Camaldolese hermitage of the Incoronata is at Sant'Angelo a Scala, in the archdiocese.",
       "parent_act": null
     },
     {
@@ -13822,12 +13822,12 @@
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Santa Maria delle Grazie",
-      "locality": "Valle di Valenza (Valtellina), diocese of Como",
+      "locality": "Primolo (Chiesa in Valmalenco), Valtellina, diocese of Como",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
       "confidence": "low",
-      "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
+      "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Printed 'Valle Valenza': Val Malenco, whose sanctuary of the Madonna delle Grazie at Primolo was crowned in 1765.",
       "parent_act": null
     },
     {
@@ -45511,7 +45511,7 @@
       ],
       "rubric_latin": null,
       "incipit_latin": null,
-      "image_title_vernacular": "Nostra Signora del Sacro Cuore (Notre Dame de Montaigu)",
+      "image_title_vernacular": "Nostra Signora del Sacro Cuore",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Abbazia di Averbode",

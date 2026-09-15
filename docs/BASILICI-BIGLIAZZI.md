@@ -22,8 +22,8 @@ decree date and notes carried in the source's `notes`.
 |---|---|
 | in the database | 1,737 |
 | taken into the catalogue — *verificata: sì* and a real crowning (1st, 2nd or 3rd) | 1,420 |
-| — corroborating an image another source already attests | 472 |
-| — the only source of an image | 948 (934 images) |
+| — corroborating an image another source already attests | 498 |
+| — the only source of an image | 922 (909 images) |
 | left out — *incoronazione #* (uncertain, or a petition the Chapter refused) or *verificata: no* | 317 |
 
 Their `Autorizza` becomes the record's `evidence_type`: *Capitolo* and *Conte Sforza* →
@@ -39,25 +39,25 @@ and which are linked to their image by `parent_act` and not counted as re-crowni
 
 ## What they add
 
-934 images rest on their database alone (948 schede, an image crowned more than
+909 images rest on their database alone (922 schede, an image crowned more than
 once having a scheda per crowning). Those schede by century, authority and country:
 
 | Century | Schede |
 |---|---|
 | 1600s | 2 |
-| 1700s | 33 |
-| 1800s | 217 |
-| 1900s | 696 |
+| 1700s | 29 |
+| 1800s | 210 |
+| 1900s | 681 |
 
 | Authority (their `Autorizza`) | Schede |
 |---|---|
-| Capitolo | 548 |
-| B.P | 372 |
+| Capitolo | 538 |
+| B.P | 357 |
 | # | 11 |
 | Papa Pio VII | 4 |
 | Pio VII | 4 |
 | Papa Pio IX | 3 |
-| Capitolo assenso | 2 |
+| Capitolo assenso | 1 |
 | Papa Pio VI | 1 |
 | Papa Benedetto XV | 1 |
 | Papa Paolo VI | 1 |
@@ -65,24 +65,24 @@ once having a scheda per crowning). Those schede by century, authority and count
 
 | Country (the twenty most frequent) | Schede |
 |---|---|
-| Italia | 416 |
-| Spagna | 175 |
+| Italia | 411 |
+| Spagna | 173 |
 | Francia | 108 |
-| Messico | 49 |
-| Polonia | 24 |
-| Belgio | 23 |
-| Filippine | 18 |
+| Messico | 48 |
+| Polonia | 22 |
+| Belgio | 19 |
 | Argentina | 17 |
-| Perù | 12 |
-| Malta | 9 |
+| Filippine | 17 |
+| Perù | 11 |
+| Malta | 8 |
 | Colombia | 8 |
 | Ucraina | 7 |
-| Austria | 6 |
-| Svizzera | 6 |
-| Germania | 6 |
 | Ecuador | 6 |
 | Brasile | 6 |
+| Austria | 5 |
+| Germania | 5 |
 | Venezuela | 5 |
+| Svizzera | 4 |
 | Cile | 4 |
 | Paesi Bassi | 4 |
 
@@ -94,8 +94,8 @@ continuators. Every such image is `low`, and says in its notes what it rests on.
 
 ## Where the two disagree on the date
 
-Of the 472 schede that corroborate an image known from another source, the year agrees exactly
-in 379, is one off in 19, differs in 43, and cannot be compared in 31
+Of the 498 schede that corroborate an image known from another source, the year agrees exactly
+in 401, is one off in 19, differs in 43, and cannot be compared in 35
 (the other source gives no date). The 43 disagreements — a year or more apart — are kept
 as the sources give them, so such an image shows two dates; the first thirty:
 
@@ -139,41 +139,40 @@ dell'incoronazione").
 
 ## Images they do not record
 
-245 of the catalogue's 1,605 images have no scheda. By evidence and by the series that attest them:
+218 of the catalogue's 1,578 images have no scheda. By evidence and by the series that attest them:
 
 | Strongest evidence | Images |
 |---|---|
-| `papal_coronation_act` | 87 |
-| `retrospective_attestation` | 73 |
-| `chapter_decree` | 54 |
+| `papal_coronation_act` | 86 |
+| `retrospective_attestation` | 56 |
+| `chapter_decree` | 48 |
 | `papal_personal_coronation` | 22 |
-| `papal_legate_deputation` | 7 |
+| `papal_legate_deputation` | 4 |
 | `norms` | 2 |
 
 | Series | Images |
 |---|---|
-| AAS | 185 |
-| LIT | 46 |
+| AAS | 164 |
+| LIT | 42 |
 | ACSP | 5 |
 | ASS | 4 |
-| AAS+LIT | 3 |
+| AAS+LIT | 2 |
 | AAS+ASS | 1 |
-| ASS+LIT | 1 |
 
 | Country (the twelve most frequent) | Images |
 |---|---|
-| Italy | 80 |
-| Poland | 64 |
-| Mexico | 15 |
-| Spain | 13 |
-| Colombia | 8 |
-| Philippines | 7 |
+| Italy | 74 |
+| Poland | 62 |
+| Mexico | 13 |
+| Spain | 11 |
+| Colombia | 7 |
 | France | 6 |
+| Philippines | 6 |
 | None | 5 |
-| Belgium | 4 |
-| Peru | 4 |
 | Ukraine | 4 |
 | Belarus | 3 |
+| Peru | 3 |
+| Argentina | 2 |
 
 These are, above all, the gazettes' papal acts — coronations by Legate or by the Pope in person,
 and the retrospective mentions in later acts — which their list, built from the Chapter's side,

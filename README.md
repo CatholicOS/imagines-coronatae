@@ -30,7 +30,7 @@ documented crowning.
 
 ## What is in it
 
-**1,605 crowned images** in **50 countries**, documented by **2,359 source citations**:
+**1,578 crowned images** in **50 countries**, documented by **2,359 source citations**:
 400 from **147,576 pages** of the two gazettes (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026);
 34 from the **713 transcribed folios** of *Madonne coronate* IV — the Chapter's dossiers for
 34 images crowned between 1689 and 1716, only three of which the gazettes ever mention; and
@@ -42,10 +42,10 @@ and folios of the dossier), 30 from Vrabelová 2013 on Central Europe 1717–178
 2023 on Italy and Rome 1631–1798, and 1,420 from the Basilici–Bigliazzi database of 2025 — the
 schede they mark as verified crownings, 1631–1981, with the day of the crowning for nearly all.
 
-464 images are attested by more than one source — the most-cited is Savona's Nostra Signora della
+482 images are attested by more than one source — the most-cited is Savona's Nostra Signora della
 Misericordia, with nine. Crownings run from **1500 to 2005**, far earlier than the gazettes
-themselves, because a later act often recites when an image was first crowned. 1,238 images rest on
-secondary literature alone; **934 of them on the Basilici–Bigliazzi database and nothing else**,
+themselves, because a later act often recites when an image was first crowned. 1,213 images rest on
+secondary literature alone; **909 of them on the Basilici–Bigliazzi database and nothing else**,
 which is what a catalogue of the Chapter's practice after 1800 looks like while the archive's later
 volumes stay offline: leads, each marked `low`, each saying in its notes what it rests on.
 
@@ -53,11 +53,11 @@ By strongest evidence available for each image:
 
 | Type | Images |
 |---|---|
-| `chapter_decree` | 961 |
-| `papal_coronation_act` | 515 |
-| `retrospective_attestation` | 86 |
+| `chapter_decree` | 955 |
+| `papal_coronation_act` | 514 |
+| `retrospective_attestation` | 69 |
 | `papal_personal_coronation` | 34 |
-| `papal_legate_deputation` | 7 |
+| `papal_legate_deputation` | 4 |
 | `norms` | 2 |
 
 A `papal_coronation_act` from the Basilici–Bigliazzi layer means a crowning they attribute to a
@@ -67,20 +67,20 @@ Most-represented countries:
 
 | Country | Images |
 |---|---|
-| Italy | 792 |
-| Spain | 206 |
+| Italy | 786 |
+| Spain | 204 |
 | France | 132 |
-| Poland | 95 |
-| Mexico | 72 |
-| Belgium | 35 |
-| Philippines | 25 |
+| Poland | 93 |
+| Mexico | 70 |
+| Belgium | 32 |
 | Argentina | 24 |
-| Colombia | 19 |
+| Philippines | 24 |
+| Colombia | 18 |
 | Ukraine | 18 |
-| Peru | 17 |
-| Malta | 15 |
+| Peru | 16 |
+| Malta | 14 |
 
-Confidence: 235 high, 217 medium, 1,153 low.
+Confidence: 233 high, 217 medium, 1,128 low.
 `medium` usually means either that the country was inferred from the Latin name of the diocese
 rather than stated outright (every such case says so in the source's `notes`), or that the only
 source is a secondary work citing the dossier by folio; `low` is a register that gives a year and
@@ -92,13 +92,13 @@ An image crowned once may be mentioned in a dozen later acts. **Nossa Senhora da
 Aparecida** is recited in AAS 23 (1931), AAS 46 (1954) and AAS 59 (1967) — that is one image with
 three sources, not three crowned images. So each record here is an **image**, and every act
 attesting it is kept in that record's `sources` array. Nothing is discarded by consolidation:
-2,359 source citations sit inside 1,605 image records, and `data/attestations.json`,
+2,359 source citations sit inside 1,578 image records, and `data/attestations.json`,
 `data/attestations-acsp.json` and `data/attestations-lit.json` still hold the flat record-level
 layers if you want them.
 
 **Images crowned more than once.** `coronation_dates` is an array, and where it holds more than
 one date the image really was crowned again — typically a Vatican Chapter crowning later renewed by
-a Pope. 68 images in the catalogue were crowned more than once, among them:
+a Pope. 66 images in the catalogue were crowned more than once, among them:
 
 | Image | Crowned |
 |---|---|
@@ -109,7 +109,6 @@ a Pope. 68 images in the catalogue were crowned more than once, among them:
 | Nostra Signora dei Miracoli — Cicagna, Italy | 1790-09-14, 1814-09-14 |
 | Vergine del Sacro Monte — Varallo, Italy | 1857-08-20, 1862-08-17 |
 | Nostra Signora di Bonaria — Cagliari (Calaris), Italy | 1870-04-24, 1926-04-24 |
-| Onze-Lieve-Vrouw van Scherpenheuvel (Notre-Dame de Montaigu) — Scherpenheuvel (Aspricollis), near Leuven, Belgium | 1872, 1927 |
 | Nuestra Señora de Guadalupe — Mexicopolis (Mexico City), Mexico | 1895-10-12, 1945-10-12, 1979-01-27 |
 | Notre-Dame du Cap — Cap-de-la-Madeleine, Canada | 1904, 1954 |
 | Nuestra Señora de Coromoto — Guanare, Venezuela | 1952-09-12, 1985-01-27 |
@@ -155,8 +154,9 @@ Three further rules came in with the registers, which name a hundred and more im
   kinds of building (*cattedrale*, *chiesa*, *monastero*) are dropped too, so *Santa Maria nella
   Cattedrale di Verona* has no title at all and the place and the year must carry it — and then a
   year-only register never merges with another register's entry at the same place on the year
-  alone (Benevento 1723 is two images: Balzamo's Incoronata of the Camaldolese and Briccolani's
-  Madonna delle Grazie), unless one of them gives the day.
+  alone (Briccolani's Madonna delle Grazie of Benevento, 1723, is not the Camaldolese Incoronata
+  of the same year, which Balzamo and he both set 'at Benevento' and which in fact stands at
+  Sant'Angelo a Scala), unless one of them gives the day.
 - **Rome is not a place.** Over a hundred distinct images were crowned there, so two Roman records
   match only when their **church** signatures agree — *Rome, Sant'Agostino* with *Rome, S.
   Agostino*, never *San Giovanni in Fonte* with *San Giovanni dei Fiorentini* — and a Roman record
@@ -167,7 +167,7 @@ Three further rules came in with the registers, which name a hundred and more im
   Rimedio* of Arborea, in Sardinia, is not the one in San Dionigi alle Quattro Fontane) — a Roman
   act says *Romae*.
 
-And three that came in with the Basilici–Bigliazzi database, whose localities are modern and
+And four that came in with the Basilici–Bigliazzi database, whose localities are modern and
 administrative (*Scandriglia, frazione di Ponticelli Sabino*):
 
 - **Administrative words are not places.** *Frazione*, *quartiere*, *villaggio* are dropped from the
@@ -179,6 +179,12 @@ administrative (*Scandriglia, frazione di Ponticelli Sabino*):
   the same day are two images, not one: at Caldarola on 17 May 1814 Pius VII crowned the Madonna
   della Pietà of Pievefavera and the Madonna del Monte. The same-day rule that lets a Latin act meet
   an Italian register never joins two entries of one work.
+- **Their exonyms are aliases.** *Cracovia*, *Siviglia*, *Ginevra*, *Città del Messico* are mapped
+  to the place the other sources name, and so is a sanctuary's own village against the city or
+  diocese an act names: *Bologhine* and the gazette's *Icosium* are both Algiers, *Chaudfontaine*
+  is the commune of Chèvremont, *Ourém* the municipality of Fátima, *Orselina* the hill of Locarno's
+  Madonna del Sasso. A placeless gazette act reaches an image known only from their database when a
+  distinctive title word **and** the year agree (the Caysasay act of 1954 finds their Taal).
 - **Rome by alignment.** Their Roman churches are described at length and in their own words, so
   the 133 Roman schede are matched to the catalogue's church strings by a hand-checked table
   (`data/basilici-rome-alignment.json`) rather than by the signature rule, and their twelve
@@ -218,8 +224,8 @@ dossiers) were **read at first hand** for this catalogue. **LIT** is different: 
 
 The Basilici–Bigliazzi rows are the fullest list of the practice there is and the only coverage
 here of the Chapter's and the briefs' coronations after 1800, but they are a compilation, not a
-reading of the archive: 934 images rest on them alone. [`docs/BASILICI-BIGLIAZZI.md`](docs/BASILICI-BIGLIAZZI.md)
-says what they add, which of their schede corroborate an image known from another source (472),
+reading of the archive: 909 images rest on them alone. [`docs/BASILICI-BIGLIAZZI.md`](docs/BASILICI-BIGLIAZZI.md)
+says what they add, which of their schede corroborate an image known from another source (498),
 and where their dates disagree with it (43); the 317 schede they themselves mark uncertain, refused
 or unverified are left out.
 

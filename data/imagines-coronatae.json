@@ -6,8 +6,8 @@
       "ASS": "https://www.vatican.va/archive/ass/index_it.htm",
       "AAS": "https://www.vatican.va/archive/aas/index_sp.htm"
     },
-    "generated": "2026-09-14",
-    "record_count": 1605,
+    "generated": "2026-09-15",
+    "record_count": 1578,
     "layer": "attestations — one record per ACT that attests a crowning; see imagines-coronatae.json for one record per IMAGE",
     "coverage": {
       "series": [
@@ -44,51 +44,51 @@
       "Several ASS volumes span two calendar years; `year` is the first year of the volume."
     ],
     "statistics": {
-      "images": 1605,
+      "images": 1578,
       "source_records": 2359,
       "by_country": {
-        "Italy": 792,
-        "Spain": 206,
+        "Italy": 786,
+        "Spain": 204,
         "France": 132,
-        "Poland": 95,
-        "Mexico": 72,
-        "Belgium": 35,
-        "Philippines": 25,
+        "Poland": 93,
+        "Mexico": 70,
+        "Belgium": 32,
         "Argentina": 24,
-        "Colombia": 19,
+        "Philippines": 24,
+        "Colombia": 18,
         "Ukraine": 18,
-        "Peru": 17,
-        "Malta": 15,
+        "Peru": 16,
+        "Malta": 14,
         "Brazil": 12,
         "Ecuador": 11,
-        "Switzerland": 11,
         "Venezuela": 11,
-        "Germany": 9,
-        "Austria": 8,
+        "Switzerland": 9,
+        "Germany": 8,
         "Netherlands": 8,
+        "Austria": 7,
         "Chile": 7,
         "Belarus": 5,
         "Czech Republic": 5,
         "Lithuania": 5,
-        "Canada": 4,
         "El Salvador": 4,
-        "Slovenia": 4,
+        "Canada": 3,
         "Costa Rica": 3,
         "Croatia": 3,
         "Cuba": 3,
         "Guatemala": 3,
-        "Portugal": 3,
+        "Slovenia": 3,
         "United States": 3,
-        "Algeria": 2,
         "Andorra": 2,
         "Bolivia": 2,
         "Dominican Republic": 2,
         "India": 2,
         "Luxembourg": 2,
         "Nicaragua": 2,
+        "Portugal": 2,
         "Puerto Rico": 2,
         "Sri Lanka": 2,
         "United Kingdom": 2,
+        "Algeria": 1,
         "China": 1,
         "Ireland": 1,
         "Kuwait": 1,
@@ -99,33 +99,33 @@
         "Vatican City": 1
       },
       "by_strongest_evidence": {
-        "papal_coronation_act": 515,
-        "retrospective_attestation": 86,
-        "chapter_decree": 961,
-        "papal_legate_deputation": 7,
+        "papal_coronation_act": 514,
+        "chapter_decree": 955,
+        "retrospective_attestation": 69,
+        "papal_legate_deputation": 4,
         "papal_personal_coronation": 34,
         "norms": 2
       },
       "by_confidence": {
-        "low": 1153,
-        "high": 235,
+        "high": 233,
+        "low": 1128,
         "medium": 217
       },
-      "multi_source_images": 464
+      "multi_source_images": 482
     },
     "license": "Underlying ASS and AAS texts are © Libreria Editrice Vaticana. This compilation is provided for research use.",
     "structure": "One record per CROWNED IMAGE. Every ASS/AAS act that attests it is kept in that image’s `sources` array, so an image cited in several volumes is ONE record with several sources, not several records. Images are identified by locality first, since Marian titles repeat worldwide; a distinctive title can also unite an image crowned away from its shrine."
   },
   "images": [
     {
-      "id": "nostra-signora-d-africa-notre-dame-d-afrique-bol",
-      "image_title_vernacular": "Nostra Signora d'Africa (Notre Dame d'Afrique)",
-      "image_title_latin": null,
+      "id": "notre-dame-d-afrique-icosium-algiers",
+      "image_title_vernacular": "Notre-Dame d'Afrique",
+      "image_title_latin": "statua Beatae Mariae Virginis, « Afrorum Domina »",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica Nostra Signora d'Africa",
-      "locality": "Bologhine",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi d'Algeri",
+      "church_or_sanctuary": "the basilica of Notre-Dame d'Afrique (sanctuarium Mariale Icosii, raised to Basilica Minor by Pius IX in 1876)",
+      "locality": "Icosium (Algiers)",
+      "diocese_latin": "Algeriensis",
+      "diocese_modern": "Algiers",
       "country": "Algeria",
       "coronation_dates": [
         "1876-04-30"
@@ -133,12 +133,15 @@
       "first_coronation": "1876-04-30",
       "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
-        "papal_coronation_act"
+        "papal_coronation_act",
+        "retrospective_attestation"
       ],
-      "popes": [],
+      "popes": [
+        "Ioannes PP. XXIII"
+      ],
       "legates": [],
-      "confidence": "low",
-      "source_count": 1,
+      "confidence": "high",
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -167,34 +170,7 @@
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 523, their id 228), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Charles Lavigerie, arcivescovo d'Algeri; their decree date 15-4-1876. Their annotazioni: Frate Anselmo: la colloca ad Algeri. Their note: Statua in bronzo del 1838.",
           "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "notre-dame-d-afrique-icosium-algiers",
-      "image_title_vernacular": "Notre-Dame d'Afrique",
-      "image_title_latin": "statua Beatae Mariae Virginis, « Afrorum Domina »",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "the basilica of Notre-Dame d'Afrique (sanctuarium Mariale Icosii, raised to Basilica Minor by Pius IX in 1876)",
-      "locality": "Icosium (Algiers)",
-      "diocese_latin": "Algeriensis",
-      "diocese_modern": "Algiers",
-      "country": "Algeria",
-      "coronation_dates": [
-        "1876"
-      ],
-      "first_coronation": "1876",
-      "strongest_evidence": "retrospective_attestation",
-      "evidence_types": [
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Ioannes PP. XXIII"
-      ],
-      "legates": [],
-      "confidence": "high",
-      "source_count": 1,
-      "sources": [
+        },
         {
           "series": "AAS",
           "volume": 53,
@@ -1824,59 +1800,6 @@
       ]
     },
     {
-      "id": "maria-plain-bergheim",
-      "image_title_vernacular": "Maria Plain",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santuario di Maria Plain",
-      "locality": "Bergheim",
-      "diocese_latin": null,
-      "diocese_modern": "Decanato di Bergheim",
-      "country": "Austria",
-      "coronation_dates": [
-        "1751-07-14"
-      ],
-      "first_coronation": "1751-07-14",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1751,
-          "page": 1228,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 228",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB228",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": null,
-          "coronation_date": "1751-07-14",
-          "legate": null,
-          "deputy": "Principe Andreas Jakob von Dietrichstein, arcivescovo di Salisburgo",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 228, their id 239), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Principe Andreas Jakob von Dietrichstein, arcivescovo di Salisburgo. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Icona dell'inizio del XVII secolo. Il santuario di Maria Plain, insieme agli edifici e alle cappelle circostanti, forma un complesso architettonico l' intero complesso è un monumento storico. In alcune zone, le immagini devozionali di Maria Plain venivano poste sotto i cuscini dei bambini come rimedio per le convulsioni o l'epilessia.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "madonna-sotto-le-quattro-colonne-innsbruck",
       "image_title_vernacular": "Madonna sotto le Quattro Colonne",
       "image_title_latin": null,
@@ -2153,10 +2076,13 @@
       "diocese_latin": "Salisburgensis",
       "diocese_modern": "Salzburg",
       "country": "Austria",
-      "coronation_dates": [],
-      "first_coronation": null,
-      "strongest_evidence": "retrospective_attestation",
+      "coronation_dates": [
+        "1751-07-14"
+      ],
+      "first_coronation": "1751-07-14",
+      "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
+        "papal_coronation_act",
         "retrospective_attestation"
       ],
       "popes": [
@@ -2164,8 +2090,36 @@
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1751,
+          "page": 1228,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 228",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB228",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1751-07-14",
+          "legate": null,
+          "deputy": "Principe Andreas Jakob von Dietrichstein, arcivescovo di Salisburgo",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 228, their id 239), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Principe Andreas Jakob von Dietrichstein, arcivescovo di Salisburgo. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Icona dell'inizio del XVII secolo. Il santuario di Maria Plain, insieme agli edifici e alle cappelle circostanti, forma un complesso architettonico l' intero complesso è un monumento storico. In alcune zone, le immagini devozionali di Maria Plain venivano poste sotto i cuscini dei bambini come rimedio per le convulsioni o l'epilessia.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 45,
@@ -2795,10 +2749,13 @@
       "diocese_latin": "Tornacensis",
       "diocese_modern": "Tournai",
       "country": "Belgium",
-      "coronation_dates": [],
-      "first_coronation": null,
-      "strongest_evidence": "retrospective_attestation",
+      "coronation_dates": [
+        "1905-07-03"
+      ],
+      "first_coronation": "1905-07-03",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
         "retrospective_attestation"
       ],
       "popes": [
@@ -2806,8 +2763,36 @@
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1905,
+          "page": 1821,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 821",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB821",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1905-07-03",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 821, their id 804), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Statua lignea del XVI secolo.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 2,
@@ -3155,14 +3140,14 @@
       ]
     },
     {
-      "id": "nostra-signora-di-chevremont-chaudfontaine",
-      "image_title_vernacular": "Nostra Signora di Chèvremont",
-      "image_title_latin": null,
+      "id": "notre-dame-de-chevremont-chevremont",
+      "image_title_vernacular": "Notre-Dame de Chèvremont",
+      "image_title_latin": "Beata Maria Virgo Mater Gratiarum",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica di Nostra Signora de Chèvremont",
-      "locality": "Chaudfontaine",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Liegi",
+      "church_or_sanctuary": "Sanctuarium Caprimontense B. M. V. Matris Gratiarum (Discalced Carmelites)",
+      "locality": "Chèvremont",
+      "diocese_latin": "Leodiensis",
+      "diocese_modern": "Liège",
       "country": "Belgium",
       "coronation_dates": [
         "1923-09-09"
@@ -3170,12 +3155,15 @@
       "first_coronation": "1923-09-09",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
-        "chapter_decree"
+        "chapter_decree",
+        "retrospective_attestation"
       ],
-      "popes": [],
+      "popes": [
+        "Pius PP. XI"
+      ],
       "legates": [],
-      "confidence": "low",
-      "source_count": 1,
+      "confidence": "high",
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -3204,87 +3192,7 @@
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1071, their id 805), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo. Their annotazioni: ERR - Frate Anselmo: data l'incoronazione 2 febbraio 1923; la colloca a Liegi e la titola: Santa Amria di Caprimonte (de Chèvrmont). Bonci data l'incoronazione 9 settembre 1923. ERR - Bonci: la vuole incoronata direttamente da papa Pio XI. Their note: Statua in terracotta biancastra policroma del XVII secolo. Il 9 settembre 1923 fu organizzato un grande pellegrinaggio durante il quale la statua della Madonna di Chèvremont fu solennemente incoronata.",
           "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "nostra-signora-di-tongre-chievres",
-      "image_title_vernacular": "Nostra Signora di Tongre",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica di Nostra Signora di Tongre",
-      "locality": "Chièvres",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Tournai",
-      "country": "Belgium",
-      "coronation_dates": [
-        "1881-09-08"
-      ],
-      "first_coronation": "1881-09-08",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1881,
-          "page": 1567,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 567",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB567",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": null,
-          "coronation_date": "1881-09-08",
-          "legate": null,
-          "deputy": "Monsignor Isidore-Joseph du Rousseaux, vescovo di Tournai",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 567, their id 251), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Isidore-Joseph du Rousseaux, vescovo di Tournai. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Statua lignea in stile bizantino del XI secolo.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "notre-dame-de-chevremont-chevremont",
-      "image_title_vernacular": "Notre-Dame de Chèvremont",
-      "image_title_latin": "Beata Maria Virgo Mater Gratiarum",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Sanctuarium Caprimontense B. M. V. Matris Gratiarum (Discalced Carmelites)",
-      "locality": "Chèvremont",
-      "diocese_latin": "Leodiensis",
-      "diocese_modern": "Liège",
-      "country": "Belgium",
-      "coronation_dates": [
-        "1923"
-      ],
-      "first_coronation": "1923",
-      "strongest_evidence": "retrospective_attestation",
-      "evidence_types": [
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Pius PP. XI"
-      ],
-      "legates": [],
-      "confidence": "high",
-      "source_count": 1,
-      "sources": [
+        },
         {
           "series": "AAS",
           "volume": 21,
@@ -3882,6 +3790,90 @@
       ]
     },
     {
+      "id": "sedes-sapientiae-onze-lieve-vrouw-zetel-der-wijs",
+      "image_title_vernacular": "Sedes Sapientiae (Onze-Lieve-Vrouw, Zetel der Wijsheid)",
+      "image_title_latin": "Sedes Sapientiae",
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": "Universitas Studiorum Lovaniensis",
+      "locality": "Louvain / Leuven (Lovanium)",
+      "diocese_latin": "Mechliniensis",
+      "diocese_modern": "Mechelen (Malines)",
+      "country": "Belgium",
+      "coronation_dates": [
+        "1927-06-29"
+      ],
+      "first_coronation": "1927-06-29",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree",
+        "papal_legate_deputation"
+      ],
+      "popes": [
+        "Pius PP. XI"
+      ],
+      "legates": [
+        "Iosephus Ernestus Card. Van Roey, Archiepiscopus Mechliniensis"
+      ],
+      "confidence": "medium",
+      "source_count": 2,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1927,
+          "page": 2161,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1161",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1161",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1925-06-26",
+          "coronation_date": "1927-06-29",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1161, their id 796), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; their decree date 26-6-1925. Their annotazioni: ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione e nell'elenco per date data mette 26 giugno 1926 (è un refuso di stampa), mentre nell'elenco per località riporta 26 giugno 1925. Their note: Statua del 1442, opera dello scultore Nicolaas de Bruyne.",
+          "parent_act": null
+        },
+        {
+          "series": "AAS",
+          "volume": 19,
+          "year": 1927,
+          "page": 308,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 19 (1927), p. 308",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf",
+          "act_number": "I",
+          "act_type": "Epistola",
+          "pope": "Pius PP. XI",
+          "evidence_type": "papal_legate_deputation",
+          "act_date": "1927-06-24",
+          "concession_date": null,
+          "coronation_date": "1927",
+          "legate": "Iosephus Ernestus Card. Van Roey, Archiepiscopus Mechliniensis",
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "AD EM.UM P. D. IOSEPHUM ERNESTUM TIT. S. MARIAE DE ARACOELI S. R. E. PRESB. CARDINALEM VAN ROEY, ARCHIEPISCOPUM MECHLINIENSEM, QUEM LEGATUM SUUM MITTIT AD SOLEMNIA QUINQUIES SAECULARIA UNIVERSITATIS STUDIORUM LOVANIENSIS CELEBRANDA.",
+          "incipit_latin": "Quinto feliciter exeunte saeculo ex quo Lovaniensis ista Studiorum Universitas condita est, iuste quidem Rector eius magnificus Paulinus Ladeuze",
+          "confidence": "medium",
+          "notes": "Act I begins on printed p. 307 (verified in txt/AAS-19-1927-ocr.txt); rubric and incipit taken from there; the coronation reference is on the passage page 308: 'auspice Virgine Matre, quam ab ipso iam initio veluti Sedem Sapientiae venerari consueverunt Lovanienses, cuiusque augusta effigies, Nostro quidem nomine, corona aurea mox redimietur'. The legation is primarily for the university's fifth-centenary solemnities; the crowning is to be done in the Pope's name ('Nostro nomine'), presumably by the same Legate, but the letter does not say so expressly. Coronation year 1927 inferred from 'mox' and the date of the act. Diocese given as that of the Legate's see (Louvain lay in the archdiocese of Mechelen); country inferred.",
+          "parent_act": null
+        }
+      ]
+    },
+    {
       "id": "onze-lieve-vrouw-van-hanswijk-notre-dame-de-hans",
       "image_title_vernacular": "Onze-Lieve-Vrouw van Hanswijk / Notre-Dame de Hanswijk",
       "image_title_latin": "imago perantiqua Beatae Mariae Virginis",
@@ -4017,61 +4009,8 @@
       ]
     },
     {
-      "id": "nostra-signora-di-montaigu-nostra-signora-di-sch",
-      "image_title_vernacular": "Nostra Signora di Montaigu (Nostra Signora di Scherpenheuvel)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica Minore di Nostra Signora di Montaigu (in olandese: Nostra Signora di Scherpenheuvel)",
-      "locality": "Montaigu-Zichem",
-      "diocese_latin": null,
-      "diocese_modern": "Arcidiocesi di Malines-Bruxelles",
-      "country": "Belgium",
-      "coronation_dates": [
-        "1872-08-25"
-      ],
-      "first_coronation": "1872-08-25",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1872,
-          "page": 1499,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 499",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB499",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1872-04-16",
-          "coronation_date": "1872-08-25",
-          "legate": null,
-          "deputy": "Cardinale Victor August Dechamps, arcivescovo di Malines",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 499, their id 245), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Victor August Dechamps, arcivescovo di Malines; their decree date 16-4-1872. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Statua lignea del XIII secolo. La città Montaigu-Zichem è di lingua belga-olandese.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "nostra-signora-del-sacro-cuore-notre-dame-de-mon",
-      "image_title_vernacular": "Nostra Signora del Sacro Cuore (Notre Dame de Montaigu)",
+      "id": "nostra-signora-del-sacro-cuore-montaigu-zichem",
+      "image_title_vernacular": "Nostra Signora del Sacro Cuore",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Abbazia di Averbode",
@@ -4258,59 +4197,6 @@
       ]
     },
     {
-      "id": "nostra-signora-del-buon-soccorso-notre-dame-de-b",
-      "image_title_vernacular": "Nostra Signora del Buon Soccorso (Notre Dame de Bonsecours)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica di Nostra Signora del Buon Soccorso",
-      "locality": "Peruwelz",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Tournai",
-      "country": "Belgium",
-      "coronation_dates": [
-        "1905-07-03"
-      ],
-      "first_coronation": "1905-07-03",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1905,
-          "page": 1821,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 821",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB821",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": null,
-          "coronation_date": "1905-07-03",
-          "legate": null,
-          "deputy": null,
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 821, their id 804), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Statua lignea del XVI secolo.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "nostra-signora-di-kortenbos-saint-truiden-frazio",
       "image_title_vernacular": "Nostra Signora di Kortenbos",
       "image_title_latin": null,
@@ -4369,30 +4255,54 @@
       "image_title_latin": "Beata Maria Virgo Aspricollis",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Templum Aspricollense (sanctuary of Our Lady of Scherpenheuvel/Montaigu)",
-      "locality": "Scherpenheuvel (Aspricollis), near Leuven",
+      "locality": "Scherpenheuvel (Aspricollis)",
       "diocese_latin": "Mechliniensis",
       "diocese_modern": "Mechelen (Malines)",
       "country": "Belgium",
       "coronation_dates": [
-        "1872",
-        "1927-06-29"
+        "1872-08-25"
       ],
-      "first_coronation": "1872",
-      "strongest_evidence": "chapter_decree",
+      "first_coronation": "1872-08-25",
+      "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
-        "chapter_decree",
-        "papal_legate_deputation",
+        "papal_coronation_act",
         "retrospective_attestation"
       ],
       "popes": [
         "Pius PP. XI"
       ],
-      "legates": [
-        "Iosephus Ernestus Card. Van Roey, Archiepiscopus Mechliniensis"
-      ],
+      "legates": [],
       "confidence": "high",
-      "source_count": 3,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1872,
+          "page": 1499,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 499",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB499",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1872-04-16",
+          "coronation_date": "1872-08-25",
+          "legate": null,
+          "deputy": "Cardinale Victor August Dechamps, arcivescovo di Malines",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 499, their id 245), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Victor August Dechamps, arcivescovo di Malines; their decree date 16-4-1872. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Statua lignea del XIII secolo. La città Montaigu-Zichem è di lingua belga-olandese.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 14,
@@ -4417,60 +4327,6 @@
           "incipit_latin": "Penes oppidulum Aspricollis vulgo Scherpenheuvel, haud longe a civitate Lovaniensi, archidioecesis Mechliniensis intra fines, priscis a temporibus",
           "confidence": "high",
           "notes": "Basilica Minor act granted on the fiftieth anniversary of the coronation; states 'ab Archiepiscopo Mechliniensi postea Cardinali Dechamps, nomine et auctoritate Praedecessoris Nostri rec. mem. Pii PP. IX, anno MDCCCLXXII solemni ritu aureo diademate redimitum effulsit' - crowned in 1872 by Abp (later Cardinal) Dechamps in the name and by the authority of Pius IX; day and month not given. Rubric OCR 'MECHLINIEN-SI^' repaired.",
-          "parent_act": null
-        },
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1927,
-          "page": 2161,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1161",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1161",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": "1925-06-26",
-          "coronation_date": "1927-06-29",
-          "legate": null,
-          "deputy": null,
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1161, their id 796), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; their decree date 26-6-1925. Their annotazioni: ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione e nell'elenco per date data mette 26 giugno 1926 (è un refuso di stampa), mentre nell'elenco per località riporta 26 giugno 1925. Their note: Statua del 1442, opera dello scultore Nicolaas de Bruyne.",
-          "parent_act": null
-        },
-        {
-          "series": "AAS",
-          "volume": 19,
-          "year": 1927,
-          "page": 308,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 19 (1927), p. 308",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf",
-          "act_number": "I",
-          "act_type": "Epistola",
-          "pope": "Pius PP. XI",
-          "evidence_type": "papal_legate_deputation",
-          "act_date": "1927-06-24",
-          "concession_date": null,
-          "coronation_date": "1927",
-          "legate": "Iosephus Ernestus Card. Van Roey, Archiepiscopus Mechliniensis",
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "AD EM.UM P. D. IOSEPHUM ERNESTUM TIT. S. MARIAE DE ARACOELI S. R. E. PRESB. CARDINALEM VAN ROEY, ARCHIEPISCOPUM MECHLINIENSEM, QUEM LEGATUM SUUM MITTIT AD SOLEMNIA QUINQUIES SAECULARIA UNIVERSITATIS STUDIORUM LOVANIENSIS CELEBRANDA.",
-          "incipit_latin": "Quinto feliciter exeunte saeculo ex quo Lovaniensis ista Studiorum Universitas condita est, iuste quidem Rector eius magnificus Paulinus Ladeuze",
-          "confidence": "medium",
-          "notes": "Act I begins on printed p. 307 (verified in txt/AAS-19-1927-ocr.txt); rubric and incipit taken from there; the coronation reference is on the passage page 308: 'auspice Virgine Matre, quam ab ipso iam initio veluti Sedem Sapientiae venerari consueverunt Lovanienses, cuiusque augusta effigies, Nostro quidem nomine, corona aurea mox redimietur'. The legation is primarily for the university's fifth-centenary solemnities; the crowning is to be done in the Pope's name ('Nostro nomine'), presumably by the same Legate, but the letter does not say so expressly. Coronation year 1927 inferred from 'mox' and the date of the act. Diocese given as that of the Legate's see (Louvain lay in the archdiocese of Mechelen); country inferred.",
           "parent_act": null
         }
       ]
@@ -4542,8 +4398,9 @@
         "1881-09-08"
       ],
       "first_coronation": "1881-09-08",
-      "strongest_evidence": "retrospective_attestation",
+      "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
+        "papal_coronation_act",
         "retrospective_attestation"
       ],
       "popes": [
@@ -4553,8 +4410,36 @@
         "Bishop of Tournai (unnamed), acting in the name of Leo XIII"
       ],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1881,
+          "page": 1567,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 567",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB567",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1881-09-08",
+          "legate": null,
+          "deputy": "Monsignor Isidore-Joseph du Rousseaux, vescovo di Tournai",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 567, their id 251), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Isidore-Joseph du Rousseaux, vescovo di Tournai. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Statua lignea in stile bizantino del XI secolo.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 44,
@@ -5785,12 +5670,14 @@
       "diocese_modern": "Trois-Rivières",
       "country": "Canada",
       "coronation_dates": [
-        "1904",
-        "1954"
+        "1904-10-12",
+        "1954-08-12"
       ],
-      "first_coronation": "1904",
-      "strongest_evidence": "papal_legate_deputation",
+      "first_coronation": "1904-10-12",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
+        "papal_coronation_act",
         "papal_legate_deputation",
         "retrospective_attestation"
       ],
@@ -5803,8 +5690,64 @@
         "Valerius S. R. E. Presbyter Cardinalis Valeri (Valerio Valeri) — for the 1954 coronation only"
       ],
       "confidence": "high",
-      "source_count": 2,
+      "source_count": 4,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1904,
+          "page": 1802,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 802",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB802",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1904",
+          "coronation_date": "1904-10-12",
+          "legate": null,
+          "deputy": "Monsignor François Xavier Cloutier, vescovo di Trois-Rivières",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 802, their id 746), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Monsignor François Xavier Cloutier, vescovo di Trois-Rivières; their decree date #-#-1904. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Statua del XIX secolo in gesso policromo e dorato. Prima immagine incoronata in Canada.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1954,
+          "page": 2493,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1493",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1493",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1954-07-02",
+          "coronation_date": "1954-08-12",
+          "legate": null,
+          "deputy": "Cardinale Valerio Valeri, presbiterio di San Silvestro in Capite",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1493, their id 1240), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Valerio Valeri, presbiterio di San Silvestro in Capite; their decree date 2-7-1954; 2nd crowning of the image. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua del XIX secolo in gesso policromo e dorato. Incoronata canonicamente la prima volta il 12 ottobre 1904.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 46,
@@ -5908,89 +5851,6 @@
           "incipit_latin": "Praeterito quidem anno, praeclarum templum Sancto Ioseph dicatum, quod in nobilissima exstat sede Marianopolitana, tuis precibus libenter indulgentes, ad Basilicae Minoris honorem ac dignitatem evehere benigne decrevimus.",
           "confidence": "high",
           "notes": "Papal letter deputing Card. Léger as Legate to impose the golden diadem 'Nostris veluti manibus'; occasioned by the 50th anniversary of the church's foundation. Coronation date not stated in the act. The same act is indexed at AAS 47 (1955) 600 in passages AAS-47-1955-ocr#874 and #906 (index entries, not separately recorded).",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "nostra-signora-del-capo-nostra-signora-dei-tre-s",
-      "image_title_vernacular": "Nostra Signora del Capo (Nostra Signora dei Tre Santi Rosari)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica di Nostra Signora del Capo",
-      "locality": "Trois-Rivières",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Trois-Rivières",
-      "country": "Canada",
-      "coronation_dates": [
-        "1904-10-12",
-        "1954-08-12"
-      ],
-      "first_coronation": "1904-10-12",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree",
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 2,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1904,
-          "page": 1802,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 802",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB802",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": "1904",
-          "coronation_date": "1904-10-12",
-          "legate": null,
-          "deputy": "Monsignor François Xavier Cloutier, vescovo di Trois-Rivières",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 802, their id 746), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Monsignor François Xavier Cloutier, vescovo di Trois-Rivières; their decree date #-#-1904. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Statua del XIX secolo in gesso policromo e dorato. Prima immagine incoronata in Canada.",
-          "parent_act": null
-        },
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1954,
-          "page": 2493,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1493",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1493",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1954-07-02",
-          "coronation_date": "1954-08-12",
-          "legate": null,
-          "deputy": "Cardinale Valerio Valeri, presbiterio di San Silvestro in Capite",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1493, their id 1240), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Valerio Valeri, presbiterio di San Silvestro in Capite; their decree date 2-7-1954; 2nd crowning of the image. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua del XIX secolo in gesso policromo e dorato. Incoronata canonicamente la prima volta il 12 ottobre 1904.",
           "parent_act": null
         }
       ]
@@ -7033,88 +6893,6 @@
       ]
     },
     {
-      "id": "nuestra-senora-del-rosario-de-las-lajas-ipiales",
-      "image_title_vernacular": "Nuestra Señora del Rosario de las Lajas",
-      "image_title_latin": "Nostra Domina SS. Rosarii, « de las Lajas » seu a rupe appellata",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
-      "locality": "Ipiales",
-      "diocese_latin": "Ipialensis",
-      "diocese_modern": "Ipiales",
-      "country": "Colombia",
-      "coronation_dates": [
-        "1952-09-16"
-      ],
-      "first_coronation": "1952-09-16",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act",
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Paulus PP. VI"
-      ],
-      "legates": [],
-      "confidence": "high",
-      "source_count": 2,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1952,
-          "page": 2457,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1457",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1457",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1950-06-06",
-          "coronation_date": "1952-09-16",
-          "legate": null,
-          "deputy": "Monsignor Antonio Samorè, nunzio apostolico",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1457, their id 1329), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Antonio Samorè, nunzio apostolico; their decree date 6-6-1950. Their annotazioni: ERR - Bonci: scambia la data del decreto con la data di incoronazione e la colloca a Pasto. Their note: Dipinto a olio su una lastra di pietra del XVI-XVII secolo.",
-          "parent_act": null
-        },
-        {
-          "series": "AAS",
-          "volume": 58,
-          "year": 1966,
-          "page": 45,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 58 (1966), p. 45",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf",
-          "act_number": "IV",
-          "act_type": "Litterae Apostolicae",
-          "pope": "Paulus PP. VI",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1965-04-26",
-          "concession_date": null,
-          "coronation_date": "1952",
-          "legate": null,
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "Beata Maria Virgo, « Nuestra Señora del Rosario de las Lajas » vulgo appellata, principalis Patrona dioecesis Ipialensis eligitur.",
-          "incipit_latin": "Tutela caelestis virtutis sacras iuvat diciones firmari, quae quasi arbores novellae in feraci catholicae Ecclesiae agro conseruntur.",
-          "confidence": "high",
-          "notes": "Patronage act; coronation attested in passing: 'ut enim praeclara imago anno MCMLII, auctoritate Petriani Canonicorum Collegii, pretioso diademate est redimita, ita duos post annos aedes ipsa ad dignitatem Basilicae Minoris ... est evecta'. The image is painted on rock ('marialis imago in saxo depicta'); the church is not named in the act. Country explicit ('intra fines Columbianae Civitatis').",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "nostra-signora-del-carmine-nuestra-senora-del-ca-6",
       "image_title_vernacular": "Nostra Signora del Carmine (Nuestra Señora del Carmen)",
       "image_title_latin": null,
@@ -7221,30 +6999,60 @@
       ]
     },
     {
-      "id": "de-las-lajas-las-lajas",
-      "image_title_vernacular": "de Las Lajas",
-      "image_title_latin": "Beata Maria Virgo de Rupe",
+      "id": "nuestra-senora-del-rosario-de-las-lajas-las-laja",
+      "image_title_vernacular": "Nuestra Señora del Rosario de las Lajas",
+      "image_title_latin": "Nostra Domina SS. Rosarii, « de las Lajas » seu a rupe appellata",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Templum B. Mariae V. de Rupe (sanctuary of Las Lajas)",
       "locality": "Las Lajas",
       "diocese_latin": "Pastopolitana",
-      "diocese_modern": "Pasto",
+      "diocese_modern": "Ipiales",
       "country": "Colombia",
       "coronation_dates": [
-        "1952"
+        "1952-09-16"
       ],
-      "first_coronation": "1952",
-      "strongest_evidence": "retrospective_attestation",
+      "first_coronation": "1952-09-16",
+      "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
+        "papal_coronation_act",
         "retrospective_attestation"
       ],
       "popes": [
+        "Paulus PP. VI",
         "Pius PP. XII"
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 3,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1952,
+          "page": 2457,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1457",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1457",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1950-06-06",
+          "coronation_date": "1952-09-16",
+          "legate": null,
+          "deputy": "Monsignor Antonio Samorè, nunzio apostolico",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1457, their id 1329), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Antonio Samorè, nunzio apostolico; their decree date 6-6-1950. Their annotazioni: ERR - Bonci: scambia la data del decreto con la data di incoronazione e la colloca a Pasto. Their note: Dipinto a olio su una lastra di pietra del XVI-XVII secolo.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 48,
@@ -7269,6 +7077,32 @@
           "incipit_latin": "Templum perdecorum loci amoenitate atque structurae genere conspicuum, in quo Imago Beatae Virginis in saxo depicta, ideoque « de Rupe » appellata, pie excolitur",
           "confidence": "high",
           "notes": "Basilica Minor elevation; attests 'praeclara Eius Imago, anno millesimo nongentesimo quinquagesimo secundo ... auctoritate Petriani Canonicorum Collegii, aureo diademate fuit redimita' - crowned 1952 by authority of the Vatican Chapter. Country explicit ('Reipublicae Columbianae'). The act rubric and opening are on printed page 68 (per the volume index); passage page marker is 69.",
+          "parent_act": null
+        },
+        {
+          "series": "AAS",
+          "volume": 58,
+          "year": 1966,
+          "page": 45,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 58 (1966), p. 45",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf",
+          "act_number": "IV",
+          "act_type": "Litterae Apostolicae",
+          "pope": "Paulus PP. VI",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1965-04-26",
+          "concession_date": null,
+          "coronation_date": "1952",
+          "legate": null,
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "Beata Maria Virgo, « Nuestra Señora del Rosario de las Lajas » vulgo appellata, principalis Patrona dioecesis Ipialensis eligitur.",
+          "incipit_latin": "Tutela caelestis virtutis sacras iuvat diciones firmari, quae quasi arbores novellae in feraci catholicae Ecclesiae agro conseruntur.",
+          "confidence": "high",
+          "notes": "Patronage act; coronation attested in passing: 'ut enim praeclara imago anno MCMLII, auctoritate Petriani Canonicorum Collegii, pretioso diademate est redimita, ita duos post annos aedes ipsa ad dignitatem Basilicae Minoris ... est evecta'. The image is painted on rock ('marialis imago in saxo depicta'); the church is not named in the act. Country explicit ('intra fines Columbianae Civitatis').",
           "parent_act": null
         }
       ]
@@ -17578,7 +17412,7 @@
       "popes": [],
       "legates": [],
       "confidence": "low",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -17607,32 +17441,7 @@
           "confidence": "low",
           "notes": "Reported by Zander/Magister 2011, not read at first hand. No archival citation in the catalogue entry.",
           "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "madre-di-dio-nera-die-schwarze-muttergottes-colo",
-      "image_title_vernacular": "Madre di Dio Nera (Die Schwarze Muttergottes)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Chiesa di Santa Maria in Kupfergasse",
-      "locality": "Colonia",
-      "diocese_latin": null,
-      "diocese_modern": "Arcidiocesi di Colonia",
-      "country": "Germany",
-      "coronation_dates": [
-        "1925-06-07"
-      ],
-      "first_coronation": "1925-06-07",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
+        },
         {
           "series": "LIT",
           "volume": 0,
@@ -18467,57 +18276,6 @@
           "incipit_latin": "« Quaeramus gratiam, et per Mariam quaeramus », ait Sanctus Bernardus, suavissimus vitae spiritualis praeceptor ac Deiparae Virginis praeco eximius",
           "confidence": "medium",
           "notes": "Patronage act attesting the crowning: 'Quod simulacrum, anno MDCCCXCIII aureo diademate sollemni ritu redimitum' (1893); no crowning authority named. The sanctuary is located only as 'urbis episcopalis praeclarum ornamentum' — i.e. in the episcopal city of the see of Telese/Cerreto Sannita — so locality left null rather than inferred. Vernacular title supplied from the Latin 'a gratiis'. Country inferred, not stated.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "nostra-signora-del-rimedio-italy",
-      "image_title_vernacular": "Nostra Signora del Rimedio",
-      "image_title_latin": "Beatissima Virgo Maria a Remedio",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Deiparae Templum (Arboreae)",
-      "locality": null,
-      "diocese_latin": "Arborensis",
-      "diocese_modern": "Oristano (Arborea)",
-      "country": "Italy",
-      "coronation_dates": [],
-      "first_coronation": null,
-      "strongest_evidence": "retrospective_attestation",
-      "evidence_types": [
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Pius PP. XII"
-      ],
-      "legates": [],
-      "confidence": "medium",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "AAS",
-          "volume": 47,
-          "year": 1955,
-          "page": 488,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 47 (1955), p. 488",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf",
-          "act_number": "I",
-          "act_type": "Litterae Apostolicae",
-          "pope": "Pius PP. XII",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1954-05-31",
-          "concession_date": null,
-          "coronation_date": null,
-          "legate": null,
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "BEATA MARIA V. « A REMEDIO » TOTIUS ARCHIDIOECESIS ARBORENSIS PATRONA AEQUE PRINCIPALIS CUM S. ARCHELAO MARTYRE INSTITUITUR.",
-          "incipit_latin": "Ex quo Beatissima Virgo Maria, a remedio vulgo appellata et Arboreae pie exculta, aurea fuit corona redimita, pietas erga eandem hanc Dei hominumque Matrem",
-          "confidence": "medium",
-          "notes": "Patronage act opens by recalling « aurea fuit corona redimita »; no year and no crowning authority stated. Sardinia is named in the act (« non solum e Sardinia insula sed e continente etiam terra »), so the country is secure; the exact locality of the sanctuary is not given.",
           "parent_act": null
         }
       ]
@@ -22787,89 +22545,6 @@
           "incipit_latin": null,
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 237, their id 368), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Monsignor Francesco Pacca, arcivescovo di Benevento; their decree date 4-3-1752. Their annotazioni: Frate Anselmo: data l'incoronazione 27 ottobre 1754. Their note: Olio su tavola del XVI secolo, opera di Avanzino Nucci.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "santa-maria-dell-incoronata-nell-eremo-de-camald",
-      "image_title_vernacular": "Santa Maria dell'Incoronata nell'Eremo de' Camaldolesi",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Eremo dei Camaldolesi (Madonna Incoronata)",
-      "locality": "Benevento, church of the Camaldolese",
-      "diocese_latin": null,
-      "diocese_modern": null,
-      "country": "Italy",
-      "coronation_dates": [
-        "1723"
-      ],
-      "first_coronation": "1723",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "medium",
-      "source_count": 2,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1723,
-          "page": 110,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Balzamo 2023, p. 186",
-          "source_pdf_url": null,
-          "act_number": "B10",
-          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": null,
-          "coronation_date": "1723",
-          "legate": null,
-          "deputy": null,
-          "register_refs": [
-            "BAV, ACSP, Madonne coronate, 5, f. 68r–78v"
-          ],
-          "documents": [
-            "secondary literature"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "medium",
-          "notes": "Reported by Balzamo 2023, not read at first hand. A shrine of purely local reach, absent even from Montorio's Zodiaco di Maria (1715).",
-          "parent_act": null
-        },
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1723,
-          "page": 564,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Briccolani 1800, p. 154",
-          "source_pdf_url": "https://archive.org/details/gri_33125011212400",
-          "act_number": "Br164",
-          "act_type": "Coronation listed in a printed register",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": null,
-          "coronation_date": "1723",
-          "legate": null,
-          "deputy": null,
-          "register_refs": [],
-          "documents": [
-            "printed register"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": "Santa Maria dell'Incoronata nell'Eremo de' Camaldolesi vicino a Benevento",
-          "confidence": "low",
-          "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
         }
       ]
@@ -29299,59 +28974,6 @@
           "incipit_latin": null,
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 826, their id 1071), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Cardinale Agostino Richelmy, arcivescovo di Torino; their decree date 18-4-1905. Their annotazioni: ERR - Frate Anselmo: scambia la data del decreto con quello dell'incoronazione. Their note: Statua lignea realizzata nel 1641-1642 da Pietro Botto da Savigliano. Corone donate dalla signora Carolina Bordano vedova Torsellino.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "santa-maria-delle-grazie-chiesa-in-valmalenco-fr",
-      "image_title_vernacular": "Santa Maria delle Grazie",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santuario della Beata Vergine delle Grazie",
-      "locality": "Chiesa in Valmalenco, frazione di Primolo",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Como",
-      "country": "Italy",
-      "coronation_dates": [
-        "1765-08-11"
-      ],
-      "first_coronation": "1765-08-11",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1765,
-          "page": 1255,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 255",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB255",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": "1765-05-13",
-          "coronation_date": "1765-08-11",
-          "legate": null,
-          "deputy": "Colombano Sozzi, abate del monastero di Disentis nel Canton Grigioni",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 255, their id 566), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Colombano Sozzi, abate del monastero di Disentis nel Canton Grigioni; their decree date 13-5-1765. Their annotazioni: ERR: Briccolani: la colloca in Valle Valenza in Valtellina. ERR - Frate Anselmo: la colloca in Valle Valenza in Valtellina e data l'incoronazione 8 novembre 1765 (inverte il mese con il giorno). Their note: Statua lignea. Fu papa Clemente XIII a nominare, per la solenne incoronazione, l'abate Colombano Sozzi del monastero di Disentis nel Canton Grigioni che era anche Principe del Sacro Romano Impero.",
           "parent_act": null
         }
       ]
@@ -40910,59 +40532,6 @@
       ]
     },
     {
-      "id": "madonna-del-rocciamelone-mompantero",
-      "image_title_vernacular": "Madonna del Rocciamelone",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Piedistallo sulla cima della montagna Rocciamelone",
-      "locality": "Mompantero",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Susa",
-      "country": "Italy",
-      "coronation_dates": [
-        "1930-08-10"
-      ],
-      "first_coronation": "1930-08-10",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1930,
-          "page": 2205,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1205",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1205",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": "1930-06-15",
-          "coronation_date": "1930-08-10",
-          "legate": null,
-          "deputy": "Monsignor Angelo Bartolomasi, Ordinario Militare d'Italia",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1205, their id 1072), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Monsignor Angelo Bartolomasi, Ordinario Militare d'Italia; their decree date 15-6-1930. Their annotazioni: Frate Anselmo: la colloca a Susa, senza indicare la regione. ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione. Their note: Statua in bronzo, alta 4 metri, dello scultore Giovanni Antonio Stuardi. Il decreto del Capitolo Vaticano fu firmato dal Cardinale Eugenio Pacelli, futuro papa Pio XII.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "image-monchiero",
       "image_title_vernacular": null,
       "image_title_latin": null,
@@ -46990,14 +46559,14 @@
       ]
     },
     {
-      "id": "madonna-del-rimedio-oristano",
-      "image_title_vernacular": "Madonna del Rimedio",
-      "image_title_latin": null,
+      "id": "nostra-signora-del-rimedio-oristano-prope-urbem",
+      "image_title_vernacular": "Nostra Signora del Rimedio",
+      "image_title_latin": "Beatissima Virgo Maria a Remedio",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santuario Nostra Signora del Rimedio",
-      "locality": "Oristano",
-      "diocese_latin": null,
-      "diocese_modern": "Arcidiocesi di Oristano",
+      "church_or_sanctuary": "Ecclesia (Sanctuarium) Beatae Mariae Virginis « a remedio »",
+      "locality": "Oristano (prope urbem « Oristano »)",
+      "diocese_latin": "Arborensis",
+      "diocese_modern": "Oristano (Arborea)",
       "country": "Italy",
       "coronation_dates": [
         "1952-09-07"
@@ -47005,12 +46574,17 @@
       "first_coronation": "1952-09-07",
       "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
-        "papal_coronation_act"
+        "papal_coronation_act",
+        "retrospective_attestation"
       ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
+      "popes": [
+        "Pius PP. XII"
+      ],
+      "legates": [
+        "Fridericus S. R. E. Cardinalis Tedeschini, Episcopus Tusculanus, Patriarchalis Basilicae Petrianae Archipresbyter"
+      ],
+      "confidence": "high",
+      "source_count": 3,
       "sources": [
         {
           "series": "LIT",
@@ -47039,34 +46613,33 @@
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1453, their id 1544), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Federico Tedeschini, vescovo di Frascati. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua in pietra del XIII secolo.",
           "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "beata-maria-virgo-a-remedio-oristano-prope-urbem",
-      "image_title_vernacular": null,
-      "image_title_latin": "Beata Maria Virgo « a remedio »",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Ecclesia (Sanctuarium) Beatae Mariae Virginis « a remedio »",
-      "locality": "Oristano (prope urbem « Oristano »)",
-      "diocese_latin": "Arborensis",
-      "diocese_modern": "Oristano (Arborea)",
-      "country": "Italy",
-      "coronation_dates": [],
-      "first_coronation": null,
-      "strongest_evidence": "retrospective_attestation",
-      "evidence_types": [
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Pius PP. XII"
-      ],
-      "legates": [
-        "Fridericus S. R. E. Cardinalis Tedeschini, Episcopus Tusculanus, Patriarchalis Basilicae Petrianae Archipresbyter"
-      ],
-      "confidence": "high",
-      "source_count": 1,
-      "sources": [
+        },
+        {
+          "series": "AAS",
+          "volume": 47,
+          "year": 1955,
+          "page": 488,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 47 (1955), p. 488",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf",
+          "act_number": "I",
+          "act_type": "Litterae Apostolicae",
+          "pope": "Pius PP. XII",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1954-05-31",
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": null,
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "BEATA MARIA V. « A REMEDIO » TOTIUS ARCHIDIOECESIS ARBORENSIS PATRONA AEQUE PRINCIPALIS CUM S. ARCHELAO MARTYRE INSTITUITUR.",
+          "incipit_latin": "Ex quo Beatissima Virgo Maria, a remedio vulgo appellata et Arboreae pie exculta, aurea fuit corona redimita, pietas erga eandem hanc Dei hominumque Matrem",
+          "confidence": "medium",
+          "notes": "Patronage act opens by recalling « aurea fuit corona redimita »; no year and no crowning authority stated. Sardinia is named in the act (« non solum e Sardinia insula sed e continente etiam terra »), so the country is secure; the exact locality of the sanctuary is not given. 'Arboreae' is Oristano, whose sanctuary of the Rimedio stands at Donigala Fenughedu.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 50,
@@ -51871,6 +51444,87 @@
           "incipit_latin": "Sacra illa aedes, quae loco vulgo dicto Preval in archidioecesi Goritiensi exstat, gratiosam imaginem Beatae Virginis sub titulo « Sancta Maria, Populorum Regina » servat",
           "confidence": "medium",
           "notes": "Country Italy inferred from the archdiocese of Gorizia; not stated in the act. The act notes veneration by faithful of various nations for five hundred years. Archbishop Antonio Vitale Bommarco deputed to impose the crown.",
+          "parent_act": null
+        }
+      ]
+    },
+    {
+      "id": "santa-maria-delle-grazie-di-valle-valenza-primol",
+      "image_title_vernacular": "Santa Maria delle Grazie di Valle Valenza",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": "Santa Maria delle Grazie",
+      "locality": "Primolo (Chiesa in Valmalenco), Valtellina, diocese of Como",
+      "diocese_latin": null,
+      "diocese_modern": null,
+      "country": "Italy",
+      "coronation_dates": [
+        "1765-08-11"
+      ],
+      "first_coronation": "1765-08-11",
+      "strongest_evidence": "chapter_decree",
+      "evidence_types": [
+        "chapter_decree"
+      ],
+      "popes": [],
+      "legates": [],
+      "confidence": "low",
+      "source_count": 2,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1765,
+          "page": 611,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Briccolani 1800, p. 158",
+          "source_pdf_url": "https://archive.org/details/gri_33125011212400",
+          "act_number": "Br211",
+          "act_type": "Coronation listed in a printed register",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1765",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed register"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": "Santa Maria delle Grazie di Valle Valenza in Valtelina Diocesi di Como",
+          "confidence": "low",
+          "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Printed 'Valle Valenza': Val Malenco, whose sanctuary of the Madonna delle Grazie at Primolo was crowned in 1765.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1765,
+          "page": 1255,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 255",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB255",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1765-05-13",
+          "coronation_date": "1765-08-11",
+          "legate": null,
+          "deputy": "Colombano Sozzi, abate del monastero di Disentis nel Canton Grigioni",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 255, their id 566), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Colombano Sozzi, abate del monastero di Disentis nel Canton Grigioni; their decree date 13-5-1765. Their annotazioni: ERR: Briccolani: la colloca in Valle Valenza in Valtellina. ERR - Frate Anselmo: la colloca in Valle Valenza in Valtellina e data l'incoronazione 8 novembre 1765 (inverte il mese con il giorno). Their note: Statua lignea. Fu papa Clemente XIII a nominare, per la solenne incoronazione, l'abate Colombano Sozzi del monastero di Disentis nel Canton Grigioni che era anche Principe del Sacro Romano Impero.",
           "parent_act": null
         }
       ]
@@ -68252,14 +67906,14 @@
       ]
     },
     {
-      "id": "santa-maria-dell-arco-sant-anastasia",
-      "image_title_vernacular": "Santa Maria dell'Arco",
-      "image_title_latin": null,
+      "id": "madonna-dell-arco-sant-anastasia-near-naples-apu",
+      "image_title_vernacular": "Madonna dell'Arco",
+      "image_title_latin": "Beatae Mariae Virginis imago ab Arcu appellata",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santuario della Madonna dell'Arco",
-      "locality": "Sant'Anastasia",
+      "church_or_sanctuary": "Aedes sacra B. M. V. ab Arcu appellatae (sanctuary served by the Fratres Praedicatores)",
+      "locality": "Sant'Anastasia, near Naples (apud urbem Neapolim)",
       "diocese_latin": null,
-      "diocese_modern": "Diocesi di Nola",
+      "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
         "1874-09-08"
@@ -68267,12 +67921,17 @@
       "first_coronation": "1874-09-08",
       "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
-        "papal_coronation_act"
+        "papal_coronation_act",
+        "retrospective_attestation"
       ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
+      "popes": [
+        "Paulus PP. VI"
+      ],
+      "legates": [
+        "Marius S. R. E. Cardinalis Nasalli Rocca di Corneliano, Missus Extraordinarius"
+      ],
+      "confidence": "medium",
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -68301,18 +67960,44 @@
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 510, their id 416), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Tommaso Passero, vescovo di Troia; their decree date 22-8-1874. Their note: Affresco del XIV secolo. Le corone furono donate da Monsignor Tommaso Passero vescovo di Troia.",
           "parent_act": null
+        },
+        {
+          "series": "AAS",
+          "volume": 66,
+          "year": 1974,
+          "page": 485,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 66 (1974), p. 485",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf",
+          "act_number": "II",
+          "act_type": "Epistula",
+          "pope": "Paulus PP. VI",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1974-08-28",
+          "concession_date": null,
+          "coronation_date": "1874",
+          "legate": "Marius S. R. E. Cardinalis Nasalli Rocca di Corneliano, Missus Extraordinarius",
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "Ad E.mum P. D. Marium S. R. E. Cardinalem Nasalli Rocca di Corneliano, quem Missum Extraordinarium eligit ut celebritatibus praesideat in aede sacra B. M. V. ab Arcu appellatae apud urbem Neapolim, primo volvente saeculo ex quo eadem Deiparae imago aureo diademate redimita fuit.",
+          "incipit_latin": "Quemadmodum accepimus, die VIII mensis Septembris hoc anno, quo saeculum implebitur ex quo Beatae Mariae Virginis imago, quae in aede, eidem Deiparae ab Arcu appellatae apud urbem Neapolim sacra, piis obsequiis colitur, aureo diademate fuit redimita, peculiaria sollemnia ibidem agentur.",
+          "confidence": "medium",
+          "notes": "Not a coronation act: the Pope sends a Missus Extraordinarius to preside at the centenary of the image's golden crowning. Coronation year derived from 'primo volvente saeculo' with the celebration on 8 September 1974, so the crowning was in 1874 (very likely 8 September 1874) - verify the exact day. Country Italy inferred from 'apud urbem Neapolim' (Naples); no diocese named in the act. Vernacular title rendered from the Latin 'ab Arcu appellatae'. The act also recalls that Pius IX visited the sanctuary and venerated the image. Confirmed by the volume indices at pp. 759, 788, 792. The sanctuary of the Madonna dell'Arco is at Sant'Anastasia.",
+          "parent_act": null
         }
       ]
     },
     {
-      "id": "santa-maria-incoronata-sant-angelo-a-scala",
-      "image_title_vernacular": "Santa Maria Incoronata",
+      "id": "santa-maria-dell-incoronata-nell-eremo-de-camald",
+      "image_title_vernacular": "Santa Maria dell'Incoronata nell'Eremo de' Camaldolesi",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Convento di Santa Maria dell'Incoronata dei PP Camaldolesi",
-      "locality": "Sant'Angelo a Scala",
+      "church_or_sanctuary": "Eremo dei Camaldolesi (Madonna Incoronata)",
+      "locality": "Sant'Angelo a Scala, Camaldolese hermitage of the Incoronata",
       "diocese_latin": null,
-      "diocese_modern": "Diocesi di Avellino",
+      "diocese_modern": null,
       "country": "Italy",
       "coronation_dates": [
         "1723-04-23"
@@ -68324,9 +68009,67 @@
       ],
       "popes": [],
       "legates": [],
-      "confidence": "low",
-      "source_count": 1,
+      "confidence": "medium",
+      "source_count": 3,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1723,
+          "page": 110,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Balzamo 2023, p. 186",
+          "source_pdf_url": null,
+          "act_number": "B10",
+          "act_type": "Coronation reported by secondary literature, citing the Chapter dossier",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1723",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [
+            "BAV, ACSP, Madonne coronate, 5, f. 68r–78v"
+          ],
+          "documents": [
+            "secondary literature"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Reported by Balzamo 2023, not read at first hand. A shrine of purely local reach, absent even from Montorio's Zodiaco di Maria (1715). Balzamo places it at Benevento, the archdiocese; the Camaldolese hermitage of the Incoronata is at Sant'Angelo a Scala.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1723,
+          "page": 564,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Briccolani 1800, p. 154",
+          "source_pdf_url": "https://archive.org/details/gri_33125011212400",
+          "act_number": "Br164",
+          "act_type": "Coronation listed in a printed register",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1723",
+          "legate": null,
+          "deputy": null,
+          "register_refs": [],
+          "documents": [
+            "printed register"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": "Santa Maria dell'Incoronata nell'Eremo de' Camaldolesi vicino a Benevento",
+          "confidence": "low",
+          "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. 'Vicino a Benevento': the Camaldolese hermitage of the Incoronata is at Sant'Angelo a Scala, in the archdiocese.",
+          "parent_act": null
+        },
         {
           "series": "LIT",
           "volume": 0,
@@ -71367,10 +71110,13 @@
       "diocese_latin": "Segusiensis",
       "diocese_modern": "Susa",
       "country": "Italy",
-      "coronation_dates": [],
-      "first_coronation": null,
-      "strongest_evidence": "retrospective_attestation",
+      "coronation_dates": [
+        "1930-08-10"
+      ],
+      "first_coronation": "1930-08-10",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
         "retrospective_attestation"
       ],
       "popes": [
@@ -71378,8 +71124,36 @@
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1930,
+          "page": 2205,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1205",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1205",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1930-06-15",
+          "coronation_date": "1930-08-10",
+          "legate": null,
+          "deputy": "Monsignor Angelo Bartolomasi, Ordinario Militare d'Italia",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1205, their id 1072), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Monsignor Angelo Bartolomasi, Ordinario Militare d'Italia; their decree date 15-6-1930. Their annotazioni: Frate Anselmo: la colloca a Susa, senza indicare la regione. ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione. Their note: Statua in bronzo, alta 4 metri, dello scultore Giovanni Antonio Stuardi. Il decreto del Capitolo Vaticano fu firmato dal Cardinale Eugenio Pacelli, futuro papa Pio XII.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 54,
@@ -73914,59 +73688,6 @@
           "incipit_latin": null,
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 970, their id 1013), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Monsignor Luigi Maria Marelli, vescovo di Bergamo; their decree date 16-12-1916. Their annotazioni: ERR - Frate Anselmo: scambia la data del decreto con la data di incoronazione e la titola Madonna della Fontana. Their note: Statua lignea.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "santa-maria-delle-grazie-di-valle-valenza-valle",
-      "image_title_vernacular": "Santa Maria delle Grazie di Valle Valenza",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santa Maria delle Grazie",
-      "locality": "Valle di Valenza (Valtellina), diocese of Como",
-      "diocese_latin": null,
-      "diocese_modern": null,
-      "country": "Italy",
-      "coronation_dates": [
-        "1765"
-      ],
-      "first_coronation": "1765",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1765,
-          "page": 611,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Briccolani 1800, p. 158",
-          "source_pdf_url": "https://archive.org/details/gri_33125011212400",
-          "act_number": "Br211",
-          "act_type": "Coronation listed in a printed register",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": null,
-          "coronation_date": "1765",
-          "legate": null,
-          "deputy": null,
-          "register_refs": [],
-          "documents": [
-            "printed register"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": "Santa Maria delle Grazie di Valle Valenza in Valtelina Diocesi di Como",
-          "confidence": "low",
-          "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand.",
           "parent_act": null
         }
       ]
@@ -76545,61 +76266,6 @@
       ]
     },
     {
-      "id": "madonna-dell-arco-near-naples-apud-urbem-neapoli",
-      "image_title_vernacular": "Madonna dell'Arco",
-      "image_title_latin": "Beatae Mariae Virginis imago ab Arcu appellata",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Aedes sacra B. M. V. ab Arcu appellatae (sanctuary served by the Fratres Praedicatores)",
-      "locality": "near Naples (apud urbem Neapolim)",
-      "diocese_latin": null,
-      "diocese_modern": null,
-      "country": "Italy",
-      "coronation_dates": [
-        "1874"
-      ],
-      "first_coronation": "1874",
-      "strongest_evidence": "retrospective_attestation",
-      "evidence_types": [
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Paulus PP. VI"
-      ],
-      "legates": [
-        "Marius S. R. E. Cardinalis Nasalli Rocca di Corneliano, Missus Extraordinarius"
-      ],
-      "confidence": "medium",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "AAS",
-          "volume": 66,
-          "year": 1974,
-          "page": 485,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 66 (1974), p. 485",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf",
-          "act_number": "II",
-          "act_type": "Epistula",
-          "pope": "Paulus PP. VI",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1974-08-28",
-          "concession_date": null,
-          "coronation_date": "1874",
-          "legate": "Marius S. R. E. Cardinalis Nasalli Rocca di Corneliano, Missus Extraordinarius",
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "Ad E.mum P. D. Marium S. R. E. Cardinalem Nasalli Rocca di Corneliano, quem Missum Extraordinarium eligit ut celebritatibus praesideat in aede sacra B. M. V. ab Arcu appellatae apud urbem Neapolim, primo volvente saeculo ex quo eadem Deiparae imago aureo diademate redimita fuit.",
-          "incipit_latin": "Quemadmodum accepimus, die VIII mensis Septembris hoc anno, quo saeculum implebitur ex quo Beatae Mariae Virginis imago, quae in aede, eidem Deiparae ab Arcu appellatae apud urbem Neapolim sacra, piis obsequiis colitur, aureo diademate fuit redimita, peculiaria sollemnia ibidem agentur.",
-          "confidence": "medium",
-          "notes": "Not a coronation act: the Pope sends a Missus Extraordinarius to preside at the centenary of the image's golden crowning. Coronation year derived from 'primo volvente saeculo' with the celebration on 8 September 1974, so the crowning was in 1874 (very likely 8 September 1874) - verify the exact day. Country Italy inferred from 'apud urbem Neapolim' (Naples); no diocese named in the act. Vernacular title rendered from the Latin 'ab Arcu appellatae'. The act also recalls that Pius IX visited the sanctuary and venerated the image. Confirmed by the volume indices at pp. 759, 788, 792.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "nostra-signora-d-arabia-our-lady-of-arabia-ahmad",
       "image_title_vernacular": "Nostra Signora d'Arabia (Our Lady of Arabia)",
       "image_title_latin": null,
@@ -77114,59 +76780,6 @@
       ]
     },
     {
-      "id": "our-lady-of-ta-pinu-malta",
-      "image_title_vernacular": "Our Lady of Ta' Pinu",
-      "image_title_latin": "Imago Beatae Mariae Virginis in caelum Assumptae sub titulo « ta Pinu »",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica B. Mariae V. « ta Pinu »",
-      "locality": null,
-      "diocese_latin": "Gaudisiensis",
-      "diocese_modern": "Gozo",
-      "country": "Malta",
-      "coronation_dates": [],
-      "first_coronation": null,
-      "strongest_evidence": "papal_legate_deputation",
-      "evidence_types": [
-        "papal_legate_deputation"
-      ],
-      "popes": [
-        "Pius PP. XI"
-      ],
-      "legates": [
-        "Alexius Henricus Maria S. R. E. Card. Lépicier, tit. Sanctae Susannae"
-      ],
-      "confidence": "high",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "AAS",
-          "volume": 27,
-          "year": 1935,
-          "page": 403,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 27 (1935), p. 403",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf",
-          "act_number": "II",
-          "act_type": "Litterae Apostolicae",
-          "pope": "Pius PP. XI",
-          "evidence_type": "papal_legate_deputation",
-          "act_date": "1935-05-24",
-          "concession_date": null,
-          "coronation_date": null,
-          "legate": "Alexius Henricus Maria S. R. E. Card. Lépicier, tit. Sanctae Susannae",
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "EMUS P. D. ALEXIUS HENRICUS M. TIT. SANCTAE SUSANNAE S. R. E. PRESB. CARDINALIS LÉPICIER DEPUTATUR AD AUREA CORONA ORNANDUM SIMULACRUM B. MARIAE V. « TA PINU » NUNCUPATAE IN EIUSDEM BASILICA DIOECESIS GAUDISIENSIS.",
-          "incipit_latin": "Marianum exstat Sanctuarium insigne Gaudisiensis dioecesis intra fines, quod iam Basilicae Minoris titulo privilegiisque Nos ipsi Litteris Apostolicis Nostris",
-          "confidence": "high",
-          "notes": "Cardinal Lépicier, already Legate to the Regional Council of Malta, is charged 'ut arbitrio eius eligendo die ... aureum diadema Nostro nomine et auctoritate imponat' — day left to the legate, so no coronation date. The painting is described as by Stephanus Amedeus de Perusia, 1619. The act itself recalls that the sanctuary was made a minor basilica by Litterae Apostolicae of 31 Aug. 1932. No town named (the shrine is at Għarb); country inferred from the diocese of Gozo and the reference to the neighbouring diocese of Malta.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "santa-maria-tal-herba-vergine-maria-delle-rovine",
       "image_title_vernacular": "Santa Maria Tal Herba (Vergine Maria delle Rovine)",
       "image_title_latin": null,
@@ -77326,14 +76939,14 @@
       ]
     },
     {
-      "id": "beata-vergine-di-ta-pinu-blessed-virgin-of-ta-pi",
-      "image_title_vernacular": "Beata Vergine di Ta' Pinu (Blessed Virgin of Ta' Pinu)",
-      "image_title_latin": null,
+      "id": "our-lady-of-ta-pinu-garb-gozo",
+      "image_title_vernacular": "Our Lady of Ta' Pinu",
+      "image_title_latin": "Imago Beatae Mariae Virginis in caelum Assumptae sub titulo « ta Pinu »",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica di Ta' Pinu",
-      "locality": "Għarb",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Gozo",
+      "church_or_sanctuary": "Basilica B. Mariae V. « ta Pinu »",
+      "locality": "Għarb (Gozo)",
+      "diocese_latin": "Gaudisiensis",
+      "diocese_modern": "Gozo",
       "country": "Malta",
       "coronation_dates": [
         "1935-06-20"
@@ -77341,12 +76954,17 @@
       "first_coronation": "1935-06-20",
       "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
-        "papal_coronation_act"
+        "papal_coronation_act",
+        "papal_legate_deputation"
       ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
+      "popes": [
+        "Pius PP. XI"
+      ],
+      "legates": [
+        "Alexius Henricus Maria S. R. E. Card. Lépicier, tit. Sanctae Susannae"
+      ],
+      "confidence": "high",
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -77374,6 +76992,32 @@
           "incipit_latin": null,
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1263, their id 1589), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Alessio Maria Lépiciér, legato pontificio; their decree date 24-5-1935. Their annotazioni: ERR - Bonci: data l'incoronazione 6 ottobre 1933 e la colloca a Gozo (l'isola dove si trova la Madonna). Their note: Dipinto attribuito ad Amedeo Perugino raffigurante l'Assunzione della Vergine Maria del XVII secolo.",
+          "parent_act": null
+        },
+        {
+          "series": "AAS",
+          "volume": 27,
+          "year": 1935,
+          "page": 403,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 27 (1935), p. 403",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf",
+          "act_number": "II",
+          "act_type": "Litterae Apostolicae",
+          "pope": "Pius PP. XI",
+          "evidence_type": "papal_legate_deputation",
+          "act_date": "1935-05-24",
+          "concession_date": null,
+          "coronation_date": null,
+          "legate": "Alexius Henricus Maria S. R. E. Card. Lépicier, tit. Sanctae Susannae",
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "EMUS P. D. ALEXIUS HENRICUS M. TIT. SANCTAE SUSANNAE S. R. E. PRESB. CARDINALIS LÉPICIER DEPUTATUR AD AUREA CORONA ORNANDUM SIMULACRUM B. MARIAE V. « TA PINU » NUNCUPATAE IN EIUSDEM BASILICA DIOECESIS GAUDISIENSIS.",
+          "incipit_latin": "Marianum exstat Sanctuarium insigne Gaudisiensis dioecesis intra fines, quod iam Basilicae Minoris titulo privilegiisque Nos ipsi Litteris Apostolicis Nostris",
+          "confidence": "high",
+          "notes": "Cardinal Lépicier, already Legate to the Regional Council of Malta, is charged 'ut arbitrio eius eligendo die ... aureum diadema Nostro nomine et auctoritate imponat' — day left to the legate, so no coronation date. The painting is described as by Stephanus Amedeus de Perusia, 1619. The act itself recalls that the sanctuary was made a minor basilica by Litterae Apostolicae of 31 Aug. 1932. No town named (the shrine is at Għarb); country inferred from the diocese of Gozo and the reference to the neighbouring diocese of Malta. The sanctuary of Ta' Pinu is at Għarb, Gozo.",
           "parent_act": null
         }
       ]
@@ -78899,59 +78543,6 @@
       ]
     },
     {
-      "id": "nostra-signora-di-guadalupe-vergine-di-guadalupe",
-      "image_title_vernacular": "Nostra Signora di Guadalupe (Vergine di Guadalupe)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica di Nostra Signora di Guadalupe",
-      "locality": "Città del Messico",
-      "diocese_latin": null,
-      "diocese_modern": "Arcidiocesi di Città del Messico",
-      "country": "Mexico",
-      "coronation_dates": [
-        "1895-10-12"
-      ],
-      "first_coronation": "1895-10-12",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1895,
-          "page": 1686,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 686",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB686",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": "1887-02-18",
-          "coronation_date": "1895-10-12",
-          "legate": null,
-          "deputy": "Monsignor Prospero Alarcon y Sanchez de la Barquera, arcivescovo Città del Messico",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 686, their id 230), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Monsignor Prospero Alarcon y Sanchez de la Barquera, arcivescovo Città del Messico; their decree date 18-2-1887. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Dipinto su tilma (fibra d'algave) del XVI secolo.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "nostra-signora-degli-angeli-nuestra-senora-de-lo",
       "image_title_vernacular": "Nostra Signora degli Angeli (Nuestra Señora de los Angeles)",
       "image_title_latin": null,
@@ -80176,7 +79767,7 @@
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 8,
+      "source_count": 9,
       "sources": [
         {
           "series": "LIT",
@@ -80234,6 +79825,34 @@
           "incipit_latin": "Santa Maria di Guadalupe vicino al Messico nell'Indie Occidentali",
           "confidence": "low",
           "notes": "Reported by Briccolani 1800 (printed register, year only, no archival reference), not read at first hand. Listed by Briccolani as crowned in 1740. The Chapter conceded the crown (Boturini's petition, 1738) but the coronation was annulled by the Council of the Indies and never carried out (Balzamo 2023); the image was first crowned in 1895.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1895,
+          "page": 1686,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 686",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB686",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1887-02-18",
+          "coronation_date": "1895-10-12",
+          "legate": null,
+          "deputy": "Monsignor Prospero Alarcon y Sanchez de la Barquera, arcivescovo Città del Messico",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 686, their id 230), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Monsignor Prospero Alarcon y Sanchez de la Barquera, arcivescovo Città del Messico; their decree date 18-2-1887. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Dipinto su tilma (fibra d'algave) del XVI secolo.",
           "parent_act": null
         },
         {
@@ -80528,12 +80147,12 @@
       ]
     },
     {
-      "id": "nuestra-senora-de-los-remedios-naucalpan",
+      "id": "nuestra-senora-de-los-remedios-naucalpan-diocese",
       "image_title_vernacular": "Nuestra Señora de los Remedios",
       "image_title_latin": "Imago Beatae Mariae Virginis quae in sacra aede Naucalpanensis civitatis servatur",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Sacra aedes civitatis Naucalpanensis",
-      "locality": "Naucalpan",
+      "church_or_sanctuary": "Sanctuarium Nuestra Señora de los Remedios",
+      "locality": "Naucalpan (diocese of Tlalnepantla)",
       "diocese_latin": "Tlalnepantlana",
       "diocese_modern": "Tlalnepantla",
       "country": "Mexico",
@@ -80544,16 +80163,18 @@
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree",
-        "papal_coronation_act"
+        "papal_coronation_act",
+        "retrospective_attestation"
       ],
       "popes": [
+        "Ioannes Paulus PP. II",
         "Paulus PP. VI"
       ],
       "legates": [
         "Philippus a Iesu Cueto, Episcopus Tlalnepantlanus (deputed to impose the crown 'Nostro nomine et auctoritate')"
       ],
       "confidence": "high",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "LIT",
@@ -80607,6 +80228,32 @@
           "incipit_latin": "Quo sanctius atque Christi fidelibus utilius imago illa Beatae Mariae Virginis coleretur, quae in sacra aede Naucalpanensis civitatis servatur",
           "confidence": "high",
           "notes": "'in Mexico' explicit in the rubric. The act notes the tenth anniversary of the erection of the diocese of Tlalnepantla as the occasion; coronation day left to the bishop's choice.",
+          "parent_act": null
+        },
+        {
+          "series": "AAS",
+          "volume": 90,
+          "year": 1998,
+          "page": 955,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 90 (1998), p. 955",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf",
+          "act_number": "X",
+          "act_type": "Litterae Apostolicae",
+          "pope": "Ioannes Paulus PP. II",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1998-08-25",
+          "concession_date": null,
+          "coronation_date": "1974",
+          "legate": null,
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "Sanctuarium Tlalnepantlanae archidioecesis, quod est dicatum beatae Mariae Virgini titulo « Nuestra Señora de los Remedios » invocatae, ad Basilicae minoris gradum dignitatemque evehitur.",
+          "incipit_latin": "Sacras inter aedes Tlalnepantlanae archidioecesis merito celebratur sanctuarium beatae Mariae Virginis titulo « Nuestra Señora del los Remedios », cuius antiqua ac prodigialis imago ibidem servata atque anno MCMLXXIV « nomine et auctoritate Summi Pontificis » coronata.",
+          "confidence": "high",
+          "notes": "Coronation mentioned in passing in a Basilica Minor elevation: the ancient image kept there was crowned in 1974 'nomine et auctoritate Summi Pontificis' as Queen of the diocesan clergy. The AAS act (or its OCR) prints « Nuestra Señora del los Remedios » in the body and « de los Remedios » in the rubric. Country not stated in the act; inferred from the Latin diocese/place name. The act names the diocese; the sanctuary of Los Remedios is at Naucalpan.",
           "parent_act": null
         }
       ]
@@ -81884,59 +81531,6 @@
       ]
     },
     {
-      "id": "nuestra-senora-de-los-remedios-tlalnepantla",
-      "image_title_vernacular": "Nuestra Señora de los Remedios",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Sanctuarium Nuestra Señora de los Remedios",
-      "locality": "Tlalnepantla",
-      "diocese_latin": "Tlalnepantlana",
-      "diocese_modern": "Tlalnepantla",
-      "country": "Mexico",
-      "coronation_dates": [
-        "1974"
-      ],
-      "first_coronation": "1974",
-      "strongest_evidence": "retrospective_attestation",
-      "evidence_types": [
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Ioannes Paulus PP. II"
-      ],
-      "legates": [],
-      "confidence": "high",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "AAS",
-          "volume": 90,
-          "year": 1998,
-          "page": 955,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 90 (1998), p. 955",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf",
-          "act_number": "X",
-          "act_type": "Litterae Apostolicae",
-          "pope": "Ioannes Paulus PP. II",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1998-08-25",
-          "concession_date": null,
-          "coronation_date": "1974",
-          "legate": null,
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "Sanctuarium Tlalnepantlanae archidioecesis, quod est dicatum beatae Mariae Virgini titulo « Nuestra Señora de los Remedios » invocatae, ad Basilicae minoris gradum dignitatemque evehitur.",
-          "incipit_latin": "Sacras inter aedes Tlalnepantlanae archidioecesis merito celebratur sanctuarium beatae Mariae Virginis titulo « Nuestra Señora del los Remedios », cuius antiqua ac prodigialis imago ibidem servata atque anno MCMLXXIV « nomine et auctoritate Summi Pontificis » coronata.",
-          "confidence": "high",
-          "notes": "Coronation mentioned in passing in a Basilica Minor elevation: the ancient image kept there was crowned in 1974 'nomine et auctoritate Summi Pontificis' as Queen of the diocesan clergy. The AAS act (or its OCR) prints « Nuestra Señora del los Remedios » in the body and « de los Remedios » in the rubric. Country not stated in the act; inferred from the Latin diocese/place name.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "nostra-signora-del-carmine-nuestra-senora-del-ca-2",
       "image_title_vernacular": "Nostra Signora del Carmine (Nuestra Señora del Carmen)",
       "image_title_latin": null,
@@ -82987,11 +82581,12 @@
       "diocese_modern": null,
       "country": "Peru",
       "coronation_dates": [
-        "1943"
+        "1943-10-27"
       ],
-      "first_coronation": "1943",
-      "strongest_evidence": "retrospective_attestation",
+      "first_coronation": "1943-10-27",
+      "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
+        "papal_coronation_act",
         "retrospective_attestation"
       ],
       "popes": [
@@ -82999,8 +82594,36 @@
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1943,
+          "page": 2325,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1325",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1325",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1943-07-29",
+          "coronation_date": "1943-10-27",
+          "legate": null,
+          "deputy": "Monsignor Fernando Cento, nunzio apostolico",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1325, their id 1344), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Fernando Cento, nunzio apostolico; their decree date 29-7-1943. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua lignea del XVII secolo.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 35,
@@ -83777,59 +83400,6 @@
       ]
     },
     {
-      "id": "nostra-signora-della-porta-nuestra-senora-de-la",
-      "image_title_vernacular": "Nostra Signora della Porta (Nuestra Señora de la Puerta)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Cattedrale di Otuzco",
-      "locality": "Otuzco",
-      "diocese_latin": null,
-      "diocese_modern": "Arcidiocesi di Trujillo",
-      "country": "Peru",
-      "coronation_dates": [
-        "1943-10-27"
-      ],
-      "first_coronation": "1943-10-27",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1943,
-          "page": 2325,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1325",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1325",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1943-07-29",
-          "coronation_date": "1943-10-27",
-          "legate": null,
-          "deputy": "Monsignor Fernando Cento, nunzio apostolico",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1325, their id 1344), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Fernando Cento, nunzio apostolico; their decree date 29-7-1943. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua lignea del XVII secolo.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "nostra-signora-della-misericordia-nuestra-senora-3",
       "image_title_vernacular": "Nostra Signora della Misericordia (Nuestra Señora de las Mercedes)",
       "image_title_latin": null,
@@ -83949,8 +83519,9 @@
         "1954-12-08"
       ],
       "first_coronation": "1954-12-08",
-      "strongest_evidence": "retrospective_attestation",
+      "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
+        "papal_coronation_act",
         "retrospective_attestation"
       ],
       "popes": [
@@ -83958,8 +83529,36 @@
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1954,
+          "page": 2531,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1531",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1531",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1954-11-21",
+          "coronation_date": "1954-12-08",
+          "legate": null,
+          "deputy": "Cardinale Fernando Quiroga Palacios, arcivescovo di Santiago di Compostela",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1531, their id 1361), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Fernando Quiroga Palacios, arcivescovo di Santiago di Compostela; their decree date 21-11-1954. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua in legno di pino.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 46,
@@ -85096,59 +84695,6 @@
       ]
     },
     {
-      "id": "nostra-signora-di-caysasay-nuestra-senora-de-cay",
-      "image_title_vernacular": "Nostra Signora di Caysasay (Nuestra Señora de Caysasay)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santuario arcidiocesano di Nostra Signora di Caysasay",
-      "locality": "Taal",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Lipa",
-      "country": "Philippines",
-      "coronation_dates": [
-        "1954-12-08"
-      ],
-      "first_coronation": "1954-12-08",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1954,
-          "page": 2531,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1531",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1531",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1954-11-21",
-          "coronation_date": "1954-12-08",
-          "legate": null,
-          "deputy": "Cardinale Fernando Quiroga Palacios, arcivescovo di Santiago di Compostela",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1531, their id 1361), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Fernando Quiroga Palacios, arcivescovo di Santiago di Compostela; their decree date 21-11-1954. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua in legno di pino.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "our-lady-of-the-most-holy-rosary-ubanon",
       "image_title_vernacular": "Our Lady of the Most Holy Rosary",
       "image_title_latin": "Beata Maria Virgo sub titulo « Sanctissimi Rosarii »",
@@ -85891,59 +85437,6 @@
       ]
     },
     {
-      "id": "nostra-signora-di-piaskowej-piasek-vergine-maria",
-      "image_title_vernacular": "Nostra Signora di Piaskowej (Piasek) (Vergine Maria della Sabbia)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica della Visitazione della Beata Vergine Maria dei PP. Carmelitani",
-      "locality": "Cracovia",
-      "diocese_latin": null,
-      "diocese_modern": "Arcidiocesi di Cracovia",
-      "country": "Poland",
-      "coronation_dates": [
-        "1883-09-08"
-      ],
-      "first_coronation": "1883-09-08",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1883,
-          "page": 1580,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 580",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB580",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": "1882-05",
-          "coronation_date": "1883-09-08",
-          "legate": null,
-          "deputy": "Monsignor Albin Dunajewski, vescovo di Cracovia",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 580, their id 713), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Monsignor Albin Dunajewski, vescovo di Cracovia; their decree date #-5-1882. Their annotazioni: ERR - Frate Anselmo: data l'incoronazione 16 aprile 1882. Their note: Tempera su tavola del XV secolo. Il primo decreto fu del 7 maggio 1764. Nel 1881, con riferimento al decreto del 1764, le autorità chiedono il rinnovo per procedere all'incoronazione; nel maggio 1882 il Capitolo autorizza. Le corone furono a spese del monastero.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "santa-maria-dolorosa-benefattrice-addolorata-di",
       "image_title_vernacular": "Santa Maria Dolorosa (Benefattrice Addolorata di Cracovia)",
       "image_title_latin": null,
@@ -85992,59 +85485,6 @@
           "incipit_latin": null,
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 856, their id 1132), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Cardinale Jan Puzyna, arcivescovo di Cracovia. Their annotazioni: Frate Anselmo: data l'incoronazione 8 marzo 1908 e la colloca nells chiesa dei PP. Conventuali. Nessun riferimento in internet. Their note: Dipinto su tavola del XV secolo.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "santa-maria-del-rosario-nostra-signora-del-rosar",
-      "image_title_vernacular": "Santa Maria del Rosario (Nostra Signora del Rosario)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santuario della Madonna del Rosario",
-      "locality": "Cracovia",
-      "diocese_latin": null,
-      "diocese_modern": "Arcidiocesi di Cracovia",
-      "country": "Poland",
-      "coronation_dates": [
-        "1921-10-02"
-      ],
-      "first_coronation": "1921-10-02",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1921,
-          "page": 2031,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1031",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1031",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "chapter_decree",
-          "act_date": null,
-          "concession_date": null,
-          "coronation_date": "1921-10-02",
-          "legate": null,
-          "deputy": "Cardinale Adam Sapieha, arcivescovo di Cracovia",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1031, their id 1133), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Cardinale Adam Sapieha, arcivescovo di Cracovia. Their annotazioni: ERR - Frate Anselmo: data l'incoronazione 15 agosto 1921. Their note: Dipinto del XVI secolo di fattura romana, copia della Madonna della Neve che si trova nella chiesa di Santa Maria Maggiore a Roma.",
           "parent_act": null
         }
       ]
@@ -87308,11 +86748,12 @@
       "diocese_modern": "Kraków",
       "country": "Poland",
       "coronation_dates": [
-        "1921"
+        "1921-10-02"
       ],
-      "first_coronation": "1921",
-      "strongest_evidence": "retrospective_attestation",
+      "first_coronation": "1921-10-02",
+      "strongest_evidence": "chapter_decree",
       "evidence_types": [
+        "chapter_decree",
         "retrospective_attestation"
       ],
       "popes": [
@@ -87320,8 +86761,36 @@
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1921,
+          "page": 2031,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1031",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1031",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1921-10-02",
+          "legate": null,
+          "deputy": "Cardinale Adam Sapieha, arcivescovo di Cracovia",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1031, their id 1133), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Cardinale Adam Sapieha, arcivescovo di Cracovia. Their annotazioni: ERR - Frate Anselmo: data l'incoronazione 15 agosto 1921. Their note: Dipinto del XVI secolo di fattura romana, copia della Madonna della Neve che si trova nella chiesa di Santa Maria Maggiore a Roma.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 50,
@@ -87371,7 +86840,7 @@
       "popes": [],
       "legates": [],
       "confidence": "medium",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "series": "LIT",
@@ -87403,6 +86872,34 @@
           "incipit_latin": null,
           "confidence": "medium",
           "notes": "Reported by Zander/Magister 2011, not read at first hand.",
+          "parent_act": null
+        },
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1883,
+          "page": 1580,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 580",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB580",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "chapter_decree",
+          "act_date": null,
+          "concession_date": "1882-05",
+          "coronation_date": "1883-09-08",
+          "legate": null,
+          "deputy": "Monsignor Albin Dunajewski, vescovo di Cracovia",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 580, their id 713), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo; officiated by Monsignor Albin Dunajewski, vescovo di Cracovia; their decree date #-5-1882. Their annotazioni: ERR - Frate Anselmo: data l'incoronazione 16 aprile 1882. Their note: Tempera su tavola del XV secolo. Il primo decreto fu del 7 maggio 1764. Nel 1881, con riferimento al decreto del 1764, le autorità chiedono il rinnovo per procedere all'incoronazione; nel maggio 1882 il Capitolo autorizza. Le corone furono a spese del monastero.",
           "parent_act": null
         }
       ]
@@ -90915,8 +90412,9 @@
         "1946-05-13"
       ],
       "first_coronation": "1946-05-13",
-      "strongest_evidence": "papal_legate_deputation",
+      "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
+        "papal_coronation_act",
         "papal_legate_deputation",
         "retrospective_attestation"
       ],
@@ -90928,8 +90426,36 @@
         "Benedictus S. R. E. Cardinalis Aloisi Masella"
       ],
       "confidence": "high",
-      "source_count": 7,
+      "source_count": 8,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1946,
+          "page": 2340,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1340",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1340",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1946-04-25",
+          "coronation_date": "1946-05-13",
+          "legate": null,
+          "deputy": "Cardinale Benedetto Aloisi Masella, legato papale",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1340, their id 1605), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Benedetto Aloisi Masella, legato papale; their decree date 25-4-1946. Their note: Statua lignea opera dello scultore José Ferreira Thedim e donata al santuario nel 1920 da Gilberto Fernandes dos Santos.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 38,
@@ -91110,59 +90636,6 @@
           "incipit_latin": "SIGNUM MAGNUM, quod sanctus Ioannes Apostolus in caelo suspexit, Mulierem videlicet amictam sole, non immerito de beatissima Maria Virgine ... interpretatur",
           "confidence": "medium",
           "notes": "Not an act about a coronation: the attestation is in footnote 6 of the Apostolic Exhortation Signum magnum - 'Nuntius Radiophonicus a Pio XII, die 13 mensis Maii anno 1946, Lusitaniae christifidelibus datus, sollemnia celebrantibus ad templum B. Mariae Fatimensis, aurea corona nomine Summi Pontificis redimitae: A. A. S. 38 (1946) p. 264'. Coronation date taken as the day of those solemnities (13 May 1946) - verify. The exhortation begins on p. 465 (rubric and incipit taken from there); the footnote is on p. 466. Locality 'Fátima' inferred from 'Fatimensis'; country explicit (Lusitania).",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "nostra-signora-di-fatima-nossa-senhora-de-fatima",
-      "image_title_vernacular": "Nostra Signora di Fátima (Nossa Senhora de Fátima)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santuario di Nostra Signora del Rosario di Fatima",
-      "locality": "Ourem",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Leiria-Fátima",
-      "country": "Portugal",
-      "coronation_dates": [
-        "1946-05-13"
-      ],
-      "first_coronation": "1946-05-13",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1946,
-          "page": 2340,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1340",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1340",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1946-04-25",
-          "coronation_date": "1946-05-13",
-          "legate": null,
-          "deputy": "Cardinale Benedetto Aloisi Masella, legato papale",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1340, their id 1605), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Benedetto Aloisi Masella, legato papale; their decree date 25-4-1946. Their note: Statua lignea opera dello scultore José Ferreira Thedim e donata al santuario nel 1920 da Gilberto Fernandes dos Santos.",
           "parent_act": null
         }
       ]
@@ -91364,9 +90837,9 @@
       "diocese_modern": "Gorizia",
       "country": "Slovenia",
       "coronation_dates": [
-        "1717"
+        "1717-06-06"
       ],
-      "first_coronation": "1717",
+      "first_coronation": "1717-06-06",
       "strongest_evidence": "chapter_decree",
       "evidence_types": [
         "chapter_decree",
@@ -91377,7 +90850,7 @@
       ],
       "legates": [],
       "confidence": "medium",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "series": "LIT",
@@ -91408,57 +90881,6 @@
           "parent_act": null
         },
         {
-          "series": "ASS",
-          "volume": 40,
-          "year": 1907,
-          "page": 19,
-          "folio": null,
-          "folio_to": null,
-          "citation": "ASS 40 (1907), p. 19",
-          "source_pdf_url": "https://www.vatican.va/archive/ass/documents/ASS-40-1907-ocr.pdf",
-          "act_number": null,
-          "act_type": "Litterae Apostolicae (Breve, Ex Secretaria Brevium)",
-          "pope": "Pius PP. X",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1906-11-19",
-          "concession_date": null,
-          "coronation_date": "1717",
-          "legate": null,
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "Ecclesia B. Mariae Virginis Gratiarum in Monte Sancto ad dignitatem Basilicae minoris evehitur.",
-          "incipit_latin": "In sublimi Beati Petri Cathedra, ad quam licet immerentes evecti sumus, nihil potius habemus, quam sacrarum aedium honor et cultus magis magisque in dies augeatur.",
-          "confidence": "medium",
-          "notes": "Brief elevating the church to a minor basilica; the coronation is mentioned in passing: 'venerata Deiparae Virginis Imago quae summa religione ibidem colitur iam inde ab anno MDCCXVII ex decreto Capituli Vaticani aureo diademate ornata sit' — i.e. crowned with a golden diadem in 1717 by decree of the Vatican Chapter. The act begins on printed p. 19 (rubric + 'AD PERPETUAM REI MEMORIAM'); the coronation sentence itself falls on p. 20, which is the passage's printed_page. Datum line reads 'die XIX Novembris MCMVI, Pontificatus Nostri anno quarto' = 1906-11-19, one year earlier than the volume year (ASS 40 = 1907); trusted the act. The text places the shrine 'prope Urbem Goritiensem' in 'Austriacae Ditionis' (Austrian Littoral, county of Gorizia, 1907); the modern country is inferred — Sveta Gora / Monte Santo lies today in Slovenia, above Nova Gorica, just across the Italian border — hence confidence lowered to medium. Raw OCR: 'celebérrimas' for 'celeberrimas'. No vernacular title given in the text.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "santa-maria-del-monte-santo-nova-gorica",
-      "image_title_vernacular": "Santa Maria del Monte Santo",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica dell'Assunzione della Vergine del Monte Santo dei PP Francescani",
-      "locality": "Nova Gorica",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Capodistria",
-      "country": "Slovenia",
-      "coronation_dates": [
-        "1717-06-06"
-      ],
-      "first_coronation": "1717-06-06",
-      "strongest_evidence": "chapter_decree",
-      "evidence_types": [
-        "chapter_decree"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
           "series": "LIT",
           "volume": 0,
           "year": 1717,
@@ -91484,6 +90906,32 @@
           "incipit_latin": null,
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 169, their id 226), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): Capitolo assenso; officiated by Monsignor Giorgio Francesco Saverio de Marotti, vescovo di Pican; their decree date 22-6-1715. Their annotazioni: ERR - Frate Anselmo: la titola Santa Maria delle Grazie e la colloca a Gorizia. Corona commissionata dalla comunità dei fedeli. Their note: Dipinto del XVI secolo, opera di Palma il Vecchio. Il dipinto fu donato Alla chiesa nel 1544 dal patriarca di Aquileia Marino Grimani. Corone d'oro adorne con perle orientali, diamanti e altre gemme. Le corone furono donate dalla contessa Anna Caterina Scellenburg di Lubiana. Con la firma dei trattati di Parigi nel 1947 la località dove sorge il santuario, Sveta Gora nel comune di Nova Gorica, italiano fino a questa data e più precisamente nel comune di Gorizia, fu assegnato alla ex Jugoslavia.",
+          "parent_act": null
+        },
+        {
+          "series": "ASS",
+          "volume": 40,
+          "year": 1907,
+          "page": 19,
+          "folio": null,
+          "folio_to": null,
+          "citation": "ASS 40 (1907), p. 19",
+          "source_pdf_url": "https://www.vatican.va/archive/ass/documents/ASS-40-1907-ocr.pdf",
+          "act_number": null,
+          "act_type": "Litterae Apostolicae (Breve, Ex Secretaria Brevium)",
+          "pope": "Pius PP. X",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1906-11-19",
+          "concession_date": null,
+          "coronation_date": "1717",
+          "legate": null,
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "Ecclesia B. Mariae Virginis Gratiarum in Monte Sancto ad dignitatem Basilicae minoris evehitur.",
+          "incipit_latin": "In sublimi Beati Petri Cathedra, ad quam licet immerentes evecti sumus, nihil potius habemus, quam sacrarum aedium honor et cultus magis magisque in dies augeatur.",
+          "confidence": "medium",
+          "notes": "Brief elevating the church to a minor basilica; the coronation is mentioned in passing: 'venerata Deiparae Virginis Imago quae summa religione ibidem colitur iam inde ab anno MDCCXVII ex decreto Capituli Vaticani aureo diademate ornata sit' — i.e. crowned with a golden diadem in 1717 by decree of the Vatican Chapter. The act begins on printed p. 19 (rubric + 'AD PERPETUAM REI MEMORIAM'); the coronation sentence itself falls on p. 20, which is the passage's printed_page. Datum line reads 'die XIX Novembris MCMVI, Pontificatus Nostri anno quarto' = 1906-11-19, one year earlier than the volume year (ASS 40 = 1907); trusted the act. The text places the shrine 'prope Urbem Goritiensem' in 'Austriacae Ditionis' (Austrian Littoral, county of Gorizia, 1907); the modern country is inferred — Sveta Gora / Monte Santo lies today in Slovenia, above Nova Gorica, just across the Italian border — hence confidence lowered to medium. Raw OCR: 'celebérrimas' for 'celeberrimas'. No vernacular title given in the text.",
           "parent_act": null
         }
       ]
@@ -91605,11 +91053,12 @@
       "diocese_modern": "Salamanca",
       "country": "Spain",
       "coronation_dates": [
-        "1952"
+        "1952-06-04"
       ],
-      "first_coronation": "1952",
-      "strongest_evidence": "retrospective_attestation",
+      "first_coronation": "1952-06-04",
+      "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
+        "papal_coronation_act",
         "retrospective_attestation"
       ],
       "popes": [
@@ -91617,8 +91066,36 @@
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1952,
+          "page": 2447,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1447",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1447",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1952-06-04",
+          "legate": null,
+          "deputy": "Cardinale Federico Tedeschini, arciprete della Basilica di San Pietro in Vaticano",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1447, their id 1646), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Federico Tedeschini, arciprete della Basilica di San Pietro in Vaticano. Their annotazioni: ERR - Bonci: data l'incoronazione 3 marzo 1951 e la colloca a Salamanca. Their note: Statua lignea del 1890, conserva al suo interno i resti dell'antica statua lignea del XV secolo. Fu incoronata a Salamanca.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 58,
@@ -95498,59 +94975,6 @@
           "incipit_latin": "Victoriensis dioecesis intra fines, in oppidi « Durango » nuncupati templo archipresbyterali, Imago quaedam Beatae Mariae Virginis religiosissime colitur sub populari titulo « de Uribarri »",
           "confidence": "high",
           "notes": "Patron declaration that also grants the coronation: 'ut Imaginem eandem corona Nomine Nostro redimiri decerneremus ... ipsi Venerabili Fratri Episcopo titulo Siandensi, Victoriensis dioecesis Apostolico Administratori, eas partes committimus ut Imaginem ... aureo diademate, nomine atque auctoritate Nostris, sollemniter redimiat'. The executor is the titular Bishop of 'Siandensis', Apostolic Administrator of Vitoria; his personal name is not given in the act, so legate left null. Date of coronation left to him ('die ab eodem statuendo'). Passage printed_page was 221; act begins on printed p. 220. Vernacular title supplied as the Spanish form of the Latin 'de Uribarri' (only the Latin form appears).",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "nostra-signora-della-roccia-di-francia-virgen-de",
-      "image_title_vernacular": "Nostra Signora della Roccia di Francia (Virgen de la Peña de Francia)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santuario di Nostra Signora de la Peña de Francia",
-      "locality": "El Cabaco",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Salamanca",
-      "country": "Spain",
-      "coronation_dates": [
-        "1952-06-04"
-      ],
-      "first_coronation": "1952-06-04",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1952,
-          "page": 2447,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1447",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1447",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": null,
-          "coronation_date": "1952-06-04",
-          "legate": null,
-          "deputy": "Cardinale Federico Tedeschini, arciprete della Basilica di San Pietro in Vaticano",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1447, their id 1646), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Federico Tedeschini, arciprete della Basilica di San Pietro in Vaticano. Their annotazioni: ERR - Bonci: data l'incoronazione 3 marzo 1951 e la colloca a Salamanca. Their note: Statua lignea del 1890, conserva al suo interno i resti dell'antica statua lignea del XV secolo. Fu incoronata a Salamanca.",
           "parent_act": null
         }
       ]
@@ -100706,8 +100130,36 @@
         "Iosephus M. S. R. E. Cardinalis Bueno Monreal, olim Archiepiscopus Hispalensis"
       ],
       "confidence": "high",
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1964,
+          "page": 2667,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1667",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1667",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1963-02-17",
+          "coronation_date": "1964-05-31",
+          "legate": null,
+          "deputy": "Monsignor José María Bueno Monreal, arcivescovo di Siviglia",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1667, their id 1629), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor José María Bueno Monreal, arcivescovo di Siviglia; their decree date 17-2-1963. Their annotazioni: ERR - Bonci: tralascia. Their note: Statua lignea, realizzata nel XVII secolo da un artista anonimo. Per l'incoronazione si svolse una processione di ritorno durata dodici ore attraverso le vie della città.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 56,
@@ -101076,59 +100528,6 @@
           "incipit_latin": null,
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1522, their id 1627), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Pedro Segura y Sáez, arcivescovo di Siviglia. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua in legno di cedro del XVIII secolo. La corona fu realizzata in oro nella sede della confraternita da Cayetano González Gómez nel 1954 per l'incoronazione.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "nostra-signora-della-speranza-della-macarena-vir",
-      "image_title_vernacular": "Nostra Signora della Speranza della Macarena (Virgen de la Esperanza Macarena)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica della Macarena",
-      "locality": "Siviglia",
-      "diocese_latin": null,
-      "diocese_modern": "Arcidiocesi di Siviglia",
-      "country": "Spain",
-      "coronation_dates": [
-        "1964-05-31"
-      ],
-      "first_coronation": "1964-05-31",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1964,
-          "page": 2667,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1667",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1667",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1963-02-17",
-          "coronation_date": "1964-05-31",
-          "legate": null,
-          "deputy": "Monsignor José María Bueno Monreal, arcivescovo di Siviglia",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1667, their id 1629), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor José María Bueno Monreal, arcivescovo di Siviglia; their decree date 17-2-1963. Their annotazioni: ERR - Bonci: tralascia. Their note: Statua lignea, realizzata nel XVII secolo da un artista anonimo. Per l'incoronazione si svolse una processione di ritorno durata dodici ore attraverso le vie della città.",
           "parent_act": null
         }
       ]
@@ -103593,11 +102992,12 @@
       "diocese_modern": "Lausanne, Genève et Fribourg",
       "country": "Switzerland",
       "coronation_dates": [
-        "1937"
+        "1937-05-23"
       ],
-      "first_coronation": "1937",
-      "strongest_evidence": "retrospective_attestation",
+      "first_coronation": "1937-05-23",
+      "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
+        "papal_coronation_act",
         "retrospective_attestation"
       ],
       "popes": [
@@ -103605,8 +103005,36 @@
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1937,
+          "page": 2280,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1280",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1280",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1936-04-26",
+          "coronation_date": "1937-05-23",
+          "legate": null,
+          "deputy": "Monsignor Filippo Bernardini, nunzio apostolico in Svizzera",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1280, their id 1731), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Filippo Bernardini, nunzio apostolico in Svizzera; their decree date 26-4-1936. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua in marmo del XVIII-XIX secolo della Vergine Immacolata, opera dello scultore romano Forzani. Papa Pio IX donò la statua alla chiesa nel 1859. La corona fu realizzata da un artista ginevrino, il signor Feuillat.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 47,
@@ -103636,59 +103064,6 @@
       ]
     },
     {
-      "id": "nostra-signora-di-ginevra-notre-dame-de-geneve-g",
-      "image_title_vernacular": "Nostra Signora di Ginevra (Notre-Dame de Genève)",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Basilica di Nostra Signora di Ginevra",
-      "locality": "Ginevra",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Losanna, Ginevra e Friburgo",
-      "country": "Switzerland",
-      "coronation_dates": [
-        "1937-05-23"
-      ],
-      "first_coronation": "1937-05-23",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1937,
-          "page": 2280,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1280",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1280",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1936-04-26",
-          "coronation_date": "1937-05-23",
-          "legate": null,
-          "deputy": "Monsignor Filippo Bernardini, nunzio apostolico in Svizzera",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1280, their id 1731), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Filippo Bernardini, nunzio apostolico in Svizzera; their decree date 26-4-1936. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua in marmo del XVIII-XIX secolo della Vergine Immacolata, opera dello scultore romano Forzani. Papa Pio IX donò la statua alla chiesa nel 1859. La corona fu realizzata da un artista ginevrino, il signor Feuillat.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "madonna-del-sasso-locarno",
       "image_title_vernacular": "Madonna del Sasso",
       "image_title_latin": "ligneum affabre sculptum simulacrum B. Mariae Virg. a Saxo, in ulnis Puerum Iesum gestantis",
@@ -103699,11 +103074,12 @@
       "diocese_modern": "Lugano",
       "country": "Switzerland",
       "coronation_dates": [
-        "1880"
+        "1880-08-14"
       ],
-      "first_coronation": "1880",
-      "strongest_evidence": "retrospective_attestation",
+      "first_coronation": "1880-08-14",
+      "strongest_evidence": "papal_coronation_act",
       "evidence_types": [
+        "papal_coronation_act",
         "retrospective_attestation"
       ],
       "popes": [
@@ -103711,8 +103087,36 @@
       ],
       "legates": [],
       "confidence": "high",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1880,
+          "page": 1552,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 552",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB552",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1880-08-14",
+          "coronation_date": "1880-08-14",
+          "legate": null,
+          "deputy": "Monsignor Paolo Angelo Ballerini, patriarca di Alessandria",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 552, their id 732), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Paolo Angelo Ballerini, patriarca di Alessandria; their decree date 14-8-1880. Their annotazioni: ERR - Frate Anselmo: data l'incoronazione 15 agosto 1880 e la colloca a Locarno. Their note: Statua lignea del XVI secolo.",
+          "parent_act": null
+        },
         {
           "series": "AAS",
           "volume": 11,
@@ -103925,59 +103329,6 @@
           "incipit_latin": "Deiparam Virginem Mariam maternum auxilium suis fidelibus saepenumero ostendisse, omnibus constat.",
           "confidence": "medium",
           "notes": "Patronage act; the coronation is mentioned in passing: the faithful had a golden crown made 'quae postea amplissimi Petriani Canonicorum Collegii Decreto, anno MCMXXVII, Mariae Virginis capiti fuit sollemniter imposita' — i.e. crowned by decree of the Vatican Chapter in 1927. The coronation clause falls on printed page 771; the act opens on page 770, which is cited here as aas_page. Country (Switzerland) inferred from the diocese of Lugano; not stated in the text. Vernacular title not given in the passage.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "madonna-del-sasso-orselina",
-      "image_title_vernacular": "Madonna del Sasso",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "Santuario della Madonna del Sasso dei PP. Cappuccini",
-      "locality": "Orselina",
-      "diocese_latin": null,
-      "diocese_modern": "Diocesi di Lugano",
-      "country": "Switzerland",
-      "coronation_dates": [
-        "1880-08-14"
-      ],
-      "first_coronation": "1880-08-14",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act"
-      ],
-      "popes": [],
-      "legates": [],
-      "confidence": "low",
-      "source_count": 1,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1880,
-          "page": 1552,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 552",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB552",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1880-08-14",
-          "coronation_date": "1880-08-14",
-          "legate": null,
-          "deputy": "Monsignor Paolo Angelo Ballerini, patriarca di Alessandria",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 552, their id 732), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Paolo Angelo Ballerini, patriarca di Alessandria; their decree date 14-8-1880. Their annotazioni: ERR - Frate Anselmo: data l'incoronazione 15 agosto 1880 e la colloca a Locarno. Their note: Statua lignea del XVI secolo.",
           "parent_act": null
         }
       ]

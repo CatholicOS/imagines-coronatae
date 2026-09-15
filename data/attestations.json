@@ -1611,7 +1611,7 @@
       "image_title_vernacular": "Onze-Lieve-Vrouw van Scherpenheuvel (Notre-Dame de Montaigu)",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Templum Aspricollense (sanctuary of Our Lady of Scherpenheuvel/Montaigu)",
-      "locality": "Scherpenheuvel (Aspricollis), near Leuven",
+      "locality": "Scherpenheuvel (Aspricollis)",
       "diocese_latin": "Mechliniensis",
       "diocese_modern": "Mechelen (Malines)",
       "country": "Belgium",
@@ -2691,7 +2691,7 @@
       "image_title_vernacular": "Our Lady of Ta' Pinu",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Basilica B. Mariae V. « ta Pinu »",
-      "locality": null,
+      "locality": "Għarb (Gozo)",
       "diocese_latin": "Gaudisiensis",
       "diocese_modern": "Gozo",
       "country": "Malta",
@@ -2699,7 +2699,7 @@
       "coronation_date": null,
       "legate": "Alexius Henricus Maria S. R. E. Card. Lépicier, tit. Sanctae Susannae",
       "confidence": "high",
-      "notes": "Cardinal Lépicier, already Legate to the Regional Council of Malta, is charged 'ut arbitrio eius eligendo die ... aureum diadema Nostro nomine et auctoritate imponat' — day left to the legate, so no coronation date. The painting is described as by Stephanus Amedeus de Perusia, 1619. The act itself recalls that the sanctuary was made a minor basilica by Litterae Apostolicae of 31 Aug. 1932. No town named (the shrine is at Għarb); country inferred from the diocese of Gozo and the reference to the neighbouring diocese of Malta."
+      "notes": "Cardinal Lépicier, already Legate to the Regional Council of Malta, is charged 'ut arbitrio eius eligendo die ... aureum diadema Nostro nomine et auctoritate imponat' — day left to the legate, so no coronation date. The painting is described as by Stephanus Amedeus de Perusia, 1619. The act itself recalls that the sanctuary was made a minor basilica by Litterae Apostolicae of 31 Aug. 1932. No town named (the shrine is at Għarb); country inferred from the diocese of Gozo and the reference to the neighbouring diocese of Malta. The sanctuary of Ta' Pinu is at Għarb, Gozo."
     },
     {
       "series": "AAS",
@@ -4662,7 +4662,7 @@
       "image_title_vernacular": "Nostra Signora del Rimedio",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Deiparae Templum (Arboreae)",
-      "locality": null,
+      "locality": "Oristano (Arborea)",
       "diocese_latin": "Arborensis",
       "diocese_modern": "Oristano (Arborea)",
       "country": "Italy",
@@ -4670,7 +4670,7 @@
       "coronation_date": null,
       "legate": null,
       "confidence": "medium",
-      "notes": "Patronage act opens by recalling « aurea fuit corona redimita »; no year and no crowning authority stated. Sardinia is named in the act (« non solum e Sardinia insula sed e continente etiam terra »), so the country is secure; the exact locality of the sanctuary is not given."
+      "notes": "Patronage act opens by recalling « aurea fuit corona redimita »; no year and no crowning authority stated. Sardinia is named in the act (« non solum e Sardinia insula sed e continente etiam terra »), so the country is secure; the exact locality of the sanctuary is not given. 'Arboreae' is Oristano, whose sanctuary of the Rimedio stands at Donigala Fenughedu."
     },
     {
       "series": "AAS",
@@ -7335,7 +7335,7 @@
       "image_title_vernacular": "Madonna dell'Arco",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Aedes sacra B. M. V. ab Arcu appellatae (sanctuary served by the Fratres Praedicatores)",
-      "locality": "near Naples (apud urbem Neapolim)",
+      "locality": "Sant'Anastasia, near Naples (apud urbem Neapolim)",
       "diocese_latin": null,
       "diocese_modern": null,
       "country": "Italy",
@@ -7343,7 +7343,7 @@
       "coronation_date": "1874",
       "legate": "Marius S. R. E. Cardinalis Nasalli Rocca di Corneliano, Missus Extraordinarius",
       "confidence": "medium",
-      "notes": "Not a coronation act: the Pope sends a Missus Extraordinarius to preside at the centenary of the image's golden crowning. Coronation year derived from 'primo volvente saeculo' with the celebration on 8 September 1974, so the crowning was in 1874 (very likely 8 September 1874) - verify the exact day. Country Italy inferred from 'apud urbem Neapolim' (Naples); no diocese named in the act. Vernacular title rendered from the Latin 'ab Arcu appellatae'. The act also recalls that Pius IX visited the sanctuary and venerated the image. Confirmed by the volume indices at pp. 759, 788, 792."
+      "notes": "Not a coronation act: the Pope sends a Missus Extraordinarius to preside at the centenary of the image's golden crowning. Coronation year derived from 'primo volvente saeculo' with the celebration on 8 September 1974, so the crowning was in 1874 (very likely 8 September 1874) - verify the exact day. Country Italy inferred from 'apud urbem Neapolim' (Naples); no diocese named in the act. Vernacular title rendered from the Latin 'ab Arcu appellatae'. The act also recalls that Pius IX visited the sanctuary and venerated the image. Confirmed by the volume indices at pp. 759, 788, 792. The sanctuary of the Madonna dell'Arco is at Sant'Anastasia."
     },
     {
       "series": "AAS",
@@ -10629,7 +10629,7 @@
       "image_title_vernacular": "Nuestra Señora de los Remedios",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Sanctuarium Nuestra Señora de los Remedios",
-      "locality": "Tlalnepantla",
+      "locality": "Naucalpan (diocese of Tlalnepantla)",
       "diocese_latin": "Tlalnepantlana",
       "diocese_modern": "Tlalnepantla",
       "country": "Mexico",
@@ -10637,7 +10637,7 @@
       "coronation_date": "1974",
       "legate": null,
       "confidence": "high",
-      "notes": "Coronation mentioned in passing in a Basilica Minor elevation: the ancient image kept there was crowned in 1974 'nomine et auctoritate Summi Pontificis' as Queen of the diocesan clergy. The AAS act (or its OCR) prints « Nuestra Señora del los Remedios » in the body and « de los Remedios » in the rubric. Country not stated in the act; inferred from the Latin diocese/place name."
+      "notes": "Coronation mentioned in passing in a Basilica Minor elevation: the ancient image kept there was crowned in 1974 'nomine et auctoritate Summi Pontificis' as Queen of the diocesan clergy. The AAS act (or its OCR) prints « Nuestra Señora del los Remedios » in the body and « de los Remedios » in the rubric. Country not stated in the act; inferred from the Latin diocese/place name. The act names the diocese; the sanctuary of Los Remedios is at Naucalpan."
     },
     {
       "series": "AAS",

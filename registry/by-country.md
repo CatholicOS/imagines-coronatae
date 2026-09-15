@@ -3,7 +3,7 @@
 
 # Registry of crowned images — by country
 
-**1605 images** · 50 countries · 2359 source citations · generated 2026-09-14
+**1578 images** · 50 countries · 2359 source citations · generated 2026-09-15
 
 Each row is **one crowned image**. The *Sources* column lists every act in
 *Acta Sanctae Sedis* (ASS, 1865–1908) or *Acta Apostolicae Sedis* (AAS, 1909– ) that attests it,
@@ -25,12 +25,11 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Algeria
 
-*2 images*
+*1 image*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
-| Nostra Signora d'Africa (Notre Dame d'Afrique) | Bologhine, Diocesi d'Algeri | 1876-04-30 | act | [Basilici–Bigliazzi 2025, scheda 523](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Notre-Dame d'Afrique | Icosium (Algiers) | 1876 | retro | [AAS 53 (1961), p. 356](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●● |
+| Notre-Dame d'Afrique | Icosium (Algiers) | 1876-04-30 | act | [Basilici–Bigliazzi 2025, scheda 523](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 53 (1961), p. 356](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●● |
 
 ## Andorra
 
@@ -74,17 +73,16 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Austria
 
-*8 images*
+*7 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
-| Maria Plain | Bergheim | 1751-07-14 | act | [Basilici–Bigliazzi 2025, scheda 228](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Madonna sotto le Quattro Colonne | Innsbruck | 1893-09-10 | act | [Basilici–Bigliazzi 2025, scheda 666](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Santa Maria Addolorata (Maria Luggau) | Lesachtal, frazione di Maria Luggau, Diocesi di Gurk | 1913-09-28 | chapter | [Basilici–Bigliazzi 2025, scheda 935](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Signum Virginis Immaculatae | Linz (Lincia) | 1902 | retro | [AAS 16 (1924), p. 229](https://www.vatican.va/archive/aas/documents/AAS-16-1924-ocr.pdf) *retro* | ●●○ |
 | Magna Mater Austriae (Nostra Signora delle campane) | Mariazell, Diocesi di Graz-Seckau | 1908-09-08 | chapter | [Basilici–Bigliazzi 2025, scheda 866](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria Waldrast | Matrei am Brenner, Diocesi di Innsbruck | 1908-09-08 | chapter | [Basilici–Bigliazzi 2025, scheda 869](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Maria Plain | Mons « Plain », near Salzburg |  | retro | [AAS 45 (1953), p. 173](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *retro* | ●●○ |
+| Maria Plain | Mons « Plain », near Salzburg | 1751-07-14 | act | [Basilici–Bigliazzi 2025, scheda 228](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 45 (1953), p. 173](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *retro* | ●●○ |
 | Nostra Signora con la testa china | Vienna | 1931-09-27 | chapter | [Basilici–Bigliazzi 2025, scheda 1227](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 
 ## Belarus
@@ -101,23 +99,21 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Belgium
 
-*35 images*
+*32 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
 | Nostra Signora di Anversa (Nostra Signora di Antwerpen) | Anversa | 1899-08-15 | act | [Basilici–Bigliazzi 2025, scheda 716](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Notre Dame Reine de la Paix, Notre Dame d’Arlon | Arlon | 1904-09-14 | chapter | Zander/Magister 2011, cat. 79, p. 206 *chapter*<br>[Basilici–Bigliazzi 2025, scheda 797](https://www.pereto.org/madonne_coronate/) *chapter* | ●●○ |
 | Imago SSmi Iesu Cordis | Berchem, suburb of Antwerp (suburbium Antverpiae civitatis vulgo Berchem), Mechelen (Malines) |  | act | [ASS 36 (1903), p. 401](https://www.vatican.va/archive/ass/documents/ASS-36-1903-4-ocr.pdf) *act* | ●●● |
-| Notre-Dame de Bonsecours | Bonsecours, Tournai |  | retro | [AAS 2 (1910), p. 323](https://www.vatican.va/archive/aas/documents/AAS-02-1910-ocr.pdf) *retro* | ●●● |
+| Notre-Dame de Bonsecours | Bonsecours, Tournai | 1905-07-03 | chapter | [Basilici–Bigliazzi 2025, scheda 821](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 2 (1910), p. 323](https://www.vatican.va/archive/aas/documents/AAS-02-1910-ocr.pdf) *retro* | ●●● |
 | Nostra Signora della Misericordia (Notre-Dame de Miséricorde) | Bruxelles | 1843-05-25 | chapter | [Basilici–Bigliazzi 2025, scheda 394](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora della Pace (Notre-Dame de la Paix) | Bruxelles | 1921-09-11 | act | [Basilici–Bigliazzi 2025, scheda 1026](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora di Laken (Onze-Lieve-Vrouwekerk) | Bruxelles, quartiere di Laeken | 1936-05-17 | chapter | [Basilici–Bigliazzi 2025, scheda 1271](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora dei Sette Dolori (Onze-Lieve-Vrouw van Smarten) | Buggenhout, Diocesi di Gand | 1964-08-30 | act | [Basilici–Bigliazzi 2025, scheda 1669](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora al Bastione (Notre Dame au Rempart) | Charleroi, Diocesi di Namur | 1924-05-25 | act | [Basilici–Bigliazzi 2025, scheda 1081](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora delle Grazie (Notre Dame de Grace) | Charleroi, frazione di Marcinelle, Diocesi di Tournai | 1923-09-30 | chapter | [Basilici–Bigliazzi 2025, scheda 1077](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Nostra Signora di Chèvremont | Chaudfontaine, Diocesi di Liegi | 1923-09-09 | chapter | [Basilici–Bigliazzi 2025, scheda 1071](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Nostra Signora di Tongre | Chièvres, Diocesi di Tournai | 1881-09-08 | act | [Basilici–Bigliazzi 2025, scheda 567](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Notre-Dame de Chèvremont | Chèvremont, Liège | 1923 | retro | [AAS 21 (1929), p. 183](https://www.vatican.va/archive/aas/documents/AAS-21-1929-ocr.pdf) *retro* | ●●● |
+| Notre-Dame de Chèvremont | Chèvremont, Liège | 1923-09-09 | chapter | [Basilici–Bigliazzi 2025, scheda 1071](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 21 (1929), p. 183](https://www.vatican.va/archive/aas/documents/AAS-21-1929-ocr.pdf) *retro* | ●●● |
 | Nostra Signora di Foy | Foy-Notre-Dame, Diocesi di Namur | 1909-09-08 | chapter | [Basilici–Bigliazzi 2025, scheda 888](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora delle Fiandre (Madonna di Vlaanderen) | Gent | 1860-05-09 | act | [Basilici–Bigliazzi 2025, scheda 446](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Notre-Dame de Hal / Onze-Lieve-Vrouw van Halle | Halle (Hal), Mechelen | 1874-10-04 | act | [Basilici–Bigliazzi 2025, scheda 512](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 40 (1948), p. 448](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro* | ●●● |
@@ -127,17 +123,16 @@ Vatican Chapter crowning later renewed by a Pope.
 | Nostra Signora della Natività (Nostra Signora di Lebbeke) | Lebbeke, Diocesi di Gand | 1908-04-26 | act | [Basilici–Bigliazzi 2025, scheda 862](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora di Lede (Nostra Signora Causa della nostra gioia) | Lede, Diocesi di Gand | 1914-04-14 | act | [Basilici–Bigliazzi 2025, scheda 940](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora della Febbre (Notre Dame de Koorts) | Leuven, Arcidiocesi di Malines-Bruxelles | 1907-06-19 | act | [Basilici–Bigliazzi 2025, scheda 845](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
+| Sedes Sapientiae (Onze-Lieve-Vrouw, Zetel der Wijsheid) | Louvain / Leuven (Lovanium), Mechelen (Malines) | 1927-06-29 | chapter | [Basilici–Bigliazzi 2025, scheda 1161](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 19 (1927), p. 308](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *legate* | ●●○ |
 | Onze-Lieve-Vrouw van Hanswijk / Notre-Dame de Hanswijk | Mechelen (Malines) | 1876-07-30 | act | [Basilici–Bigliazzi 2025, scheda 526](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 79 (1987), p. 1377](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *retro* | ●●● |
 | Nostra Signora di Gaverland | Melsele, Diocesi di Gand | 1912-08-04 | chapter | [Basilici–Bigliazzi 2025, scheda 916](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Nostra Signora del Sacro Cuore (Notre Dame de Montaigu) | Montaigu-Zichem, Arcidiocesi di Malines-Bruxelles | 1910-08-21 | act | [Basilici–Bigliazzi 2025, scheda 898](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Nostra Signora di Montaigu (Nostra Signora di Scherpenheuvel) | Montaigu-Zichem, Arcidiocesi di Malines-Bruxelles | 1872-08-25 | act | [Basilici–Bigliazzi 2025, scheda 499](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
+| Nostra Signora del Sacro Cuore | Montaigu-Zichem, Arcidiocesi di Malines-Bruxelles | 1910-08-21 | act | [Basilici–Bigliazzi 2025, scheda 898](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Notre-Dame du Rempart | Namur | 1919-07-20 | chapter | [Basilici–Bigliazzi 2025, scheda 969](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 45 (1953), p. 221](https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf) *retro* | ●●○ |
 | Nostra Signora nel Bosco (Nostra Signora della Quercia di Gesù) | Overijse, Arcidiocesi di Malines-Bruxelles | 1924-08-15 | chapter | [Basilici–Bigliazzi 2025, scheda 1089](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Nostra Signora del Buon Soccorso (Notre Dame de Bonsecours) | Peruwelz, Diocesi di Tournai | 1905-07-03 | chapter | [Basilici–Bigliazzi 2025, scheda 821](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora di Kortenbos | Saint-Truiden, frazioen di Kortenbos, Diocesi di Hasselt | 1898-05-01 | act | [Basilici–Bigliazzi 2025, scheda 706](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Onze-Lieve-Vrouw van Scherpenheuvel (Notre-Dame de Montaigu) | Scherpenheuvel (Aspricollis), near Leuven, Mechelen (Malines) | 1872; 1927-06-29 | chapter | [AAS 14 (1922), p. 374](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro*<br>[Basilici–Bigliazzi 2025, scheda 1161](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 19 (1927), p. 308](https://www.vatican.va/archive/aas/documents/AAS-19-1927-ocr.pdf) *legate* | ●●● |
+| Onze-Lieve-Vrouw van Scherpenheuvel (Notre-Dame de Montaigu) | Scherpenheuvel (Aspricollis), Mechelen (Malines) | 1872-08-25 | act | [Basilici–Bigliazzi 2025, scheda 499](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 14 (1922), p. 374](https://www.vatican.va/archive/aas/documents/AAS-14-1922-ocr.pdf) *retro* | ●●● |
 | Nostra Signora di Tongeren (Vergine Causa della Nostra Gioia) | Tongeren, Diocesi di Hasselt | 1890-08-31 | act | [Basilici–Bigliazzi 2025, scheda 636](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Notre-Dame de Tongre | Tongre-Notre-Dame, Tournai | 1881-09-08 | retro | [AAS 44 (1952), p. 363](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro* | ●●● |
+| Notre-Dame de Tongre | Tongre-Notre-Dame, Tournai | 1881-09-08 | act | [Basilici–Bigliazzi 2025, scheda 567](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 44 (1952), p. 363](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro* | ●●● |
 | signum Beatae Mariae Virginis, durateum, argento obductum, arte « Romanica » conspicuum | Walcourt, Namur | 1875-07-11 | act | [Basilici–Bigliazzi 2025, scheda 515](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 43 (1951), p. 268](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●○ |
 | Nostra Signora di Basse Wavre (Nostra Signora della Pace e della Concordia) | Wavre, Arcidiocesi di Malines-Bruxelles | 1897-09-08 | act | [Basilici–Bigliazzi 2025, scheda 704](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 
@@ -171,13 +166,12 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Canada
 
-*4 images*
+*3 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
-| Notre-Dame du Cap | Cap-de-la-Madeleine, Trois-Rivières | 1904; 1954 | legate | [AAS 46 (1954), p. 481](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *legate*<br>[AAS 58 (1966), p. 42](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●● |
+| Notre-Dame du Cap | Cap-de-la-Madeleine, Trois-Rivières | 1904-10-12; 1954-08-12 | chapter | [Basilici–Bigliazzi 2025, scheda 802](https://www.pereto.org/madonne_coronate/) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 1493](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 46 (1954), p. 481](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *legate*<br>[AAS 58 (1966), p. 42](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●● |
 | Simulacrum Sancti Ioseph, Sponsi B. M. V. | Montreal |  | legate | [AAS 47 (1955), p. 600](https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf) *legate* | ●●● |
-| Nostra Signora del Capo (Nostra Signora dei Tre Santi Rosari) | Trois-Rivières | 1904-10-12; 1954-08-12 | chapter | [Basilici–Bigliazzi 2025, scheda 802](https://www.pereto.org/madonne_coronate/) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 1493](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Sant'Anna di Varennes | Varennes, Diocesi di Saint-Jean-Longueuil | 1842-07-26 | act | [Basilici–Bigliazzi 2025, scheda 392](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 
 ## Chile
@@ -204,7 +198,7 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Colombia
 
-*19 images*
+*18 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
@@ -216,10 +210,9 @@ Vatican Chapter crowning later renewed by a Pope.
 | del Amparo de Chinavita | Chinavita, Garagoa |  | act | [AAS 79 (1987), p. 12](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *act* | ●●● |
 | Nuestra Señora del Rosario de Chiquinquirá | Chiquinquirá, Tunja | 1919-07-09 | chapter | [Basilici–Bigliazzi 2025, scheda 968](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 20 (1928), p. 18](https://www.vatican.va/archive/aas/documents/AAS-20-1928-ocr.pdf) *retro* | ●●● |
 | Nuestra Señora del Rosario de Iles | Iles, Ipiales |  | act | [AAS 77 (1985), p. 285](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *act* | ●●● |
-| Nuestra Señora del Rosario de las Lajas | Ipiales | 1952-09-16 | act | [Basilici–Bigliazzi 2025, scheda 1457](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 58 (1966), p. 45](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●● |
 | Nostra Signora del Carmine (Nuestra Señora del Carmen) | La Ceja, Diocesi di Sonsón-Rionegro | 1971-07-25 | act | [Basilici–Bigliazzi 2025, scheda 1714](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora di Chiquinquirà (Nuestra Señora de Chiquinquirá de La Estrella) | La Strella, Arcidiocesi di Medellin | 1959-09-13 | act | [Basilici–Bigliazzi 2025, scheda 1617](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| de Las Lajas | Las Lajas, Pasto | 1952 | retro | [AAS 48 (1956), p. 69](https://www.vatican.va/archive/aas/documents/AAS-48-1956-ocr.pdf) *retro* | ●●● |
+| Nuestra Señora del Rosario de las Lajas | Las Lajas, Ipiales | 1952-09-16 | act | [Basilici–Bigliazzi 2025, scheda 1457](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 48 (1956), p. 69](https://www.vatican.va/archive/aas/documents/AAS-48-1956-ocr.pdf) *retro*<br>[AAS 58 (1966), p. 45](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●● |
 | Nuestra Señora de la Asunción (Marinilla) | Marinilla, Sonsón-Rionegro |  | act | [AAS 80 (1988), p. 1742](https://www.vatican.va/archive/aas/documents/AAS-80-1988-ocr.pdf) *act* | ●●○ |
 | Nostra Signora della Candelaria (Nuestra Señora de la Candelaria) | Medellin | 1950-08-15 | act | [Basilici–Bigliazzi 2025, scheda 1414](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nuestra Señora de Monguí | Monguí, Duitama | 1929-09-08 | chapter | [Basilici–Bigliazzi 2025, scheda 1193](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 58 (1966), p. 796](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●● |
@@ -449,13 +442,12 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Germany
 
-*9 images*
+*8 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
 | Santa Maria "Auxilium Christianorum" (Santa Maria di Aquisgrana) | Aquisgrana | 1927-09-04 | chapter | [Basilici–Bigliazzi 2025, scheda 1167](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Madonna Nera della Misericordia, Sancta Maria Mater Misericordiae | Cologne (Köln) | 1925-04-03 | chapter | Zander/Magister 2011, cat. 80, p. 208 *chapter* | ●○○ |
-| Madre di Dio Nera (Die Schwarze Muttergottes) | Colonia | 1925-06-07 | chapter | [Basilici–Bigliazzi 2025, scheda 1116](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
+| Madonna Nera della Misericordia, Sancta Maria Mater Misericordiae | Cologne (Köln) | 1925-04-03 | chapter | Zander/Magister 2011, cat. 80, p. 208 *chapter*<br>[Basilici–Bigliazzi 2025, scheda 1116](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria Addolorata | Kamp-Bornhofen, Diocesi di Limburgo | 1925-05-10 | chapter | [Basilici–Bigliazzi 2025, scheda 1112](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Trosterin der Betrübten (Kevelaer) | Kevelaer, Münster | 1892-06-01 | act | [Basilici–Bigliazzi 2025, scheda 647](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 15 (1923), p. 488](https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf) *retro* | ●●● |
 | Immacolata Concezione | Neviges, Arcidiocesi di Colonia | 1904-09-11 | chapter | [Basilici–Bigliazzi 2025, scheda 795](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
@@ -492,7 +484,7 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Italy
 
-*792 images*
+*786 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
@@ -564,7 +556,6 @@ Vatican Chapter crowning later renewed by a Pope.
 | Madonna delle Grazie e della Consolazione | Belvedere Marittimo, Diocesi di San Marco Argentano-Scalea | 1926-07-02 | chapter | [Basilici–Bigliazzi 2025, scheda 1144](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | S. Maria Annunziata in Benevento | Benevento | 1754-05-10 | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 237](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria delle Grazie di Benevento | Benevento | 1723-04-03 | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 180](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Santa Maria dell'Incoronata nell'Eremo de' Camaldolesi | Benevento, church of the Camaldolese | 1723 | chapter | Balzamo 2023, p. 186 *chapter*<br>[Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter* | ●●○ |
 | Santa Maria delle Grazie (Madonna delle Grazie) | Berceto, Diocesi di Parma | 1890-09-09 | chapter | [Basilici–Bigliazzi 2025, scheda 637](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria Addolorata | Bergamo, Borgo Santa Caterina | 1903-08-17 | chapter | [Basilici–Bigliazzi 2025, scheda 771](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria del Lago | Bertinoro | 1705-08-09 | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 2r–23v.[02.mn.0000]](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0005) *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 154](https://www.pereto.org/madonne_coronate/) *chapter* | ●●● |
@@ -665,7 +656,6 @@ Vatican Chapter crowning later renewed by a Pope.
 | Santa Maria dell'Orto di Chiaveri | Chiavari (Clavarium), Liguria | 1769-09-08 | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 265](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria dell'Olivo | Chiavari, località Bacezza | 1936-12-15 | act | [Basilici–Bigliazzi 2025, scheda 1276](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Santa Maria delle Grazie | Chieri, Arcidiocesi di Torino | 1905-09-03 | chapter | [Basilici–Bigliazzi 2025, scheda 826](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Santa Maria delle Grazie | Chiesa in Valmalenco, frazione di Primolo, Diocesi di Como | 1765-08-11 | chapter | [Basilici–Bigliazzi 2025, scheda 255](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna della Navicella | Chioggia | 1859-09-25 | act | [Basilici–Bigliazzi 2025, scheda 444](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Santa Maria di Cibbona vicino alla Tolfa | Cibona / Monte Urbano (Eremo di Cibona, territory of Tolfa), Sutri | 1704-06-01 | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 70r–73v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0163) *chapter*<br>[Briccolani 1800, p. 152](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 148](https://www.pereto.org/madonne_coronate/) *chapter* | ●●● |
 | Nostra Signora dei Miracoli | Cicagna | 1790-09-14; 1814-09-14 | chapter | Zander/Magister 2011, cat. 9, p. 62 *chapter*<br>[Basilici–Bigliazzi 2025, scheda 321](https://www.pereto.org/madonne_coronate/) *chapter*<br>Zander/Magister 2011, cat. 9, p. 62 *chapter* | ●●○ |
@@ -833,7 +823,6 @@ Vatican Chapter crowning later renewed by a Pope.
 | Simulacrum Beatae Mariae Virginis in Caelum Assumptae | Missaglia, Milan | 1946-08-14 | chapter | [Basilici–Bigliazzi 2025, scheda 1344](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 39 (1947), p. 439](https://www.vatican.va/archive/aas/documents/AAS-39-1947-ocr.pdf) *retro* | ●○○ |
 | Santa Maria "Auxilium Christianorum" (Madonna delle Rocche) | Molare, Diocesi di Acqui | 1823-08-10 | chapter | [Basilici–Bigliazzi 2025, scheda 371](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna dei Martiri | Molfetta | 1951-07-01 | chapter | [Basilici–Bigliazzi 2025, scheda 1430](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Madonna del Rocciamelone | Mompantero, Diocesi di Susa | 1930-08-10 | chapter | [Basilici–Bigliazzi 2025, scheda 1205](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria di Moncheri | Monchiero | 1772 | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 | — | Monchiero | 1772 | chapter | Balzamo 2023, p. 185 *chapter* | ●○○ |
 | Santa Maria del Rosario | Monchiero, Diocesi di Alba | 1772-08-15 | chapter | [Basilici–Bigliazzi 2025, scheda 272](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
@@ -899,7 +888,6 @@ Vatican Chapter crowning later renewed by a Pope.
 | Santissima Concezione nella Chiesa della Congregazione della V. Orsola Benincasa in Napoli | Napoli (Suor Orsola Benincasa) | 1733-12-07 | chapter | [Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 201](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna del Buon Consiglio | Napoli, zona Pizzofalcone | 1912-01-06; 1939-01-15 | chapter | [Basilici–Bigliazzi 2025, scheda 910](https://www.pereto.org/madonne_coronate/) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 1293](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna del Ponte | Narni | 1754-05-05 | chapter | Zander/Magister 2011, cat. 34, p. 112 *chapter*<br>[Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 236](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 46 (1954), p. 758](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro* | ●●● |
-| Madonna dell'Arco | near Naples (apud urbem Neapolim) | 1874 | retro | [AAS 66 (1974), p. 485](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *retro* | ●●○ |
 | Santa Maria "Mater Misericordiae" (Madonna Addolorata) | Nembro, Diocesi di Bergamo | 1920-08-08 | chapter | [Basilici–Bigliazzi 2025, scheda 998](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna della Vittoria (Madonna del Rosario) | Nepi, Diocesi di Civita Castellana | 1920-09-19 | chapter | [Basilici–Bigliazzi 2025, scheda 1009](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora delle Grazie | Nettuno | 1881-05-28 | chapter | Zander/Magister 2011, cat. 36, p. 116 *chapter*<br>[Basilici–Bigliazzi 2025, scheda 557](https://www.pereto.org/madonne_coronate/) *chapter* | ●●○ |
@@ -917,9 +905,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Santa Maria della Purità | Oppido Lucano, Arcidiocesi di Acerenza | 1939-06-11 | chapter | [Basilici–Bigliazzi 2025, scheda 1297](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna delle Grazie | Oppido Mamertina, frazione di Tresilico | 1954-07-02 | chapter | [Basilici–Bigliazzi 2025, scheda 1488](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora di Gonare | Orane-Sarule, frazione di Monte Gonare, Diocesi di Nuoro | 1972-05-28 | chapter | [Basilici–Bigliazzi 2025, scheda 1716](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Madonna del Rimedio | Oristano | 1952-09-07 | act | [Basilici–Bigliazzi 2025, scheda 1453](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Nostra Signora del Rimedio | Oristano (Arborea) |  | retro | [AAS 47 (1955), p. 488](https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf) *retro* | ●●○ |
-| Beata Maria Virgo « a remedio » | Oristano (prope urbem « Oristano ») |  | retro | [AAS 50 (1958), p. 147](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
+| Nostra Signora del Rimedio | Oristano (prope urbem « Oristano ») | 1952-09-07 | act | [Basilici–Bigliazzi 2025, scheda 1453](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 47 (1955), p. 488](https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf) *retro*<br>[AAS 50 (1958), p. 147](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
 | Imago (Simulacrum) B. Mariae V. de Oropa | Oropa (Biella) |  | retro | [AAS 49 (1957), p. 952](https://www.vatican.va/archive/aas/documents/AAS-49-1957-ocr.pdf) *retro* | ●●○ |
 | Madonna delle Grazie | Orta San Giulio | 1906-09-02 | chapter | Zander/Magister 2011, cat. 7, p. 58 *chapter*<br>[Basilici–Bigliazzi 2025, scheda 836](https://www.pereto.org/madonne_coronate/) *chapter* | ●●○ |
 | Madonna di San Brizio | Orvieto | 1704-06-08 | chapter | [BAV, ACSP, Madonne coronate, tomo IV, ff. 142r–159v](https://digi.vatlib.it/view/ARC_Arch.Cap.S.Pietro.Madonne.coron.4/0343) *chapter*<br>Balzamo 2023, p. 169 *chapter*<br>[Briccolani 1800, p. 153](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 150](https://www.pereto.org/madonne_coronate/) *chapter* | ●●● |
@@ -994,6 +980,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Santa Maria delle Carceri | Prato | 1836-08-14 | chapter | [Basilici–Bigliazzi 2025, scheda 384](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna di Castelmonte | Prepotto, frazione di Castelmonte, Arcidiocesi di Udine | 1922-09-03 | chapter | [Basilici–Bigliazzi 2025, scheda 1046](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria Regina dei Popoli (Madonna di Preval) | Preval, Gorizia |  | act | [AAS 87 (1995), p. 555](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act* | ●●○ |
+| Santa Maria delle Grazie di Valle Valenza | Primolo (Chiesa in Valmalenco), Valtellina, diocese of Como | 1765-08-11 | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 255](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna delle Grazie | Procida, Arcidiocesi di Napoli | 1924-08-10 | chapter | [Basilici–Bigliazzi 2025, scheda 1088](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria di Monte Allegro di Rapallo | Rapallo | 1763 | chapter | [Briccolani 1800, p. 157](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 | Santa Maria di Montallegro | Rapallo, frazione di Montallegro, Diocesi di Chiavari | 1767-07-27 | chapter | [Basilici–Bigliazzi 2025, scheda 260](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
@@ -1167,8 +1154,8 @@ Vatican Chapter crowning later renewed by a Pope.
 | Madonna di Compigliano | San Vito Romano, Diocesi di Tivoli-Palestrina | 1948-08-22 | chapter | [Basilici–Bigliazzi 2025, scheda 1385](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna del Rosario | Sanremo, Ventimiglia | 1946-10-07 | chapter | [Basilici–Bigliazzi 2025, scheda 1349](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 40 (1948), p. 239](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *retro* | ●●○ |
 | Santa Maria Annunziata | Sant'Agnello di Sorrento (Angri) | 1919-08-17 | chapter | Zander/Magister 2011, cat. 50, p. 144 *chapter*<br>[Basilici–Bigliazzi 2025, scheda 976](https://www.pereto.org/madonne_coronate/) *chapter* | ●●○ |
-| Santa Maria dell'Arco | Sant'Anastasia, Diocesi di Nola | 1874-09-08 | act | [Basilici–Bigliazzi 2025, scheda 510](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Santa Maria Incoronata | Sant'Angelo a Scala, Diocesi di Avellino | 1723-04-23 | chapter | [Basilici–Bigliazzi 2025, scheda 181](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
+| Madonna dell'Arco | Sant'Anastasia, near Naples (apud urbem Neapolim) | 1874-09-08 | act | [Basilici–Bigliazzi 2025, scheda 510](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 66 (1974), p. 485](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *retro* | ●●○ |
+| Santa Maria dell'Incoronata nell'Eremo de' Camaldolesi | Sant'Angelo a Scala, Camaldolese hermitage of the Incoronata | 1723-04-23 | chapter | Balzamo 2023, p. 186 *chapter*<br>[Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 181](https://www.pereto.org/madonne_coronate/) *chapter* | ●●○ |
 | Madonna del Pianto | Sant'Angelo in Vado | 1947-08-11 | by pope | [AAS 40 (1948), p. 102](https://www.vatican.va/archive/aas/documents/AAS-40-1948-ocr.pdf) *by pope* | ●●● |
 | Madonna della Cornabusa | Sant'Omobono Terme, frazione di Cepino, Diocesi di Bergamo | 1908-10-04 | chapter | [Basilici–Bigliazzi 2025, scheda 871](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Dei Genetricis Imago « a Rosa » | Santa Margherita Ligure, Chiavari | 1776-11-25 | chapter | [Basilici–Bigliazzi 2025, scheda 283](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 43 (1951), p. 669](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro* | ●●○ |
@@ -1212,7 +1199,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Madonna di Lourdes | Stella, Savona | 1909 | retro | [AAS 27 (1935), p. 44](https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf) *retro* | ●●○ |
 | Madonna dei Campi, Nostra Signora della Preghiera | Stezzano | 1896-09-05 | chapter | Zander/Magister 2011, cat. 21, p. 86 *chapter*<br>[Basilici–Bigliazzi 2025, scheda 693](https://www.pereto.org/madonne_coronate/) *chapter* | ●●○ |
 | Santa Maria del Rosario | Strambino, Diocesi di Ivrea | 1871-10-22 | chapter | [Basilici–Bigliazzi 2025, scheda 492](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Madonna del Rocciamelone | Susa (Segusium) / Monte Rocciamelone |  | retro | [AAS 54 (1962), p. 426](https://www.vatican.va/archive/aas/documents/AAS-54-1962-ocr.pdf) *retro* | ●●○ |
+| Madonna del Rocciamelone | Susa (Segusium) / Monte Rocciamelone | 1930-08-10 | chapter | [Basilici–Bigliazzi 2025, scheda 1205](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 54 (1962), p. 426](https://www.vatican.va/archive/aas/documents/AAS-54-1962-ocr.pdf) *retro* | ●●○ |
 | Sacrum Cor Immaculatum Beatae Mariae Virginis | Taggia, Ventimiglia | 1856-06-01 | act | [Basilici–Bigliazzi 2025, scheda 426](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 35 (1943), p. 251](https://www.vatican.va/archive/aas/documents/AAS-35-1943-ocr.pdf) *retro* | ●●● |
 | Madonna di Valverde | Tarquinia | 1904-05-08 | chapter | [Basilici–Bigliazzi 2025, scheda 777](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna del Carmine | Taurianova, Diocesi di Oppido Marmetina-Palmi | 1960-03-27 | chapter | [Basilici–Bigliazzi 2025, scheda 1626](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
@@ -1252,7 +1239,6 @@ Vatican Chapter crowning later renewed by a Pope.
 | Madonna della Basella | Urgnano, frazione di Basella, Diocesi di Bergamo | 1921-09-08 | chapter | [Basilici–Bigliazzi 2025, scheda 1023](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna della Salute | Valentano, Diocesi di Civita Castellana | 1899-08-20 | chapter | [Basilici–Bigliazzi 2025, scheda 717](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Madonna di Altino | Vall'Alta di Albino | 1919-07-23 | chapter | Zander/Magister 2011, cat. 22, p. 88 *chapter*<br>[Basilici–Bigliazzi 2025, scheda 970](https://www.pereto.org/madonne_coronate/) *chapter* | ●●○ |
-| Santa Maria delle Grazie di Valle Valenza | Valle di Valenza (Valtellina), diocese of Como | 1765 | chapter | [Briccolani 1800, p. 158](https://archive.org/details/gri_33125011212400) *chapter* | ●○○ |
 | Santa Maria della Sanità (Madonna della Sanità) | Vallecorsa, Diocesi di Frosinone-Veroli-Ferentino | 1922-10-22 | chapter | [Basilici–Bigliazzi 2025, scheda 1052](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria de Ruscelli | Vallerano | 1684-01-29 | chapter | [Briccolani 1800, p. 151](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 121](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria delle Grazie nella Chiesa de' Domenicani di Val di Novi | Vallo della Lucania (Novi Velia), diocese of Capaccio | 1788-06-08 | chapter | [Briccolani 1800, p. 161](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 319](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
@@ -1320,15 +1306,14 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Malta
 
-*15 images*
+*14 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
 | Santa Maria Tal Herba (Vergine Maria delle Rovine) | Birkirkara, Arcidiocesi di Malta | 1910-08-07 | chapter | [Basilici–Bigliazzi 2025, scheda 896](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | sacerrimum Virginis Deiparae simulacrum quod Conspicuae colitur | Cospicua (Bormla), Malta |  | retro | [AAS 5 (1913), p. 180](https://www.vatican.va/archive/aas/documents/AAS-05-1913-ocr.pdf) *retro* | ●●○ |
 | Immacolata Concezione di Cospicua | Cospicua, Arcidiocesi di Malta | 1905-01-25 | act | [Basilici–Bigliazzi 2025, scheda 814](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Our Lady of Ta' Pinu | Gozo |  | legate | [AAS 27 (1935), p. 403](https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf) *legate* | ●●● |
-| Beata Vergine di Ta' Pinu (Blessed Virgin of Ta' Pinu) | Għarb, Diocesi di Gozo | 1935-06-20 | act | [Basilici–Bigliazzi 2025, scheda 1263](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
+| Our Lady of Ta' Pinu | Għarb (Gozo) | 1935-06-20 | act | [Basilici–Bigliazzi 2025, scheda 1263](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 27 (1935), p. 403](https://www.vatican.va/archive/aas/documents/AAS-27-1935-ocr.pdf) *legate* | ●●● |
 | Nostra Signora Damascena | La Valletta, Arcidiocesi di Malta | 1931-10-25 | chapter | [Basilici–Bigliazzi 2025, scheda 1228](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora di Mellieħa | Mellieħa, Arcidiocesi di Malta | 1899-09-24 | act | [Basilici–Bigliazzi 2025, scheda 722](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Beatae Mariae Virginis in caelum Assumptae imago | Mosta, Malta | 1975-08-10 | act | [AAS 66 (1974), p. 322](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *act*<br>[Basilici–Bigliazzi 2025, scheda 1725](https://www.pereto.org/madonne_coronate/) *act* | ●●● |
@@ -1342,7 +1327,7 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Mexico
 
-*72 images*
+*70 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
@@ -1362,7 +1347,6 @@ Vatican Chapter crowning later renewed by a Pope.
 | Nostra Signora della Immacolata Concezione (Purísima Concepción) | Celaya | 1909-10-12 | chapter | [Basilici–Bigliazzi 2025, scheda 890](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Vergine del Patrocinio (Virgen del Patrocinio) | Cerro del Bufa, Diocesi di Zacatecas | 1967-09-15 | chapter | [Basilici–Bigliazzi 2025, scheda 1707](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora del Rosario (Virgen del Rosario) | Charcas, Diocesi di Matehuala | 1951-08-20 | chapter | [Basilici–Bigliazzi 2025, scheda 1434](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Nostra Signora di Guadalupe (Vergine di Guadalupe) | Città del Messico | 1895-10-12 | chapter | [Basilici–Bigliazzi 2025, scheda 686](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora degli Angeli (Nuestra Señora de los Angeles) | Città del Messico, zona Guerrero | 1923-10-23 | chapter | [Basilici–Bigliazzi 2025, scheda 1078](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora del Carmine (Nuestra Señora del Carmen) | Ciudad del Carmen, Diocesi di Campeche | 1956-07-16 | chapter | [Basilici–Bigliazzi 2025, scheda 1568](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora dei Dolori di Soriano (Nuestra Señora de los Dolores de Soriano) | Còlon, Diocesi di Queretaro | 1964-02-07 | chapter | [Basilici–Bigliazzi 2025, scheda 1660](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
@@ -1384,10 +1368,10 @@ Vatican Chapter crowning later renewed by a Pope.
 | Beata Maria Virgo Lauretana | Loreto, Tijuana |  | retro | [AAS 59 (1967), p. 610](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●○ |
 | Nuestra Señora de Guadalupe | Manzanillo, Colima |  | act | [AAS 86 (1994), p. 942](https://www.vatican.va/archive/aas/documents/AAS-86-1994-ocr.pdf) *act* | ●●● |
 | Domina Nostra a Sacro Corde Iesu | Mexico City | 1948-09-26 | retro | [AAS 85 (1993), p. 405](https://www.vatican.va/archive/aas/documents/AAS-85-1993-ocr.pdf) *retro* | ●●● |
-| Nuestra Señora de Guadalupe | Mexicopolis (Mexico City) | 1895-10-12; 1945-10-12; 1979-01-27 | chapter | Balzamo 2023, p. 184 *chapter*<br>[Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter*<br>[AAS 37 (1945), p. 254](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 264](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 267](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *by pope*<br>[AAS 58 (1966), p. 475](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro*<br>[AAS 62 (1970), p. 681](https://www.vatican.va/archive/aas/documents/AAS-62-1970-ocr.pdf) *retro*<br>[AAS 71 (1979), p. 177](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) *by pope* | ●●● |
+| Nuestra Señora de Guadalupe | Mexicopolis (Mexico City) | 1895-10-12; 1945-10-12; 1979-01-27 | chapter | Balzamo 2023, p. 184 *chapter*<br>[Briccolani 1800, p. 155](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 686](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 37 (1945), p. 254](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 264](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *retro*<br>[AAS 37 (1945), p. 267](https://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf) *by pope*<br>[AAS 58 (1966), p. 475](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro*<br>[AAS 62 (1970), p. 681](https://www.vatican.va/archive/aas/documents/AAS-62-1970-ocr.pdf) *retro*<br>[AAS 71 (1979), p. 177](https://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf) *by pope* | ●●● |
 | Nostra Signora del Roble (Virgen del Roble) | Monterrey | 1964-05-31 | chapter | [Basilici–Bigliazzi 2025, scheda 1668](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nuestra Señora de Monterrey | Monterrey | 1990-05-10 | act | [AAS 82 (1990), p. 1512](https://www.vatican.va/archive/aas/documents/AAS-82-1990-ocr.pdf) *by pope*<br>[AAS 88 (1996), p. 840](https://www.vatican.va/archive/aas/documents/AAS-88-1996-ocr.pdf) *act* | ●●● |
-| Nuestra Señora de los Remedios | Naucalpan, Tlalnepantla | 1974-10-19 | chapter | [Basilici–Bigliazzi 2025, scheda 1723](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 66 (1974), p. 327](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *act* | ●●● |
+| Nuestra Señora de los Remedios | Naucalpan (diocese of Tlalnepantla) | 1974-10-19 | chapter | [Basilici–Bigliazzi 2025, scheda 1723](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 66 (1974), p. 327](https://www.vatican.va/archive/aas/documents/AAS-66-1974-ocr.pdf) *act*<br>[AAS 90 (1998), p. 955](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *retro* | ●●● |
 | Nuestra Señora de Ocotlán | Ocotlan (provincia Tlaxcalensis), Puebla de los Angeles |  | retro | [AAS 32 (1940), p. 545](https://www.vatican.va/archive/aas/documents/AAS-32-1940-ocr.pdf) *retro*<br>[AAS 50 (1958), p. 558](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
 | Nostra Signora del Monte Carmelo (Virgen del Carmen) | Orizaba | 1965-05-16 | act | [Basilici–Bigliazzi 2025, scheda 1679](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nuestra Señora del Carmen | Papantla | 1948 | retro | [AAS 53 (1961), p. 25](https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf) *retro* | ●●○ |
@@ -1409,7 +1393,6 @@ Vatican Chapter crowning later renewed by a Pope.
 | Nostra Signora dei Dolori (Nuestra Señora de los Dolores) | Teocaltiche, Diocesi di Aguascalientes | 1966-11-11 | chapter | [Basilici–Bigliazzi 2025, scheda 1700](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Immacolata Concezione (Inmaculada Concepción) | Tequila, Arcidiocesi di Guadalajara | 1968-04-25 | act | [Basilici–Bigliazzi 2025, scheda 1708](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Vergine della Candelaria (Virgen de la Candelaria) | Tlacotalpan, Diocesi di Veracruz | 1969-02-02 | act | [Basilici–Bigliazzi 2025, scheda 1709](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Nuestra Señora de los Remedios | Tlalnepantla | 1974 | retro | [AAS 90 (1998), p. 955](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *retro* | ●●● |
 | Nostra Signora del Carmine (Nuestra Señora del Carmen) | Tlalpujahua, Arcidiocesi di Morelia | 1942-10-12 | act | [Basilici–Bigliazzi 2025, scheda 1315](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora di Ocotlan (Virgen de Ocotlán) | Tlaxcala | 1909-07-31 | chapter | [Basilici–Bigliazzi 2025, scheda 885](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Vergine dell’Assunta (Virgen de la Asunción) | Tonaya, Diocesi di Autlan | 1965-01-15 | act | [Basilici–Bigliazzi 2025, scheda 1672](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
@@ -1445,11 +1428,11 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Peru
 
-*17 images*
+*16 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
-| Virgen de la Puerta |  | 1943 | retro | [AAS 35 (1943), p. 359](https://www.vatican.va/archive/aas/documents/AAS-35-1943-ocr.pdf) *retro* | ●●○ |
+| Virgen de la Puerta |  | 1943-10-27 | act | [Basilici–Bigliazzi 2025, scheda 1325](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 35 (1943), p. 359](https://www.vatican.va/archive/aas/documents/AAS-35-1943-ocr.pdf) *retro* | ●●○ |
 | Santissima Vergine Addolorata (Nuestra Señora de los Dolores) | Arequipa | 1940-10-20 | chapter | [Basilici–Bigliazzi 2025, scheda 1307](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora dei Dolori (Nuestra Señora de los Dolores) | Cajamarca | 1942-06-14 | act | [Basilici–Bigliazzi 2025, scheda 1313](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Soiignora del Carmine de la Legua (Nuestra Señora del Carmen de la Legua) | Callao | 1951-10-07 | act | [Basilici–Bigliazzi 2025, scheda 1437](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
@@ -1463,17 +1446,16 @@ Vatican Chapter crowning later renewed by a Pope.
 | Nostra Signora di Guadalupe (Nuestra Señora de Guadalupe) | Lima | 1965-09-20 | act | [Basilici–Bigliazzi 2025, scheda 1685](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nuestra Señora de la Evangelización | Lima |  | by pope | [AAS 83 (1991), p. 19](https://www.vatican.va/archive/aas/documents/AAS-83-1991-ocr.pdf) *by pope* | ●●● |
 | Nuestra Señora de la Merced | Lima | 1721-09-24; 1921-09-24 | chapter | Zander/Magister 2011, cat. 88, p. 226 *chapter*<br>[Basilici–Bigliazzi 2025, scheda 1029](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 17 (1925), p. 9](https://www.vatican.va/archive/aas/documents/AAS-17-1925-ocr.pdf) *retro* | ●●● |
-| Nostra Signora della Porta (Nuestra Señora de la Puerta) | Otuzco, Arcidiocesi di Trujillo | 1943-10-27 | act | [Basilici–Bigliazzi 2025, scheda 1325](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora della Misericordia (Nuestra Señora de las Mercedes) | Paita, Diocesi di Piura | 1960-08-27 | act | [Basilici–Bigliazzi 2025, scheda 1631](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nuestra Señora del Carmen (de Paucartambo) | Paucartambo, Cusco | 1985-02-03 | by pope | [AAS 77 (1985), p. 707](https://www.vatican.va/archive/aas/documents/AAS-77-1985-ocr.pdf) *by pope* | ●●● |
 
 ## Philippines
 
-*25 images*
+*24 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
-| Nuestra Señora de Caysasay |  | 1954-12-08 | retro | [AAS 46 (1954), p. 718](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro* | ●●○ |
+| Nuestra Señora de Caysasay |  | 1954-12-08 | act | [Basilici–Bigliazzi 2025, scheda 1531](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 46 (1954), p. 718](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro* | ●●○ |
 | Nostra Signora della Carità (Nuestra Señora de Caridad de Agoo) | Agoo, Diocesi di San Fernando de La Union | 1971-05-01 | act | [Basilici–Bigliazzi 2025, scheda 1713](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora della Pace e del Buon Viaggio (Nuestra Señora de la Paz y Buen Viaje) | Antipolo | 1926-11-28 | act | [Basilici–Bigliazzi 2025, scheda 1153](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora della Carità (Nuestra Señora de la Caridad de Bantay) | Bantay, Arcidiocesi di Nueva Segovia | 1956-01-12 | act | [Basilici–Bigliazzi 2025, scheda 1555](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
@@ -1495,13 +1477,12 @@ Vatican Chapter crowning later renewed by a Pope.
 | Nostra Signora della Visitazione di Piat (Nuestra Señora de Visitacion de Piat) | Piat, Arcidiocesi di Tuguegarao | 1954-06-20 | chapter | [Basilici–Bigliazzi 2025, scheda 1486](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora di La Naval de Manila (La Grande Signora) | Quezon City, Diocesi di Cubao | 1907-10-05 | act | [Basilici–Bigliazzi 2025, scheda 853](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora dei Rimedi (Virgen de los Remedios de Pampanga) | San Fernando | 1956-09-08 | act | [Basilici–Bigliazzi 2025, scheda 1572](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Nostra Signora di Caysasay (Nuestra Señora de Caysasay) | Taal, Diocesi di Lipa | 1954-12-08 | act | [Basilici–Bigliazzi 2025, scheda 1531](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Our Lady of the Most Holy Rosary | Ubanon, Calbayog |  | act | [AAS 87 (1995), p. 552](https://www.vatican.va/archive/aas/documents/AAS-87-1995-ocr.pdf) *act* | ●●○ |
 | Nostra Signora del Pilar (Nuestra Señora del Pilar de Zamboanga) | Zamboanga City | 1960-10-12 | act | [Basilici–Bigliazzi 2025, scheda 1637](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 
 ## Poland
 
-*95 images*
+*93 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
@@ -1516,8 +1497,6 @@ Vatican Chapter crowning later renewed by a Pope.
 | Nostra Signora di Chelm | Chełm | 1765-09-15 | chapter | Vrabelová 2013, § XXI no. 21 (§ 13.7.2) *chapter*<br>Zander/Magister 2011, cat. 84, p. 216 *chapter* | ●●○ |
 | Matka Boża Bolesna Chełmińska | Chełmno | 1754-05-22 | chapter | Vrabelová 2013, § XXI no. 15 (§ 17.4) *chapter* | ●○○ |
 | Beata Maria Virgo Nivalis et Divinus Infans | Ciricium (Szczyrzyc), Tarnów |  | act | [AAS 76 (1984), p. 768](https://www.vatican.va/archive/aas/documents/AAS-76-1984-ocr.pdf) *act* | ●●○ |
-| Nostra Signora di Piaskowej (Piasek) (Vergine Maria della Sabbia) | Cracovia | 1883-09-08 | chapter | [Basilici–Bigliazzi 2025, scheda 580](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
-| Santa Maria del Rosario (Nostra Signora del Rosario) | Cracovia | 1921-10-02 | chapter | [Basilici–Bigliazzi 2025, scheda 1031](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria Dolorosa (Benefattrice Addolorata di Cracovia) | Cracovia | 1908-03-08 | chapter | [Basilici–Bigliazzi 2025, scheda 856](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Matka Boża Wychowawczyni (« Educatricis »), Czarna | Czarna, Radom |  | act | [AAS 90 (1998), p. 253](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *act* | ●●● |
 | Imago Beatae Mariae Virginis Scapularis seu de Monte Carmelo | Czerna, Kraków |  | act | [AAS 79 (1987), p. 1447](https://www.vatican.va/archive/aas/documents/AAS-79-1987-ocr.pdf) *act* | ●●○ |
@@ -1538,8 +1517,8 @@ Vatican Chapter crowning later renewed by a Pope.
 | Matka Boża Kazimierska | Kazimierz (Kazimierz Dolny), Lublin |  | act | [AAS 78 (1986), p. 143](https://www.vatican.va/archive/aas/documents/AAS-78-1986-ocr.pdf) *act* | ●●● |
 | Matka Boża Kodeńska | Kodeń | 1723-08-15 | chapter | Vrabelová 2013, § XXI no. 3 (§ 17.3) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 182](https://www.pereto.org/madonne_coronate/) *chapter* | ●●○ |
 | Matka Boża Królowa Rodzin, Kościerzyna | Kościerzyna, Pelplin |  | act | [AAS 90 (1998), p. 94](https://www.vatican.va/archive/aas/documents/AAS-90-1998-ocr.pdf) *act* | ●●● |
-| Matka Boża Różańcowa | Kraków | 1921 | retro | [AAS 50 (1958), p. 850](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
-| Nostra Signora di Piasek | Kraków (Na Piasku) | 1883-09-08 | chapter | Zander/Magister 2011, cat. 82, p. 212 *chapter* | ●●○ |
+| Matka Boża Różańcowa | Kraków | 1921-10-02 | chapter | [Basilici–Bigliazzi 2025, scheda 1031](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 50 (1958), p. 850](https://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf) *retro* | ●●● |
+| Nostra Signora di Piasek | Kraków (Na Piasku) | 1883-09-08 | chapter | Zander/Magister 2011, cat. 82, p. 212 *chapter*<br>[Basilici–Bigliazzi 2025, scheda 580](https://www.pereto.org/madonne_coronate/) *chapter* | ●●○ |
 | Matka Boża Fatimska | Kraków, Nowa Huta-Bieńczyce |  | act | [AAS 84 (1992), p. 838](https://www.vatican.va/archive/aas/documents/AAS-84-1992-ocr.pdf) *act* | ●●● |
 | Matka Boża Nieustającej Pomocy | Kraków-Podgórze |  | act | [AAS 86 (1994), p. 791](https://www.vatican.va/archive/aas/documents/AAS-86-1994-ocr.pdf) *act* | ●●○ |
 | antiquissima beatae Matris effigies | Krypno, Białystok (Vilnius archdiocese, Białystok portion) |  | act | [AAS 75 (1983), p. 608](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *act* | ●●● |
@@ -1603,13 +1582,12 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Portugal
 
-*3 images*
+*2 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
 | Deiparae Immaculatae simulacrum | Braga | 1904-06-12 | act | [Basilici–Bigliazzi 2025, scheda 781](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 46 (1954), p. 365](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro* | ●●○ |
-| Nossa Senhora de Fátima | Fátima, Leiria | 1946-05-13 | legate | [AAS 38 (1946), p. 264](https://www.vatican.va/archive/aas/documents/AAS-38-1946-ocr.pdf) *retro*<br>[AAS 38 (1946), p. 376](https://www.vatican.va/archive/aas/documents/AAS-38-1946-ocr.pdf) *legate*<br>[AAS 43 (1951), p. 780](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro*<br>[AAS 44 (1952), p. 467](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro*<br>[AAS 46 (1954), p. 625](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro*<br>[AAS 47 (1955), p. 210](https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf) *retro*<br>[AAS 59 (1967), p. 466](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●● |
-| Nostra Signora di Fátima (Nossa Senhora de Fátima) | Ourem, Diocesi di Leiria-Fátima | 1946-05-13 | act | [Basilici–Bigliazzi 2025, scheda 1340](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
+| Nossa Senhora de Fátima | Fátima, Leiria | 1946-05-13 | act | [Basilici–Bigliazzi 2025, scheda 1340](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 38 (1946), p. 264](https://www.vatican.va/archive/aas/documents/AAS-38-1946-ocr.pdf) *retro*<br>[AAS 38 (1946), p. 376](https://www.vatican.va/archive/aas/documents/AAS-38-1946-ocr.pdf) *legate*<br>[AAS 43 (1951), p. 780](https://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf) *retro*<br>[AAS 44 (1952), p. 467](https://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf) *retro*<br>[AAS 46 (1954), p. 625](https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf) *retro*<br>[AAS 47 (1955), p. 210](https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf) *retro*<br>[AAS 59 (1967), p. 466](https://www.vatican.va/archive/aas/documents/AAS-59-1967-ocr.pdf) *retro* | ●●● |
 
 ## Puerto Rico
 
@@ -1630,18 +1608,17 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Slovenia
 
-*4 images*
+*3 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
-| Santa Maria delle Grazie | Mons Sanctus prope Urbem Goritiam (Monte Santo / Sveta Gora, near Gorizia) | 1717 | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter*<br>[ASS 40 (1907), p. 19](https://www.vatican.va/archive/ass/documents/ASS-40-1907-ocr.pdf) *retro* | ●●○ |
-| Santa Maria del Monte Santo | Nova Gorica, Diocesi di Capodistria | 1717-06-06 | chapter | [Basilici–Bigliazzi 2025, scheda 169](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
+| Santa Maria delle Grazie | Mons Sanctus prope Urbem Goritiam (Monte Santo / Sveta Gora, near Gorizia) | 1717-06-06 | chapter | [Briccolani 1800, p. 154](https://archive.org/details/gri_33125011212400) *chapter*<br>[Basilici–Bigliazzi 2025, scheda 169](https://www.pereto.org/madonne_coronate/) *chapter*<br>[ASS 40 (1907), p. 19](https://www.vatican.va/archive/ass/documents/ASS-40-1907-ocr.pdf) *retro* | ●●○ |
 | Nostra Signora della Visione (Madonna di Strugnano) | Pirano, frazione di Strugnano, Diocesi di Capodistria | 1912-08-14 | chapter | [Basilici–Bigliazzi 2025, scheda 917](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria Aiuto dei Cristiani (Marija Pomagaj) | Radovljica, villaggio di Brezje, Arcidiocesi di Lubiana | 1907-09-01 | act | [Basilici–Bigliazzi 2025, scheda 849](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 
 ## Spain
 
-*206 images*
+*204 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
@@ -1714,7 +1691,6 @@ Vatican Chapter crowning later renewed by a Pope.
 | Nuestra Señora de la Fuensanta | Córdoba |  | act | [AAS 86 (1994), p. 135](https://www.vatican.va/archive/aas/documents/AAS-86-1994-ocr.pdf) *act* | ●●● |
 | Vergine di Valme (Virgen de Valme) | Dos Hermanas, Arcidiocesi di Siviglia | 1973-06-23 | chapter | [Basilici–Bigliazzi 2025, scheda 1718](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nuestra Señora de Uribarri | Durango (Vizcaya), Vitoria |  | act | [AAS 34 (1942), p. 220](https://www.vatican.va/archive/aas/documents/AAS-34-1942-ocr.pdf) *act* | ●●● |
-| Nostra Signora della Roccia di Francia (Virgen de la Peña de Francia) | El Cabaco, Diocesi di Salamanca | 1952-06-04 | act | [Basilici–Bigliazzi 2025, scheda 1447](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Vergine dei Miracoli (Virgen de los Milagros) | El Puerto de Santa Maria, Diocesi di Cadice e Ceuta | 1916-09-08 | act | [Basilici–Bigliazzi 2025, scheda 954](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Vergine degli Angeli (Virgen de los Ángeles) | El Puig, Arcidiocesi di Valencia | 1954-09-09 | act | [Basilici–Bigliazzi 2025, scheda 1504](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Virgen de los Desamparados | El Saliente, Almería |  | act | [AAS 80 (1988), p. 366](https://www.vatican.va/archive/aas/documents/AAS-80-1988-ocr.pdf) *act* | ●●○ |
@@ -1791,7 +1767,7 @@ Vatican Chapter crowning later renewed by a Pope.
 | Santa Maria di Roncisvalle (Virgen de Roncesvalles) | Roncesvalles, Arcidiocesi di Pamplona-Tudela | 1960-09-08 | act | [Basilici–Bigliazzi 2025, scheda 1633](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora della Pace (Virgen de la Paz) | Ronda, Diocesi di Malaga | 1947-05-15 | act | [Basilici–Bigliazzi 2025, scheda 1360](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora della Fonte della Salute (Nuestra Señora de la Fuente de la Salud) | Sabadell, Diocesi di Tarrasa | 1947-10-19 | act | [Basilici–Bigliazzi 2025, scheda 1372](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Nuestra Señora de la Peña de Francia | Salamanca | 1952 | retro | [AAS 58 (1966), p. 794](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●● |
+| Nuestra Señora de la Peña de Francia | Salamanca | 1952-06-04 | act | [Basilici–Bigliazzi 2025, scheda 1447](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 58 (1966), p. 794](https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf) *retro* | ●●● |
 | Vergine della Valle (Virgen del Valle) | Saldaña, Diocesi di Palencia | 1930-09-08 | act | [Basilici–Bigliazzi 2025, scheda 1206](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Vergine della Rus (Virgen de Rus) | San Clemente, Diocesi di Cuenca | 1969-05-27 | act | [Basilici–Bigliazzi 2025, scheda 1710](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Immacolata Concezione (Nuestra Señora de la Concepcion) | San Cristobal de La Laguna | 1954-12-05 | act | [Basilici–Bigliazzi 2025, scheda 1526](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
@@ -1805,13 +1781,12 @@ Vatican Chapter crowning later renewed by a Pope.
 | Nostra Signora del Pilar (Nuestra Señora del Pilar) | Saragozza | 1905-05-20 | chapter | [Basilici–Bigliazzi 2025, scheda 818](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Santa Maria della Fuenciscla (Virgen de la Fuencisla) | Segovia | 1916-09-24 | act | [Basilici–Bigliazzi 2025, scheda 956](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora dei Rimedi (Nuestra Señora de los Remedios) | Serón, Diocesi di Almeria | 1965-08-15 | act | [Basilici–Bigliazzi 2025, scheda 1683](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Nuestra Señora de la Esperanza (Esperanza de Triana) | Seville (Hispalis) | 1964-05-31 | act | [AAS 56 (1964), p. 598](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro*<br>[AAS 75 (1983), p. 607](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *act* | ●●● |
+| Nuestra Señora de la Esperanza (Esperanza de Triana) | Seville (Hispalis) | 1964-05-31 | act | [Basilici–Bigliazzi 2025, scheda 1667](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 56 (1964), p. 598](https://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf) *retro*<br>[AAS 75 (1983), p. 607](https://www.vatican.va/archive/aas/documents/AAS-75-1983-I-ocr.pdf) *act* | ●●● |
 | Vergine della Mayor (Virgen de la Mayor) | Siguenza | 1906-08-17 | act | [Basilici–Bigliazzi 2025, scheda 835](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora della Salute (Viergen de la Salud) | Siguenza, villaggio di Barbatona | 1955-09-08 | chapter | [Basilici–Bigliazzi 2025, scheda 1547](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Beata Vergine de la Hiniesta (Virgen de la Hiniesta) | Siviglia | 1974-05-23 | chapter | [Basilici–Bigliazzi 2025, scheda 1721](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Maria Ausiliatrice (Maria Auxiliadora de Sevilla) | Siviglia | 1954-05-13 | act | [Basilici–Bigliazzi 2025, scheda 1483](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Nostra Signora dei Dolori (Virgen de la Amargura) | Siviglia | 1954-11-21 | act | [Basilici–Bigliazzi 2025, scheda 1522](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Nostra Signora della Speranza della Macarena (Virgen de la Esperanza Macarena) | Siviglia | 1964-05-31 | act | [Basilici–Bigliazzi 2025, scheda 1667](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Santa Maria de la Antigua (Virgen de la Antigua) | Siviglia | 1929-11-24 | chapter | [Basilici–Bigliazzi 2025, scheda 1199](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Vergine dei Re (Virgen de los Reyes) | Siviglia | 1904-12-04 | chapter | [Basilici–Bigliazzi 2025, scheda 804](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora del Miracolo di Fresnedo (Nuestra Señora del Milagro de Fresnedo) | Solorzano, Diocesi di Solsona | 1956-09-09 | act | [Basilici–Bigliazzi 2025, scheda 1574](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
@@ -1863,7 +1838,7 @@ Vatican Chapter crowning later renewed by a Pope.
 
 ## Switzerland
 
-*11 images*
+*9 images*
 
 | Image | Place | Crowned | Evidence | Sources | Conf. |
 |---|---|---|---|---|---|
@@ -1871,13 +1846,11 @@ Vatican Chapter crowning later renewed by a Pope.
 | Unsere Liebe Frau von Einsiedeln (Our Lady of the Hermits) | Einsiedeln | 1934-09-14 | act | [Basilici–Bigliazzi 2025, scheda 1255](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 26 (1934), p. 298](https://www.vatican.va/archive/aas/documents/AAS-26-1934-ocr.pdf) *legate* | ●●○ |
 | Notre-Dame de Fribourg | Fribourg |  | retro | [AAS 24 (1932), p. 364](https://www.vatican.va/archive/aas/documents/AAS-24-1932-ocr.pdf) *retro* | ●●● |
 | Nostra Signora di Friburgo (Gloriosa Regina dell'Universo) | Friburgo | 1902-08-21 | act | [Basilici–Bigliazzi 2025, scheda 757](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Notre-Dame de Genève | Geneva, Lausanne, Genève et Fribourg | 1937 | retro | [AAS 47 (1955), p. 810](https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf) *retro* | ●●● |
-| Nostra Signora di Ginevra (Notre-Dame de Genève) | Ginevra | 1937-05-23 | act | [Basilici–Bigliazzi 2025, scheda 1280](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
-| Madonna del Sasso | Locarno, Lugano | 1880 | retro | [AAS 11 (1919), p. 66](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
+| Notre-Dame de Genève | Geneva, Lausanne, Genève et Fribourg | 1937-05-23 | act | [Basilici–Bigliazzi 2025, scheda 1280](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 47 (1955), p. 810](https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf) *retro* | ●●● |
+| Madonna del Sasso | Locarno, Lugano | 1880-08-14 | act | [Basilici–Bigliazzi 2025, scheda 552](https://www.pereto.org/madonne_coronate/) *act*<br>[AAS 11 (1919), p. 66](https://www.vatican.va/archive/aas/documents/AAS-11-1919-ocr.pdf) *retro* | ●●● |
 | Madonna delle Grazie | Lugano | 1940-05-19 | chapter | [Basilici–Bigliazzi 2025, scheda 1303](https://www.pereto.org/madonne_coronate/) *chapter* | ●○○ |
 | Nostra Signora delle Grazie (Madre della Consolazione) | Metzerlen-Mariastein, Diocesi di Basilea | 1926-08-15 | act | [Basilici–Bigliazzi 2025, scheda 1149](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 | Beata Maria Virgo « a Miraculis » | Morbio Inferiore, Lugano | 1927-07-29 | chapter | [Basilici–Bigliazzi 2025, scheda 1164](https://www.pereto.org/madonne_coronate/) *chapter*<br>[AAS 54 (1962), p. 770](https://www.vatican.va/archive/aas/documents/AAS-54-1962-ocr.pdf) *retro* | ●●○ |
-| Madonna del Sasso | Orselina, Diocesi di Lugano | 1880-08-14 | act | [Basilici–Bigliazzi 2025, scheda 552](https://www.pereto.org/madonne_coronate/) *act* | ●○○ |
 
 ## Turkey
 
