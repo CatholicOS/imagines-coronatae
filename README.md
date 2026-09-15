@@ -103,18 +103,19 @@ a Pope. 66 images in the catalogue were crowned more than once, among them:
 | Image | Crowned |
 |---|---|
 | Madonna della Febbre — Rome, Vatican sacristy | 1631-08-27, 1697-08-15 |
-| Salus Populi Romani — Rome, Santa Maria Maggiore | 1597, 1954-11-01 |
+| Salus Populi Romani — Rome, Santa Maria Maggiore | 1597, 1838-08-15, 1954-11-01 |
 | Madonna del Rosario di Fontanellato — Fontanellato, Italy | 1660, 1925 |
-| Nostra Signora della Misericordia — Savona, Italy | 1770, 1815-05-10 |
+| Nostra Signora della Misericordia — Savona, Italy | 1770, 1815-05-10, 1915-04-19 |
 | Nostra Signora dei Miracoli — Cicagna, Italy | 1790-09-14, 1814-09-14 |
 | Vergine del Sacro Monte — Varallo, Italy | 1857-08-20, 1862-08-17 |
 | Nostra Signora di Bonaria — Cagliari (Calaris), Italy | 1870-04-24, 1926-04-24 |
 | Nuestra Señora de Guadalupe — Mexicopolis (Mexico City), Mexico | 1895-10-12, 1945-10-12, 1979-01-27 |
-| Notre-Dame du Cap — Cap-de-la-Madeleine, Canada | 1904, 1954 |
+| Notre-Dame du Cap — Cap-de-la-Madeleine, Canada | 1904-10-12, 1954-08-12 |
 | Nuestra Señora de Coromoto — Guanare, Venezuela | 1952-09-12, 1985-01-27 |
 
 Dates are collapsed by precision first: one source giving `1954` and another `1954-08-29` is a
-single crowning recorded at two levels of detail, not two, so only the fuller form is kept. A bare
+single crowning recorded at two levels of detail, not two, so only the fuller form is kept (and
+where two full dates fall in one year, the one from a source read at first hand). A bare
 year from a register that is one year off a full date from a dossier is treated the same way —
 a register often gives the year of the decree, the dossier the day of the ceremony (Lucca: decree
 1689, crowned 30 April 1690). Distinct years otherwise stay distinct — which is what makes a

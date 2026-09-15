@@ -376,7 +376,9 @@ images=[];seen=collections.Counter()
 for g in clusters:
     g=sorted(g,key=lambda r:(r.get('year') or 9999,{'ACSP':0,'LIT':1,'ASS':2,'AAS':3}.get(r.get('series'),4),r.get('page') or 0))
     # a crown for the Child of an image already crowned (a register's 'Bambino Gesù' entry) is not a re-crowning of the image
-    cds=collapse_dates([x['coronation_date'] for x in g if x.get('coronation_date') and not x.get('parent_act')])
+    # first-hand sources first, so that where two full dates fall in one year (Coromoto: the act's 12
+    # September 1952, Basilici-Bigliazzi's 11th) the one read at first hand is the one kept
+    cds=collapse_dates([x['coronation_date'] for x in sorted(g,key=lambda x:x.get('series')=='LIT') if x.get('coronation_date') and not x.get('parent_act')])
     ev=sorted({x['evidence_type'] for x in g},key=lambda e:(-RANK.get(e,0),e))   # tie-break by name: set order is not stable across runs
     base=slug((best(g,'image_title_vernacular') or best(g,'image_title_latin') or 'image')+'-'+(best(g,'locality') or best(g,'country') or ''))
     seen[base]+=1; iid=base if seen[base]==1 else f'{base}-{seen[base]}'
