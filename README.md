@@ -121,7 +121,7 @@ a register often gives the year of the decree, the dossier the day of the ceremo
 1689, crowned 30 April 1690). Distinct years otherwise stay distinct — which is what makes a
 multi-entry list mean something. A crown for the **Child** of an image already crowned (Briccolani
 lists twelve such *Bambino Gesù* concessions) is kept as a source on the image, linked to it by
-`parent_act`, but is not counted as a re-crowning. Some of the 68 are source
+`parent_act`, but is not counted as a re-crowning. Some of the 66 are source
 disagreements rather than two ceremonies — the 43 where a Basilici–Bigliazzi date differs from another
 source's are listed in `docs/BASILICI-BIGLIAZZI.md`, and five older ones are: Sant'Agostino in Rome (Briccolani 1641, Balzamo 1643),
 Jarosław (Briccolani 1732, Vrabelová 1755-09-08), two Roman images where Bombelli's notice contradicts

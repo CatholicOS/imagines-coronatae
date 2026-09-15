@@ -360,8 +360,10 @@ CONF={'high':3,'medium':2,'low':1}
 def best(g,f):
     # a Child's-crown entry names the image by its parent, and a Basilici-Bigliazzi row gives Italian
     # exonyms ('Santiago del Cile'): let the image's own records name it where there are any
-    own=[x for x in g if not x.get('parent_act') and work(x)!='BB'] or [x for x in g if not x.get('parent_act')] or g
-    vals=[x.get(f) for x in own if x.get(f)]
+    vals=[]
+    for own in ([x for x in g if not x.get('parent_act') and work(x)!='BB'],[x for x in g if not x.get('parent_act')],g):
+        vals=[x.get(f) for x in own if x.get(f)]
+        if vals: break      # a placeless act keeps the place its Basilici-Bigliazzi row gives (Caysasay: Taal)
     if not vals: return None
     c=collections.Counter(vals)
     # on a tie a title that is nothing but praise ('mirifica Beatissimae Mariae Virginis imago') loses

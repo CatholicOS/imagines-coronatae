@@ -900,7 +900,7 @@
       "church_or_sanctuary": "Santuario de Nuestra Señora de Luján (basilica with two towers)",
       "locality": "Luján",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Mercedes-Lujàn",
       "country": "Argentina",
       "coronation_dates": [
         "1887-05-08"
@@ -2206,10 +2206,10 @@
       "image_title_vernacular": "Matka Boża Białynicka",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary with Child (Our Lady of the Snows type)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Santuario di Byalynichy",
       "locality": "Białynicze (Byalynichy)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Vitebsk",
       "country": "Belarus",
       "coronation_dates": [
         "1761-09-29"
@@ -2472,10 +2472,10 @@
       "image_title_vernacular": "Matka Boża Żyrowicka",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary with Child (Glykophilousa; jasper relief)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Cattedrale dell'Assunzione della Beata Vergine nel monastero di Zhyrovichy",
       "locality": "Żyrowice (Zhyrovichy)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Grodno",
       "country": "Belarus",
       "coronation_dates": [
         "1730-09-19"
@@ -2611,7 +2611,7 @@
       "church_or_sanctuary": "Saint-Donat",
       "locality": "Arlon",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Namur",
       "country": "Belgium",
       "coronation_dates": [
         "1904-09-14"
@@ -3417,7 +3417,7 @@
       "church_or_sanctuary": "Basiliek Virga Jesse",
       "locality": "Hasselt",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Hasselt",
       "country": "Belgium",
       "coronation_dates": [
         "1867-08-15"
@@ -3500,7 +3500,7 @@
       "church_or_sanctuary": "Notre-Dame de la Sarte",
       "locality": "Huy",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Liegi",
       "country": "Belgium",
       "coronation_dates": [
         "1896-06-29",
@@ -4066,7 +4066,7 @@
       "image_title_vernacular": "Notre-Dame du Rempart",
       "image_title_latin": "Domina Nostra ad moenia",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Cappella di Nostra Signora al Bastione",
       "locality": "Namur",
       "diocese_latin": "Namurcensis",
       "diocese_modern": "Namur",
@@ -4469,8 +4469,8 @@
       ]
     },
     {
-      "id": "signum-beatae-mariae-virginis-durateum-argento-o",
-      "image_title_vernacular": null,
+      "id": "nostra-signora-di-walcourt-walcourt",
+      "image_title_vernacular": "Nostra Signora di Walcourt",
       "image_title_latin": "signum Beatae Mariae Virginis, durateum, argento obductum, arte « Romanica » conspicuum",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Ecclesia Sancti Materni, Walcourt",
@@ -5258,7 +5258,7 @@
       "image_title_vernacular": "Nossa Senhora da Apresentação",
       "image_title_latin": "simulacrum Beatae Mariae Virginis a Praesentatione",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Chiesa matrice di Nostra Signora della Presentazione",
       "locality": "Natal",
       "diocese_latin": "Natalensis",
       "diocese_modern": "Natal",
@@ -5390,8 +5390,8 @@
       ]
     },
     {
-      "id": "simulacrum-cedrino-ligno-sculptum-beatae-mariae",
-      "image_title_vernacular": null,
+      "id": "nostra-signora-del-monte-carmelo-nossa-senhora-d",
+      "image_title_vernacular": "Nostra Signora del Monte Carmelo (Nossa Senhora do Carmo)",
       "image_title_latin": "simulacrum, cedrino ligno sculptum, Beatae Mariae Virginis de Monte Carmelo",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Templum Carmelitarum B. Mariae Virgini de Monte Carmelo sacrum",
@@ -8137,7 +8137,7 @@
       "church_or_sanctuary": "St Thomas (Augustinians)",
       "locality": "Brno, St Thomas (Augustinians)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Brno",
       "country": "Czech Republic",
       "coronation_dates": [
         "1736-05-10"
@@ -8301,7 +8301,7 @@
       "church_or_sanctuary": "Svatá Hora",
       "locality": "Svatá Hora, Příbram",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Praga",
       "country": "Czech Republic",
       "coronation_dates": [
         "1732-06-22"
@@ -8849,7 +8849,7 @@
       "church_or_sanctuary": "Templum B. M. V. « Nuestra Señora de Agua Santa de Baños » (served by the Dominicans)",
       "locality": "Baños (« Baños de Tungurahua »)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Santo Domingo",
       "country": "Ecuador",
       "coronation_dates": [
         "1959-12-13"
@@ -9358,7 +9358,7 @@
       "image_title_vernacular": "Dolorosa del Colegio",
       "image_title_latin": "simulacrum B. Mariae Virginis Perdolentis",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Collegio San Gabriele dei Padri Gesuiti",
       "locality": "Quito",
       "diocese_latin": "Quitensis",
       "diocese_modern": "Quito",
@@ -10243,7 +10243,7 @@
       "church_or_sanctuary": "Saint-Pierre et Saint-Étienne",
       "locality": "Bar-le-Duc",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Verdun",
       "country": "France",
       "coronation_dates": [
         "1920-07-04"
@@ -11496,7 +11496,7 @@
       "church_or_sanctuary": "Basilique Notre-Dame de la Délivrande",
       "locality": "Douvres-la-Délivrande",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Lisieux-Bayeux",
       "country": "France",
       "coronation_dates": [
         "1872-08-22"
@@ -11577,7 +11577,7 @@
       "image_title_vernacular": "Notre-Dame des Dunes",
       "image_title_latin": "Nostra Domina des Dunes",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Cappella Nostra Signora des Dunes",
       "locality": "Dunkerque (Dunkirk)",
       "diocese_latin": "Cameracensis",
       "diocese_modern": "Cambrai",
@@ -15420,7 +15420,7 @@
       "church_or_sanctuary": "Couvent de Sainte-Ursule",
       "locality": "Périgueux",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Perigueux-Sarlat",
       "country": "France",
       "coronation_dates": [
         "1892-05-24"
@@ -17055,7 +17055,7 @@
       "church_or_sanctuary": "Basilique Notre-Dame du Chêne",
       "locality": "Vion",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Le Mans",
       "country": "France",
       "coronation_dates": [
         "1908-10-06"
@@ -17399,7 +17399,7 @@
       "church_or_sanctuary": "Sankt Maria in der Kupfergasse",
       "locality": "Cologne (Köln)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Colonia",
       "country": "Germany",
       "coronation_dates": [
         "1925-04-03"
@@ -17769,8 +17769,8 @@
       ]
     },
     {
-      "id": "imago-beatae-mariae-virginis-olim-sanctae-mariae",
-      "image_title_vernacular": null,
+      "id": "madre-di-dio-werl",
+      "image_title_vernacular": "Madre di Dio",
       "image_title_latin": "Imago Beatae Mariae Virginis (olim « Sanctae Mariae ad pratum » Susatii)",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Ecclesia B. Mariae V. a Visitatione (Basilica Minor), entrusted to the Franciscans",
@@ -18394,7 +18394,7 @@
       "church_or_sanctuary": "Chiesa degli Agostiniani (Madonna delle Grazie)",
       "locality": "Acquapendente",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Viterbo",
       "country": "Italy",
       "coronation_dates": [
         "1742-05-20"
@@ -18506,7 +18506,7 @@
       "church_or_sanctuary": "Cattedrale (Madonna della Concezione)",
       "locality": "Acquapendente (cathedral)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Viterbo",
       "country": "Italy",
       "coronation_dates": [
         "1780-05-28"
@@ -18587,7 +18587,7 @@
       "church_or_sanctuary": "Sant'Eustachio (Santa Maria di Costantinopoli)",
       "locality": "Acquaviva delle Fonti",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Altamura-Gravina-Acquaviva delle Fonti",
       "country": "Italy",
       "coronation_dates": [
         "1781-09-04",
@@ -18910,7 +18910,7 @@
       "church_or_sanctuary": "Santa Maria della Rotonda",
       "locality": "Albano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Albano",
       "country": "Italy",
       "coronation_dates": [
         "1729-08-22",
@@ -19236,7 +19236,7 @@
       "church_or_sanctuary": "Santuario della Madonna del Pianto",
       "locality": "Albino",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Bergamo",
       "country": "Italy",
       "coronation_dates": [
         "1919-09-21"
@@ -19373,7 +19373,7 @@
       "church_or_sanctuary": "Madonna dei Miracoli",
       "locality": "Alcamo",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Trapani",
       "country": "Italy",
       "coronation_dates": [
         "1784-06-21"
@@ -19507,7 +19507,7 @@
       "church_or_sanctuary": "Cattedrale di San Pietro",
       "locality": "Alessandria",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Alessandria",
       "country": "Italy",
       "coronation_dates": [
         "1843-05-28"
@@ -19833,7 +19833,7 @@
       "church_or_sanctuary": "Cattedrale",
       "locality": "Amelia",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Terni",
       "country": "Italy",
       "coronation_dates": [
         "1745-05-09"
@@ -20066,8 +20066,8 @@
       ]
     },
     {
-      "id": "imago-deiparae-sub-titulo-reginae-omnium-sanctor",
-      "image_title_vernacular": null,
+      "id": "santa-maria-regina-di-tutti-i-santi-ancona",
+      "image_title_vernacular": "Santa Maria Regina di tutti i Santi",
       "image_title_latin": "Imago Deiparae sub titulo Reginae omnium Sanctorum",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Cathedral church of St Cyriacus (formerly dedicated to St Laurence Martyr)",
@@ -20341,7 +20341,7 @@
       "church_or_sanctuary": "San Michele Arcangelo (Madonna del Rosario)",
       "locality": "Antegnate",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Cremona",
       "country": "Italy",
       "coronation_dates": [
         "1753-04-29"
@@ -20528,7 +20528,7 @@
       "church_or_sanctuary": "Santuario della Madonna delle Grazie",
       "locality": "Ardesio",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Bergamo",
       "country": "Italy",
       "coronation_dates": [
         "1872-06-24"
@@ -20611,7 +20611,7 @@
       "church_or_sanctuary": "Santuario di Nostra Signora Annunziata delle Olivette",
       "locality": "Arenzano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Genova",
       "country": "Italy",
       "coronation_dates": [
         "1890-03-24"
@@ -21996,7 +21996,7 @@
       "church_or_sanctuary": "Santa Maria di Costantinopoli",
       "locality": "Bari",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Bari-Bitonto",
       "country": "Italy",
       "coronation_dates": [
         "1772-09-19"
@@ -22395,7 +22395,7 @@
       "church_or_sanctuary": "Santa Maria delle Grazie",
       "locality": "Benevento",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Benevento",
       "country": "Italy",
       "coronation_dates": [
         "1723-04-03"
@@ -22476,7 +22476,7 @@
       "church_or_sanctuary": "Annunziata",
       "locality": "Benevento",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Benevento",
       "country": "Italy",
       "coronation_dates": [
         "1754-05-10"
@@ -23207,8 +23207,8 @@
       ]
     },
     {
-      "id": "beata-maria-virgo-cum-divino-puero-iesu-a-victor",
-      "image_title_vernacular": null,
+      "id": "santa-maria-della-vittoria-santa-maria-del-monte",
+      "image_title_vernacular": "Santa Maria della Vittoria (Santa Maria del Monte)",
       "image_title_latin": "Beata Maria Virgo cum Divino puero Iesu, a Victoria dicta",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Templum Abbatiale SS. Salvatoris",
@@ -23613,7 +23613,7 @@
       "church_or_sanctuary": "Santa Maria di Valleverde e San Lorenzo",
       "locality": "Bovino",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Foggia-Bovino",
       "country": "Italy",
       "coronation_dates": [
         "1876-08-29"
@@ -25754,7 +25754,7 @@
       "church_or_sanctuary": "Basilica di Santa Maria del Pozzo",
       "locality": "Capurso",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Bari-Bitonto",
       "country": "Italy",
       "coronation_dates": [
         "1852-05-20"
@@ -25839,7 +25839,7 @@
       "church_or_sanctuary": "Santuario della Madonna del Castello",
       "locality": "Caraglio",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Cuneo-Fossano",
       "country": "Italy",
       "coronation_dates": [
         "1910-05-22"
@@ -26141,7 +26141,7 @@
       "church_or_sanctuary": "Santissimo Salvatore",
       "locality": "Casal di Principe",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Aversa",
       "country": "Italy",
       "coronation_dates": [
         "1908-09-08",
@@ -26250,8 +26250,8 @@
       ]
     },
     {
-      "id": "beata-maria-virgo-a-miraculis-casalbordino",
-      "image_title_vernacular": null,
+      "id": "santa-maria-dei-miracoli-casalbordino",
+      "image_title_vernacular": "Santa Maria dei Miracoli",
       "image_title_latin": "Beata Maria Virgo « a Miraculis »",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Ecclesia prope municipium « Casalbordino »",
@@ -26339,7 +26339,7 @@
       "church_or_sanctuary": "Santissima Maria Madre del Salvatore (Madonna dei Cappuccini)",
       "locality": "Casalpusterlengo",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Lodi",
       "country": "Italy",
       "coronation_dates": [
         "1780-09-03"
@@ -26853,7 +26853,7 @@
       "church_or_sanctuary": "Santa Maria Assunta",
       "locality": "Castel del Piano, diocese of Chiusi",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Siena-Colle Val d'Elsa-Montalcino",
       "country": "Italy",
       "coronation_dates": [
         "1771-09-07",
@@ -27446,7 +27446,7 @@
       "church_or_sanctuary": "Santa Maria di Portosalvo",
       "locality": "Castellammare di Stabia (Portosalvo)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Sorrento-Castellamare di Stabia",
       "country": "Italy",
       "coronation_dates": [
         "1897-08-08"
@@ -27529,7 +27529,7 @@
       "church_or_sanctuary": "Santuario di Santa Maria della Sanità",
       "locality": "Castellammare di Stabia (Quisisana)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Sorrento-Castellamare di Stabia",
       "country": "Italy",
       "coronation_dates": [
         "1911-04-21",
@@ -27719,7 +27719,7 @@
       "church_or_sanctuary": "Santuario della Beata Vergine della Misericordia",
       "locality": "Castelleone",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Cremona",
       "country": "Italy",
       "coronation_dates": [
         "1886-09-12"
@@ -28014,7 +28014,7 @@
       "church_or_sanctuary": "Basilica di Maria Santissima Incoronata dell'Olmo",
       "locality": "Cava de' Tirreni",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Amalfi-Cava de' Tirreni",
       "country": "Italy",
       "coronation_dates": [
         "1766-06-15",
@@ -28241,7 +28241,7 @@
       "church_or_sanctuary": "Chiesa dei Cappuccini",
       "locality": "Cefalù",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Cefalù",
       "country": "Italy",
       "coronation_dates": [
         "1760-08-17"
@@ -28799,7 +28799,7 @@
       "church_or_sanctuary": "Santuario di Nostra Signora dell'Orto",
       "locality": "Chiavari (Clavarium), Liguria",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Chiavari",
       "country": "Italy",
       "coronation_dates": [
         "1769-09-08"
@@ -29154,7 +29154,7 @@
       "church_or_sanctuary": "Santuario di Nostra Signora dei Miracoli",
       "locality": "Cicagna",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Chiavari",
       "country": "Italy",
       "coronation_dates": [
         "1790-09-14",
@@ -29811,7 +29811,7 @@
       "church_or_sanctuary": "Madonna della Quercia (di Visora)",
       "locality": "Conflenti",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Lamezia Terme",
       "country": "Italy",
       "coronation_dates": [
         "1783-08-31"
@@ -30051,7 +30051,7 @@
       "church_or_sanctuary": "Madonna del Soccorso",
       "locality": "Cori",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Latina-Terracina-Sezze-Priverno",
       "country": "Italy",
       "coronation_dates": [
         "1778-09-20"
@@ -30291,7 +30291,7 @@
       "church_or_sanctuary": "Santa Maria Nuova",
       "locality": "Cortona",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Arezzo-Cortona-Sansepolcro",
       "country": "Italy",
       "coronation_dates": [
         "1687-02-08"
@@ -30372,7 +30372,7 @@
       "church_or_sanctuary": "Santa Maria della Manna",
       "locality": "Cortona (Manna)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Arezzo-Cortona-Sansepolcro",
       "country": "Italy",
       "coronation_dates": [
         "1741-10-08"
@@ -30641,7 +30641,7 @@
       "church_or_sanctuary": "Sant'Abbondio (Theatines) — Madonna Lauretana",
       "locality": "Cremona",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Cremona",
       "country": "Italy",
       "coronation_dates": [
         "1732-08-17"
@@ -31539,7 +31539,7 @@
       "church_or_sanctuary": "Collegiata di Santa Maria della Pietà",
       "locality": "Eboli",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Salerno-Campagna-Acerno",
       "country": "Italy",
       "coronation_dates": [
         "1920-05-30"
@@ -31668,14 +31668,14 @@
       ]
     },
     {
-      "id": "image-enna",
-      "image_title_vernacular": null,
+      "id": "madonna-della-visitazione-enna",
+      "image_title_vernacular": "Madonna della Visitazione",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Chiesa di Maria Santissima della Visitazione",
       "locality": "Enna",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Piazza Armerina",
       "country": "Italy",
       "coronation_dates": [
         "1797-07-06"
@@ -31941,7 +31941,7 @@
       "image_title_vernacular": "Madonna del Buon Gesù",
       "image_title_latin": "Beatissima Virgo Maria a Bono Iesu",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Chiesa di Santa Maria del Buon Gesù",
       "locality": "Fabriano",
       "diocese_latin": "Fabrianensis et Matelicensis",
       "diocese_modern": "Fabriano-Matelica",
@@ -32322,7 +32322,7 @@
       "church_or_sanctuary": "Santa Maria a Mare",
       "locality": "Fermo (diocese)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Fermo",
       "country": "Italy",
       "coronation_dates": [
         "1683-10-22"
@@ -32403,7 +32403,7 @@
       "church_or_sanctuary": "Cattedrale (Madonna delle Grazie)",
       "locality": "Ferrara",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Ferrara-Comacchio",
       "country": "Italy",
       "coronation_dates": [
         "1779-05-24"
@@ -33036,8 +33036,8 @@
       ]
     },
     {
-      "id": "domina-nostra-a-gratiis-in-folgaria-folgaria",
-      "image_title_vernacular": null,
+      "id": "vergine-santissima-delle-grazie-folgaria",
+      "image_title_vernacular": "Vergine Santissima delle Grazie",
       "image_title_latin": "Domina Nostra a gratiis in Folgaria",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Aedes B. Mariae Virgini opiferae sacra (church entrusted to the Friars Minor Capuchin)",
@@ -33469,7 +33469,7 @@
       "church_or_sanctuary": "Santa Maria di Forano",
       "locality": "Forano (Appignano), diocese of Osimo",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Macerata",
       "country": "Italy",
       "coronation_dates": [
         "1715-09-08"
@@ -33550,7 +33550,7 @@
       "church_or_sanctuary": "Santa Maria di Loreto",
       "locality": "Forio (Ischia)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Ischia",
       "country": "Italy",
       "coronation_dates": [
         "1787-07-29"
@@ -33631,7 +33631,7 @@
       "church_or_sanctuary": "Cattedrale (Madonna del Fuoco)",
       "locality": "Forlì",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Forli-Bertinoro",
       "country": "Italy",
       "coronation_dates": [
         "1687-10-12"
@@ -34072,7 +34072,7 @@
       "church_or_sanctuary": "Santa Maria della Neve",
       "locality": "Frosinone",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Frosinone-Veroli-Ferentino",
       "country": "Italy",
       "coronation_dates": [
         "1694-05-31"
@@ -34312,7 +34312,7 @@
       "church_or_sanctuary": "Santuario dell'Apparizione di Maria Vergine",
       "locality": "Gallivaggio (Valle Spluga), diocese of Como",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Como",
       "country": "Italy",
       "coronation_dates": [
         "1742-06-23"
@@ -34424,7 +34424,7 @@
       "church_or_sanctuary": "Santuario di Galloro",
       "locality": "Galloro (Ariccia)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Albano",
       "country": "Italy",
       "coronation_dates": [
         "1726-06-10",
@@ -34641,7 +34641,7 @@
       "church_or_sanctuary": "Santuario di Nostra Signora delle Grazie della Valle",
       "locality": "Gavi (Valle)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Genova",
       "country": "Italy",
       "coronation_dates": [
         "1904-09-08"
@@ -34883,7 +34883,7 @@
       "church_or_sanctuary": "Santa Maria del Buon Consiglio",
       "locality": "Genazzano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Tivoli-Palestrina",
       "country": "Italy",
       "coronation_dates": [
         "1682-11-17",
@@ -35129,7 +35129,7 @@
       "church_or_sanctuary": "Santuario della Madonnetta (N. S. Assunta di Carbonara)",
       "locality": "Genoa (Carbonara)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Genova",
       "country": "Italy",
       "coronation_dates": [
         "1920-06-27"
@@ -35212,7 +35212,7 @@
       "church_or_sanctuary": "San Pietro Apostolo, Cremeno",
       "locality": "Genoa (Cremeno)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Genova",
       "country": "Italy",
       "coronation_dates": [
         "1909-08-22"
@@ -35295,7 +35295,7 @@
       "church_or_sanctuary": "Santa Maria del Soccorso",
       "locality": "Genoa (Genova)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Genova",
       "country": "Italy",
       "coronation_dates": [
         "1683-11-28"
@@ -35376,7 +35376,7 @@
       "church_or_sanctuary": "Santuario di Nostra Signora di Loreto in Oregina",
       "locality": "Genoa (Oregina)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Genova",
       "country": "Italy",
       "coronation_dates": [
         "1905-06-01"
@@ -35881,7 +35881,7 @@
       "church_or_sanctuary": "Madonna della Pace",
       "locality": "Giugliano in Campania",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Aversa",
       "country": "Italy",
       "coronation_dates": [
         "1749-05-25"
@@ -35962,7 +35962,7 @@
       "church_or_sanctuary": "Santuario di Barbana",
       "locality": "Grado (Isola di Barbana)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Gorizia",
       "country": "Italy",
       "coronation_dates": [
         "1863-08-15"
@@ -36074,7 +36074,7 @@
       "church_or_sanctuary": "Santa Maria di Costantinopoli",
       "locality": "Gragnano, diocese of Lettere",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Sorrento-Castellamare di Stabia",
       "country": "Italy",
       "coronation_dates": [
         "1779-10-10"
@@ -36261,7 +36261,7 @@
       "church_or_sanctuary": "Abbazia di Grottaferrata",
       "locality": "Grottaferrata",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Frascati",
       "country": "Italy",
       "coronation_dates": [
         "1688-11-16"
@@ -36895,7 +36895,7 @@
       "church_or_sanctuary": "Santa Maria di Costantinopoli",
       "locality": "Ischia",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Ischia",
       "country": "Italy",
       "coronation_dates": [
         "1791",
@@ -37030,7 +37030,7 @@
       "church_or_sanctuary": "Santuario della Madonna della Civita",
       "locality": "Itri",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Gaeta",
       "country": "Italy",
       "coronation_dates": [
         "1777-07-20",
@@ -37194,7 +37194,7 @@
       "church_or_sanctuary": "Chiesa dei Carmelitani (Madonna delle Grazie)",
       "locality": "Jesi",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Jesi",
       "country": "Italy",
       "coronation_dates": [
         "1745-09-19"
@@ -37569,7 +37569,7 @@
       "church_or_sanctuary": "Santuario diocesano di Maria Santissima Mater Domini",
       "locality": "Laterza",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Castellaneta",
       "country": "Italy",
       "coronation_dates": [
         "1888-05-20"
@@ -38087,7 +38087,7 @@
       "church_or_sanctuary": "Chiesa degli Agostiniani (Madonna del Sasso)",
       "locality": "Lucca",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Lucca",
       "country": "Italy",
       "coronation_dates": [
         "1690-04-30"
@@ -38358,7 +38358,7 @@
       "church_or_sanctuary": "San Tommaso in Pelleria",
       "locality": "Lucca (San Tommaso in Pelleria)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Lucca",
       "country": "Italy",
       "coronation_dates": [
         "1797-09-27"
@@ -38789,7 +38789,7 @@
       "church_or_sanctuary": "Chiesa dei Carmelitani (Santa Maria delle Vergini)",
       "locality": "Macerata",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Macerata",
       "country": "Italy",
       "coronation_dates": [
         "1696-10-21"
@@ -38980,7 +38980,7 @@
       "church_or_sanctuary": "San Giorgio",
       "locality": "Macerata",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Macerata",
       "country": "Italy",
       "coronation_dates": [
         "1749-05-11"
@@ -39061,7 +39061,7 @@
       "church_or_sanctuary": "Santuario di Macereto",
       "locality": "Macereto (Visso)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Camerino-San Severino Marche",
       "country": "Italy",
       "coronation_dates": [
         "1759-08-26"
@@ -39142,7 +39142,7 @@
       "church_or_sanctuary": "Santa Maria a Mare",
       "locality": "Maiori",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Amalfi-Cava de' Tirreni",
       "country": "Italy",
       "coronation_dates": [
         "1769-08-13"
@@ -39223,7 +39223,7 @@
       "church_or_sanctuary": "Eremo dei Camaldolesi (Madonna Avvocata)",
       "locality": "Maiori (Eremo dell'Avvocata), diocese of Amalfi",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Amalfi-Cava de' Tirreni",
       "country": "Italy",
       "coronation_dates": [
         "1743-05-23"
@@ -39304,7 +39304,7 @@
       "church_or_sanctuary": "Santuario di Nostra Signora della Misericordia all'Eremita",
       "locality": "Mallare (Eremita)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Mondovì",
       "country": "Italy",
       "coronation_dates": [
         "1876-09-10"
@@ -39493,7 +39493,7 @@
       "church_or_sanctuary": "Santa Maria di Marzano",
       "locality": "Marzano (diocese of Nola)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Nola",
       "country": "Italy",
       "coronation_dates": [
         "1778-07-29"
@@ -39574,7 +39574,7 @@
       "church_or_sanctuary": "Santuario di Santa Maria della Lobra",
       "locality": "Massa Lubrense",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Sorrento-Castellamare di Stabia",
       "country": "Italy",
       "coronation_dates": [
         "1804-08-12"
@@ -40058,7 +40058,7 @@
       "church_or_sanctuary": "Santa Maria presso San Celso",
       "locality": "Milan (Milano)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Milano",
       "country": "Italy",
       "coronation_dates": [
         "1691-02-17"
@@ -40344,8 +40344,8 @@
       ]
     },
     {
-      "id": "simulacrum-beatae-mariae-virginis-in-caelum-assu",
-      "image_title_vernacular": null,
+      "id": "madonna-assunta-missaglia",
+      "image_title_vernacular": "Madonna Assunta",
       "image_title_latin": "Simulacrum Beatae Mariae Virginis in Caelum Assumptae",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Ecclesia Praeposituralis Sancti Victoris Martyris (Sanctuarium)",
@@ -40698,7 +40698,7 @@
       "church_or_sanctuary": "Santuario di Mongiovino",
       "locality": "Mongiovino (Panicale), diocese of Città della Pieve",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Perugia-Città della Pieve",
       "country": "Italy",
       "coronation_dates": [
         "1685-01-30"
@@ -40942,7 +40942,7 @@
       "church_or_sanctuary": "Cattedrale (Madonna del Popolo)",
       "locality": "Monreale",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Monreale",
       "country": "Italy",
       "coronation_dates": [
         "1762-09-08"
@@ -41104,7 +41104,7 @@
       "church_or_sanctuary": "Santuario della Madonna di Piné",
       "locality": "Montagnaga di Piné",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Trento",
       "country": "Italy",
       "coronation_dates": [
         "1894-08-11"
@@ -41270,7 +41270,7 @@
       "church_or_sanctuary": "Madonna del Soccorso",
       "locality": "Montalcino",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Siena-Colle Val d'Elsa-Montalcino",
       "country": "Italy",
       "coronation_dates": [
         "1718-05-08"
@@ -41397,8 +41397,8 @@
       ]
     },
     {
-      "id": "assumptio-dei-genetricis-a-gulielmo-caccia-quem",
-      "image_title_vernacular": null,
+      "id": "santa-maria-del-santo-monte-monte-crea-montferra",
+      "image_title_vernacular": "Santa Maria del Santo Monte",
       "image_title_latin": "Assumptio Dei Genetricis, a Gulielmo Caccia, quem et « Moncalvo » appellant, coloribus expressa",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Templum B. Mariae Virginis in caelum Assumptae in monte « Crea »",
@@ -41645,7 +41645,7 @@
       "church_or_sanctuary": "Santuario delle Vertighe",
       "locality": "Monte San Savino",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Arezzo-Cortona-Sansepolcro",
       "country": "Italy",
       "coronation_dates": [
         "1749-09-14"
@@ -41991,7 +41991,7 @@
       "church_or_sanctuary": "Santuario di Montenero",
       "locality": "Montenero (Livorno)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Livorno",
       "country": "Italy",
       "coronation_dates": [
         "1690-05-04"
@@ -42191,7 +42191,7 @@
       "church_or_sanctuary": "Chiesa dei Carmelitani (Madonna delle Grazie)",
       "locality": "Montepulciano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Montepulciano-Chiusi-Pienza",
       "country": "Italy",
       "coronation_dates": [
         "1741-09-24"
@@ -42357,7 +42357,7 @@
       "church_or_sanctuary": "San Biagio",
       "locality": "Montepulciano, San Biagio",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Montepulciano-Chiusi-Pienza",
       "country": "Italy",
       "coronation_dates": [
         "1681-10-12"
@@ -42468,7 +42468,7 @@
       "church_or_sanctuary": "Santuario di Soviore",
       "locality": "Monterosso al Mare",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Spezia-Sarzana-Brugnato",
       "country": "Italy",
       "coronation_dates": [
         "1750-08-10"
@@ -42549,7 +42549,7 @@
       "church_or_sanctuary": "San Rocco",
       "locality": "Monterotondo",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Sabina-Poggio Mirteto",
       "country": "Italy",
       "coronation_dates": [
         "1765-06-02"
@@ -42860,7 +42860,7 @@
       "church_or_sanctuary": "Santuario della Madonna di Val di Prata",
       "locality": "Monticello Amiata",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Siena-Colle Val d'Elsa-Montalcino",
       "country": "Italy",
       "coronation_dates": [
         "1747-06-04"
@@ -43156,7 +43156,7 @@
       "church_or_sanctuary": "Madonna di Col di Venti",
       "locality": "Muccia (Col di Venti)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Camerino-San Severino Marche",
       "country": "Italy",
       "coronation_dates": [
         "1778-10-08"
@@ -44408,7 +44408,7 @@
       "church_or_sanctuary": "Basilica dell'Annunziata Maggiore",
       "locality": "Napoli (Annunziata Maggiore)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Napoli",
       "country": "Italy",
       "coronation_dates": [
         "1915-04-18"
@@ -44491,7 +44491,7 @@
       "church_or_sanctuary": "Santa Maria di Donnaregina",
       "locality": "Napoli (Donnaregina)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Napoli",
       "country": "Italy",
       "coronation_dates": [
         "1885-11-15"
@@ -44574,7 +44574,7 @@
       "church_or_sanctuary": "Chiesa delle Monache della Provvidenza (Madonna dei Miracoli)",
       "locality": "Napoli (Monache della Provvidenza)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Napoli",
       "country": "Italy",
       "coronation_dates": [
         "1775-11-25",
@@ -44743,7 +44743,7 @@
       "church_or_sanctuary": "Santa Maria delle Grazie a Pietra del Pesce",
       "locality": "Napoli (Pietra del Pesce)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Napoli",
       "country": "Italy",
       "coronation_dates": [
         "1726-05-12",
@@ -44939,7 +44939,7 @@
       "church_or_sanctuary": "Santuario di Maria Santissima della Neve",
       "locality": "Napoli (Ponticelli)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Napoli",
       "country": "Italy",
       "coronation_dates": [
         "1914-08-02"
@@ -45022,7 +45022,7 @@
       "church_or_sanctuary": "San Giorgio Maggiore (Madonna della Potenza)",
       "locality": "Napoli (San Giorgio Maggiore)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Napoli",
       "country": "Italy",
       "coronation_dates": [
         "1780-07-09"
@@ -45131,7 +45131,7 @@
       "church_or_sanctuary": "Basilica di Santa Restituta, cappella di Santa Maria del Principio",
       "locality": "Napoli (Santa Restituta)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Napoli",
       "country": "Italy",
       "coronation_dates": [
         "1773-01-08"
@@ -45243,7 +45243,7 @@
       "church_or_sanctuary": "Chiesa della Congregazione di Suor Orsola Benincasa",
       "locality": "Napoli (Suor Orsola Benincasa)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Napoli",
       "country": "Italy",
       "coronation_dates": [
         "1733-12-07"
@@ -45653,7 +45653,7 @@
       "church_or_sanctuary": "Santuario di Nostra Signora delle Grazie e di Santa Maria Goretti",
       "locality": "Nettuno",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Albano",
       "country": "Italy",
       "coronation_dates": [
         "1881-05-28"
@@ -45842,7 +45842,7 @@
       "church_or_sanctuary": "Madonna del Carmine",
       "locality": "Nocera de' Pagani (Nocera Inferiore)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Nocera Inferiore-Sarno",
       "country": "Italy",
       "coronation_dates": [
         "1787-09-22"
@@ -46164,7 +46164,7 @@
       "church_or_sanctuary": "Collegiata di Santa Maria Maggiore",
       "locality": "Novi Ligure",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Tortona",
       "country": "Italy",
       "coronation_dates": [
         "1905-08-05"
@@ -46727,7 +46727,7 @@
       "church_or_sanctuary": "San Nicolao",
       "locality": "Orta San Giulio",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Novara",
       "country": "Italy",
       "coronation_dates": [
         "1906-09-02"
@@ -46955,7 +46955,7 @@
       "church_or_sanctuary": "Madonna della Misericordia",
       "locality": "Osimo",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Ancona-Osimo",
       "country": "Italy",
       "coronation_dates": [
         "1720-09-08"
@@ -47608,7 +47608,7 @@
       "church_or_sanctuary": "San Pietro",
       "locality": "Padua",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Padova",
       "country": "Italy",
       "coronation_dates": [
         "1765-09"
@@ -47801,7 +47801,7 @@
       "church_or_sanctuary": "Chiesa dei Teatini (Madonna della Provvidenza)",
       "locality": "Palermo",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Palermo",
       "country": "Italy",
       "coronation_dates": [
         "1734-03-18"
@@ -48289,7 +48289,7 @@
       "church_or_sanctuary": "Ritiro dei Minori Osservanti (Madonna della Neve)",
       "locality": "Palombara Sabina",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Sabina-Poggio Mirteto",
       "country": "Italy",
       "coronation_dates": [
         "1790-10-17"
@@ -49017,7 +49017,7 @@
       "church_or_sanctuary": "Santa Maria dei Bisognosi",
       "locality": "Pereto / Rocca di Botte (Monte Carsoli), diocese of the Marsi",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Avezzano",
       "country": "Italy",
       "coronation_dates": [
         "1724-11-05"
@@ -49294,7 +49294,7 @@
       "church_or_sanctuary": "San Marco (Servites)",
       "locality": "Pesaro",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Pesaro",
       "country": "Italy",
       "coronation_dates": [
         "1687-10-19"
@@ -49695,7 +49695,7 @@
       "church_or_sanctuary": "Basilica della Santissima Trinità",
       "locality": "Piano di Sorrento",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Sorrento-Castellamare di Stabia",
       "country": "Italy",
       "coronation_dates": [
         "1773-09-26"
@@ -50337,7 +50337,7 @@
       "church_or_sanctuary": "Basilica della Madonna dell'Umiltà",
       "locality": "Pistoia",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Pistoia",
       "country": "Italy",
       "coronation_dates": [
         "1716-09-20"
@@ -50766,7 +50766,7 @@
       "church_or_sanctuary": "Ritiro di S. Bonaventura (Riformati) — Madonna delle Grazie",
       "locality": "Ponticelli (Sabina)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Sabina-Poggio Mirteto",
       "country": "Italy",
       "coronation_dates": [
         "1779-10-03"
@@ -51006,7 +51006,7 @@
       "church_or_sanctuary": "San Vito",
       "locality": "Positano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Amalfi-Cava de' Tirreni",
       "country": "Italy",
       "coronation_dates": [
         "1783-08-15"
@@ -51456,7 +51456,7 @@
       "church_or_sanctuary": "Santa Maria delle Grazie",
       "locality": "Primolo (Chiesa in Valmalenco), Valtellina, diocese of Como",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Como",
       "country": "Italy",
       "coronation_dates": [
         "1765-08-11"
@@ -52118,7 +52118,7 @@
       "church_or_sanctuary": "Santa Maria della Colonnella (Franciscan Third Order)",
       "locality": "Rimini",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Rimini",
       "country": "Italy",
       "coronation_dates": [
         "1693-02-19"
@@ -52300,10 +52300,10 @@
       "image_title_vernacular": "S. Maria di Ripatransone",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Concattedrale dei Santi Gregorio Magno e Margherita",
       "locality": "Ripatransone",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di San Benedetto del Tronto-Ripatransone-Montalto",
       "country": "Italy",
       "coronation_dates": [
         "1682-05-10"
@@ -53211,7 +53211,7 @@
       "church_or_sanctuary": "Chiesa del Gesù",
       "locality": "Rome, Chiesa del Gesù",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1638-08-14",
@@ -53321,7 +53321,7 @@
       "church_or_sanctuary": "Chiesa del Gesù, cappellette di S. Ignazio",
       "locality": "Rome, Chiesa del Gesù (Stanze di Sant'Ignazio)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1676-03-03"
@@ -53589,7 +53589,7 @@
       "church_or_sanctuary": "Collegio Romano, Congregazione Prima Primaria (SS. Annunziata)",
       "locality": "Rome, Collegio Romano (Prima Primaria)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1765-05-12"
@@ -53698,7 +53698,7 @@
       "church_or_sanctuary": "Oratorio del P. Caravita",
       "locality": "Rome, Oratorio del Caravita",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1677-02-06"
@@ -53779,7 +53779,7 @@
       "church_or_sanctuary": "Oratorio del SS. Crocifisso di San Marcello",
       "locality": "Rome, Oratorio del Crocifisso di San Marcello",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1658-12-07"
@@ -53860,7 +53860,7 @@
       "church_or_sanctuary": "Oratorio di Campitelli",
       "locality": "Rome, Oratorio di Campitelli",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1651-07-02"
@@ -53941,7 +53941,7 @@
       "church_or_sanctuary": "Cappella di S. Aniceto, Palazzo Altemps",
       "locality": "Rome, Palazzo Altemps, chapel of Sant'Aniceto",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1673-04-12"
@@ -54080,7 +54080,7 @@
       "church_or_sanctuary": "Santa Maria ad Martyres (Rotonda)",
       "locality": "Rome, Pantheon (Santa Maria ad Martyres)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1652-09-08"
@@ -54189,7 +54189,7 @@
       "church_or_sanctuary": "San Benedetto in Piscinula",
       "locality": "Rome, San Benedetto in Piscinula",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1793-09-15"
@@ -54270,7 +54270,7 @@
       "church_or_sanctuary": "San Biagio della Pagnotta",
       "locality": "Rome, San Biagio della Pagnotta",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1671-01-31"
@@ -54379,7 +54379,7 @@
       "church_or_sanctuary": "San Cosimato in Trastevere",
       "locality": "Rome, San Cosimato in Trastevere",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1641-08-11"
@@ -54516,7 +54516,7 @@
       "church_or_sanctuary": "San Crisogono in Trastevere",
       "locality": "Rome, San Crisogono",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1662-10-07"
@@ -54625,7 +54625,7 @@
       "church_or_sanctuary": "San Dionigi alle Quattro Fontane (demolished)",
       "locality": "Rome, San Dionigi alle Quattro Fontane",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1667-09-07"
@@ -54734,7 +54734,7 @@
       "church_or_sanctuary": "San Giacomo Scossacavalli (demolished 1937)",
       "locality": "Rome, San Giacomo Scossacavalli",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1664-03-19"
@@ -54843,7 +54843,7 @@
       "church_or_sanctuary": "San Giacomo degli Incurabili (in Augusta)",
       "locality": "Rome, San Giacomo degli Incurabili",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1659-12-05"
@@ -54924,7 +54924,7 @@
       "church_or_sanctuary": "S. Giovanni Calibita (Fatebenefratelli)",
       "locality": "Rome, San Giovanni Calibita",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1664-03-19"
@@ -55033,7 +55033,7 @@
       "church_or_sanctuary": "San Giovanni Decollato",
       "locality": "Rome, San Giovanni Decollato",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1661-11-06"
@@ -55142,7 +55142,7 @@
       "church_or_sanctuary": "San Giovanni dei Fiorentini",
       "locality": "Rome, San Giovanni dei Fiorentini",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1648-06-07"
@@ -55223,7 +55223,7 @@
       "church_or_sanctuary": "San Giovanni in Fonte, presso S. Giovanni Laterano",
       "locality": "Rome, San Giovanni in Fonte (Lateran baptistery)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1647-06-08"
@@ -55332,7 +55332,7 @@
       "church_or_sanctuary": "Basilica di S. Giovanni in Laterano",
       "locality": "Rome, San Giovanni in Laterano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1684-08-10"
@@ -55441,7 +55441,7 @@
       "church_or_sanctuary": "S. Giovannino in Campo Marzio (Mercedari)",
       "locality": "Rome, San Giovannino in Campo Marzio (Mercedarians)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1650-06-03"
@@ -55550,7 +55550,7 @@
       "church_or_sanctuary": "Cappella Salviati, San Gregorio al Celio",
       "locality": "Rome, San Gregorio al Celio (Cappella Salviati)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1658-09-14"
@@ -55659,7 +55659,7 @@
       "church_or_sanctuary": "Chiesa di S. Lorenzo nelle Scuole Pie di Borgo",
       "locality": "Rome, San Lorenzo in Borgo (Scuole Pie)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1696-12-06"
@@ -55798,7 +55798,7 @@
       "church_or_sanctuary": "S. Lorenzo in Damaso",
       "locality": "Rome, San Lorenzo in Damaso",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1635-08-22",
@@ -55936,7 +55936,7 @@
       "church_or_sanctuary": "S. Lorenzo in Lucina, altare maggiore",
       "locality": "Rome, San Lorenzo in Lucina",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1648-07-26"
@@ -56045,7 +56045,7 @@
       "church_or_sanctuary": "S. Lorenzo in Lucina, cappella del Purgatorio",
       "locality": "Rome, San Lorenzo in Lucina (Madonna delle Grazie)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1678-07-28"
@@ -56154,7 +56154,7 @@
       "church_or_sanctuary": "Chiesa delli RR. PP. Serviti di S. Marcello",
       "locality": "Rome, San Marcello al Corso",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1695-04-17"
@@ -56294,7 +56294,7 @@
       "church_or_sanctuary": "San Martino ai Monti",
       "locality": "Rome, San Martino ai Monti",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1659-01-20"
@@ -56403,7 +56403,7 @@
       "church_or_sanctuary": "S. Michele a Ripa Grande (Ospizio Apostolico)",
       "locality": "Rome, San Michele a Ripa",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1668-07-06"
@@ -56512,7 +56512,7 @@
       "church_or_sanctuary": "Chiesa di S. Pantaleone de' Rev. Padri delle Scuole Pie (altare maggiore)",
       "locality": "Rome, San Pantaleo",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1694-03-25"
@@ -56684,7 +56684,7 @@
       "church_or_sanctuary": "S. Paolo alla Regola (Terz'Ordine, Siciliani)",
       "locality": "Rome, San Paolino alla Regola",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1651-07-02"
@@ -56793,7 +56793,7 @@
       "church_or_sanctuary": "San Pietro in Montorio",
       "locality": "Rome, San Pietro in Montorio",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1717-05-02"
@@ -56902,7 +56902,7 @@
       "church_or_sanctuary": "San Rocco a Ripetta",
       "locality": "Rome, San Rocco a Ripetta",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1658-01-21"
@@ -57011,7 +57011,7 @@
       "church_or_sanctuary": "San Salvatore alle Coppelle",
       "locality": "Rome, San Salvatore alle Coppelle",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1675-02-07"
@@ -57120,7 +57120,7 @@
       "church_or_sanctuary": "S. Salvatore in Lauro (Arciconfraternita dei Marchigiani)",
       "locality": "Rome, San Salvatore in Lauro",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1644-12-12",
@@ -57342,7 +57342,7 @@
       "church_or_sanctuary": "San Salvatore in Lauro",
       "locality": "Rome, San Salvatore in Lauro",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1654-12-15"
@@ -57451,7 +57451,7 @@
       "church_or_sanctuary": "San Silvestro a Monte Cavallo",
       "locality": "Rome, San Silvestro al Quirinale",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1650-01-31"
@@ -57532,7 +57532,7 @@
       "church_or_sanctuary": "S. Adriano al Foro (Mercedari)",
       "locality": "Rome, Sant'Adriano al Foro",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1677-12-01"
@@ -57641,7 +57641,7 @@
       "church_or_sanctuary": "Sant'Agata dei Tessitori",
       "locality": "Rome, Sant'Agata dei Tessitori",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1729-07-31"
@@ -57750,7 +57750,7 @@
       "church_or_sanctuary": "Sant'Agostino",
       "locality": "Rome, Sant'Agostino",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1641-03-04",
@@ -57915,7 +57915,7 @@
       "church_or_sanctuary": "Sant'Alessio all'Aventino",
       "locality": "Rome, Sant'Alessio",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1645-06-17"
@@ -57996,7 +57996,7 @@
       "church_or_sanctuary": "S. Ambrogio della Massima (monache)",
       "locality": "Rome, Sant'Ambrogio della Massima",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1674-11-15"
@@ -58105,7 +58105,7 @@
       "church_or_sanctuary": "Sant'Andrea della Valle",
       "locality": "Rome, Sant'Andrea della Valle",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1678-12-07"
@@ -58186,7 +58186,7 @@
       "church_or_sanctuary": "S. Anna dei Funari (Falegnami), monache benedettine",
       "locality": "Rome, Sant'Anna dei Falegnami",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1652-01-07"
@@ -58295,7 +58295,7 @@
       "church_or_sanctuary": "Portico di Sant'Apollinare",
       "locality": "Rome, Sant'Apollinare (portico)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1653-08-15"
@@ -58376,7 +58376,7 @@
       "church_or_sanctuary": "Santa Francesca Romana (Santa Maria Nova)",
       "locality": "Rome, Santa Francesca Romana",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1662-09-12"
@@ -58457,7 +58457,7 @@
       "church_or_sanctuary": "Santa Lucia del Gonfalone",
       "locality": "Rome, Santa Lucia del Gonfalone",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1666-04-30"
@@ -58566,7 +58566,7 @@
       "church_or_sanctuary": "S. Lucia della Tinta (Cocchieri)",
       "locality": "Rome, Santa Lucia della Tinta",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1667-11-21"
@@ -58675,7 +58675,7 @@
       "church_or_sanctuary": "Santa Maria Liberatrice in Campo Vaccino",
       "locality": "Rome, Santa Maria Liberatrice",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1653-08-04"
@@ -58756,7 +58756,7 @@
       "church_or_sanctuary": "S. Maria Maddalena (Ministri degli Infermi)",
       "locality": "Rome, Santa Maria Maddalena",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1668-11-05",
@@ -58894,7 +58894,7 @@
       "church_or_sanctuary": "S. Maria Porta Paradisi (Ospedale di S. Giacomo degli Incurabili)",
       "locality": "Rome, Santa Maria Porta Paradisi",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1676-07-29"
@@ -59003,7 +59003,7 @@
       "church_or_sanctuary": "Santa Maria de' Monti",
       "locality": "Rome, Santa Maria ai Monti",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1632-09-03"
@@ -59084,7 +59084,7 @@
       "church_or_sanctuary": "Santa Maria dei Miracoli, Piazza del Popolo",
       "locality": "Rome, Santa Maria dei Miracoli",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1646-01-11"
@@ -59221,7 +59221,7 @@
       "church_or_sanctuary": "Santa Maria del Pianto",
       "locality": "Rome, Santa Maria del Pianto",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1643-05-20"
@@ -59358,7 +59358,7 @@
       "church_or_sanctuary": "Santa Maria del Popolo",
       "locality": "Rome, Santa Maria del Popolo",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1634-07-29"
@@ -59551,7 +59551,7 @@
       "church_or_sanctuary": "S. Maria del Sole, incontro la Bocca della Verità (Tempio di Vesta)",
       "locality": "Rome, Santa Maria del Sole",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1665-05-18",
@@ -59661,7 +59661,7 @@
       "church_or_sanctuary": "Santa Maria del Suffragio",
       "locality": "Rome, Santa Maria del Suffragio",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1666-01-25"
@@ -59770,7 +59770,7 @@
       "church_or_sanctuary": "Santa Maria dell'Orazione e Morte, via Giulia",
       "locality": "Rome, Santa Maria dell'Orazione e Morte",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1661-11-06"
@@ -59851,7 +59851,7 @@
       "church_or_sanctuary": "Santa Maria dell'Orto in Trastevere",
       "locality": "Rome, Santa Maria dell'Orto",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1657-08-19"
@@ -59960,7 +59960,7 @@
       "church_or_sanctuary": "Santa Maria della Consolazione",
       "locality": "Rome, Santa Maria della Consolazione",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1634-09-07"
@@ -60041,7 +60041,7 @@
       "church_or_sanctuary": "Santa Maria della Pace",
       "locality": "Rome, Santa Maria della Pace",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1634-07-29"
@@ -60180,7 +60180,7 @@
       "church_or_sanctuary": "S. Maria della Purità in Borgo (Caudatari)",
       "locality": "Rome, Santa Maria della Purità in Borgo",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1646-04-16"
@@ -60345,7 +60345,7 @@
       "church_or_sanctuary": "S. Maria della Quercia (Università dei Macellari)",
       "locality": "Rome, Santa Maria della Quercia",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1670-09-06"
@@ -60454,7 +60454,7 @@
       "church_or_sanctuary": "Santa Maria della Scala in Trastevere",
       "locality": "Rome, Santa Maria della Scala (Trastevere)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1646-10-10"
@@ -60563,7 +60563,7 @@
       "church_or_sanctuary": "Santa Maria della Vittoria",
       "locality": "Rome, Santa Maria della Vittoria",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1633-07-06",
@@ -60673,7 +60673,7 @@
       "church_or_sanctuary": "Santa Maria delle Grazie a Porta Angelica",
       "locality": "Rome, Santa Maria delle Grazie a Porta Angelica",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1644-06-09",
@@ -61053,7 +61053,7 @@
       "church_or_sanctuary": "S. Maria di Costantinopoli (Siciliani), a Capo le Case",
       "locality": "Rome, Santa Maria di Costantinopoli a Capo le Case",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1651-01-26"
@@ -61162,7 +61162,7 @@
       "church_or_sanctuary": "S. Maria di Loreto dei Fornari (Colonna Traiana)",
       "locality": "Rome, Santa Maria di Loreto (Colonna Traiana)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1660-09-07"
@@ -61271,7 +61271,7 @@
       "church_or_sanctuary": "S. Maria di Monserrato (Spagnoli)",
       "locality": "Rome, Santa Maria di Monserrato",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1656-04-08"
@@ -61380,7 +61380,7 @@
       "church_or_sanctuary": "Santa Maria di Montesanto, Piazza del Popolo",
       "locality": "Rome, Santa Maria di Montesanto",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1659-12-03"
@@ -61461,7 +61461,7 @@
       "church_or_sanctuary": "Santa Maria in Aracoeli",
       "locality": "Rome, Santa Maria in Aracoeli",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1636-03-29"
@@ -61570,7 +61570,7 @@
       "church_or_sanctuary": "S. Maria in Campo Marzio, chiesa interiore del monastero",
       "locality": "Rome, Santa Maria in Campo Marzio (monastery)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1688-09-12"
@@ -61679,7 +61679,7 @@
       "church_or_sanctuary": "S. Maria della Concezione in Campo Marzio (monache benedettine), chiesa",
       "locality": "Rome, Santa Maria in Campo Marzio (nuns)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1655-07-02"
@@ -61788,7 +61788,7 @@
       "church_or_sanctuary": "Santa Maria in Cosmedin",
       "locality": "Rome, Santa Maria in Cosmedin",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1672-11-23",
@@ -61898,7 +61898,7 @@
       "church_or_sanctuary": "Santa Maria in Monterone",
       "locality": "Rome, Santa Maria in Monterone",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1676-05-06"
@@ -62007,7 +62007,7 @@
       "church_or_sanctuary": "Santa Maria in Portico in Campitelli",
       "locality": "Rome, Santa Maria in Portico in Campitelli",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1650-11-26",
@@ -62117,7 +62117,7 @@
       "church_or_sanctuary": "Santa Maria in Posterula all'Orso",
       "locality": "Rome, Santa Maria in Posterula",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1653-07-20"
@@ -62198,7 +62198,7 @@
       "church_or_sanctuary": "Santa Maria in Traspontina",
       "locality": "Rome, Santa Maria in Traspontina",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1641-06-15",
@@ -62420,7 +62420,7 @@
       "church_or_sanctuary": "Basilica di S. Maria in Trastevere (cappella Cecchini / d'Aste)",
       "locality": "Rome, Santa Maria in Trastevere",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1634-04-05"
@@ -62529,7 +62529,7 @@
       "church_or_sanctuary": "Basilica di S. Maria in Trastevere",
       "locality": "Rome, Santa Maria in Trastevere (Madonna della Clemenza)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1659-11-02"
@@ -62638,7 +62638,7 @@
       "church_or_sanctuary": "S. Maria in Trivio (Crociferi)",
       "locality": "Rome, Santa Maria in Trivio (Crociferi)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1677-05-29"
@@ -62747,7 +62747,7 @@
       "church_or_sanctuary": "Santa Maria in Vallicella (Chiesa Nuova)",
       "locality": "Rome, Santa Maria in Vallicella",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1649-07-09"
@@ -62828,7 +62828,7 @@
       "church_or_sanctuary": "Santa Maria in Via",
       "locality": "Rome, Santa Maria in Via",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1646-01-17"
@@ -62909,7 +62909,7 @@
       "church_or_sanctuary": "Santa Maria in Via Lata",
       "locality": "Rome, Santa Maria in Via Lata",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1643-02-01"
@@ -62990,7 +62990,7 @@
       "church_or_sanctuary": "Santa Maria sopra Minerva (cappella del Rosario)",
       "locality": "Rome, Santa Maria sopra Minerva",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1640-12-06",
@@ -63184,7 +63184,7 @@
       "church_or_sanctuary": "Monastero di S. Marta al Collegio Romano",
       "locality": "Rome, Santa Marta al Collegio Romano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1645-11-20"
@@ -63377,7 +63377,7 @@
       "church_or_sanctuary": "S. Prassede (detta Orto Paradisi)",
       "locality": "Rome, Santa Prassede",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1655-08-16"
@@ -63486,7 +63486,7 @@
       "church_or_sanctuary": "S. Teresa alle Quattro Fontane (Carmelitane)",
       "locality": "Rome, Santa Teresa alle Quattro Fontane",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1638-09-16"
@@ -63595,7 +63595,7 @@
       "church_or_sanctuary": "SS. Celso e Giuliano in Banchi",
       "locality": "Rome, Santi Celso e Giuliano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1665-05-17"
@@ -63704,7 +63704,7 @@
       "church_or_sanctuary": "SS. Cosma e Damiano in Campo Vaccino",
       "locality": "Rome, Santi Cosma e Damiano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1651"
@@ -63785,7 +63785,7 @@
       "church_or_sanctuary": "SS. Domenico e Sisto, coro superiore",
       "locality": "Rome, Santi Domenico e Sisto (Magnanapoli), inner monastery",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1647-11-21"
@@ -63894,7 +63894,7 @@
       "church_or_sanctuary": "SS. Vincenzo e Anastasio a Trevi",
       "locality": "Rome, Santi Vincenzo e Anastasio a Trevi",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1679-03-13"
@@ -64003,7 +64003,7 @@
       "church_or_sanctuary": "SS. Trinità dei Pellegrini",
       "locality": "Rome, Santissima Trinità dei Pellegrini",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1654-06-21"
@@ -64112,7 +64112,7 @@
       "church_or_sanctuary": "Chiesa del Nome di Maria (S. Bernardo alla Colonna Traiana)",
       "locality": "Rome, Santissimo Nome di Maria",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1703-09-08",
@@ -64281,7 +64281,7 @@
       "church_or_sanctuary": "Chiesa delle Monache dello Spirito Santo",
       "locality": "Rome, Santo Spirito (nuns)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1686-11-28"
@@ -64390,7 +64390,7 @@
       "church_or_sanctuary": "Santo Spirito in Sassia",
       "locality": "Rome, Santo Spirito in Sassia",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1655-04-05"
@@ -64524,7 +64524,7 @@
       "church_or_sanctuary": "Oratorio del SS. Sacramento alla Scala Santa",
       "locality": "Rome, Scala Santa",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1679-07-08"
@@ -64663,7 +64663,7 @@
       "church_or_sanctuary": "Tor de' Specchi (Oblate di S. Francesca Romana), chiesa",
       "locality": "Rome, Tor de' Specchi",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1635-12-30"
@@ -64772,7 +64772,7 @@
       "church_or_sanctuary": "Tor de' Specchi, chiesa antica interiore",
       "locality": "Rome, Tor de' Specchi (monastery)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1687-06-17"
@@ -64881,7 +64881,7 @@
       "church_or_sanctuary": "Cappella Gregoriana della Basilica Vaticana",
       "locality": "Rome, Vatican Basilica (Cappella Gregoriana)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1643-11-17"
@@ -65102,7 +65102,7 @@
       "church_or_sanctuary": "Cappella del Coro, Basilica Vaticana",
       "locality": "Rome, Vatican Basilica (Cappella del Coro)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1854-12-08",
@@ -65213,7 +65213,7 @@
       "church_or_sanctuary": "Basilica Vaticana",
       "locality": "Rome, Vatican Basilica (Madonna della Colonna)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1645-01-01"
@@ -65434,7 +65434,7 @@
       "church_or_sanctuary": "Basilica Vaticana (Pietà di Michelangelo)",
       "locality": "Rome, Vatican Basilica (Pietà)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1637-08-31"
@@ -65574,7 +65574,7 @@
       "church_or_sanctuary": "Sagrestia della Basilica di S. Pietro (Cappella del Sacrario / Cappella Beneficiatale della Sagrestia Vaticana)",
       "locality": "Rome, Vatican Basilica (sacristy)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1631-08-27",
@@ -65939,7 +65939,7 @@
       "church_or_sanctuary": "SS. Domenico e Sisto a Magnanapoli (the Dominican nuns of San Sisto)",
       "locality": "Rome, monastery of the Dominican nuns of San Sisto (Santi Domenico e Sisto, Magnanapoli)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Roma",
       "country": "Italy",
       "coronation_dates": [
         "1641-01-14"
@@ -66319,7 +66319,7 @@
       "church_or_sanctuary": "Santa Maria del Monte",
       "locality": "Sacro Monte di Varese",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Milano",
       "country": "Italy",
       "coronation_dates": [
         "1739-07-05"
@@ -66612,7 +66612,7 @@
       "church_or_sanctuary": "Santuario di Nostra Signora della Rovere",
       "locality": "San Bartolomeo al Mare",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Albenga-Imperia",
       "country": "Italy",
       "coronation_dates": [
         "1821-09-08"
@@ -67292,7 +67292,7 @@
       "church_or_sanctuary": "Santa Maria del Glorioso",
       "locality": "San Severino Marche",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Camerino-San Severino Marche",
       "country": "Italy",
       "coronation_dates": [
         "1731-09-16"
@@ -67373,7 +67373,7 @@
       "church_or_sanctuary": "Chiesa dei Barnabiti (Madonna dei Lumi)",
       "locality": "San Severino Marche",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Camerino-San Severino Marche",
       "country": "Italy",
       "coronation_dates": [
         "1747-09-17"
@@ -67830,7 +67830,7 @@
       "church_or_sanctuary": "Santuario di Santa Maria Annunziata",
       "locality": "Sant'Agnello di Sorrento (Angri)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Sorrento-Castellamare di Stabia",
       "country": "Italy",
       "coronation_dates": [
         "1919-08-17"
@@ -67913,7 +67913,7 @@
       "church_or_sanctuary": "Aedes sacra B. M. V. ab Arcu appellatae (sanctuary served by the Fratres Praedicatores)",
       "locality": "Sant'Anastasia, near Naples (apud urbem Neapolim)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Nola",
       "country": "Italy",
       "coronation_dates": [
         "1874-09-08"
@@ -67997,7 +67997,7 @@
       "church_or_sanctuary": "Eremo dei Camaldolesi (Madonna Incoronata)",
       "locality": "Sant'Angelo a Scala, Camaldolese hermitage of the Incoronata",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Avellino",
       "country": "Italy",
       "coronation_dates": [
         "1723-04-23"
@@ -68207,8 +68207,8 @@
       ]
     },
     {
-      "id": "dei-genetricis-imago-a-rosa-santa-margherita-lig",
-      "image_title_vernacular": null,
+      "id": "madonna-della-rosa-santa-margherita-ligure",
+      "image_title_vernacular": "Madonna della Rosa",
       "image_title_latin": "Dei Genetricis Imago « a Rosa »",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Ecclesia paroecialis S. Margaritae V. et M. (Basilica Minor)",
@@ -68402,7 +68402,7 @@
       "church_or_sanctuary": "santuario della B. V. di Leuca",
       "locality": "Santa Maria di Leuca (Finibus Terrae), diocese of Alessano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Ugento-Santa Maria di Leuca",
       "country": "Italy",
       "coronation_dates": [
         "1722-11-21"
@@ -68566,7 +68566,7 @@
       "church_or_sanctuary": "San Pietro in Silki",
       "locality": "Sassari",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Sassari",
       "country": "Italy",
       "coronation_dates": [
         "1909-05-09"
@@ -69480,7 +69480,7 @@
       "church_or_sanctuary": "San Martino",
       "locality": "Senigallia",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Senigallia",
       "country": "Italy",
       "coronation_dates": [
         "1921-09-18"
@@ -70003,7 +70003,7 @@
       "church_or_sanctuary": "Santa Maria di Provenzano",
       "locality": "Siena (Provenzano)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Siena-Colle Val d'Elsa-Montalcino",
       "country": "Italy",
       "coronation_dates": [
         "1681-11-01"
@@ -70137,7 +70137,7 @@
       "church_or_sanctuary": "Abbazia di Nostra Signora di Corte (Cabuabbas)",
       "locality": "Sindia",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Alghero-Bosa",
       "country": "Italy",
       "coronation_dates": [
         "1948-09-04",
@@ -70459,7 +70459,7 @@
       "church_or_sanctuary": "Santa Maria del Carmine",
       "locality": "Sorrento",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Sorrento-Castellamare di Stabia",
       "country": "Italy",
       "coronation_dates": [
         "1880-07-11",
@@ -70679,7 +70679,7 @@
       "church_or_sanctuary": "Chiesa dei Barnabiti (Chierici Regolari di S. Paolo)",
       "locality": "Spoleto",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Spoleto-Norcia",
       "country": "Italy",
       "coronation_dates": [
         "1696-03-02"
@@ -70972,7 +70972,7 @@
       "church_or_sanctuary": "Santuario della Madonna dei Campi",
       "locality": "Stezzano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Bergamo",
       "country": "Italy",
       "coronation_dates": [
         "1896-09-05"
@@ -71183,8 +71183,8 @@
       ]
     },
     {
-      "id": "sacrum-cor-immaculatum-beatae-mariae-virginis-ta",
-      "image_title_vernacular": null,
+      "id": "cuore-immacolato-di-maria-madonna-miracolosa-tag",
+      "image_title_vernacular": "Cuore Immacolato di Maria (Madonna Miracolosa)",
       "image_title_latin": "Sacrum Cor Immaculatum Beatae Mariae Virginis",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Ecclesia paroecialis et conlegiata Sanctorum Iacobi et Philippi (Sanctuarium Mariale)",
@@ -72647,7 +72647,7 @@
       "church_or_sanctuary": "Chiesa dei Carmelitani (Annunziata)",
       "locality": "Trapani, Carmelite sanctuary of the Annunziata",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Trapani",
       "country": "Italy",
       "coronation_dates": [
         "1734-03-14"
@@ -73341,8 +73341,8 @@
       ]
     },
     {
-      "id": "beata-maria-virgo-mater-gratiarum-udine-utinum",
-      "image_title_vernacular": null,
+      "id": "madonna-delle-grazie-udine-utinum",
+      "image_title_vernacular": "Madonna delle Grazie",
       "image_title_latin": "Beata Maria Virgo Mater Gratiarum",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Templum sive sanctuarium Beatae Mariae Virginis Matris Gratiarum",
@@ -73430,7 +73430,7 @@
       "church_or_sanctuary": "Cattedrale",
       "locality": "Urbino",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Urbino-Urbania-Sant'Angelo in Vado",
       "country": "Italy",
       "coronation_dates": [
         "1687-10-16"
@@ -73617,7 +73617,7 @@
       "church_or_sanctuary": "Santuario della Beata Vergine di Altino",
       "locality": "Vall'Alta di Albino",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Bergamo",
       "country": "Italy",
       "coronation_dates": [
         "1919-07-23"
@@ -73753,7 +73753,7 @@
       "church_or_sanctuary": "Santa Maria del Ruscello",
       "locality": "Vallerano",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Civita Castellana",
       "country": "Italy",
       "coronation_dates": [
         "1684-01-29"
@@ -73834,7 +73834,7 @@
       "church_or_sanctuary": "Chiesa dei Domenicani (Madonna delle Grazie)",
       "locality": "Vallo della Lucania (Novi Velia), diocese of Capaccio",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Vallo della Lucania",
       "country": "Italy",
       "coronation_dates": [
         "1788-06-08"
@@ -73915,7 +73915,7 @@
       "church_or_sanctuary": "Santa Maria della Natività",
       "locality": "Valperga",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Torino",
       "country": "Italy",
       "coronation_dates": [
         "1788-08-17",
@@ -74138,7 +74138,7 @@
       "church_or_sanctuary": "Basilica dell'Assunta, Sacro Monte di Varallo",
       "locality": "Varallo (Sacro Monte)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Novara",
       "country": "Italy",
       "coronation_dates": [
         "1857-08-20",
@@ -74335,7 +74335,7 @@
       "church_or_sanctuary": "Santa Maria delle Grazie",
       "locality": "Velletri",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Velletri-Segni",
       "country": "Italy",
       "coronation_dates": [
         "1682-05-02"
@@ -74931,7 +74931,7 @@
       "church_or_sanctuary": "Madonna del Soccorso",
       "locality": "Vezzano Ligure",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Spezia-Sarzana-Brugnato",
       "country": "Italy",
       "coronation_dates": [
         "1772",
@@ -75588,7 +75588,7 @@
       "church_or_sanctuary": "Chiesa della Madonna del Pasco",
       "locality": "Villanova Mondovì",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Mondovì",
       "country": "Italy",
       "coronation_dates": [
         "1900-08-15"
@@ -75929,7 +75929,7 @@
       "church_or_sanctuary": "Chiesa dei Cappuccini (Madonna Lauretana)",
       "locality": "Vittoria (Sicily)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Ragusa",
       "country": "Italy",
       "coronation_dates": [
         "1787-06-29"
@@ -76374,10 +76374,10 @@
       "image_title_vernacular": "Šiluvos Dievo Motina (Matka Boża Szydłowska)",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary with Child (Our Lady of the Snows type)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Basilica della Natività della Beata Vergine Maria",
       "locality": "Szydłów (Šiluva), Samogitia",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Kaunas",
       "country": "Lithuania",
       "coronation_dates": [
         "1786-09-08"
@@ -76458,10 +76458,10 @@
       "image_title_vernacular": "Trakų Dievo Motina (Matka Boża Trocka)",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary with Child (Dexiokratousa)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Basilica della Visitazione della Beata Vergine Maria",
       "locality": "Trakai (Troki)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Vilnius",
       "country": "Lithuania",
       "coronation_dates": [
         "1718-09-04"
@@ -76595,10 +76595,10 @@
       "image_title_vernacular": "Matka Boża Świętomichalska (Sapieżyńska)",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary (Immaculata)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Chiesa di San Michele Arcangelo",
       "locality": "Vilnius (Wilno), St Michael's",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Vilnius",
       "country": "Lithuania",
       "coronation_dates": [
         "1750-09-08"
@@ -77129,8 +77129,8 @@
       ]
     },
     {
-      "id": "beatae-mariae-virginis-in-caelum-assumptae-imago",
-      "image_title_vernacular": null,
+      "id": "nostra-signora-dell-assunzione-our-lady-of-the-a",
+      "image_title_vernacular": "Nostra Signora dell'Assunzione (Our Lady of the Assumption)",
       "image_title_latin": "Beatae Mariae Virginis in caelum Assumptae imago",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Paroeciale templum Mostae",
@@ -77407,7 +77407,7 @@
       "church_or_sanctuary": "Shrine of Our Lady of Mount Carmel",
       "locality": "Valletta",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Malta",
       "country": "Malta",
       "coronation_dates": [
         "1881-07-15"
@@ -77596,7 +77596,7 @@
       "church_or_sanctuary": "Chiesa Parrocchiale della Terra di Zabar (Żabbar)",
       "locality": "Żabbar (OCR 'Zabar'), Malta",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Malta",
       "country": "Malta",
       "coronation_dates": [
         "1951-09-02"
@@ -79002,7 +79002,7 @@
       "image_title_vernacular": "Nuestra Señora de la Caridad",
       "image_title_latin": "Imago Beatae Mariae Virginis a Caritate",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Basilica Nostra Signora della Carità",
       "locality": "Huamantla",
       "diocese_latin": "Tlaxcalensis",
       "diocese_modern": "Tlaxcala",
@@ -79139,7 +79139,7 @@
       "image_title_vernacular": "Nuestra Señora de Izamal",
       "image_title_latin": "Imago Beatae Mariae Virginis de Izamal",
       "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Santuario della Vergine di Izamal nel convento di Sant'Antonio da Padova",
       "locality": "Izamal",
       "diocese_latin": "Yucatanensis",
       "diocese_modern": "Yucatán",
@@ -82571,88 +82571,6 @@
       ]
     },
     {
-      "id": "virgen-de-la-puerta-peru",
-      "image_title_vernacular": "Virgen de la Puerta",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
-      "locality": null,
-      "diocese_latin": null,
-      "diocese_modern": null,
-      "country": "Peru",
-      "coronation_dates": [
-        "1943-10-27"
-      ],
-      "first_coronation": "1943-10-27",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act",
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Pius PP. XII"
-      ],
-      "legates": [],
-      "confidence": "medium",
-      "source_count": 2,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1943,
-          "page": 2325,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1325",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1325",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1943-07-29",
-          "coronation_date": "1943-10-27",
-          "legate": null,
-          "deputy": "Monsignor Fernando Cento, nunzio apostolico",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1325, their id 1344), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Fernando Cento, nunzio apostolico; their decree date 29-7-1943. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua lignea del XVII secolo.",
-          "parent_act": null
-        },
-        {
-          "series": "AAS",
-          "volume": 35,
-          "year": 1943,
-          "page": 359,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 35 (1943), p. 359",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-35-1943-ocr.pdf",
-          "act_number": null,
-          "act_type": "Nuntius radiophonicus",
-          "pope": "Pius PP. XII",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1943-10-31",
-          "concession_date": null,
-          "coronation_date": "1943",
-          "legate": null,
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "NUNTIUS RADIOPHONICUS A BEATISSIMO PATRE, DIE XXXI MENSIS OCTOBRIS ANNO MCMXXXXIII, IN FESTO D. N. IESU CHRISTI REGIS, CHRISTIFIDELIBUS DATUS, OB III CONVENTUM EUCHARISTICUM E TOTA PERUVIANA NATIONE IN URBE TRUXILLENSI COADUNATIS",
-          "incipit_latin": null,
-          "confidence": "medium",
-          "notes": "Radio message of Pius XII closing the 3rd Peruvian National Eucharistic Congress at Trujillo. Spanish original, p. 356: 'para que Tu, Virgen de la Puerta, solemnemente coronada el pasado miercoles'; Italian version, p. 359 (this passage): 'Tu, Vergine della Puerta, incoronata solennemente lo scorso mercoledi'. The source names only the devotional title, never an image, and does not state under whose authority the crowning took place; it is the Pope himself who acknowledges it, and the Congress was presided by his Legate. The act begins on p. 353 (Spanish) with the Italian version beginning p. 357; the rubric above is transcribed from p. 353, not from this passage. 'Last Wednesday' relative to the stated act date (31 October 1943, a Sunday) would be 27 October 1943, but the passage does not give a date, so only the year is recorded. Also greeted in the same sentence is 'Nuestra Senora del Socorro' of Huanchaco, of whom no crowning is said.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
       "id": "santissima-vergine-addolorata-nuestra-senora-de",
       "image_title_vernacular": "Santissima Vergine Addolorata (Nuestra Señora de los Dolores)",
       "image_title_latin": null,
@@ -83400,6 +83318,88 @@
       ]
     },
     {
+      "id": "virgen-de-la-puerta-otuzco",
+      "image_title_vernacular": "Virgen de la Puerta",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": "Cattedrale di Otuzco",
+      "locality": "Otuzco",
+      "diocese_latin": null,
+      "diocese_modern": "Arcidiocesi di Trujillo",
+      "country": "Peru",
+      "coronation_dates": [
+        "1943-10-27"
+      ],
+      "first_coronation": "1943-10-27",
+      "strongest_evidence": "papal_coronation_act",
+      "evidence_types": [
+        "papal_coronation_act",
+        "retrospective_attestation"
+      ],
+      "popes": [
+        "Pius PP. XII"
+      ],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 2,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1943,
+          "page": 2325,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1325",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1325",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1943-07-29",
+          "coronation_date": "1943-10-27",
+          "legate": null,
+          "deputy": "Monsignor Fernando Cento, nunzio apostolico",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1325, their id 1344), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Fernando Cento, nunzio apostolico; their decree date 29-7-1943. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua lignea del XVII secolo.",
+          "parent_act": null
+        },
+        {
+          "series": "AAS",
+          "volume": 35,
+          "year": 1943,
+          "page": 359,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 35 (1943), p. 359",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-35-1943-ocr.pdf",
+          "act_number": null,
+          "act_type": "Nuntius radiophonicus",
+          "pope": "Pius PP. XII",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1943-10-31",
+          "concession_date": null,
+          "coronation_date": "1943",
+          "legate": null,
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "NUNTIUS RADIOPHONICUS A BEATISSIMO PATRE, DIE XXXI MENSIS OCTOBRIS ANNO MCMXXXXIII, IN FESTO D. N. IESU CHRISTI REGIS, CHRISTIFIDELIBUS DATUS, OB III CONVENTUM EUCHARISTICUM E TOTA PERUVIANA NATIONE IN URBE TRUXILLENSI COADUNATIS",
+          "incipit_latin": null,
+          "confidence": "medium",
+          "notes": "Radio message of Pius XII closing the 3rd Peruvian National Eucharistic Congress at Trujillo. Spanish original, p. 356: 'para que Tu, Virgen de la Puerta, solemnemente coronada el pasado miercoles'; Italian version, p. 359 (this passage): 'Tu, Vergine della Puerta, incoronata solennemente lo scorso mercoledi'. The source names only the devotional title, never an image, and does not state under whose authority the crowning took place; it is the Pope himself who acknowledges it, and the Congress was presided by his Legate. The act begins on p. 353 (Spanish) with the Italian version beginning p. 357; the rubric above is transcribed from p. 353, not from this passage. 'Last Wednesday' relative to the stated act date (31 October 1943, a Sunday) would be 27 October 1943, but the passage does not give a date, so only the year is recorded. Also greeted in the same sentence is 'Nuestra Senora del Socorro' of Huanchaco, of whom no crowning is said.",
+          "parent_act": null
+        }
+      ]
+    },
+    {
       "id": "nostra-signora-della-misericordia-nuestra-senora-3",
       "image_title_vernacular": "Nostra Signora della Misericordia (Nuestra Señora de las Mercedes)",
       "image_title_latin": null,
@@ -83501,88 +83501,6 @@
           "incipit_latin": "Per litteras, die altero Septembris, superiore anno datas, Venerabilis Frater Alcides Mendoza Castro, Archiepiscopus Cuschensis, de bono gregis",
           "confidence": "high",
           "notes": "Assigned passage is the Index rerum analyticus (printed p. 1219): 'B. M. V. «dei Carmen» in oppidulo Paucartambo in archidioecesi Cuschensi, a S. P. coronatur, 707'. Record built on the act at printed p. 707, used as aas_page. The crowning itself was performed by John Paul II at Cuzco, not at Paucartambo: 'die III Februarii, hoc anno, petita gessimus, quando Cuzci ... pretiosa corona redimiimus'. Requested by Archbishop Alcides Mendoza Castro.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "nuestra-senora-de-caysasay-philippines",
-      "image_title_vernacular": "Nuestra Señora de Caysasay",
-      "image_title_latin": null,
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": null,
-      "locality": null,
-      "diocese_latin": null,
-      "diocese_modern": null,
-      "country": "Philippines",
-      "coronation_dates": [
-        "1954-12-08"
-      ],
-      "first_coronation": "1954-12-08",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act",
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Pius PP. XII"
-      ],
-      "legates": [],
-      "confidence": "medium",
-      "source_count": 2,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1954,
-          "page": 2531,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1531",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1531",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": "1954-11-21",
-          "coronation_date": "1954-12-08",
-          "legate": null,
-          "deputy": "Cardinale Fernando Quiroga Palacios, arcivescovo di Santiago di Compostela",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1531, their id 1361), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Fernando Quiroga Palacios, arcivescovo di Santiago di Compostela; their decree date 21-11-1954. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua in legno di pino.",
-          "parent_act": null
-        },
-        {
-          "series": "AAS",
-          "volume": 46,
-          "year": 1954,
-          "page": 718,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 46 (1954), p. 718",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf",
-          "act_number": "I",
-          "act_type": "Nuntius radiophonicus",
-          "pope": "Pius PP. XII",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1954-12-05",
-          "concession_date": null,
-          "coronation_date": "1954-12-08",
-          "legate": null,
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "CHRISTIFIDELIBUS INSULARUM PHILIPPINARUM OB CONVENTUM MARIALEM IN MANILENSI URBE COADUNATIS.",
-          "incipit_latin": "Venerables Hermanos y amados hijos que, en la ciudad de Manila, clausuráis el II Congreso Mariano Nacional de las Islas Filipinas",
-          "confidence": "medium",
-          "notes": "Papal radio message to the Philippine national Marian congress: « esa preciosa corona, que ceñiréis a sus sienes en el mismo día centenario de la Definición dogmática » — i.e. 8 Dec 1954, the centenary of Ineffabilis Deus. OCR reads « Nuestra Señora de Oaysasay »; best reading is Caysasay. The message does not state that the coronation was granted by papal authority, so evidence_type is a passing attestation only. Coronation clause on printed page 721; the radio message begins on printed page 718, cited here as aas_page. Date is from the footnote « Datus die 5 Decembris mensis a. 1954 ».",
           "parent_act": null
         }
       ]
@@ -84690,6 +84608,88 @@
           "incipit_latin": null,
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1572, their id 1369), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Salvatore Siino, nunzio apostolico; their decree date 15-7-1956. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua lignea del XVII secolo.",
+          "parent_act": null
+        }
+      ]
+    },
+    {
+      "id": "nuestra-senora-de-caysasay-taal",
+      "image_title_vernacular": "Nuestra Señora de Caysasay",
+      "image_title_latin": null,
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": "Santuario arcidiocesano di Nostra Signora di Caysasay",
+      "locality": "Taal",
+      "diocese_latin": null,
+      "diocese_modern": "Diocesi di Lipa",
+      "country": "Philippines",
+      "coronation_dates": [
+        "1954-12-08"
+      ],
+      "first_coronation": "1954-12-08",
+      "strongest_evidence": "papal_coronation_act",
+      "evidence_types": [
+        "papal_coronation_act",
+        "retrospective_attestation"
+      ],
+      "popes": [
+        "Pius PP. XII"
+      ],
+      "legates": [],
+      "confidence": "medium",
+      "source_count": 2,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1954,
+          "page": 2531,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1531",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1531",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": "1954-11-21",
+          "coronation_date": "1954-12-08",
+          "legate": null,
+          "deputy": "Cardinale Fernando Quiroga Palacios, arcivescovo di Santiago di Compostela",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1531, their id 1361), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Fernando Quiroga Palacios, arcivescovo di Santiago di Compostela; their decree date 21-11-1954. Their annotazioni: ERR - Bonci: non la cita. Their note: Statua in legno di pino.",
+          "parent_act": null
+        },
+        {
+          "series": "AAS",
+          "volume": 46,
+          "year": 1954,
+          "page": 718,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 46 (1954), p. 718",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf",
+          "act_number": "I",
+          "act_type": "Nuntius radiophonicus",
+          "pope": "Pius PP. XII",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1954-12-05",
+          "concession_date": null,
+          "coronation_date": "1954-12-08",
+          "legate": null,
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "CHRISTIFIDELIBUS INSULARUM PHILIPPINARUM OB CONVENTUM MARIALEM IN MANILENSI URBE COADUNATIS.",
+          "incipit_latin": "Venerables Hermanos y amados hijos que, en la ciudad de Manila, clausuráis el II Congreso Mariano Nacional de las Islas Filipinas",
+          "confidence": "medium",
+          "notes": "Papal radio message to the Philippine national Marian congress: « esa preciosa corona, que ceñiréis a sus sienes en el mismo día centenario de la Definición dogmática » — i.e. 8 Dec 1954, the centenary of Ineffabilis Deus. OCR reads « Nuestra Señora de Oaysasay »; best reading is Caysasay. The message does not state that the coronation was granted by papal authority, so evidence_type is a passing attestation only. Coronation clause on printed page 721; the radio message begins on printed page 718, cited here as aas_page. Date is from the footnote « Datus die 5 Decembris mensis a. 1954 ».",
           "parent_act": null
         }
       ]
@@ -86608,10 +86608,10 @@
       "image_title_vernacular": "Matka Boża Kodeńska",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary (Guadalupe type)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Santuario di Nostra Signora di Koden dei PP. Oblati",
       "locality": "Kodeń",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Siedlce",
       "country": "Poland",
       "coronation_dates": [
         "1723-08-15"
@@ -86827,7 +86827,7 @@
       "church_or_sanctuary": "Church of the Visitation 'in Arenis' (Carmelites, Na Piasku)",
       "locality": "Kraków (Na Piasku)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Cracovia",
       "country": "Poland",
       "coronation_dates": [
         "1883-09-08"
@@ -87355,7 +87355,7 @@
       "church_or_sanctuary": "Church of the Visitation (Reformed Franciscans)",
       "locality": "Miedniewice",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Lowicka",
       "country": "Poland",
       "coronation_dates": [
         "1767-06-07"
@@ -88670,10 +88670,10 @@
       "image_title_vernacular": "Matka Boża Rzeszowska",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary with Child (standing; wooden statuette)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Basilica della Assunzione della Beata Vergine Maria",
       "locality": "Rzeszów",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Przemysl",
       "country": "Poland",
       "coronation_dates": [
         "1763-09-08"
@@ -90317,8 +90317,8 @@
       ]
     },
     {
-      "id": "deiparae-immaculatae-simulacrum-braga",
-      "image_title_vernacular": null,
+      "id": "nostra-signora-di-sameiro-nossa-senhora-do-samei",
+      "image_title_vernacular": "Nostra Signora di Sameiro (Nossa Senhora do Sameiro)",
       "image_title_latin": "Deiparae Immaculatae simulacrum",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Sanctuarium « Monte do Sameiro »",
@@ -91038,88 +91038,6 @@
           "incipit_latin": null,
           "confidence": "low",
           "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 849, their id 1148), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Monsignor Anton Bonaventura Jeglic, arcivescovo di Lubiana; their decree date 24-6-1907. Their annotazioni: ERR - Frate Anselmo: non la cita. Their note: Dipinto realizzato dal pittore Leopoldo Layer di Kranj nel 1814. Le corone d’oro furono realizzate dall'orafo Ivan Kregar.",
-          "parent_act": null
-        }
-      ]
-    },
-    {
-      "id": "nuestra-senora-de-la-pena-de-francia-spain",
-      "image_title_vernacular": "Nuestra Señora de la Peña de Francia",
-      "image_title_latin": "Beata Maria Virgo « Peña de Francia »",
-      "image_subject": "Blessed Virgin Mary",
-      "church_or_sanctuary": "sacra aedes seu sanctuarium Beatae Mariae Virginis « Peña de Francia » (entrusted to the Order of Preachers)",
-      "locality": null,
-      "diocese_latin": "Salmantina",
-      "diocese_modern": "Salamanca",
-      "country": "Spain",
-      "coronation_dates": [
-        "1952-06-04"
-      ],
-      "first_coronation": "1952-06-04",
-      "strongest_evidence": "papal_coronation_act",
-      "evidence_types": [
-        "papal_coronation_act",
-        "retrospective_attestation"
-      ],
-      "popes": [
-        "Paulus PP. VI"
-      ],
-      "legates": [],
-      "confidence": "high",
-      "source_count": 2,
-      "sources": [
-        {
-          "series": "LIT",
-          "volume": 0,
-          "year": 1952,
-          "page": 2447,
-          "folio": null,
-          "folio_to": null,
-          "citation": "Basilici–Bigliazzi 2025, scheda 1447",
-          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
-          "act_number": "BB1447",
-          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
-          "pope": null,
-          "evidence_type": "papal_coronation_act",
-          "act_date": null,
-          "concession_date": null,
-          "coronation_date": "1952-06-04",
-          "legate": null,
-          "deputy": "Cardinale Federico Tedeschini, arciprete della Basilica di San Pietro in Vaticano",
-          "register_refs": [],
-          "documents": [
-            "secondary compilation"
-          ],
-          "rubric_latin": null,
-          "incipit_latin": null,
-          "confidence": "low",
-          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1447, their id 1646), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Federico Tedeschini, arciprete della Basilica di San Pietro in Vaticano. Their annotazioni: ERR - Bonci: data l'incoronazione 3 marzo 1951 e la colloca a Salamanca. Their note: Statua lignea del 1890, conserva al suo interno i resti dell'antica statua lignea del XV secolo. Fu incoronata a Salamanca.",
-          "parent_act": null
-        },
-        {
-          "series": "AAS",
-          "volume": 58,
-          "year": 1966,
-          "page": 794,
-          "folio": null,
-          "folio_to": null,
-          "citation": "AAS 58 (1966), p. 794",
-          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf",
-          "act_number": "III",
-          "act_type": "Litterae Apostolicae",
-          "pope": "Paulus PP. VI",
-          "evidence_type": "retrospective_attestation",
-          "act_date": "1966-05-14",
-          "concession_date": null,
-          "coronation_date": "1952",
-          "legate": null,
-          "deputy": null,
-          "register_refs": null,
-          "documents": null,
-          "rubric_latin": "Beata Maria Virgo « Peña de Francia » vulgo appellata, principalis caelestis Patrona civilis provinciae Salmantinae eligitur.",
-          "incipit_latin": "Singulari pietate excoli perhibetur Beata Maria Virgo, cuius, adiecto vulgari nomine « Peña de Francia » appellatae, sedes praecipua finibus dioecesis Salmantinae continetur.",
-          "confidence": "high",
-          "notes": "Patronage act; coronation attested in passing: 'Effigies denique, Pio Pp. XII Catholicam Ecclesiam regente, aureo diademate fuit, anno MCMLII, sollemniter redimita'. aas_page set to 794 (the rubric stands before the running head '795' in the passage; the passage was indexed as printed_page 795). No town named - only that the shrine lies within the diocese of Salamanca. Country explicit (Hispania).",
           "parent_act": null
         }
       ]
@@ -92920,7 +92838,7 @@
       "church_or_sanctuary": "Basílica de Begoña",
       "locality": "Bilbao",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Bilbao",
       "country": "Spain",
       "coronation_dates": [
         "1900-09-08"
@@ -94975,6 +94893,88 @@
           "incipit_latin": "Victoriensis dioecesis intra fines, in oppidi « Durango » nuncupati templo archipresbyterali, Imago quaedam Beatae Mariae Virginis religiosissime colitur sub populari titulo « de Uribarri »",
           "confidence": "high",
           "notes": "Patron declaration that also grants the coronation: 'ut Imaginem eandem corona Nomine Nostro redimiri decerneremus ... ipsi Venerabili Fratri Episcopo titulo Siandensi, Victoriensis dioecesis Apostolico Administratori, eas partes committimus ut Imaginem ... aureo diademate, nomine atque auctoritate Nostris, sollemniter redimiat'. The executor is the titular Bishop of 'Siandensis', Apostolic Administrator of Vitoria; his personal name is not given in the act, so legate left null. Date of coronation left to him ('die ab eodem statuendo'). Passage printed_page was 221; act begins on printed p. 220. Vernacular title supplied as the Spanish form of the Latin 'de Uribarri' (only the Latin form appears).",
+          "parent_act": null
+        }
+      ]
+    },
+    {
+      "id": "nuestra-senora-de-la-pena-de-francia-el-cabaco",
+      "image_title_vernacular": "Nuestra Señora de la Peña de Francia",
+      "image_title_latin": "Beata Maria Virgo « Peña de Francia »",
+      "image_subject": "Blessed Virgin Mary",
+      "church_or_sanctuary": "sacra aedes seu sanctuarium Beatae Mariae Virginis « Peña de Francia » (entrusted to the Order of Preachers)",
+      "locality": "El Cabaco",
+      "diocese_latin": "Salmantina",
+      "diocese_modern": "Salamanca",
+      "country": "Spain",
+      "coronation_dates": [
+        "1952-06-04"
+      ],
+      "first_coronation": "1952-06-04",
+      "strongest_evidence": "papal_coronation_act",
+      "evidence_types": [
+        "papal_coronation_act",
+        "retrospective_attestation"
+      ],
+      "popes": [
+        "Paulus PP. VI"
+      ],
+      "legates": [],
+      "confidence": "high",
+      "source_count": 2,
+      "sources": [
+        {
+          "series": "LIT",
+          "volume": 0,
+          "year": 1952,
+          "page": 2447,
+          "folio": null,
+          "folio_to": null,
+          "citation": "Basilici–Bigliazzi 2025, scheda 1447",
+          "source_pdf_url": "https://www.pereto.org/madonne_coronate/",
+          "act_number": "BB1447",
+          "act_type": "Crowning listed in a modern compilation of the printed catalogues",
+          "pope": null,
+          "evidence_type": "papal_coronation_act",
+          "act_date": null,
+          "concession_date": null,
+          "coronation_date": "1952-06-04",
+          "legate": null,
+          "deputy": "Cardinale Federico Tedeschini, arciprete della Basilica di San Pietro in Vaticano",
+          "register_refs": [],
+          "documents": [
+            "secondary compilation"
+          ],
+          "rubric_latin": null,
+          "incipit_latin": null,
+          "confidence": "low",
+          "notes": "Listed by Basilici–Bigliazzi 2025 (scheda 1447, their id 1646), a modern compilation from Anselmo da Reno Centese 1933, the printed repertories and the internet, citing no folio; not read at first hand. Their authority ('autorizza'): B.P.; officiated by Cardinale Federico Tedeschini, arciprete della Basilica di San Pietro in Vaticano. Their annotazioni: ERR - Bonci: data l'incoronazione 3 marzo 1951 e la colloca a Salamanca. Their note: Statua lignea del 1890, conserva al suo interno i resti dell'antica statua lignea del XV secolo. Fu incoronata a Salamanca.",
+          "parent_act": null
+        },
+        {
+          "series": "AAS",
+          "volume": 58,
+          "year": 1966,
+          "page": 794,
+          "folio": null,
+          "folio_to": null,
+          "citation": "AAS 58 (1966), p. 794",
+          "source_pdf_url": "https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf",
+          "act_number": "III",
+          "act_type": "Litterae Apostolicae",
+          "pope": "Paulus PP. VI",
+          "evidence_type": "retrospective_attestation",
+          "act_date": "1966-05-14",
+          "concession_date": null,
+          "coronation_date": "1952",
+          "legate": null,
+          "deputy": null,
+          "register_refs": null,
+          "documents": null,
+          "rubric_latin": "Beata Maria Virgo « Peña de Francia » vulgo appellata, principalis caelestis Patrona civilis provinciae Salmantinae eligitur.",
+          "incipit_latin": "Singulari pietate excoli perhibetur Beata Maria Virgo, cuius, adiecto vulgari nomine « Peña de Francia » appellatae, sedes praecipua finibus dioecesis Salmantinae continetur.",
+          "confidence": "high",
+          "notes": "Patronage act; coronation attested in passing: 'Effigies denique, Pio Pp. XII Catholicam Ecclesiam regente, aureo diademate fuit, anno MCMLII, sollemniter redimita'. aas_page set to 794 (the rubric stands before the running head '795' in the passage; the passage was indexed as printed_page 795). No town named - only that the shrine lies within the diocese of Salamanca. Country explicit (Hispania).",
           "parent_act": null
         }
       ]
@@ -97344,7 +97344,7 @@
       "church_or_sanctuary": "Catedral de Santa María (Ojos Grandes)",
       "locality": "Lugo",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Lugo",
       "country": "Spain",
       "coronation_dates": [
         "1904-08-15"
@@ -98011,7 +98011,7 @@
       "church_or_sanctuary": "Monestir de Montserrat",
       "locality": "Montserrat",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Sain Feliu de Llobregat",
       "country": "Spain",
       "coronation_dates": [
         "1881-09-11"
@@ -98494,7 +98494,7 @@
       "church_or_sanctuary": "Santuario de Nuestra Señora de Monserrate",
       "locality": "Orihuela",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Orihuela-Alicante",
       "country": "Spain",
       "coronation_dates": [
         "1920-05-31",
@@ -98638,7 +98638,7 @@
       "church_or_sanctuary": "Sant Miquel",
       "locality": "Palma de Mallorca",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Maiorca",
       "country": "Spain",
       "coronation_dates": [
         "1931-09-13"
@@ -99150,7 +99150,7 @@
       "church_or_sanctuary": "Santuari de la Mare de Déu de Misericòrdia",
       "locality": "Reus",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Tarragona",
       "country": "Spain",
       "coronation_dates": [
         "1904-10-09"
@@ -100911,7 +100911,7 @@
       "church_or_sanctuary": "Basílica de Nuestra Señora del Pino",
       "locality": "Teror (Gran Canaria)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi delle Isole Canarie",
       "country": "Spain",
       "coronation_dates": [
         "1905-09-07"
@@ -102801,7 +102801,7 @@
       "church_or_sanctuary": "Templum et coenobium Einsidlense (Benedictine abbey of Einsiedeln)",
       "locality": "Einsiedeln",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Santa Sede",
       "country": "Switzerland",
       "coronation_dates": [
         "1934-09-14"
@@ -103252,8 +103252,8 @@
       ]
     },
     {
-      "id": "beata-maria-virgo-a-miraculis-morbio-inferiore",
-      "image_title_vernacular": null,
+      "id": "santa-maria-dei-miracoli-morbio-inferiore",
+      "image_title_vernacular": "Santa Maria dei Miracoli",
       "image_title_latin": "Beata Maria Virgo « a Miraculis »",
       "image_subject": "Blessed Virgin Mary",
       "church_or_sanctuary": "Marialis aedicula adjoining the parish church of Morbio Inferiore (ancient fresco, 'vetustam Beatae Mariae Virginis udo illitam effigiem')",
@@ -103341,7 +103341,7 @@
       "church_or_sanctuary": "Santa Maria Draperis",
       "locality": "Istanbul",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Vicariato apostolico di Istanbul",
       "country": "Turkey",
       "coronation_dates": [
         "1911-03-25"
@@ -103584,10 +103584,10 @@
       "image_title_vernacular": "Matka Boża Bołszowiecka",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary with Child (Nikopoia)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Santuario della Visitazione della Beata Vergine Maria a Bołszowce",
       "locality": "Bołszowce (Bilshivtsi)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcivescovato Maggiore di Kiev-Halyč",
       "country": "Ukraine",
       "coronation_dates": [
         "1777-08-15"
@@ -103774,10 +103774,10 @@
       "image_title_vernacular": "Matka Boża Latyczowska",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary with Child (Our Lady of the Snows type)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Chiesa dell'Assunzione della Beata Vergine Maria dei PP. Domenicani",
       "locality": "Latyczów (Letychiv)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Kamianets-Podilskyi",
       "country": "Ukraine",
       "coronation_dates": [
         "1778-10-04"
@@ -104071,7 +104071,7 @@
       "image_title_vernacular": "Obraz Matki Bożej Łaskawej, Pani Lwowa (Our Lady of Grace, Lady of Lviv; « Śliczna Gwiazda miasta Lwowa »)",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary (Queen of Heaven)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Basilica Arcicattedrale dell'Assunzione della Beata Vergine Maria",
       "locality": "Lwów (Lviv), Latin cathedral",
       "diocese_latin": "Leopolitana",
       "diocese_modern": "Lviv of the Latins",
@@ -104184,10 +104184,10 @@
       "image_title_vernacular": "Matka Boża Międzyrzecka",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary with Child (Hodegetria)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Monastero della Ss Trinità di Mezhyrich",
       "locality": "Międzyrzecz Ostrogski (Velyki Mezhyrichi)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Diocesi di Rivne",
       "country": "Ukraine",
       "coronation_dates": [
         "1779-08-15"
@@ -104272,7 +104272,7 @@
       "church_or_sanctuary": "Poczajów (diocese of Łuck)",
       "locality": "Poczajów (Pochaiv)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Patriarcato Ortodosso di Mosca",
       "country": "Ukraine",
       "coronation_dates": [
         "1773-09-08"
@@ -104488,10 +104488,10 @@
       "image_title_vernacular": "Matka Boża Sokalska",
       "image_title_latin": null,
       "image_subject": "Blessed Virgin Mary with Child (Hodegetria)",
-      "church_or_sanctuary": null,
+      "church_or_sanctuary": "Chiesa della Madonna della Consolazione a Sokal",
       "locality": "Sokal",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Leopoli",
       "country": "Ukraine",
       "coronation_dates": [
         "1724-09-08"
@@ -105369,7 +105369,7 @@
       "church_or_sanctuary": "Basílica menor de Nuestra Señora del Valle",
       "locality": "El Valle del Espíritu Santo (Isla Margarita)",
       "diocese_latin": null,
-      "diocese_modern": null,
+      "diocese_modern": "Arcidiocesi di Ciudad Bolívar",
       "country": "Venezuela",
       "coronation_dates": [
         "1911-09-08"
