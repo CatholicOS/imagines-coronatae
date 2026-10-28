@@ -262,7 +262,15 @@ his own words, added "sebben non sieno coronate", and are not transcribed.
 Tomi II–IV are on the Internet Archive from the Google scans of the Biblioteca Nazionale Centrale di
 Roma (`bub_gb_JhP2LAUmGjUC`, `bub_gb_rHbfIRvNjxkC`, `bub_gb_9vADu01fhEAC`), with a rough OCR;
 **tomo I** — the first thirty images, among them the Febbre, the Monti, the Consolazione, the
-Sant'Agostino — has not been found online. The 74 notices of tomi II–IV are transcribed in
+Sant'Agostino — is not on the Internet Archive, but Google Books holds two full-view copies, the
+Bibliothèque municipale de Lyon's (`z2YbxvI-MQEC`, 228 leaves) and the Österreichische
+Nationalbibliothek's (`0rleAAAAcAAJ`, 248 leaves), found on 15 September 2026 and harvested leaf
+by leaf into `pdf/` (the Books API is closed to anonymous callers and the PDF download refuses this
+address; the old Atom feed `google.com/books/feeds/volumes?q=` still searches, and the viewer's
+`jscmd=click3` endpoint gives signed page images). Google also has further copies of tomi II
+(`R2KcI3Y5c74C`, `6ZaS00lRWHMC`), III (`HQJnJ-ik1zgC`, `kV2gxqMTUFEC`, `10ocluQqK6wC`,
+`27leAAAAcAAJ`, `5rleAAAAcAAJ`) and IV (`7LleAAAAcAAJ`), useful where a plate is cut or faint in the
+BNCR scans. Tomo I is not yet transcribed. The 74 notices of tomi II–IV are transcribed in
 `data/bombelli-1792-raccolta.json` (`scripts/transcribe_bombelli.py`), every date and figure checked
 against the page image and every plate caption read from the scan; they are in the catalogue as
 series **LIT**, confidence `low` (no folio), a Child's crown linked by `parent_act`. All 74 fall on an

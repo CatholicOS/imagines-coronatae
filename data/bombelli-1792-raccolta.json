@@ -4,7 +4,7 @@
   "II": "https://archive.org/details/bub_gb_JhP2LAUmGjUC",
   "III": "https://archive.org/details/bub_gb_rHbfIRvNjxkC",
   "IV": "https://archive.org/details/bub_gb_9vADu01fhEAC",
-  "I": "not found online"
+  "I": "https://books.google.com/books?id=z2YbxvI-MQEC (also 0rleAAAAcAAJ); not yet transcribed"
  },
  "transcribed": "2026-09-14, from the OCR text with every date and number checked against the page image, and every plate caption read from the scan",
  "note": "One row per notice. `coronation_date` is the day the notice gives for the ceremony (or, where it names only the delivery of the crowns, that day); `concession_date` the decree or petition where given; `child_date` a separate crown for the Bambino Gesù. `caption_year`, `medium` and `size_palmi` are read from the engraved caption of the facing plate ('in Tavola, Alta Pal. 4, Lar. 3, Coronata dal R.mo Capitolo di S. Pietro in Vatic. nel 1655'). `crown_cost_scudi` and `deputies` are as the notice gives them. `locality` is in the catalogue's own form so that Bombelli's image meets Briccolani's; `title` is the devotional title alone, the church being carried by `church_or_place`. Where the plate and the notice disagree on the year (Vittoria, Sole, Minerva, Prassede) the notice's date is kept and the disagreement noted.",

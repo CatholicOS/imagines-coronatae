@@ -10,8 +10,9 @@ give what no printed register gives: the DAY of the crowning, often the day of t
 canons deputed, the cost of the crowns, and the separate crown for the Child.
 
 Tomi II–IV are on the Internet Archive from the Google scans of the Biblioteca Nazionale Centrale di
-Roma (bub_gb_JhP2LAUmGjUC = II, bub_gb_rHbfIRvNjxkC = III, bub_gb_9vADu01fhEAC = IV); tomo I has
-not been found online. Transcribed on 14 September 2026 from the OCR text checked against the page
+Roma (bub_gb_JhP2LAUmGjUC = II, bub_gb_rHbfIRvNjxkC = III, bub_gb_9vADu01fhEAC = IV); tomo I is
+on Google Books only (Lyon copy z2YbxvI-MQEC, Vienna copy 0rleAAAAcAAJ; found 15 September 2026,
+leaves harvested into pdf/, not yet transcribed). Transcribed on 14 September 2026 from the OCR text checked against the page
 images wherever a date or a number was in doubt, and the caption of every plate read from the scan.
 Bombelli's total is "cenquattro miracolose Imagini coronate": the 74 here in tomi II–IV, the other
 thirty in tomo I. The sixteen images of the *Appendice* in tomo IV are, in his own words, "sebben non
@@ -335,7 +336,8 @@ out={'source':("[Pietro Bombelli, incisore], Raccolta delle immagini della Beati
   "Capitolo di S. Pietro, con una breve ed esatta notizia di ciascuna immagine, 4 tomi, Roma, Salomoni, 1792 (plates dated "
   "1791-1793). Tomi II-IV: 74 of the 104 crowned images."),
  'scan':{'II':'https://archive.org/details/bub_gb_JhP2LAUmGjUC','III':'https://archive.org/details/bub_gb_rHbfIRvNjxkC',
-         'IV':'https://archive.org/details/bub_gb_9vADu01fhEAC','I':'not found online'},
+         'IV':'https://archive.org/details/bub_gb_9vADu01fhEAC',
+         'I':'https://books.google.com/books?id=z2YbxvI-MQEC (also 0rleAAAAcAAJ); not yet transcribed'},
  'transcribed':'2026-09-14, from the OCR text with every date and number checked against the page image, and every plate caption read from the scan',
  'note':("One row per notice. `coronation_date` is the day the notice gives for the ceremony (or, where it names only the "
   "delivery of the crowns, that day); `concession_date` the decree or petition where given; `child_date` a separate crown "
