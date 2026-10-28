@@ -405,6 +405,7 @@ this work.
 | `scripts/merge.py` | Merges and de-duplicates the per-batch extraction output by locality. |
 | `scripts/build_dataset.py` | Assembles the act-level evidence layer, `data/attestations.json`. |
 | `scripts/build_acsp.py` | Turns the *Madonne coronate* IV extraction into `data/attestations-acsp.json`. |
+| `scripts/acsp_tei_to_pdf.py` | Prints the TEI transcription of *Madonne coronate* IV (kept outside the repository) as a reading PDF, folio by folio, without the page images. |
 | `scripts/transcribe_briccolani.py`, `scripts/transcribe_bombelli.py` | The transcriptions of the two printed registers, as Python rows, written out to `data/`. |
 | `scripts/build_basilici_db.py`, `scripts/align_basilici_rome.py` | Normalise the fetched Basilici–Bigliazzi schede, and align their Roman rows to the catalogue's church strings. |
 | `scripts/build_lit.py` | Turns the secondary-literature table into `data/attestations-lit.json`. |
