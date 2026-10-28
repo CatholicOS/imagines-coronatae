@@ -99,7 +99,7 @@ def block(el, html):
         cls = f' class="p-{el.get("type")}"' if el.get('type') == 'commentary' else ''
         html.append(f'<p{cls}>{inline(el)}</p>')
     elif tag == 'head':
-        html.append(f'<div class="head n{el.get("n", "2")}">{inline(el)}</div>')
+        html.append(f'<div class="head n{escape(el.get("n", "2"))}">{inline(el)}</div>')
     elif tag == 'note':
         kind = el.get('type') or ('margin' if el.get('place') == 'margin' else 'note')
         if kind == 'margin' or el.get('place') == 'margin':
@@ -136,8 +136,8 @@ def to_html(src, dst):
     html = [f'<!doctype html><html lang="it"><head><meta charset="utf-8">'
             f'<title>Madonne coronate, tomo IV (1689–1714) — transcription</title>'
             f'<style>{CSS}</style></head><body>']
-    first = kids[0].get(XMLID)[1:]
-    last = [k for k in kids if k.tag == f'{TEI}pb'][-1].get(XMLID)[1:]
+    first = escape(kids[0].get(XMLID)[1:])
+    last = escape([k for k in kids if k.tag == f'{TEI}pb'][-1].get(XMLID)[1:])
     html.append(f'''<section class="title-page">
 <h1>Madonne coronate</h1>
 <div class="sub">tomo IV · 1689 – 1714</div>
@@ -162,8 +162,8 @@ most often the archivist's (image, church, concession date, cross-reference to <
         if k.tag == f'{TEI}pb':
             if not content_since_pb:
                 html.append('<div class="blank">[no text transcribed]</div>')
-            fid = k.get(XMLID)[1:]
-            img = k.get('corresp', '').rsplit('/', 1)[-1]
+            fid = escape(k.get(XMLID)[1:])
+            img = escape(k.get('corresp', '').rsplit('/', 1)[-1])
             printed = k.get('printed')
             aux = f'img {img}' + (f' · num. {escape(printed)}' if printed else '')
             html.append(f'<h2 class="folio" id="f{fid}"><a href="{escape(k.get("corresp", ""))}">f. {fid}</a>'
