@@ -153,7 +153,7 @@ TITLE_STOP=ECCL_STOP|{'cattedrale','catedrale','collegiata','metropolitana','mon
  'camaldolesi','camandolesi','basiliani','premostratensi','bernabiti','riformati','osservanti','minori','parrochiale',
  'benedictine','coenobium','coenobio','monasterium','monasterii','territoriale','territorial',
  'citta','regno','diocesi','provincia','vicino','fuori','presso','dentro','sopra','sulla','sul','incontro','detta',
- 'della','delle','degli','alla','alle','nella','nell','stanze','cappella','portico','congregazione','madre','madri',
+ 'della','delle','degli','degl','dell','alla','alle','nella','nell','romano','romana','stanze','cappella','portico','congregazione','madre','madri',
  'chapel','shrine','sanctuary','cathedral','collegiate','monastery','convent','church','abbey','abbazia','parish',
  'santuario','indie','occidentali','maggiore','minore','nuova','nuovo','vecchia','vecchio'}
 def title_full(r):
