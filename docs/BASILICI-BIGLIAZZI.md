@@ -1,6 +1,6 @@
 # The Basilici–Bigliazzi database in the catalogue
 
-Generated 2026-09-15 by `scripts/report_basilici.py`; the row-level result is
+Generated 2026-10-28 by `scripts/report_basilici.py`; the row-level result is
 `data/basilici-in-catalogue.csv`, the database itself `data/basilici-bigliazzi-2025-db.json`.
 
 ## What it is
@@ -22,8 +22,8 @@ decree date and notes carried in the source's `notes`.
 |---|---|
 | in the database | 1,737 |
 | taken into the catalogue — *verificata: sì* and a real crowning (1st, 2nd or 3rd) | 1,420 |
-| — corroborating an image another source already attests | 498 |
-| — the only source of an image | 922 (909 images) |
+| — corroborating an image another source already attests | 499 |
+| — the only source of an image | 921 (908 images) |
 | left out — *incoronazione #* (uncertain, or a petition the Chapter refused) or *verificata: no* | 317 |
 
 Their `Autorizza` becomes the record's `evidence_type`: *Capitolo* and *Conte Sforza* →
@@ -39,19 +39,19 @@ and which are linked to their image by `parent_act` and not counted as re-crowni
 
 ## What they add
 
-909 images rest on their database alone (922 schede, an image crowned more than
+908 images rest on their database alone (921 schede, an image crowned more than
 once having a scheda per crowning). Those schede by century, authority and country:
 
 | Century | Schede |
 |---|---|
-| 1600s | 2 |
+| 1600s | 1 |
 | 1700s | 29 |
 | 1800s | 210 |
 | 1900s | 681 |
 
 | Authority (their `Autorizza`) | Schede |
 |---|---|
-| Capitolo | 538 |
+| Capitolo | 537 |
 | B.P | 357 |
 | # | 11 |
 | Papa Pio VII | 4 |
@@ -65,7 +65,7 @@ once having a scheda per crowning). Those schede by century, authority and count
 
 | Country (the twenty most frequent) | Schede |
 |---|---|
-| Italia | 411 |
+| Italia | 410 |
 | Spagna | 173 |
 | Francia | 108 |
 | Messico | 48 |
@@ -94,8 +94,8 @@ continuators. Every such image is `low`, and says in its notes what it rests on.
 
 ## Where the two disagree on the date
 
-Of the 498 schede that corroborate an image known from another source, the year agrees exactly
-in 401, is one off in 19, differs in 43, and cannot be compared in 35
+Of the 499 schede that corroborate an image known from another source, the year agrees exactly
+in 404, is one off in 17, differs in 43, and cannot be compared in 35
 (the other source gives no date). The 43 disagreements — a year or more apart — are kept
 as the sources give them, so such an image shows two dates; the first thirty:
 
@@ -125,7 +125,7 @@ as the sources give them, so such an image shows two dates; the first thirty:
 | Santa Maria della Civita — Itri | 20-7-1877 | 1777-07-20; 1877-07-20 (Briccolani) |
 | Santa Maria Addolorata — Napoli | 1-6-1881 | 1761-08-15; 1881-06-01; 1910-09-04 (AAS) |
 | Santa Maria di Costantinopoli — Acquaviva delle Fonti | 4-9-1881 | 1781-09-04; 1881-09-04 (Briccolani) |
-| Madonna della Strada — Roma | 14-6-1885 | 1638-08-14; 1885-06-14 (Briccolani) |
+| Madonna della Strada — Roma | 14-6-1885 | 1638-08-14; 1885-06-14 (Bombelli; Briccolani) |
 | Santa Maria della Provvidenza, Aiuto dei Cristiani — Napoli | 13-11-1887 | 1775-11-25; 1887-11-13; 1889-05-24 (Balzamo; Briccolani) |
 | Santa Maria Delle Grazie — Piano di Sorrento | 10-6-1888 | 1771-09-07; 1888-06-10 (Briccolani) |
 | Santa Maria della Natività o di Belmonte — Valperga | 17-8-1888 | 1788-08-17; 1888-08-17 (Balzamo; Briccolani; Zander/Magister) |
@@ -139,13 +139,13 @@ dell'incoronazione").
 
 ## Images they do not record
 
-218 of the catalogue's 1,578 images have no scheda. By evidence and by the series that attest them:
+216 of the catalogue's 1,576 images have no scheda. By evidence and by the series that attest them:
 
 | Strongest evidence | Images |
 |---|---|
 | `papal_coronation_act` | 86 |
 | `retrospective_attestation` | 56 |
-| `chapter_decree` | 48 |
+| `chapter_decree` | 46 |
 | `papal_personal_coronation` | 22 |
 | `papal_legate_deputation` | 4 |
 | `norms` | 2 |
@@ -153,7 +153,7 @@ dell'incoronazione").
 | Series | Images |
 |---|---|
 | AAS | 164 |
-| LIT | 42 |
+| LIT | 40 |
 | ACSP | 5 |
 | ASS | 4 |
 | AAS+LIT | 2 |
@@ -161,7 +161,7 @@ dell'incoronazione").
 
 | Country (the twelve most frequent) | Images |
 |---|---|
-| Italy | 74 |
+| Italy | 72 |
 | Poland | 62 |
 | Mexico | 13 |
 | Spain | 11 |

@@ -20,7 +20,7 @@ documented crowning.
 | [`data/attestations.json`](data/attestations.json) | The evidence layer — one record per *act* in ASS/AAS |
 | [`data/attestations-acsp.json`](data/attestations-acsp.json) | The evidence layer for the Chapter archive — one record per *dossier* in Madonne coronate IV |
 | [`data/attestations-lit.json`](data/attestations-lit.json) | Secondary literature — coronations *reported*, not read at first hand, each with the author's archival citation |
-| [`data/bombelli-1792-raccolta.json`](data/bombelli-1792-raccolta.json) | Transcription of Bombelli's 1792 *Raccolta*, tomi II–IV — 74 Roman images with the day of crowning, the crown's cost and the plate's caption |
+| [`data/bombelli-1792-raccolta.json`](data/bombelli-1792-raccolta.json) | Transcription of Bombelli's 1792 *Raccolta*, all four tomi — the 104 Roman images with the day of crowning, the crown's cost and the plate's caption |
 | [`data/briccolani-1800-serie.json`](data/briccolani-1800-serie.json) | Transcription of Briccolani's 1800 *Serie* — the earliest printed register, 256 entries 1631–1793 |
 | [`data/zander-magister-2011-catalogue.json`](data/zander-magister-2011-catalogue.json) | The 96 entries of the Zander/Magister 2011 catalogue, each with its dossier citation |
 | [`data/basilici-bigliazzi-2025-db.json`](data/basilici-bigliazzi-2025-db.json) | The Basilici–Bigliazzi database of 1,737 crownings, 1631–1981, as fetched; the 1,420 they vouch for are in the catalogue as LIT |
@@ -30,22 +30,22 @@ documented crowning.
 
 ## What is in it
 
-**1,578 crowned images** in **50 countries**, documented by **2,359 source citations**:
+**1,576 crowned images** in **50 countries**, documented by **2,390 source citations**:
 400 from **147,576 pages** of the two gazettes (ASS 1–41, 1865–1908; AAS 1–118, 1909–2026);
 34 from the **713 transcribed folios** of *Madonne coronate* IV — the Chapter's dossiers for
 34 images crowned between 1689 and 1716, only three of which the gazettes ever mention; and
-1,925 from **secondary literature** reporting coronations from volumes of the same archive that are
+1,956 from **secondary literature** reporting coronations from volumes of the same archive that are
 not online — 256 from Briccolani's register of 1800 (every Chapter coronation to 1791, by year),
-81 from Bombelli's *Raccolta* of 1792 (74 Roman images with the day of the crowning, and seven
+112 from Bombelli's *Raccolta* of 1792 (104 Roman images with the day of the crowning, and eight
 separate crowns for the Child), 107 from the Zander/Magister catalogue of 2011 (89 images with the day of crowning and the volume
 and folios of the dossier), 30 from Vrabelová 2013 on Central Europe 1717–1786, 31 from Balzamo
 2023 on Italy and Rome 1631–1798, and 1,420 from the Basilici–Bigliazzi database of 2025 — the
 schede they mark as verified crownings, 1631–1981, with the day of the crowning for nearly all.
 
-482 images are attested by more than one source — the most-cited is Savona's Nostra Signora della
-Misericordia, with nine. Crownings run from **1500 to 2005**, far earlier than the gazettes
-themselves, because a later act often recites when an image was first crowned. 1,213 images rest on
-secondary literature alone; **909 of them on the Basilici–Bigliazzi database and nothing else**,
+483 images are attested by more than one source — the most-cited, with nine each, are Savona's
+Nostra Signora della Misericordia, Guadalupe and the Madonna della Febbre in St Peter's. Crownings run from **1500 to 2005**, far earlier than the gazettes
+themselves, because a later act often recites when an image was first crowned. 1,211 images rest on
+secondary literature alone; **908 of them on the Basilici–Bigliazzi database and nothing else**,
 which is what a catalogue of the Chapter's practice after 1800 looks like while the archive's later
 volumes stay offline: leads, each marked `low`, each saying in its notes what it rests on.
 
@@ -53,7 +53,7 @@ By strongest evidence available for each image:
 
 | Type | Images |
 |---|---|
-| `chapter_decree` | 955 |
+| `chapter_decree` | 953 |
 | `papal_coronation_act` | 514 |
 | `retrospective_attestation` | 69 |
 | `papal_personal_coronation` | 34 |
@@ -92,7 +92,7 @@ An image crowned once may be mentioned in a dozen later acts. **Nossa Senhora da
 Aparecida** is recited in AAS 23 (1931), AAS 46 (1954) and AAS 59 (1967) — that is one image with
 three sources, not three crowned images. So each record here is an **image**, and every act
 attesting it is kept in that record's `sources` array. Nothing is discarded by consolidation:
-2,359 source citations sit inside 1,578 image records, and `data/attestations.json`,
+2,390 source citations sit inside 1,576 image records, and `data/attestations.json`,
 `data/attestations-acsp.json` and `data/attestations-lit.json` still hold the flat record-level
 layers if you want them.
 
@@ -216,7 +216,7 @@ dossiers) were **read at first hand** for this catalogue. **LIT** is different: 
 
 | Work | LIT records | What it is | Citation it carries |
 |---|---|---|---|
-| [Pietro **Bombelli**], *Raccolta delle immagini della Beatissima Vergine ornate della corona d'oro dal R.mo Capitolo di S. Pietro*, Rome 1792, tomi II–IV | 81 (74 images and 7 crowns for the Child) | One notice per crowned Roman image, facing an engraving: the day of the crowning, often the decree, the canons deputed, the cost of the crowns; the plate gives the support, the size and the year | none — 'le memorie dell'archivio', the *memoriali* and *atti capitolari*, no folio; confidence `low` |
+| [Pietro **Bombelli**], *Raccolta delle immagini della Beatissima Vergine ornate della corona d'oro dal R.mo Capitolo di S. Pietro*, Rome 1792, tomi I–IV | 112 (104 images and 8 crowns for the Child) | One notice per crowned Roman image, facing an engraving: the day of the crowning, often the decree, the canons deputed, the cost of the crowns; the plate gives the support, the size and the year | none — 'le memorie dell'archivio', the *memoriali* and *atti capitolari*, no folio; confidence `low` |
 | Vincenzo **Briccolani**, *Descrizione della sacrosanta Basilica Vaticana*, Rome 1800, pp. 144–161 | 256 | The earliest printed register: every Chapter coronation 1631–1791, year by year, Rome first and then all Italy and abroad | none — a year only; confidence `low` |
 | Pietro **Zander** and Sara **Magister**, *Full of Grace: Crowned Madonnas from the Vatican Basilica*, New Haven 2011 | 107 (96 entries; a reported re-crowning is a second record) | Catalogue of the Fabbrica's painted copies of 89 crowned images, with the day of crowning | *BAV, ACSP, Madonne Coronate, vol., cc.* for 83 of them, and the Fabbrica's *catalogo delle immagini* (AFSP, Arm. 12, F, 11, nr. 10) |
 | Dana **Vrabelová**, *Imago gratiosa*, Prague 2013, § XXI | 30 | Thirty Chapter coronations in Central Europe, 1717–1786 | *sv., fol.* for most |
@@ -225,8 +225,8 @@ dossiers) were **read at first hand** for this catalogue. **LIT** is different: 
 
 The Basilici–Bigliazzi rows are the fullest list of the practice there is and the only coverage
 here of the Chapter's and the briefs' coronations after 1800, but they are a compilation, not a
-reading of the archive: 909 images rest on them alone. [`docs/BASILICI-BIGLIAZZI.md`](docs/BASILICI-BIGLIAZZI.md)
-says what they add, which of their schede corroborate an image known from another source (498),
+reading of the archive: 908 images rest on them alone. [`docs/BASILICI-BIGLIAZZI.md`](docs/BASILICI-BIGLIAZZI.md)
+says what they add, which of their schede corroborate an image known from another source (499),
 and where their dates disagree with it (43); the 317 schede they themselves mark uncertain, refused
 or unverified are left out.
 
@@ -245,12 +245,12 @@ says 14 September, the letters say 8 September. Where Briccolani and a tomo IV d
 images), his year is the dossier's in all but three, and those are one year off (Bertinoro and
 Otranto a year early, Frascati a year late); where Zander/Magister meet
 a dossier or a gazette act (Otranto, Cuglieri, Narni, Bonaria) the day agrees exactly. Bombelli
-gives the day for fifty of his seventy-four Roman images, and where a tomo IV dossier covers the
+gives the day for seventy-seven of his hundred and four Roman images, and where a tomo IV dossier covers the
 same image the two fit: San Pantaleo's receipt is dated 25 March 1694 and so is his crowning; for
 San Marcello the dossier's decree is of 16 August 1694 and his ceremony of 17 April 1695, for San
 Lorenzo in Borgo decree 3 November and ceremony 6 December 1696. Against Briccolani his year agrees
-in 71 of 74; in the three that differ (the Vittoria, the Madonna del Sole, the Rosario of the
-Minerva) the caption engraved under his own plate sides with Briccolani against his notice. He and
+in 100 of 104; in the four that differ (the Vittoria, the Madonna del Sole, the Rosario of the
+Minerva, the Miracoli at the Popolo) the caption engraved under his own plate sides with Briccolani against his notice. He and
 Zander/Magister differ on the Madonna della Colonna (7 February against 1 January 1645), he and
 Balzamo on the Altemps chapel (15 against 12 April 1673). Secondary
 reports are valuable, but they are not the same kind of evidence.
