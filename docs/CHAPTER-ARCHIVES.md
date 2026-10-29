@@ -75,7 +75,7 @@ in the Baroque Period* (Prague, 2013; in Czech) worked directly in the fond and 
   e cronologico delle miracolose Imagini di Maria Vergine coronate dalla sacrosanta Basilica di
   S. Pietro in Vaticano* (1756) — a chronological list of every image crowned to that date. With
   Bombelli's printed *Raccolta delle immagini della Beatissima Vergine ornate della corona d'oro dal
-  Capitolo di S. Pietro* (Rome, 1792), these are the **canonical registers of the practice**; Bombelli's tomi II–IV are
+  Capitolo di S. Pietro* (Rome, 1792), these are the **canonical registers of the practice**; Bombelli's four tomi are
   now transcribed (below), Sindone's manuscript is not online.
 - Milestones she draws from the fond: the first ceremony under the Sforza rule, Michelangelo's
   *Pietà*, **31 August 1637**; first coronation outside Rome, the Madonna dei Laghi at Avigliana,
@@ -251,8 +251,8 @@ caption gives the support and size of the original (*in Tavola, Alta Pal. 4, Lar
 Tela*, *in Marmo*, *in Musaico*) and the year of the crowning. The notices are devotional, but they
 were written from the Basilica's papers — "dalle memorie dell'archivio della Basilica Vaticana", the
 *memoriali* "che si conservano nell'archivio del Capitolo", the *atti capitolari*, "MM.SS. del
-Capitolo" — and they give what no printed register gives: the **day** of the crowning (fifty of the
-seventy-four notices read), often the day of the petition or decree, the canons deputed to carry the
+Capitolo" — and they give what no printed register gives: the **day** of the crowning (seventy-seven of the
+hundred and four notices read), often the day of the petition or decree, the canons deputed to carry the
 crowns (Palagi and Ricci in the 1670s, Mattei and Ricci in the 1680s, Maffei and Casali in 1662), the
 **cost of the crowns** in scudi (sc. 65 at Porta Angelica in 1644, 213 at the Minerva, 564 for
 Michelangelo's *Pietà*), and the separate crown for the Child. The sixteen images of the *Appendice*
@@ -262,19 +262,42 @@ his own words, added "sebben non sieno coronate", and are not transcribed.
 Tomi II–IV are on the Internet Archive from the Google scans of the Biblioteca Nazionale Centrale di
 Roma (`bub_gb_JhP2LAUmGjUC`, `bub_gb_rHbfIRvNjxkC`, `bub_gb_9vADu01fhEAC`), with a rough OCR;
 **tomo I** — the first thirty images, among them the Febbre, the Monti, the Consolazione, the
-Sant'Agostino — has not been found online. The 74 notices of tomi II–IV are transcribed in
-`data/bombelli-1792-raccolta.json` (`scripts/transcribe_bombelli.py`), every date and figure checked
-against the page image and every plate caption read from the scan; they are in the catalogue as
-series **LIT**, confidence `low` (no folio), a Child's crown linked by `parent_act`. All 74 fall on an
-image Briccolani already lists, so what they add is the day, the decree, the cost and the plate.
+Sant'Agostino — is not on the Internet Archive, but Google Books holds two full-view copies, the
+Bibliothèque municipale de Lyon's (`z2YbxvI-MQEC`, 228 leaves) and the Österreichische
+Nationalbibliothek's (`0rleAAAAcAAJ`, 248 leaves), found on 15 September 2026 and harvested leaf
+by leaf into `pdf/` (the Books API is closed to anonymous callers and the PDF download refuses this
+address; the old Atom feed `google.com/books/feeds/volumes?q=` still searches, and the viewer's
+`jscmd=click3` endpoint gives signed page images). Google also has further copies of tomi II
+(`R2KcI3Y5c74C`, `6ZaS00lRWHMC`), III (`HQJnJ-ik1zgC`, `kV2gxqMTUFEC`, `10ocluQqK6wC`,
+`27leAAAAcAAJ`, `5rleAAAAcAAJ`) and IV (`7LleAAAAcAAJ`), useful where a plate is cut or faint in the
+BNCR scans. All 104 notices are transcribed in `data/bombelli-1792-raccolta.json`
+(`scripts/transcribe_bombelli.py`): tomi II–IV on 14 September 2026, every date and figure checked
+against the page image; tomo I on 28 October 2026, read from the Lyon page images, the nine plates
+the Lyon copy lacks (Monti, Grazie, Sant'Agostino, Via Lata, Pianto, Vallicella, Cosmedin, S. Maria
+Nuova, Liberatrice) read from the Vienna copy; every plate caption read from the
+scan. They are in the catalogue as series **LIT**, confidence `low` (no folio), a Child's crown
+linked by `parent_act`; tomo I follows tomo IV in the file (Bo75–Bo104), so the earlier numbers
+stand. All 104 fall on an image Briccolani already lists, so what they add is the day, the decree,
+the cost and the plate. Tomo I gives the day for twenty-seven of its thirty images; it names Count
+Alessandro Sforza himself as the donor of the first crowns (the Febbre, 27 August 1631, "la prima
+fatta coronare dal Conte Sforza ... anzi che si determinasse stabilire il pio legato", the Monti,
+the Consolazione, the Strada), and of its Child's crowns only S. Cosimato's is a separate occasion
+(5 January 1645); Briccolani's later crowns for the Child of the Febbre, the Pianto and the
+Miracoli go unmentioned. Bombelli tells the Miracoli at the Popolo and S. Giacomo degli Incurabili
+apart: the wall painting of the Tiber miracle is the one Cardinal Salviati took to S. Giacomo
+(crowned 1659), the canvas he left at the Popolo is the Miracoli (crowned 11 January 1646).
 Checked against the tomo IV dossiers the days fit (San Pantaleo's receipt of 25 March 1694 is his
 crowning day; San Marcello: decree 16 August 1694, crowned 17 April 1695). Against Briccolani the
-year agrees in 71 of 74, and in the three that differ — the Vittoria (notice 6 July 1635, plate
-1633), the Madonna del Sole (notice 18 May 1669, plate 1665) and the Rosario of the Minerva (notice
-28 August 1644, plate 1640) — the engraved caption sides with Briccolani against the notice, which
+year agrees in 100 of 104, and in the four that differ — the Vittoria (notice 6 July 1635, plate
+1633), the Madonna del Sole (notice 18 May 1669, plate 1665), the Rosario of the Minerva (notice
+28 August 1644, plate 1640) and the Miracoli at the Popolo (notice 11 January 1646, plate 1645) —
+the engraved caption sides with Briccolani against the notice, which
 suggests the captions were taken from the Chapter's register and the notices' dates from other
 papers. The Loreto dei Fornari is printed "1760" in a notice that otherwise sits in the 1660s (plate
 and Briccolani 1660); the plate of S. Lucia della Tinta was left with its year unfinished ("nel 16").
+Two tomo I plates disagree with notice and Briccolani alike: S. Maria Nuova (notice and Briccolani
+1662, plate 1677) and the Madonna del Sole of the Oratorio di S. Marcello (notice 7 December 1658,
+Briccolani 1658, plate 1655).
 
 Of the other repertories: Mazzolari's *Diario sagro* (3rd ed. 1819, vol. 3, pp. 112–116: 102 Roman
 images "trascritto da quello che si conserva nell'Archivio del Revmo Capitolo Vaticano") and

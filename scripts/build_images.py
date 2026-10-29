@@ -153,7 +153,7 @@ TITLE_STOP=ECCL_STOP|{'cattedrale','catedrale','collegiata','metropolitana','mon
  'camaldolesi','camandolesi','basiliani','premostratensi','bernabiti','riformati','osservanti','minori','parrochiale',
  'benedictine','coenobium','coenobio','monasterium','monasterii','territoriale','territorial',
  'citta','regno','diocesi','provincia','vicino','fuori','presso','dentro','sopra','sulla','sul','incontro','detta',
- 'della','delle','degli','alla','alle','nella','nell','stanze','cappella','portico','congregazione','madre','madri',
+ 'della','delle','degli','degl','dell','alla','alle','nella','nell','romano','romana','stanze','cappella','portico','congregazione','madre','madri',
  'chapel','shrine','sanctuary','cathedral','collegiate','monastery','convent','church','abbey','abbazia','parish',
  'santuario','indie','occidentali','maggiore','minore','nuova','nuovo','vecchia','vecchio'}
 def title_full(r):
@@ -330,6 +330,14 @@ for r in noloc:
 # is the identity. A false merge destroys a distinct image, a false split is merely a duplicate —
 # so this errs toward splitting.
 
+# Precedence between literature works that give different days in one year: the studies that cite the
+# Chapter's acts (Vrabelová, Zander/Magister, Balzamo), then Bombelli's notices drawn from its memorie,
+# then Briccolani's register, then the Basilici-Bigliazzi compilation from printed repertories.
+DATE_WORKS=['','ZV','Z','B','Bo','Br','BB']
+def date_order(x):
+    w=work(x)
+    return (x.get('series')=='LIT',-CONF.get(x.get('confidence'),0),
+            DATE_WORKS.index(w) if x.get('series')=='LIT' and w in DATE_WORKS else len(DATE_WORKS),str(x.get('act_number') or ''))
 def collapse_dates(dates):
     """One crowning reported at two precisions is ONE crowning. '1954' and '1954-08-29' are the
     same event, so keep only the most precise form for each year; distinct years remain distinct,
@@ -378,9 +386,10 @@ images=[];seen=collections.Counter()
 for g in clusters:
     g=sorted(g,key=lambda r:(r.get('year') or 9999,{'ACSP':0,'LIT':1,'ASS':2,'AAS':3}.get(r.get('series'),4),r.get('page') or 0))
     # a crown for the Child of an image already crowned (a register's 'Bambino Gesù' entry) is not a re-crowning of the image
-    # first-hand sources first, so that where two full dates fall in one year (Coromoto: the act's 12
-    # September 1952, Basilici-Bigliazzi's 11th) the one read at first hand is the one kept
-    cds=collapse_dates([x['coronation_date'] for x in sorted(g,key=lambda x:x.get('series')=='LIT') if x.get('coronation_date') and not x.get('parent_act')])
+    # where two full dates fall in one year the first in DATE_ORDER is kept: the one read at first hand
+    # (Coromoto: the act's 12 September 1952, Basilici-Bigliazzi's 11th), then the surer, then the work
+    # nearer the Chapter's papers (Consolazione: Bombelli's 7 December 1634, Basilici-Bigliazzi's 7 September)
+    cds=collapse_dates([x['coronation_date'] for x in sorted(g,key=date_order) if x.get('coronation_date') and not x.get('parent_act')])
     ev=sorted({x['evidence_type'] for x in g},key=lambda e:(-RANK.get(e,0),e))   # tie-break by name: set order is not stable across runs
     base=slug((best(g,'image_title_vernacular') or best(g,'image_title_latin') or 'image')+'-'+(best(g,'locality') or best(g,'country') or ''))
     seen[base]+=1; iid=base if seen[base]==1 else f'{base}-{seen[base]}'
