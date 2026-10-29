@@ -6,7 +6,7 @@
       "ASS": "https://www.vatican.va/archive/ass/index_it.htm",
       "AAS": "https://www.vatican.va/archive/aas/index_sp.htm"
     },
-    "generated": "2026-10-28",
+    "generated": "2026-10-29",
     "record_count": 1576,
     "layer": "attestations — one record per ACT that attests a crowning; see imagines-coronatae.json for one record per IMAGE",
     "coverage": {
@@ -62917,7 +62917,7 @@
           "rubric_latin": "La Madonna della Traspontina",
           "incipit_latin": "Dalle memorie dell'archivio della Basilica Vaticana rilevo che l'anno 1641. il P. Teodoro Straccio Maestro Generale de' Carmelitani fece istanza per la corona ... a 15. giugno 1641. seguì l'offerta della corona valutata Sc. 104. 50. Successivamente nell'aprile del 1651. il S. Bambino fu fregiato della medesima del valore di scudi 34.",
           "confidence": "low",
-          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 3 x 2, crowned 1651. Crown cost sc. 104.50 (Mother); 34 (Child). The plate reads 1651, the year of the Child's crown. The memoriale 'si conserva nell'archivio del Capitolo'.",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tavola, pal. 3 x 2, crowned 1651. Crown cost sc. 104.50 (Mother); 34 (Child). The plate reads 1651, the year of the Child's crown. The memoriale 'si conserva nell'archivio del Capitolo'. Basilici-Bigliazzi 2025 give 15 July 1641 (decree 3 March 1641); the month here is printed in full ('giugno'), and Bombelli's day, that of the offering of the crown, is kept.",
           "parent_act": null
         },
         {
@@ -64288,7 +64288,7 @@
           "rubric_latin": "Madonna nella Chiesa delle Monache Teresiane alle quattro Fontane",
           "incipit_latin": "nel 1638 il giorno sedici settembre il pio Istitutore delle corone il Conte Alessandro volle fregiare questa divota effigie di ricca corona, che oltrapassa il peso di dieci once.",
           "confidence": "low",
-          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 14 x 7, crowned 1638. Crowned by Count Sforza himself; the crown weighed over ten ounces.",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in tela, pal. 14 x 7, crowned 1638. Crowned by Count Sforza himself; the crown weighed over ten ounces. Basilici-Bigliazzi 2025 give 16 December 1638; the month here is printed in full ('settembre'), and Bombelli's day is kept.",
           "parent_act": null
         },
         {
@@ -64833,7 +64833,7 @@
           "rubric_latin": "Madonna nella Chiesa della SS. Trinità de' Pellegrini",
           "incipit_latin": "Il Capitolo Vaticano le destinò la Corona, di cui fu fregiata a' 21. Giugno 1654.",
           "confidence": "low",
-          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3 x 2, crowned 1654.",
+          "notes": "Reported by Bombelli 1792 (notice with the day of the crowning, drawn from the Chapter's memorie and atti but citing no folio), not read at first hand. The plate's caption: in muro, pal. 3 x 2, crowned 1654. Basilici-Bigliazzi 2025 give 21 July 1654 (decree 1 September 1653); the month here is printed in full ('Giugno'), and Bombelli's day is kept.",
           "parent_act": null
         },
         {
